@@ -1,7 +1,7 @@
 import React from 'react';
-import { BlogPostTemplate } from '../../templates/blog-post';
+import { BlogPostTemplate } from '../../templates/review-post';
 
-const BlogPostPreview = ({ entry, widgetFor }) => (
+const ReviewPreview = ({ entry, widgetFor }) => (
   <BlogPostTemplate
     content={widgetFor('body')}
     description={entry.getIn(['data', 'description'])}
@@ -9,4 +9,4 @@ const BlogPostPreview = ({ entry, widgetFor }) => (
   />
 );
 
-export default BlogPostPreview;
+export default ReviewPreview;

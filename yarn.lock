@@ -3632,6 +3632,13 @@ gatsby-cli@^1.1.28:
     yargs "^8.0.2"
     yurnalist "^0.2.1"
 
+gatsby-image@^1.0.37:
+  version "1.0.37"
+  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-1.0.37.tgz#c3b2dc7d843cab078b516729d6f92f9785f31210"
+  dependencies:
+    babel-runtime "^6.26.0"
+    prop-types "^15.6.0"
+
 gatsby-link@^1.6.21, gatsby-link@^1.6.34:
   version "1.6.34"
   resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.34.tgz#c1ce57cfcb2f693128b2a7d0eff3dde0c6cefec4"
@@ -3748,9 +3755,9 @@ gatsby-transformer-remark@^1.7.17:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.1.1"
 
-gatsby-transformer-sharp@^1.6.13:
-  version "1.6.16"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-1.6.16.tgz#16464dcfbb2099f49805b2e244da0b3fea63b88e"
+gatsby-transformer-sharp@^1.6.19:
+  version "1.6.19"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-1.6.19.tgz#56bd464a1bc9cfa0511a12c4d121e0478193761c"
   dependencies:
     babel-runtime "^6.26.0"
     bluebird "^3.5.0"
