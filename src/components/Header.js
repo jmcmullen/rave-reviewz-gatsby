@@ -3,7 +3,11 @@ import Img from 'gatsby-image';
 
 const Header = props => (
   <header className="header">
-    <Img alt={props.alt} sizes={props.headerImage.sizes} />
+    <Img
+      className="header-img"
+      alt={props.alt}
+      sizes={props.image.childImageSharp.sizes}
+    />
   </header>
 );
 

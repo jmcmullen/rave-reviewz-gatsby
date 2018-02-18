@@ -5,7 +5,7 @@ import Header from '../components/Header';
 import Img from 'gatsby-image';
 import Content, { HTMLContent } from '../components/Content';
 
-export const InterviewPostTemplate = ({
+export const ReviewPostTemplate = ({
   content,
   contentComponent,
   description,
@@ -16,7 +16,7 @@ export const InterviewPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section interview-post">
+    <section className="section">
       {helmet || ''}
       <Header alt={title} image={featuredImage} />
       <div className="container content">
@@ -37,7 +37,7 @@ export default ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <InterviewPostTemplate
+    <ReviewPostTemplate
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
@@ -49,7 +49,7 @@ export default ({ data }) => {
 };
 
 export const pageQuery = graphql`
-  query InterviewPostByPath($path: String!) {
+  query ReviewPostByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {

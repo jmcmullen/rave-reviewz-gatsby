@@ -33,6 +33,11 @@ $primary-invert: $kaldi-red-invert
 .content
   font-family: 'Noto Serif', serif;
 
+  .column
+    img
+      margin: 2rem auto;
+      display: block;
+
 .feature-image
   position: relative;
   padding: 25vh 10%;
@@ -40,6 +45,46 @@ $primary-invert: $kaldi-red-invert
   width: 100vw;
   box-sizing: border-box;
   box-shadow: 0 -1px 10px rgba(0, 0, 0, .7);
+
+section.section
+  padding: 0;
+  
+  &.interview-post,
+  &.review-post
+    padding-bottom: 5rem;
+
+.header
+  width: 100%;
+  max-height: 100vh;
+  overflow: hidden;
+  margin-bottom: 3rem;
+
+.header-img
+  width: 100%;
+
+.interviews,
+.reviews
+  margin-top: 3rem;
+
+.img-preview
+  margin-bottom: 3rem;
+  width: 320px;
+  height: 320px;
+
+.interview-preview,
+.review-preview
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 2rem 0;
+
+  .text
+    padding: 1rem 2rem 0;
+
+  a
+    font-size: 1.5rem;
+
+  p
+    font-size: 1rem;
 
 @import "~bulma"
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif');
