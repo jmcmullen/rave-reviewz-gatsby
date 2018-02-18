@@ -6,7 +6,7 @@ date: 2018-02-14T13:55:45.940Z
 description: >
   We spoke to brand boss Jimmy Galvin before their sunset cruise this Saturday
   with the talented Francesca Lombardo. 
-featuredImage: /../../img/jimmy-galvin.jpg
+featuredImage: "../../img/jimmy-galvin.jpg"
 ---
 
 RR: Jimmy! Good to chat - we’re hyped for the Francesca Lombardo boat party this weekend. What do you think we can expect from her set?
