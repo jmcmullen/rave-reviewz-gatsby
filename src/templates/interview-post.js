@@ -63,7 +63,7 @@ export default ({ data }) => {
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
-      helmet={<Helmet title={`Blog | ${post.frontmatter.title}`} />}
+      helmet={<Helmet title={`Rave Reviewz: ${post.frontmatter.title}`} />}
       title={post.frontmatter.title}
       featuredImage={post.frontmatter.featuredImage}
       path={post.frontmatter.path}
