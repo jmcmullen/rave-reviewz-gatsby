@@ -46,10 +46,7 @@ export const ReviewPostTemplate = ({
             </h1>
             <PostContent content={content} />
             <FacebookProvider className="fb-comments" appId="1994812974114706">
-              <Comments
-                href={`http://www.ravereviewz.net.au/${path}`}
-                width="100%"
-              />
+              <Comments href={url} width="100%" />
             </FacebookProvider>
           </div>
         </div>
