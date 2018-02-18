@@ -2,15 +2,15 @@
 templateKey: interview-post
 path: interview/supernova-we-love
 title: Supernova @ WeLove
-date: 2018-02-18T13:38:40.660Z
+date: 2018-02-16T13:38:40.660Z
 description: >
   We had a chat with the Italian duo and stalwarts on the European underground
   scene for over a decade, Supernova in preparation for tonight’s WeLove party
   with Simone Liberali.
-featuredImage: "../../img/loco-jam.jpg"
+featuredImage: "../../img/supernova.jpg"
 ---
 
-_Under the moniker of _[_**Supernova**_](https://www.facebook.com/supernovaitaly/)_, Emiliano Nencioni and Giacomo Godi have been stalwarts on the European underground scene for over a decade. We had a chat with the Italian duo in preparation for tonight’s WeLove party with Simone Liberali..._
+_Under the moniker of [**Supernova**](https://www.facebook.com/supernovaitaly/), Emiliano Nencioni and Giacomo Godi have been stalwarts on the European underground scene for over a decade. We had a chat with the Italian duo in preparation for tonight’s WeLove party with Simone Liberali..._
 
 **RR:** Emiliano, Giacomo – great to chat. We’re really looking forward to tonight, what can we expect from your set?
 
