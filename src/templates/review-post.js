@@ -16,6 +16,23 @@ export const ReviewPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
+  const url = `http://www.ravereviewz.net.au/${path}`;
+
+  const meta = [
+    { name: 'description', content: description },
+    { property: 'og:type', content: 'article' },
+    { property: 'og:url', content: url },
+    { property: 'og:image', content: featuredImage.childImageSharp.sizes[0] },
+    { property: 'og:title', content: title },
+    { property: 'og:description', content: description },
+    { name: 'twitter:card', content: 'summary' },
+    {
+      name: 'twitter:image:src',
+      content: featuredImage.childImageSharp.sizes[0],
+    },
+    { name: 'twitter:title', content: title },
+    { name: 'twitter:description', content: description },
+  ];
 
   return (
     <section className="section">

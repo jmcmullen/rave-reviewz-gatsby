@@ -16,19 +16,20 @@ export const InterviewPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
+  const url = `http://www.ravereviewz.net.au/${path}`;
 
   const meta = [
     { name: 'description', content: description },
-
-    // facebook
     { property: 'og:type', content: 'article' },
     { property: 'og:url', content: url },
-    { property: 'og:image', content: image },
+    { property: 'og:image', content: featuredImage.childImageSharp.sizes[0] },
     { property: 'og:title', content: title },
     { property: 'og:description', content: description },
-    // twitter
     { name: 'twitter:card', content: 'summary' },
-    { name: 'twitter:image:src', content: image },
+    {
+      name: 'twitter:image:src',
+      content: featuredImage.childImageSharp.sizes[0],
+    },
     { name: 'twitter:title', content: title },
     { name: 'twitter:description', content: description },
   ];
@@ -45,10 +46,7 @@ export const InterviewPostTemplate = ({
             </h1>
             <PostContent content={content} />
             <FacebookProvider className="fb-comments" appId="1994812974114706">
-              <Comments
-                href={`http://www.ravereviewz.net.au/${path}`}
-                width="100%"
-              />
+              <Comments href={url} width="100%" />
             </FacebookProvider>
           </div>
         </div>
