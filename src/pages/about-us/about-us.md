@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /about
+path: /about-us
 title: About Rave Reviewz
 ---
 
