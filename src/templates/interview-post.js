@@ -17,6 +17,22 @@ export const InterviewPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
 
+  const meta = [
+    { name: 'description', content: description },
+
+    // facebook
+    { property: 'og:type', content: 'article' },
+    { property: 'og:url', content: url },
+    { property: 'og:image', content: image },
+    { property: 'og:title', content: title },
+    { property: 'og:description', content: description },
+    // twitter
+    { name: 'twitter:card', content: 'summary' },
+    { name: 'twitter:image:src', content: image },
+    { name: 'twitter:title', content: title },
+    { name: 'twitter:description', content: description },
+  ];
+
   return (
     <section className="section interview-post">
       {helmet || ''}
@@ -30,7 +46,7 @@ export const InterviewPostTemplate = ({
             <PostContent content={content} />
             <FacebookProvider className="fb-comments" appId="1994812974114706">
               <Comments
-                href={`http://www.ravereviewz.net/${path}`}
+                href={`http://www.ravereviewz.net.au/${path}`}
                 width="100%"
               />
             </FacebookProvider>
