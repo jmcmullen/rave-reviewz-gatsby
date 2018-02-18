@@ -9,7 +9,7 @@ export const InterviewPostTemplate = ({
   content,
   contentComponent,
   description,
-  headerImage,
+  featuredImage,
   title,
   helmet,
 }) => {
@@ -18,8 +18,7 @@ export const InterviewPostTemplate = ({
   return (
     <section className="section">
       {helmet || ''}
-      <pre>{headerImage}</pre>
-      {/* <Header headerImage={headerImage} /> */}
+      <Img sizes={featuredImage.childImageSharp.sizes} />
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -44,6 +43,7 @@ export default ({ data }) => {
       description={post.frontmatter.description}
       helmet={<Helmet title={`Blog | ${post.frontmatter.title}`} />}
       title={post.frontmatter.title}
+      featuredImage={post.frontmatter.featuredImage}
     />
   );
 };
@@ -57,11 +57,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        featureImage {
+        featuredImage {
           childImageSharp {
-            resize(width: 1500, height: 1500) {
-              src
-            }
             sizes(maxWidth: 1240) {
               ...GatsbyImageSharpSizes
             }
