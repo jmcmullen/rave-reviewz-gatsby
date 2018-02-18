@@ -35,11 +35,7 @@ export default class ReviewsPage extends React.Component {
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'review-post')
             .map(({ node: post }) => (
-              <div
-                className="content review-preview"
-                style={{ border: '1px solid #eaecee' }}
-                key={post.id}
-              >
+              <div className="content review-preview" key={post.id}>
                 <Img
                   className="img-preview"
                   alt={post.frontmatter.title}

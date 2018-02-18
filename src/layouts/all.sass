@@ -1,4 +1,6 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import "~bulma"
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 
 // Config
 $kaldi-red: #FD461E
@@ -30,6 +32,14 @@ $primary-invert: $kaldi-red-invert
   &:hover
     color: white;
 
+  @include mobile
+    display: none;
+
+.navbar
+  @include mobile
+    .container
+      padding: 0;
+
 .content
   font-family: 'Noto Serif', serif;
 
@@ -48,6 +58,9 @@ $primary-invert: $kaldi-red-invert
 
 section.section
   padding: 0;
+
+  .columns
+    margin: 0;
   
   &.interview-post,
   &.review-post
@@ -71,24 +84,38 @@ section.section
   width: 320px;
   height: 320px;
 
+  @include mobile
+    width: 100%;
+    height: 200px;
+
 .interview-preview,
 .review-preview
   display: flex;
   justify-content: space-between;
   padding: 2rem 2rem 0;
+  border: 1px solid #eaecee;
 
   .text
-    padding: 1rem 2rem 0;
+    @include tablet
+      padding: 1rem 2rem 0;
 
   a
     font-size: 1.5rem;
 
   p
     font-size: 1rem;
+  
+  @include mobile
+    display: block;
+    padding: 0;
+    border: none;
 
 .fb_iframe_widget iframe
   margin: 4rem 0;
 
-@import "~bulma"
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+a.navbar-item:hover, a.navbar-item.is-active, a.navbar-link:hover, a.navbar-link.is-active
+  background: transparent;
 
+.container
+  @include mobile
+    padding: 15px;

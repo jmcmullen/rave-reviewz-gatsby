@@ -39,11 +39,7 @@ export default class InterviewsPage extends React.Component {
               post => post.node.frontmatter.templateKey === 'interview-post'
             )
             .map(({ node: post }) => (
-              <div
-                className="content interview-preview"
-                style={{ border: '1px solid #eaecee' }}
-                key={post.id}
-              >
+              <div className="content interview-preview" key={post.id}>
                 <Img
                   className="img-preview"
                   alt={post.frontmatter.title}
