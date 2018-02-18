@@ -3,6 +3,7 @@ import graphql from 'graphql';
 import Helmet from 'react-helmet';
 import Header from '../components/Header';
 import Img from 'gatsby-image';
+import FacebookProvider, { Comments } from 'react-facebook';
 import Content, { HTMLContent } from '../components/Content';
 
 export const InterviewPostTemplate = ({
@@ -11,6 +12,7 @@ export const InterviewPostTemplate = ({
   description,
   featuredImage,
   title,
+  path,
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
@@ -26,6 +28,12 @@ export const InterviewPostTemplate = ({
               {title}
             </h1>
             <PostContent content={content} />
+            <FacebookProvider className="fb-comments" appId="1994812974114706">
+              <Comments
+                href={`http://www.ravereviewz.net/${path}`}
+                width="100%"
+              />
+            </FacebookProvider>
           </div>
         </div>
       </div>
@@ -44,6 +52,7 @@ export default ({ data }) => {
       helmet={<Helmet title={`Blog | ${post.frontmatter.title}`} />}
       title={post.frontmatter.title}
       featuredImage={post.frontmatter.featuredImage}
+      path={post.frontmatter.path}
     />
   );
 };

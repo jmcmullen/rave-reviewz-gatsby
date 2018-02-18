@@ -22,18 +22,20 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <section className="section">
+      <section className="section interviews">
         <Script
           url="https://identity.netlify.com/v1/netlify-identity-widget.js"
           onLoad={() => this.handleScriptLoad()}
         />
         <div className="container">
           <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+            <h1 className="has-text-weight-bold is-size-2">Latest articles</h1>
           </div>
           {posts
             .filter(
-              post => post.node.frontmatter.templateKey === 'interview-post'
+              post =>
+                post.node.frontmatter.templateKey === 'interview-post' ||
+                post.node.frontmatter.templateKey === 'review-post'
             )
             .map(({ node: post }) => (
               <div
