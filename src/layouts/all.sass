@@ -89,7 +89,8 @@ section.section
     height: 200px;
 
 .interview-preview,
-.review-preview
+.review-preview,
+.post-preview
   display: flex;
   justify-content: space-between;
   padding: 2rem 2rem 0;
@@ -105,11 +106,12 @@ section.section
   p
     font-size: 1rem;
 
-  .has-text-primary
+  .post-link
     color: #702077
 
-  a.has-text-primary:focus, a.has-text-primary:hover
-    color: #9c5b9d !important
+    &:focus,
+    &:hover
+      color: #9c5b9d
   
   @include mobile
     display: block;
@@ -119,7 +121,10 @@ section.section
 .fb_iframe_widget iframe
   margin: 4rem 0;
 
-a.navbar-item:hover, a.navbar-item.is-active, a.navbar-link:hover, a.navbar-link.is-active
+a.navbar-item:hover, 
+a.navbar-item.is-active, 
+a.navbar-link:hover, 
+a.navbar-link.is-active
   background: transparent;
 
 .container

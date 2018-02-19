@@ -38,9 +38,9 @@ export default class IndexPage extends React.Component {
                 post.node.frontmatter.templateKey === 'review-post'
             )
             .map(({ node: post }) => (
-              <div className="content" key={post.id}>
+              <div className="content post-preview" key={post.id}>
                 <p>
-                  <Link className="has-text-primary" to={post.frontmatter.path}>
+                  <Link className="post-link" to={post.frontmatter.path}>
                     {post.frontmatter.title}
                   </Link>
                   <span> &bull; </span>

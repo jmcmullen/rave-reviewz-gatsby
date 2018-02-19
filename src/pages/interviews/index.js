@@ -38,38 +38,38 @@ export default class InterviewsPage extends React.Component {
             .filter(
               post => post.node.frontmatter.templateKey === 'interview-post'
             )
-            .map(({ node: post }) => (
-              <div className="content interview-preview" key={post.id}>
-                <Img
-                  className="img-preview"
-                  alt={post.frontmatter.title}
-                  sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
-                />
-                <div className="text">
-                  <p>
-                    <Link
-                      className="has-text-primary"
-                      to={post.frontmatter.path}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <br />
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.excerpt}
-                    <br />
-                    <br />
-                    <Link
-                      className="button is-small"
-                      to={post.frontmatter.path}
-                    >
-                      Keep Reading →
-                    </Link>
-                  </p>
+            .map(({ node: post }) => {
+              console.log(post);
+              return (
+                <div className="content interview-preview" key={post.id}>
+                  <Img
+                    className="img-preview"
+                    alt={post.frontmatter.title}
+                    sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
+                  />
+                  <div className="text">
+                    <p>
+                      <Link className="post-link" to={post.frontmatter.path}>
+                        {post.frontmatter.title}
+                      </Link>
+                      <br />
+                      <small>{post.frontmatter.date}</small>
+                    </p>
+                    <p>
+                      {post.excerpt}
+                      <br />
+                      <br />
+                      <Link
+                        className="button is-small"
+                        to={post.frontmatter.path}
+                      >
+                        Keep Reading →
+                      </Link>
+                    </p>
+                  </div>
                 </div>
-              </div>
-            ))}
+              );
+            })}
         </div>
       </section>
     );

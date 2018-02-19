@@ -11,12 +11,10 @@ exports.onCreateNode = ({
     const { featuredImage } = frontmatter;
     if (featuredImage) {
       if (featuredImage.indexOf('/img') === 0) {
-        console.log(`!!!!!`, node.fileAbsolutePath, `@`, __dirname);
         frontmatter.featuredImage = path.relative(
           path.dirname(node.fileAbsolutePath),
           path.join(__dirname, '/public/', featuredImage)
         );
-        console.log(frontmatter.featuredImage);
       }
     }
   }
@@ -44,45 +42,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               image
               heading
               description
-              intro {
-                blurbs {
-                  image
-                  text
-                }
-                heading
-                description
-              }
-              main {
-                heading
-                description
-                image1 {
-                  alt
-                  image
-                }
-                image2 {
-                  alt
-                  image
-                }
-                image3 {
-                  alt
-                  image
-                }
-              }
-              testimonials {
-                author
-                quote
-              }
-              full_image
-              pricing {
-                heading
-                description
-                plans {
-                  description
-                  items
-                  plan
-                  price
-                }
-              }
+              featuredImage
             }
           }
         }

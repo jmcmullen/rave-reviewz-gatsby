@@ -3,7 +3,7 @@ import 'netlify-cms/dist/cms.css';
 
 import AboutPagePreview from './preview-templates/AboutPagePreview';
 import InterviewPostPreview from './preview-templates/InterviewPostPreview';
-import ReviewPostPreview from './preview-templates/ProductPagePreview';
+import ReviewPostPreview from './preview-templates/ReviewPostPreview';
 
 CMS.registerPreviewStyle('/styles.css');
 CMS.registerPreviewTemplate('about', AboutPagePreview);

@@ -43,10 +43,7 @@ export default class ReviewsPage extends React.Component {
                 />
                 <div className="text">
                   <p>
-                    <Link
-                      className="has-text-primary"
-                      to={post.frontmatter.path}
-                    >
+                    <Link className="post-link" to={post.frontmatter.path}>
                       {post.frontmatter.title}
                     </Link>
                     <br />
