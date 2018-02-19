@@ -10,7 +10,7 @@ description: >-
   fellow pioneer, Laurent Garnier. 
 featuredImage: /img/scan-x.jpg
 ---
-_In preparation for his performance on Saturday at _[_Tell No Tales_](https://www.facebook.com/tellnotalesau)_, we had a chat with lauded French techno DJ and composer, **Stéphane Dri AKA **_[_**Scan X**_](https://www.facebook.com/scanxmusic/)_ about his live performances, longevity in the game and production partnership with fellow pioneer, Laurent Garnier._
+_In preparation for his performance on Saturday at _[_Tell No Tales_](https://www.facebook.com/tellnotalesau)_, we had a chat with lauded French techno DJ and composer, **Stéphane Dri AKA [Scan X](https://www.facebook.com/scanxmusic/)** about his live performances, longevity in the game and production partnership with fellow pioneer, Laurent Garnier._
 
 RR: Scan X! We’re excited for your set at Tell No Tales - what can we expect from it?
 
