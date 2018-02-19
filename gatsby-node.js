@@ -1,4 +1,26 @@
-const path = require("path");
+const path = require('path');
+
+exports.onCreateNode = ({
+  node,
+  getNode,
+  loadNodeContent,
+  boundActionCreators,
+}) => {
+  const { frontmatter } = node;
+  if (frontmatter) {
+    const { featuredImage } = frontmatter;
+    if (featuredImage) {
+      if (featuredImage.indexOf('/img') === 0) {
+        console.log(`!!!!!`, node.fileAbsolutePath, `@`, __dirname);
+        frontmatter.featuredImage = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/public/', featuredImage)
+        );
+        console.log(frontmatter.featuredImage);
+      }
+    }
+  }
+};
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -81,8 +103,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         ),
         // additional data can be passed via context
         context: {
-          path: pagePath
-        }
+          path: pagePath,
+        },
       });
     });
   });

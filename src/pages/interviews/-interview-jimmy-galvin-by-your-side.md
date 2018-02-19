@@ -6,8 +6,9 @@ date: 2018-02-14T13:55:45.940Z
 description: >
   We spoke to brand boss Jimmy Galvin before their sunset cruise this Saturday
   with the talented Francesca Lombardo. 
-featuredImage: ../../img/jimmy-galvin.jpg
+featuredImage: "/img/jimmy-galvin.jpg"
 ---
+
 **RR:** Jimmy! Good to chat - we’re hyped for the Francesca Lombardo boat party this weekend. What do you think we can expect from her set?
 
 **Jimmy:** Thanks for having me. I think you can expect her to put a tasteful and professional show on. Anyone that’s ever watched and listened to Francesca play walks away from her sets feeling fulfilled and appreciative. In terms of her selections? I really can’t say, she’s such a versatile deejay - which makes this Saturday’s cruise so exciting.
@@ -30,7 +31,6 @@ featuredImage: ../../img/jimmy-galvin.jpg
 **RR:** And what have been the biggest challenges you’ve faced along the way?
 
 **Jimmy:** Being patient is always a challenge. You want your brand to be recognized, inviting and respected by music lovers – but you cannot expect that to happen overnight, which is something we try to enforce on ourselves. Also just juggling my time is always tough - I’ve got a full time job whilst running BYS so there’s a lot of stupidly late nights, which is all part of it. I’m very lucky to have worked with Sean Condell, Tanu Tams & Al Kay in recent years who have been immense in their efforts in supporting BYS, and growing us as a brand. A special mention and thanks to my girlfriend Jessie for being woken up with a lot of music and shenanigans at odd hours, and for her support with every challenge big or small that BYS has had along the way.
-
 
 **RR:** As a DJ, you’ve played all over the shop and supported some world class acts. What would you say has been the most memorable set you’ve played?
 
