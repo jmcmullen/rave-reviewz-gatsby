@@ -32,16 +32,16 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "src/pages/about-us/about-us.md"
-        label: "About Us"
-        name: "about-is"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Path", name: "path", widget: "hidden", default: "/about"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+  # - name: "pages"
+  #   label: "Pages"
+  #   files:
+  #     - file: "src/pages/about-us/about-us.md"
+  #       label: "About Us"
+  #       name: "about-is"
+  #       fields:
+  #         - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+  #         - {label: "Path", name: "path", widget: "hidden", default: "/about"}
+  #         - {label: "Title", name: "title", widget: "string"}
+  #         - {label: "Body", name: "body", widget: "markdown"}
 
           
