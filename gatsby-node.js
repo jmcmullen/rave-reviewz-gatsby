@@ -13,7 +13,7 @@ exports.onCreateNode = ({
       if (featuredImage.indexOf('/img') === 0) {
         frontmatter.featuredImage = path.relative(
           path.dirname(node.fileAbsolutePath),
-          path.join(__dirname, '/public/', featuredImage)
+          path.join(__dirname, '/static/', featuredImage)
         );
       }
     }
