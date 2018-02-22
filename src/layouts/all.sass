@@ -1,6 +1,5 @@
 @import "~bulma/sass/utilities/initial-variables"
 @import "~bulma"
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 
 // Config
 $kaldi-red: #FD461E
@@ -26,19 +25,55 @@ $primary-invert: $kaldi-red-invert
 .margin-top-0
   margin-top: 0 !important
 
-.navbar-end .navbar-item
-  color: white;
+.navbar-end 
+  margin-left: 0;
+  
+  .navbar-item
+    color: white;
+
+    &:not(.mobile-menu)
+      @include mobile
+        display: none;
+
+    &.mobile-menu
+      float: right;
+      margin-top: -50px;
+      @include tablet
+        display: none;
+
+      img
+        width: 35px;
+        height: 50px;
 
   &:hover
     color: white;
-
-  @include mobile
-    display: none;
 
 .navbar
   @include mobile
     .container
       padding: 0;
+
+.bm-menu
+  background-color: white;
+  background-image: url(../img/nav-bg.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  padding-top: 70px;
+
+.bm-burger-button
+  display: none;
+
+.menu-item
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: black;
+  padding: .3rem 2rem;
+
+.menu-icon
+  padding: 10px;
+  vertical-align: sub;
 
 .content
   font-family: 'Noto Serif', serif;
@@ -126,6 +161,7 @@ a.navbar-item.is-active,
 a.navbar-link:hover, 
 a.navbar-link.is-active
   background: transparent;
+  color: lightgrey;
 
 .container
   @include mobile

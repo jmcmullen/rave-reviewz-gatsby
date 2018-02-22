@@ -10,6 +10,14 @@ const TemplateWrapper = ({ children }) => (
     <Helmet title="Home | Gatsby + Netlify CMS" />
     <Navbar />
     <div>{children()}</div>
+    <link
+      href="https://fonts.googleapis.com/css?family=Noto+Serif"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Oswald:400,700"
+      rel="stylesheet"
+    />
   </div>
 );
 
