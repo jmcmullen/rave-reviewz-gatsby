@@ -32,13 +32,13 @@ $primary-invert: $kaldi-red-invert
     color: white;
 
     &:not(.mobile-menu)
-      @include mobile
+      @include touch
         display: none;
 
     &.mobile-menu
       float: right;
       margin-top: -50px;
-      @include tablet
+      @include desktop
         display: none;
 
       img
@@ -49,7 +49,7 @@ $primary-invert: $kaldi-red-invert
     color: white;
 
 .navbar
-  @include mobile
+  @include touch
     .container
       padding: 0;
 
