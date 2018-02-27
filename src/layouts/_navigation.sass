@@ -1,0 +1,56 @@
+.navbar-end 
+  margin-left: 0;
+  
+  .navbar-item
+    color: white;
+
+    &:not(.mobile-menu)
+      @include touch
+        display: none;
+
+    &.mobile-menu
+      float: right;
+      margin-top: -50px;
+      @include desktop
+        display: none;
+
+      img
+        width: 35px;
+        height: 50px;
+
+  &:hover
+    color: white;
+
+.navbar
+  @include touch
+    .container
+      padding: 0;
+
+.bm-menu
+  background-color: white;
+  background-image: url(../img/nav-bg.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  padding-top: 70px;
+
+.bm-burger-button
+  display: none;
+
+.menu-item
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: black;
+  padding: .3rem 2rem;
+
+.menu-icon
+  padding: 10px;
+  vertical-align: sub;
+
+a.navbar-item:hover, 
+a.navbar-item.is-active, 
+a.navbar-link:hover, 
+a.navbar-link.is-active
+  background: transparent;
+  color: lightgrey;

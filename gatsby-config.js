@@ -33,5 +33,12 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-nprogress',
+      options: {
+        color: '#9c5b9d',
+        showSpinner: false,
+      },
+    },
   ],
 };

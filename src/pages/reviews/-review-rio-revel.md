@@ -17,7 +17,7 @@ A cheer signalled the arrival of the main man [Hernan Cattaneo](https://www.face
 
 As minutes turned to hours and day turned to night, the biggest surprise came in the form of co-headliner [Guy Mantzur](https://www.facebook.com/GuyMantzur.official/), joining Hernan for an impromptu B2B in the final hour. The energy between them was palpable and indicative of two close friends in musical synergy - a fitting end to Hernan’s high calibre prog set.
 
-![](https://puu.sh/zqd01/2887b208bf.png)
+[fb:583865018631185]
 
 Next up, [Andy Ef](https://www.facebook.com/theandyef/) and Rio boss [Ricky Cooper](https://www.facebook.com/richard.cooper.5249) dropped infectious beats in the courtyard before passing the baton to special guest and [Burning Man](https://www.facebook.com/burningman/) regular, [Tara Brooks](https://www.facebook.com/tarabrooksofficial/). Countering the unexpected rain with her arsenal of tracks, Brooks demonstrated the technical skills that caught the eyes and ears of veterans like [John Digweed](https://www.facebook.com/djjohndigweed/).
 
