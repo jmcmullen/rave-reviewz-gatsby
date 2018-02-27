@@ -2,7 +2,7 @@ import React from 'react';
 import graphql from 'graphql';
 import Content, { HTMLContent } from '../components/Content';
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const PodcastsPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -24,7 +24,7 @@ export default ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <AboutPageTemplate
+    <PodcastsPageTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
       content={post.html}
@@ -33,7 +33,7 @@ export default ({ data }) => {
 };
 
 export const aboutPageQuery = graphql`
-  query AboutPage($path: String!) {
+  query PodcastsPage($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {

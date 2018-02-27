@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import Img from 'gatsby-image';
 import Script from 'react-load-script';
 import graphql from 'graphql';
 
@@ -39,21 +40,31 @@ export default class IndexPage extends React.Component {
             )
             .map(({ node: post }) => (
               <div className="content post-preview" key={post.id}>
-                <p>
-                  <Link className="post-link" to={post.frontmatter.path}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.frontmatter.path}>
-                    Keep Reading →
-                  </Link>
-                </p>
+                <Img
+                  className="img-preview"
+                  alt={post.frontmatter.title}
+                  sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
+                />
+                <div className="text">
+                  <p>
+                    <Link className="post-link" to={post.frontmatter.path}>
+                      {post.frontmatter.title}
+                    </Link>
+                    <span> &bull; </span>
+                    <small>{post.frontmatter.date}</small>
+                  </p>
+                  <p>
+                    {post.excerpt}
+                    <br />
+                    <br />
+                    <Link
+                      className="button is-small"
+                      to={post.frontmatter.path}
+                    >
+                      Keep Reading →
+                    </Link>
+                  </p>
+                </div>
               </div>
             ))}
         </div>
@@ -74,6 +85,13 @@ export const pageQuery = graphql`
             templateKey
             date(formatString: "MMMM DD, YYYY")
             path
+            featuredImage {
+              childImageSharp {
+                sizes(maxWidth: 1240) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+            }
           }
         }
       }
