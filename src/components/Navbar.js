@@ -41,11 +41,11 @@ class Navbar extends Component {
     const linksDesktop = [];
     const menu = [
       { name: 'Home', path: '/', icon: home3 },
-      { name: 'About Us', path: '/about-us', icon: info },
-      { name: 'Podcasts', path: '/podcasts', icon: volumeHigh },
-      { name: 'Community', path: '/community', icon: users },
+      { name: 'Interviews', path: '/interviews', icon: bubbles },
       { name: 'Reviews', path: '/reviews', icon: newspaper },
-      { name: 'Inteviews', path: '/interviews', icon: bubbles },
+      { name: 'About Us', path: '/about-us', icon: info },
+      { name: 'Community', path: '/community', icon: users },
+      { name: 'Podcasts', path: '/podcasts', icon: volumeHigh },
     ];
 
     menu.forEach(link => {
