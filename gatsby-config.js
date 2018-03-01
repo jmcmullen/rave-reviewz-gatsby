@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: 'Rave Reviewz Magazine',
+    siteUrl: 'https://ravereviewz.net.au',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-catch-links',
     'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',

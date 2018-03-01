@@ -36,7 +36,7 @@ Supernova: There are so many good artists out there, but we have been quite luck
 
 **Supernova:** One of the best is [Elrow](https://www.facebook.com/elrowofficial/) for sure. We’ve played for them since the very beginning around 7 years ago in Barcelona and every time we play it’s outstanding. We also loved playing in South America recently and have just experienced the [5 Senses Festival](https://www.facebook.com/5SensesFest/) in Koh Phangan and we have to say it was a great surprise!
 
-![null](https://puu.sh/zqmPH/634e8a571b.png)
+[fb:10156092266517505]
 
 **RR:** We’re really digging your new track, _'_[_The Joy_](https://www.beatport.com/track/the-joy-original-mix/10172293)_'_. Can you tell us a little about the concept behind it?
 
