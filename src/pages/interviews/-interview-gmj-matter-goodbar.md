@@ -10,7 +10,7 @@ description: >-
 featuredImage: /img/gmj-and-matter.jpg
 ---
 
-_Individually and collaboratively, [GMJ](https://www.facebook.com/gmjmusic/) & [Matter](https://www.facebook.com/matterlive/) AKA Gavin Martin & Matty Doyle have played a huge part in the development of Australian progressive house. We caught the two Melbourne producers in the run up to their eagerly awaited live performance at [Forbidden TØNË](https://www.facebook.com/forbiddentone/) this Friday... _
+_Individually and collaboratively, [GMJ](https://www.facebook.com/gmjmusic/) & [Matter](https://www.facebook.com/matterlive/) AKA Gavin Martin & Matty Doyle have played a huge part in the development of Australian progressive house. We caught the two Melbourne producers in the run up to their eagerly awaited live performance at [Forbidden TØNË](https://www.facebook.com/forbiddentone/) this Friday..._
 
 **RR** Gavin and Matty! We’re excited to see you play this Friday – what have you both got in store for us?
 
