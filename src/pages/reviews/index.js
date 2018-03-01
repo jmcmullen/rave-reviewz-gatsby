@@ -50,7 +50,7 @@ export default class ReviewsPage extends React.Component {
                     <small>{post.frontmatter.date}</small>
                   </p>
                   <p>
-                    {post.excerpt}
+                    {post.frontmatter.description}
                     <br />
                     <br />
                     <Link
@@ -78,6 +78,7 @@ export const pageQuery = graphql`
           id
           frontmatter {
             title
+            description
             templateKey
             date(formatString: "MMMM DD, YYYY")
             path

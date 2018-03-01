@@ -5,6 +5,12 @@ import Content, { HTMLContent } from '../components/Content';
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
+  const people = [
+    { name: 'Jay', img: require('../img/jay.jpg'), role: 'Algorithms' },
+    { name: 'Sean', img: require('../img/sean.jpg'), role: 'Journalist' },
+    { name: 'Thomas', img: require('../img/thomas.jpg'), role: 'Raver' },
+  ];
+
   return (
     <section className="section section--gradient">
       <div className="container">
@@ -12,6 +18,15 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           <div className="column is-10 is-offset-1">
             <div className="section">
               <PageContent className="content" content={content} />
+              <div className="people">
+                {people.map(person => (
+                  <div className="person">
+                    <img src={person.img} />
+                    <h4>{person.name}</h4>
+                    <h5>{person.role}</h5>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>
