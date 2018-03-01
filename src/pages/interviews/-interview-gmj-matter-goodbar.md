@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: interviews/gmj-matter-goodbar
 title: GMJ & Matter @ Goodbar
-date: 2018-03-01T14:07:34.170Z
+date: 2018-02-28T01:07:34+11:00
 description: >-
   We caught the two Melbourne producers GMJ & Matter AKA Gavin Martin & Matty
   Doyle in the run up to their eagerly awaited live performance at Forbidden
