@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: interviews/gmj-matter-goodbar
 title: GMJ & Matter @ Goodbar
-date: 2018-02-28T01:07:34+11:00
+date: 2018-02-27T14:07:34.000Z
 description: >-
   We caught the two Melbourne producers GMJ & Matter AKA Gavin Martin & Matty
   Doyle in the run up to their eagerly awaited live performance at Forbidden
@@ -10,8 +10,6 @@ description: >-
 featuredImage: /img/gmj-and-matter.jpg
 ---
 _Individually and collaboratively, GMJ & Matter AKA Gavin Martin & Matty Doyle have played a huge part in the development of Australian progressive house.  We caught the two Melbourne producers in the run up to their eagerly awaited live performance at Forbidden TØNË this Friday... _
-
-
 
 RR: Gavin and Matty! We’re excited to see you play this Friday – what have you both got in store for us?
 
@@ -29,9 +27,7 @@ RR: The two of you have worked on some greats tracks together - one of which is 
 
 Matty: Thanks for that! It’s a very special tune for us both. The Anjunadeep team contacted me at the time, looking for original music to release so I sent through ‘Earthless’ as we were working on that and they loved it! The inspiration for that tune was quite surreal as the main melody came to me during a deep meditation experience. I sent that to Gavin and the rest is history.
 
-
-
-GMJ & Matter LIVE @ Dragon Dreaming Festival 2017
+![GMJ & Matter LIVE @ Dragon Dreaming Festival 2017     IMAGE Choose an image ALT TEXT](/img/dragon-dreaming-festival-2017.jpg)
 
 RR: Awesome. There was also the superb 2-parter ‘Compiled & Mixed 025’ last year. What was the concept behind it?
 
