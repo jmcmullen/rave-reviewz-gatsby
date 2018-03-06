@@ -50,15 +50,5 @@ module.exports = {
         showSpinner: false,
       },
     },
-    {
-      resolve: 'gatsby-plugin-purify-css',
-      options: {
-        styleId: 'gatsby-inlined-css',
-        purifyOptions: {
-          info: true,
-          minify: true,
-        },
-      },
-    },
   ],
 };
