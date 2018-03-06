@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/emanuel-satie-blueprint-cruise
 title: Emanuel Satie @ Blueprint Cruise
-date: 2018-03-06T14:45:31.322Z
+date: 2017-10-09T01:45:31+11:00
 description: todo//
 featuredImage: /img/emanuel-satie.jpg
 ---
