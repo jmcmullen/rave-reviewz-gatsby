@@ -2,7 +2,7 @@
 templateKey: review-post
 path: review/tell-no-tales
 title: 'Tell No Tales: Review'
-date: 2018-03-06T13:10:58.251Z
+date: 2018-03-06T00:10:58+11:00
 description: >-
   Two years ago we witnessed the inauguration of Tell No Tales. Fast forward to
   2018 and the party has grown in to the Greenwood Hotel, bringing with it
