@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interview/gmj-matter-goodbar
+path: /interview/gmj-matter-goodbar
 title: GMJ & Matter @ Goodbar
 date: 2018-02-27T14:07:34.000Z
 description: >-

@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: omar-c-momentum-agency
+path: /interview/omar-c-momentum-agency
 title: 'Omar C: Momentum Agency'
 date: 2018-02-19T07:33:42.198Z
 description: >-

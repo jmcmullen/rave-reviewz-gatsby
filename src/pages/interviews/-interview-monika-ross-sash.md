@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interview/monika-ross-sash
+path: /interview/monika-ross-sash
 title: Monika Ross @ S.A.S.H
 date: 2018-03-03T00:15:33+11:00
 description: >-

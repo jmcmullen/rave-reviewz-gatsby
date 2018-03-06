@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interview/german-brigante-bridge-hotel
+path: /interview/german-brigante-bridge-hotel
 title: ' German Brigante @ The Bridge Hotel'
 date: 2018-02-23T13:17:59.000Z
 description: >

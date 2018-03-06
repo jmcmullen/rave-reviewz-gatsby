@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interview/scan-x-tell-no-tales
+path: /interview/scan-x-tell-no-tales
 title: Scan X @ Tell No Tales
 date: 2018-02-19T11:26:49.195Z
 description: >-

@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interview/supernova-we-love
+path: /interview/supernova-we-love
 title: Supernova @ WeLove
 date: 2018-02-16T13:38:40.660Z
 description: >

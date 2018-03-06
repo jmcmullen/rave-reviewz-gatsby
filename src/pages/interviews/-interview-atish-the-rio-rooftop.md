@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interview/atish-the-rio-rooftop
+path: /interview/atish-the-rio-rooftop
 title: Atish @ The Rio Rooftop
 date: 2018-02-20T00:50:56+11:00
 description: >

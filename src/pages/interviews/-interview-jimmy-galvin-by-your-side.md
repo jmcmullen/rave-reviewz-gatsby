@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interview/jimmy-galvin-by-your-side
+path: /interview/jimmy-galvin-by-your-side
 title: 'Jimmy Galvin: By Your Side'
 date: 2018-02-14T13:55:45.940Z
 description: >
