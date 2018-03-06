@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/zankee-gulati-bootz-n-catz
 title: 'Zankee Gulati: Bootz ‘N’ Catz'
-date: 2018-03-06T14:50:48.602Z
+date: 2017-10-11T01:50:48+11:00
 description: >
   We sat down with Bootz ‘N’ Catz co-owner ZANKEE GULATI for a quick chat about
   Sydney’s underground music scene and his upcoming gig with Finnish
