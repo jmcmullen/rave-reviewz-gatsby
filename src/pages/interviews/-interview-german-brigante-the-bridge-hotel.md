@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: interview/german-brigante-bridge-hotel
 title: ' German Brigante @ The Bridge Hotel'
-date: 2018-02-24T00:17:59+11:00
+date: 2018-02-23T13:17:59.000Z
 description: >
   German by name, Spanish by nationality and super-talented by all accounts -
   German Brigante takes to the stage at the Bridge Hotel tonight. Here’s our
@@ -30,3 +30,5 @@ German: 12th August - The Bow (Buenos Aires).
 RR: Finally - what else can we look forward to this year from you?
 German: Musically, there will be two remixes, one for DJ T and one for Mandy on Get Physical and also new tracks for Manitox. Tour-wise I will play in South America, Asia, the US and Europe. 
 RR: Great stuff. Catch you tonight!
+
+Catch German Brigante at the Eclipse Music Events kick on tonight.
