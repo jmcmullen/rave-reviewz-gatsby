@@ -7,6 +7,7 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-sass',
+    'gatsby-plugin-offline',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -47,6 +48,16 @@ module.exports = {
       options: {
         color: '#9c5b9d',
         showSpinner: false,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-purify-css',
+      options: {
+        styleId: 'gatsby-inlined-css',
+        purifyOptions: {
+          info: true,
+          minify: true,
+        },
       },
     },
   ],

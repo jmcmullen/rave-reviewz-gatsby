@@ -12,6 +12,8 @@
     "gatsby-plugin-google-analytics": "^1.0.20",
     "gatsby-plugin-netlify-cms": "^1.0.2",
     "gatsby-plugin-nprogress": "^1.0.12",
+    "gatsby-plugin-offline": "^1.0.15",
+    "gatsby-plugin-purify-css": "^2.2.1",
     "gatsby-plugin-react-helmet": "^1.0.5",
     "gatsby-plugin-sass": "^1.0.12",
     "gatsby-plugin-sharp": "^1.6.18",
