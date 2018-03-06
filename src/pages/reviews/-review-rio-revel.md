@@ -25,4 +25,4 @@ Indoors, Guy Mantzur had taken over from rising prog star [Zankee Gulati](https:
 
 As the 11 hour day fest drew to a close, the revellers dispersed satisfied and the Rio crew had delivered the goods with all the hallmarks of their brand - quality music, good vibes and attention to detail. A strong contender for the best party of the season.
 
-_Photos by [Martin Vivian Pearse](https://www.facebook.com/martinvivianpearsephotography)_ 📷
+📸 _[Martin Vivian Pearse](https://www.facebook.com/martinvivianpearsephotography/)_
