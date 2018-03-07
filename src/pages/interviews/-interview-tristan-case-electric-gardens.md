@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/tristan-case
-title: 'Tristan Case: Electric Gardens'
+title: Tristan Case @ Electric Gardens
 date: 2018-01-23T22:40:29.000Z
 description: We managed to sneak Tristan Case away from the decks for a quick chat.
 featuredImage: /img/img_1419.jpg
