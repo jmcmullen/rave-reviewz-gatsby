@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/javi-bora
 title: Javi Bora @ Space Ibiza in Sydney
-date: 2018-03-07T23:05:13.309Z
+date: 2018-01-23T10:05:13+11:00
 description: >-
   We spoke to the maestro  about his trip and why he considers Australia his
   second home.
