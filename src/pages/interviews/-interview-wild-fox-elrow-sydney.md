@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
-path: interview/wild-fox
+path: /interview/wild-fox
 title: Wild Fox @ Elrow Sydney
-date: 2018-01-25T09:27:02+11:00
+date: 2018-01-24T22:27:02.000Z
 description: >-
   We caught up with Jessie Wallace aka Wild Fox to discuss her music and the
   direction her Compass is pointing her in ... 
