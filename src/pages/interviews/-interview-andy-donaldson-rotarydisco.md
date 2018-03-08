@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
-path: /interview/andy-donaldson
+path: /interview/andy-donaldson-rotarydisco
 title: Andy Donaldson @ Rotarydisco
-date: 2017-12-23T14:54:32+11:00
+date: 2017-12-23T03:54:32.000Z
 description: >-
   In the run up to their New Years's Day Extravaganza, here's our interview with
   groove master Andy Donaldson.
