@@ -1,12 +1,12 @@
 ---
 templateKey: interview-post
-path: /interview/nakadia
+path: /interview/nakadia-welove
 title: Nakadia @ WeLove
 date: 2018-01-16T00:05:44.000Z
 description: >-
   We spoke to the talented Nakadia about her global success, work ethic and
   friendship with a certain Mr Sven Vath.
-featuredImage: /img/pic.jpg
+featuredImage: /img/nakadia.jpg
 ---
 
 On her return to Thailand after a stunning Australian debut, we spoke to the talented [Nakadia](https://www.facebook.com/djnakadia/) about her global success, work ethic and friendship with a certain Mr Sven Vath...

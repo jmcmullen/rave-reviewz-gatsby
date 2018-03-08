@@ -6,15 +6,16 @@ date: 2017-11-07T06:27:04.000Z
 description: todo
 featuredImage: /img/img_7285.jpg
 ---
-Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with [Steve Marx](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fstevemarx&h=ATM0dyds18-BMAj8IjfACGTtT2eRHiu-439BEZRKX1_yHcVY9j94RPwc478YzR2ktbU42CeGDnxYApdif5_--5-9gja5WpcjnFmPEv9AT-_gBYuap0-b-Ex78Vr2USwBs-8MXrek) – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival de-brief… 
 
-**RR:** Steve, good to see you again. How was Rio for you?? 
+Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with [Steve Marx](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fstevemarx&h=ATM0dyds18-BMAj8IjfACGTtT2eRHiu-439BEZRKX1_yHcVY9j94RPwc478YzR2ktbU42CeGDnxYApdif5_--5-9gja5WpcjnFmPEv9AT-_gBYuap0-b-Ex78Vr2USwBs-8MXrek) – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival de-brief…
+
+**RR:** Steve, good to see you again. How was Rio for you??
 
 **Steve:** Ah man, it was honestly the best festival I’ve ever been to. The production was so good and the people were amazing. Even when the weather was shitty it didn’t stop anyone from having a good time – everyone got involved. It was like one big, happy family!
 
 **RR:** Sure was. So what was your highlight of the festival?
 
-**Steve:** Probably breaking my Rio cherry! It was my first time playing there and I had a good crowd at the pool stage, which was great. Of the internationals I thought Khen’s set on the Sunday was really good, I love the way he puts his music together. 
+**Steve:** Probably breaking my Rio cherry! It was my first time playing there and I had a good crowd at the pool stage, which was great. Of the internationals I thought Khen’s set on the Sunday was really good, I love the way he puts his music together.
 
 **RR:** Yep, he smashed it. You’ve been spinning tunes a good while, how did your journey into DJing begin?
 
@@ -22,13 +23,13 @@ Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/)
 
 **RR:** Sounds cool. How was London’s club scene different to Sydney back then?
 
-**Steve:** Well, I cut my teeth pre-1996 in Sydney. Parties ran for 24 hours back then so you never had to go home!  London was wild and had a lot of different genres of dance music across the city - prog, trance, breakbeat. I’d go to the Aquarium in Old Street, Turnmills and Malibu Stacey at Hanover Grand… but I’m happy to be in Sydney again. There’s no hiding from the strict rules and lockouts but they’re starting to relax now. Our music culture is flourishing thanks to a lot of very passionate people in this city. 
+**Steve:** Well, I cut my teeth pre-1996 in Sydney. Parties ran for 24 hours back then so you never had to go home! London was wild and had a lot of different genres of dance music across the city - prog, trance, breakbeat. I’d go to the Aquarium in Old Street, Turnmills and Malibu Stacey at Hanover Grand… but I’m happy to be in Sydney again. There’s no hiding from the strict rules and lockouts but they’re starting to relax now. Our music culture is flourishing thanks to a lot of very passionate people in this city.
 
-**RR:** What’s the mentality when you get out there to perform? How do you approach playing a set? 
+**RR:** What’s the mentality when you get out there to perform? How do you approach playing a set?
 
 **Steve:** I believe in quality control. I take a lot of preparation to every set and for each track, I ask myself “do I like it?” and then “will the dancefloor like it?”. I love intricate melodies, layering and blending sounds to create something new. I’m not the kind to be throwing his hands up in the air behind the decks, I really immerse myself in my music. But at the same time, I do read the crowd to see what’s working so that I’m not clearing the room!
 
-**RR:** You’ve shared the bill with some huge names like [John Digweed](https://www.facebook.com/djjohndigweed/). What has been your most memorable set? 
+**RR:** You’ve shared the bill with some huge names like [John Digweed](https://www.facebook.com/djjohndigweed/). What has been your most memorable set?
 
 **Steve:** Warming up for [Hernan Cattaneo](https://www.facebook.com/hernancattaneo/) at the [Electric Gardens](https://www.facebook.com/electricgardensfestival/) after party was something else. Hernan requested me personally, which was mind-blowing. I was so stoked but there was also a lot of pressure. People were rocking up from the festival so I was keeping it nice and deep to maintain the interest of the crowd.
 
@@ -36,7 +37,7 @@ Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/)
 
 **Steve:** I did! It was a very special night.
 
-**RR:** So which DJs have been your biggest influences? 
+**RR:** So which DJs have been your biggest influences?
 
 **Steve:** Nick Warren – he’s a mate of mine, I would love the opportunity to DJ with him. Digweed, Sasha, Hernan of course, and Dave Seaman is terrific. It’s got to be those 5.
 
