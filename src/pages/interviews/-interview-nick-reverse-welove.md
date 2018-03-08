@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
-path: interview/nick-reverse
-title: 'Nick Reverse: WeLove'
-date: 2018-01-05T14:29:14+11:00
+path: interview/nick-reverse-we-love
+title: Nick Reverse @ WeLove
+date: 2018-01-05T03:29:14.000Z
 description: >-
   We all love we love_sydney! Ahead of their gig tonight at the Burdekin hotel
   read our interview with front man and resident DJ Nick.
