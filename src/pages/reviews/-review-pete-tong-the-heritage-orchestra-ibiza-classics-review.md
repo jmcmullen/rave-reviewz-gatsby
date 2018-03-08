@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /review/pete-tong-the-heritage-orchestra-ibiza-classics
 title: 'Pete Tong & The Heritage Orchestra - Ibiza Classics: Review'
-date: 2018-03-06T15:02:24.338Z
+date: 2017-11-08T02:02:24+11:00
 description: >
   A joyous celebration of dance music graced Sydney last week, as Pete Tong and
   The Heritage Orchestra treated the Qudos Arena to an uplifting performance of
