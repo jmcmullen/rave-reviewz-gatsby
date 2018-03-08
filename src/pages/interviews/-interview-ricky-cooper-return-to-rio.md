@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: interview/ricky-cooper
 title: Ricky Cooper @ Return to Rio
-date: 2017-10-30T17:30:38+11:00
+date: 2017-10-30T06:30:38.000Z
 description: todo
 featuredImage: /img/img_0407.jpg
 ---
-With the countdown to the magical weekender that is Return to Rio entering its final stages, we dropped in on festival director & chief dream-weaver Ricky Cooper for a catch-up…
+With the countdown to the magical weekender that is [Return to Rio](https://www.facebook.com/ReturnToRio/) entering its final stages, we dropped in on festival director & chief dream-weaver Ricky Cooper for a catch-up…
 
 **RR:** Ricky, not long to go til the main event! We know how hectic things must be, so thanks for taking the time to chat. How are the preparations going?
 
@@ -20,11 +20,11 @@ With the countdown to the magical weekender that is Return to Rio entering its f
 
 **Ricky:** Yeah, well it has tentacles. I think it’s a lobster haha.
 
-**RR:** Ha! Can’t wait to see it. You have a massive line up this year including Carl Cox & Eric Powell, Hoj, &ME. Who are you looking forward to seeing the most?
+**RR:** Ha! Can’t wait to see it. You have a massive line up this year including Carl Cox & Eric Powell, [Hoj](https://www.facebook.com/hoj/), &ME. Who are you looking forward to seeing the most?
 
 **Ricky:** Well, we actually have a special secret act closing the festival this year, I’m looking forward to them the most. We had already sold out when I was offered them, but I couldn’t say no because I’m a huge fan of the 90s rave scene. I can’t give too much away, but it will blow people’s minds! 
 
-**RR:** Ah, the suspense! You do have an interesting music policy at Rio… it’s mainly house, but then EZ was playing UK Garage last year, and this year you have drum ’n’ bass legends Fabio & Grooverider playing on the Sunday. Why the variation?
+**RR:** Ah, the suspense! You do have an interesting music policy at Rio… it’s mainly house, but then [EZ](https://www.facebook.com/djezofficial/) was playing UK Garage last year, and this year you have drum ’n’ bass legends [Fabio & Grooverider](https://www.facebook.com/fabioandgrooverider/) playing on the Sunday. Why the variation?
 
 **Ricky:** All our artists play quality electronic music, but it gets boring if you have just the one style. I like the sound to progress through the day… it’s nice to hear someone like Soul Clap playing early on. And I don’t book any hard techno; I don’t think it suits the festival. I’d rather hear something melodic by the river - like Carl & Eric playing soul, funk, disco and classic house. 
 
@@ -34,11 +34,11 @@ With the countdown to the magical weekender that is Return to Rio entering its f
 
 **RR:** And everyone else’s I bet! Now, if you could bring one artist to Return to Rio in the future who would it be?
 
-**Ricky:** Hmm… probably Laurent Garnier. He’s brilliant. He’s playing in Australia this year so I might have a word with him!
+**Ricky:** Hmm… probably [Laurent Garnier](https://www.facebook.com/laurentgarnierofficial/). He’s brilliant. He’s playing in Australia this year so I might have a word with him!
 
 **RR:** Do it! You must have been to many festivals yourself, which is your favourite apart from Rio?
 
-**Ricky:** It would have to be Burning Man. I went in 2011 and loved everyting about it - the vibe, the gifting culture, the style of music. I also think Bestival in the Isle of Wight is great.
+**Ricky:** It would have to be [Burning Man](https://l.facebook.com/l.php?u=https%3A%2F%2Fburningman.org%2F&h=ATNFFJGfAmNBT8SJ2Cpu9Y9a6aq5GNUc20X5ZvCzXfl2P6jge0ZWIFPGi_Z-HdS4pWOtwx6Xwt1NhpobN1sOV22IwfHNs16yVc_hnLr6jmH6iXDhmJjjgyQvgRlvMNeBgFmc2qB7SZtAOwFP1KnKdg). I went in 2011 and loved everyting about it - the vibe, the gifting culture, the style of music. I also think Bestival in the Isle of Wight is great.
 
 **RR:** Ok. You DJ yourself, what’s the most memorable set you’ve ever played?
 
