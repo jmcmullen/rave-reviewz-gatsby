@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: interview/jeremy-olander
 title: Jeremy Olander @ Vivrant
-date: 2018-01-09T11:49:31+11:00
+date: 2018-01-09T00:49:31.000Z
 description: >-
   With the countdown to his highly anticipated performance at Electric Gardens
   Festival, here's our chat with the legendary Jeremy Olander.
-featuredImage: /img/zachlouw sgl no logo-2-48.jpg
+featuredImage: /img/jeremy-olander.jpg
 ---
 Recognised for his technical artistry and endearing releases, J[eremy Olander](https://www.facebook.com/jeremyolander/) is a pre-eminent force on the progressive house stage. We talk to the [Vivrant](https://www.facebook.com/vivrantmusic/) label boss, as he prepares for his performance at [Electric Gardens Festival](https://www.facebook.com/electricgardensfestival/).
 
