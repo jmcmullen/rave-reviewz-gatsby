@@ -2,9 +2,9 @@
 templateKey: interview-post
 path: /interview/kerry-wallace
 title: Kerry Wallace @ S*A*S*H
-date: 2017-11-18T16:50:58+11:00
+date: 2017-11-18T05:50:58.000Z
 description: todo
-featuredImage: /img/img_1581.jpg
+featuredImage: /img/kerry-wallace.jpg
 ---
 In the world of Sydney house & techno, they don’t come bigger than [Kerry Wallace](https://www.facebook.com/Kerry-Wallace-170152376404195/) - DJ, part-owner of Inner West vibes-den [SLYFOX](https://www.facebook.com/slyfoxenmore) and pioneer of one of Sydney’s most revered nightlife institutions, [S\*A\*S*H](https://l.facebook.com/l.php?u=http%3A%2F%2Fsash.net.au%2F&h=ATPDNOgnpVy4OZ6FhtUems_esUFtJ2XnRXCkIOTZHoVGIEtXyYsepho3reGorx8NUz5O2nPDjtixe3CF1Gk3REYgtRj366jiI6JlioAOgVoac0v6tTvvorw3). Ladies & gents, here’s the man responsible for more Mondays taken off work than anyone in history… 
 
