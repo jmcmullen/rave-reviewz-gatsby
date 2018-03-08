@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
 path: interview/dan-scott-eclipse-music-events
-title: 'Dan & Scott: Eclipse Music Events'
-date: 2018-01-30T00:00:00+11:00
+title: Dan & Scott @ Eclipse Music Events
+date: 2018-01-29T13:00:00.000Z
 description: >-
   We sat down with the co-founders of Eclipse Music Events, as they prepare for
   a big night on Saturday.
