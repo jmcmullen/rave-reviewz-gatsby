@@ -8,7 +8,8 @@ description: >-
   second home.
 featuredImage: /img/javi bora 6.jpg
 ---
-After adorning the NYD bill at the Greenwood Hotel’s Space Ibiza for the 5th time, [Javi Bora](https://www.facebook.com/javiboramusic/) tore his way through Australia and New Zealand this month. We spoke to the maestro  about his trip and why he considers Australia his second home...
+
+After adorning the NYD bill at the Greenwood Hotel’s Space Ibiza for the 5th time, [Javi Bora](https://www.facebook.com/javiboramusic/) tore his way through Australia and New Zealand this month. We spoke to the maestro about his trip and why he considers Australia his second home...
 
 **RR:** Javi! You’ve just come off a non-stop NZ and Australian tour – how did it all go?
 
@@ -18,17 +19,17 @@ After adorning the NYD bill at the Greenwood Hotel’s Space Ibiza for the 5th t
 
 **Javi:** I’ve played with [WeLove](https://www.facebook.com/welovesydneyunderground/) for the last 3 years in a row and I have a really good relationship with the guys. They have a nice project and support me a lot, so I decided to do a collaboration releasing my track on their label to support them.
 
-**RR:** This was your 5th year in a row playing the Greenwood’s [Space Ibiza](https://www.facebook.com/SpaceIbizainAustralia/) party on NYD - what keeps you coming back? 
+**RR:** This was your 5th year in a row playing the Greenwood’s [Space Ibiza](https://www.facebook.com/SpaceIbizainAustralia/) party on NYD - what keeps you coming back?
 
 **Javi:** I think the promoters and people can answer that, haha!
 
-\[fb:video10156151019487474]
+[fb:10156151019487474]
 
 **RR:** Would it be fair to say that you’ve adopted Australia as your second home? How do you like the music scene here?
 
 **Javi:** To be honest, I do feel like Australia is my second home, I feel super good here. I’ve played here for the last 5 years and I’ve done about 7 tours. I love the vibe of the people and I think now is the moment for Australia and electronic music. Also, I have great friends here.
 
-**RR:** And how different is the music scene here to your homeland of Spain? 
+**RR:** And how different is the music scene here to your homeland of Spain?
 
 **Javi:** Normally I don’t play a lot in Spain, most of my gigs are in Ibiza and around the world. So it’s difficult to tell you the difference because I focus on my own sound. But I can tell you that I always meet really good DJs and play at amazing parties in Australia.
 
