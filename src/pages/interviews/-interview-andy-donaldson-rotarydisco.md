@@ -6,7 +6,7 @@ date: 2017-12-23T03:54:32.000Z
 description: >-
   In the run up to their New Years's Day Extravaganza, here's our interview with
   groove master Andy Donaldson.
-featuredImage: /img/img_5889.png.jpeg
+featuredImage: /img/andy-donaldson.jpeg
 ---
 Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.facebook.com/RotarydiscoSydney/) have the disco/house sound locked down. We dropped in on co-founder Andy Donaldson for a chat...
 
