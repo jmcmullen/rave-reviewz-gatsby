@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
 path: /interview/ben-nott-blueprint
-title: 'Ben Nott: Blueprint'
-date: 2017-10-04T01:39:38+11:00
+title: Ben Nott @ Blueprint
+date: 2017-10-03T14:39:38.000Z
 description: >-
   We caught up with Blueprint boss Ben Nott for a chat about all things ravey
   ahead of their boat cruise this Saturday...
