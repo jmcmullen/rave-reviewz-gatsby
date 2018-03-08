@@ -6,7 +6,7 @@ date: 2018-01-16T23:45:15.000Z
 description: >-
   We caught up with one of the captains of the Norti Vikings ship Mark to
   discuss his strategy for this musical voyage.
-featuredImage: /img/img_7288.jpg
+featuredImage: /img/norti.jpg
 ---
 With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage...
 
