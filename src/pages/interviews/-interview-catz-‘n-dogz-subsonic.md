@@ -2,9 +2,9 @@
 templateKey: interview-post
 path: /interview/catz-n-dogz
 title: Catz ‘n Dogz @ Subsonic
-date: 2017-12-12T15:56:56+11:00
+date: 2017-12-12T04:56:56.000Z
 description: Read our chat with house-trained animals Catz ‘n Dogz.
-featuredImage: /img/cnd_shot  1_176_by_yonathan_baraki_preview.jpeg
+featuredImage: /img/catz-n-dogz.jpeg
 ---
 One of the undisputed highlights of Subsonic this year was the high-energy set delivered by Polish duo Greg & Wojtek, AKA [Catz ‘n Dogz](https://www.facebook.com/catzndogz.official/). We caught up with the house-trained animals after the festival to talk (pet) shop! 
 
