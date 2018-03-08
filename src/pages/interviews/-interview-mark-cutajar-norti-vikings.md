@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
 path: /interview/norti-vikings
-title: 'Mark Cutajar: Norti Vikings'
-date: 2018-01-17T10:45:15+11:00
+title: Mark Cutajar @ Norti Vikings
+date: 2018-01-16T23:45:15.000Z
 description: >-
   We caught up with one of the captains of the Norti Vikings ship Mark to
   discuss his strategy for this musical voyage.
