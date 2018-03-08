@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: /interview/javi-bora
 title: Javi Bora @ Space Ibiza in Sydney
-date: 2018-01-23T10:05:13+11:00
+date: 2018-01-22T23:05:13.000Z
 description: >-
   We spoke to the maestro  about his trip and why he considers Australia his
   second home.
-featuredImage: /img/javi bora 6.jpg
+featuredImage: /img/javi-bora.jpg
 ---
 
 After adorning the NYD bill at the Greenwood Hotel’s Space Ibiza for the 5th time, [Javi Bora](https://www.facebook.com/javiboramusic/) tore his way through Australia and New Zealand this month. We spoke to the maestro about his trip and why he considers Australia his second home...
