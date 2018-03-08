@@ -2,9 +2,9 @@
 templateKey: interview-post
 path: /interview/stuart-hunter
 title: Stuart Hunter @ Motif
-date: 2017-10-25T17:36:58+11:00
+date: 2017-10-25T06:36:58.000Z
 description: todo
-featuredImage: /img/high-res 34.jpg
+featuredImage: /img/stuart-hunter.jpg
 ---
 Ahead of their [1st birthday celebration](https://www.facebook.com/events/1780327001992048/) at the Civic this Friday, featuring progressive powerhouse Khen, we caught up with Stuart Hunter of Sydney-based events crew Motif for a chat. 
 
