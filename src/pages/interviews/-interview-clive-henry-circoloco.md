@@ -4,8 +4,9 @@ path: /interview/clive-henry
 title: Clive Henry @ Circoloco
 date: 2018-01-03T03:41:03.000Z
 description: For a proper musical education read out our interview with DJ Clive.
-featuredImage: /img/_dsc7019edit.jpg
+featuredImage: /img/clive-henry.jpg
 ---
+
 With the summer heating up and [Electric Gardens festival](https://www.facebook.com/electricgardensfestival/) just around the corner, we caught up with Circoloco resident [Clive Henry](https://www.facebook.com/clivehenrymusic/) in the run up to the main event...
 
 **RR:** Clive, great to chat. We're hyped to see you play at Electric Gardens festival in a few weeks. What can we expect from your set?
@@ -28,9 +29,9 @@ With the summer heating up and [Electric Gardens festival](https://www.facebook.
 
 **Clive:** Ah thanks nice to hear that you like it! Basically, I play for the label owner Dustin in Ibiza at a small venue called [La Guarana](https://www.facebook.com/guaranaibiza/) in San Eulalia and he said he had some stuff coming out on his label and asked if I could remix one of the tracks. So he sent us some bits and we chose that as we felt we could do something with it. Remi is the in-house engineer of the studio we share in East London and we just jammed for a couple of sessions spending some time finding samples that we felt would work, and that was it really!
 
-**RR:** Any more tracks or remixes planned for the future? 
+**RR:** Any more tracks or remixes planned for the future?
 
-**Clive:** Yeah we have a [Robert Owens](https://www.facebook.com/djrobertowens/) track to remix for a label called Bombis Records and another remix to do for Rob Anderson who works at Pioneer. Plus I’ve got a three track EP with Alex Arnout coming out via [Kerri Chandler](https://www.facebook.com/KerriChandlerOfficial/)’s Kaoz Theory imprint, we have sort of gone back to the Peace Division era where all the tracks are sample heavy.  And I also have a collaboration with [James Dexter](https://www.facebook.com/JamesDexterFan/) called Think For Yourself coming out on his imprint Inermu. It's a four track EP featuring Tuccillo and various others... being released on vinyl only! 
+**Clive:** Yeah we have a [Robert Owens](https://www.facebook.com/djrobertowens/) track to remix for a label called Bombis Records and another remix to do for Rob Anderson who works at Pioneer. Plus I’ve got a three track EP with Alex Arnout coming out via [Kerri Chandler](https://www.facebook.com/KerriChandlerOfficial/)’s Kaoz Theory imprint, we have sort of gone back to the Peace Division era where all the tracks are sample heavy. And I also have a collaboration with [James Dexter](https://www.facebook.com/JamesDexterFan/) called Think For Yourself coming out on his imprint Inermu. It's a four track EP featuring Tuccillo and various others... being released on vinyl only!
 
 **RR:** Nice! Ok, tell us one track you like to play which always goes off.
 
@@ -40,14 +41,14 @@ With the summer heating up and [Electric Gardens festival](https://www.facebook.
 
 **Clive:** It has to be the now sadly closed Studio Air in Tokyo. It was a mad space where you were virtually up in the eaves of the ceiling looking down on this quite small, intimate dance floor… quite disconnected from the crowd. I ended up playing with 2 bags of vinyl for about 6 or 7 hours. The fact that you were so far removed from the punters meant you could get on with doing what you do without anyone trying to be in the booth or asking you to play faster or harder, which does my head in! It was pretty special I have to say, cos everyone really got into it.
 
-**RR:** You must have a hectic lifestyle... how do you look after your own wellbeing? 
+**RR:** You must have a hectic lifestyle... how do you look after your own wellbeing?
 
-**Clive:** I used to have a personal trainer for a while and I used to cycle everywhere, but I've let it slip lately. It's something that I need to address in the new year, but I do eat quite well - I’m not into junk food unless it's a last resort, and I cook loads. I only try and drink when I'm playing too, but London has its pitfalls cos everyone wants to kick on quite a bit haha. 
+**Clive:** I used to have a personal trainer for a while and I used to cycle everywhere, but I've let it slip lately. It's something that I need to address in the new year, but I do eat quite well - I’m not into junk food unless it's a last resort, and I cook loads. I only try and drink when I'm playing too, but London has its pitfalls cos everyone wants to kick on quite a bit haha.
 
-**RR:** Finally... we hear you were in to hip hop growing up. Who were your fave hip hop artists?? 
+**RR:** Finally... we hear you were in to hip hop growing up. Who were your fave hip hop artists??
 
 **Clive:** Ha that was a long time ago when it was just beginning and getting recognition... KRS One, [Big Daddy Kane](https://www.facebook.com/OfficialBigDaddyKane/), Afrika Bambaata, Mantronix, Public Enemy... the originators and roots of it all.
 
-**RR:** Classic mate. Thanks for the chat! 
+**RR:** Classic mate. Thanks for the chat!
 
 You can catch Clive rocking the Circoloco stage at Electric Gardens on Jan 27th. Grab your ticket [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eventbrite.com.au%2Fe%2Felectric-gardens-festival-2018-sydney-tickets-38489481074&h=ATOlyifggt7sE7_p1-UUBEuRnK-l1oL2km8k-M-bjrp0bukbanuN6xR6cBQmGlj8j9WntYmBdBL2E-ME-g2J-Bcr9wPYdTTYOnc4tEzEtJfo_fPHYGV0Mosn).

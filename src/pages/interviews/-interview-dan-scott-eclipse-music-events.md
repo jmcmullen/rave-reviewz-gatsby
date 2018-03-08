@@ -6,7 +6,7 @@ date: 2018-01-29T13:00:00.000Z
 description: >-
   We sat down with the co-founders of Eclipse Music Events, as they prepare for
   a big night on Saturday.
-featuredImage: /img/7134.jpg
+featuredImage: /img/dan-scott.jpg
 ---
 
 Since joining forces in 2015, Dan Bayton and Scott Rotton have brought a multitude of memorable parties to Sydney. We sat down with the co-founders of [Eclipse Music Events](https://www.facebook.com/eclipsemusiceventsaus/), as they prepare for a big night on Saturday...
