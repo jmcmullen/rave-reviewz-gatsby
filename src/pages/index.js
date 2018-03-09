@@ -42,7 +42,7 @@ export default class IndexPage extends React.Component {
         <div className="container">
           <div className="content">
             <FeaturedPosts posts={this.getFeaturedPosts(posts)} />
-            <h1 className="has-text-weight-bold is-size-2">Latest articles</h1>
+            <h3 className="more-recent">More recent articles</h3>
           </div>
           {posts
             .filter(
@@ -50,6 +50,7 @@ export default class IndexPage extends React.Component {
                 post.node.frontmatter.templateKey === 'interview-post' ||
                 post.node.frontmatter.templateKey === 'review-post'
             )
+            .slice(4)
             .map(({ node: post }) => (
               <div className="content post-preview" key={post.id}>
                 <Img

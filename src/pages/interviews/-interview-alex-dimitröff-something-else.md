@@ -15,7 +15,7 @@ For years, [Something Else](https://www.facebook.com/SomethingElseSyd/) have bee
 
 **Alex:** Something Else came to fruition when our last brand "La Famiglia" came to an end. One by one our other partners on that brand had moved on to other projects or out of state, but [Dave](https://www.facebook.com/DaveStuartSomethingElse/) and I still wanted to work together after 3 great years together. So we decided a new brand would be the best thing moving forward... something a little different to the past years, "Something Else"...
 
-**RR: **Nice! How would you describe the music policy at your events?
+**RR:** Nice! How would you describe the music policy at your events?
 
 **Alex:** We still describe the sound as house & techno, but it is definitely more on the techno tip these days. Very eclectic - like the Detroit sound one night, then quite dubby & rolling on other nights. We try to keep a broad spectrum for the sound but stay away from the commercial tip. We want our punters to have a new experience every time they enter the venue, but with the same underlay tones so it feels familiar and comfortable.
 
