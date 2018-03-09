@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: /interview/hoj-return-to-rio
 title: Hoj @ Return to Rio
-date: 2017-11-30T16:25:56+11:00
+date: 2017-11-30T05:25:56.000Z
 description: >-
   Read our chat with How about good times at Return to Rio, Burning Man and
   more.
-featuredImage: /img/img_0726.jpg
+featuredImage: /img/hoj.jpg
 ---
 Shortly after his departure from sunny Sydney, we caught up with master musicologist [Hoj](https://www.facebook.com/hoj/) for his thoughts on Return to Rio and the lowdown on his past and future shenanigans...  
 

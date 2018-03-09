@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: /interview/matthias-meyer-goodbar
 title: Matthias Meyer @ Goodbar
-date: 2017-12-05T16:09:19+11:00
+date: 2017-12-05T05:09:19.000Z
 description: >-
   Fresh off the back of his dynamite Australian tour, read our exclusive chat
   with world class DJ and Watergate resident Matthias Meyer.
-featuredImage: /img/img_5139.png.jpeg
+featuredImage: /img/matthias-meyer.jpg
 ---
 It’s been a hell of a year for German DJ/producer [Matthias Meyer](https://www.facebook.com/matthiasmeyermusic/) - and we were lucky to have him showcase his infectious brand of house in Sydney recently. We caught the Watergate favourite relaxing in Bali after his hectic Australian tour to discuss his music and adventures Down Under…
 

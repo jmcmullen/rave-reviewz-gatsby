@@ -2,9 +2,9 @@
 templateKey: interview-post
 path: /interview/nathan-mitch
 title: Nathan & Mitch @ Canvas Events
-date: 2018-01-12T11:36:22+11:00
+date: 2018-01-12T00:36:22.000Z
 description: We grabbed a chat with the boys behind Canvas Events.
-featuredImage: /img/img_1585.jpg
+featuredImage: /img/nathan-mitch.jpg
 ---
 
 With a reputation for hosting unique parties on Sydney’s underground circuit, we caught up with 2 of the founding fathers of [Canvas Events](https://www.facebook.com/canvaseventssydney/), Nathan Shackcloth & Mitch Fowler, before their big [boat party](https://www.facebook.com/pg/canvaseventssydney/events/?ref=page_internal) tomorrow...
