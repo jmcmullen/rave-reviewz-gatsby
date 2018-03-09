@@ -6,15 +6,16 @@ date: 2017-12-15T15:28:33+11:00
 description: >-
   Here's our chat with Alex Dimitröff, one of the funkiest fellas in the Sydney
   house & techno scene. 
-featuredImage: /img/img_1583.jpg
+featuredImage: /img/alex-dimitroff.jpg
 ---
+
 For years, [Something Else](https://www.facebook.com/SomethingElseSyd/) have been putting on some of the finest parties Sydney’s underground scene has to offer. We met up with the brand’s personal Jesus - Alex Dimitröff for a chat...
 
 **RR:** Alex - Your [Something Else](https://www.facebook.com/SomethingElseSyd/) parties have become a firm favourite for the city’s house and techno heads. Can you tell us how it all began?
 
 **Alex:** Something Else came to fruition when our last brand "La Famiglia" came to an end. One by one our other partners on that brand had moved on to other projects or out of state, but [Dave](https://www.facebook.com/DaveStuartSomethingElse/) and I still wanted to work together after 3 great years together. So we decided a new brand would be the best thing moving forward... something a little different to the past years, "Something Else"...
 
-**RR: **Nice! How would you describe the music policy at your events? 
+**RR: **Nice! How would you describe the music policy at your events?
 
 **Alex:** We still describe the sound as house & techno, but it is definitely more on the techno tip these days. Very eclectic - like the Detroit sound one night, then quite dubby & rolling on other nights. We try to keep a broad spectrum for the sound but stay away from the commercial tip. We want our punters to have a new experience every time they enter the venue, but with the same underlay tones so it feels familiar and comfortable.
 
@@ -30,13 +31,13 @@ For years, [Something Else](https://www.facebook.com/SomethingElseSyd/) have bee
 
 **Alex:** Our original designers Riet & Daniela from [Parallel Berlin](https://www.facebook.com/wirsindparallel/) really understood our concept of making minimalistic artwork that highlighted the artists, not just the brand and were able to interpret & expand that concept. It's a nod to the artwork we love, that 90s and early 2000s German Minimalism. Primary Colours, rich deep tones, geometrical patterns. Everything very structured. Like our sound, the art has also grown with us over the years so a mention to Nergal Youkhana for being able to continue on with that same feel this past year and a half.
 
-**RR:** [Eric Cloutier](https://www.facebook.com/eric.cloutier.dj/) is playing at your event in December - we're big fans of his work. What do you think we can we expect from his set? 
+**RR:** [Eric Cloutier](https://www.facebook.com/eric.cloutier.dj/) is playing at your event in December - we're big fans of his work. What do you think we can we expect from his set?
 
 **Alex:** I can't wait to have Eric back this weekend. Every time we have hosted him, he has always delivered. With it being a 4 hour set i think we are in for a real journey. It’s plenty of time for him to create a real progression in his set from start to finish & that extended time slot can really send you on a rollercoaster of ups and downs. So I think that’s exactly what we have in store - dubby, tough and abstract. I think we will get a little bit of everything, and probably something unexpected, as per usual with someone as talented as him. Having Dave Stuart warming up for him is perfect - that dub techno sound to start the night off is the best way to get you into the swing of it.
 
-**RR:** Of the many nights you’ve hosted, which one has really stood out for you?  
+**RR:** Of the many nights you’ve hosted, which one has really stood out for you?
 
-**Alex:** I can't isolate it down to one night, but I can give you the short list. Best live set goes to the [Guti](https://www.facebook.com/Guti.Desolat/) show we did a few years ago, best crowd interaction has to be The [Martinez Brothers](https://www.facebook.com/themartinezbrothers/) show we did as a [Circoloco](https://www.facebook.com/circolocoibiza/) after party 2 or 3 years ago... and this year’s highlight, [DJ Bone](https://www.facebook.com/DJBone313). I've never seen someone so flawlessly jump from house to techno to 90s nostalgic tracks like that, and to do so with those choppy cuts in and out! Also special mention has to go to [Guy J](https://www.facebook.com/guyjofficial/) - we have had him play for us twice and each of those shows has had the most amazing atmosphere and electricity in the room. 
+**Alex:** I can't isolate it down to one night, but I can give you the short list. Best live set goes to the [Guti](https://www.facebook.com/Guti.Desolat/) show we did a few years ago, best crowd interaction has to be The [Martinez Brothers](https://www.facebook.com/themartinezbrothers/) show we did as a [Circoloco](https://www.facebook.com/circolocoibiza/) after party 2 or 3 years ago... and this year’s highlight, [DJ Bone](https://www.facebook.com/DJBone313). I've never seen someone so flawlessly jump from house to techno to 90s nostalgic tracks like that, and to do so with those choppy cuts in and out! Also special mention has to go to [Guy J](https://www.facebook.com/guyjofficial/) - we have had him play for us twice and each of those shows has had the most amazing atmosphere and electricity in the room.
 
 **RR:** Sweet. If you could pick any one DJ to play at one of your events, who would it be?
 
