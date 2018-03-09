@@ -4,8 +4,7 @@ path: /interview/scan-x-tell-no-tales
 title: Scan X @ Tell No Tales
 date: 2018-02-19T11:26:49.195Z
 description: >-
-  In preparation for his performance on Saturday at Tell No Tales, we had a chat
-  with lauded French techno DJ and composer, Stéphane Dri AKA Scan X about his
+  We had a chat with lauded French techno DJ and composer, Stéphane Dri AKA Scan X about his
   live performances, longevity in the game and production partnership with
   fellow pioneer, Laurent Garnier. 
 featuredImage: /img/scan-x.jpg

@@ -4,6 +4,7 @@ import Img from 'gatsby-image';
 import Script from 'react-load-script';
 import graphql from 'graphql';
 import FeaturedPosts from '../components/FeaturedPosts';
+import MoreRecentPosts from '../components/MoreRecentPosts';
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -28,6 +29,15 @@ export default class IndexPage extends React.Component {
       )
       .slice(0, 4);
   }
+  getMoreRecentPosts(posts) {
+    return posts
+      .filter(
+        post =>
+          post.node.frontmatter.templateKey === 'interview-post' ||
+          post.node.frontmatter.templateKey === 'review-post'
+      )
+      .slice(4);
+  }
 
   render() {
     const { data } = this.props;
@@ -42,44 +52,14 @@ export default class IndexPage extends React.Component {
         <div className="container">
           <div className="content">
             <FeaturedPosts posts={this.getFeaturedPosts(posts)} />
-            <h3 className="more-recent">More recent articles</h3>
-          </div>
-          {posts
-            .filter(
-              post =>
-                post.node.frontmatter.templateKey === 'interview-post' ||
-                post.node.frontmatter.templateKey === 'review-post'
-            )
-            .slice(4)
-            .map(({ node: post }) => (
-              <div className="content post-preview" key={post.id}>
-                <Img
-                  className="img-preview"
-                  alt={post.frontmatter.title}
-                  sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
-                />
-                <div className="text">
-                  <p>
-                    <Link className="post-link" to={post.frontmatter.path}>
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.frontmatter.description}
-                    <br />
-                    <br />
-                    <Link
-                      className="button is-small"
-                      to={post.frontmatter.path}
-                    >
-                      Keep Reading →
-                    </Link>
-                  </p>
-                </div>
+
+            <div className="columns">
+              <div class="more-recent column is-two-thirds">
+                <h3>More recent articles</h3>
+                <MoreRecentPosts posts={this.getMoreRecentPosts(posts)} />
               </div>
-            ))}
+            </div>
+          </div>
         </div>
       </section>
     );
