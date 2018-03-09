@@ -3,6 +3,7 @@ import Link from 'gatsby-link';
 import Img from 'gatsby-image';
 import Script from 'react-load-script';
 import graphql from 'graphql';
+import FeaturedPosts from '../components/FeaturedPosts';
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -18,18 +19,29 @@ export default class IndexPage extends React.Component {
     window.netlifyIdentity.init();
   }
 
+  getFeaturedPosts(posts) {
+    return posts
+      .filter(
+        post =>
+          post.node.frontmatter.templateKey === 'interview-post' ||
+          post.node.frontmatter.templateKey === 'review-post'
+      )
+      .slice(0, 4);
+  }
+
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <section className="section interviews">
+      <section className="section home">
         <Script
           url="https://identity.netlify.com/v1/netlify-identity-widget.js"
           onLoad={() => this.handleScriptLoad()}
         />
         <div className="container">
           <div className="content">
+            <FeaturedPosts posts={this.getFeaturedPosts(posts)} />
             <h1 className="has-text-weight-bold is-size-2">Latest articles</h1>
           </div>
           {posts

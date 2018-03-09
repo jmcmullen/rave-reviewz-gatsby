@@ -2,10 +2,11 @@
 templateKey: interview-post
 path: /interview/shepz-church-of-techno
 title: Shepz @ Church of Techno
-date: 2018-03-08T05:59:12.568Z
+date: 2017-11-14T05:59:12.568Z
 description: todo
 featuredImage: /img/img_7286.jpg
 ---
+
 Shepz has been doing proper techno in Sydney for a good while and those familiar with his Church of Techno parties will know exactly how they go off. We caught up with the high priest for a special sermon...
 
 RR: Hey mate, good to see ya. Church of Techno has been representing the harder end of the house & tech spectrum in Sydney since 2010. Talk me through how it started.
@@ -16,19 +17,13 @@ RR: …and The Techno Bug moniker grew out of that?
 
 Shepz: The Techno Bug was actually a name for parties that I used to run in London at Corsica Studios and 54 Commercial Street in the years before coming to Sydney. When we brought the Church of Techno brand in to the nightlife scene, it felt right to use another name to differentiate it from the Sunday day parties. It also allowed us to use really cool branding concepts, like mechanical bugs and bugged out graphics.
 
-
-
 RR: So how do you think the techno scene has progressed in Sydney over the years?
 
 Shepz: Now there's a loaded question haha! We've seen parties and brands come and go, we've seen things go up and down. I think the underground scene has flourished - like outdoor parties and warehouses, but the club scene has certainly taken a hit. Deep House and Tech House has dominated Sydney clubbing to be honest. It's unfortunate that the wider audience of punters in Sydney like to hear familiar tunes with the same DJs at Sydney clubs. And a lot of promoters have played it safe, especially after the lock out laws hit. There are some great parties happening right now though, like some of the warehouse parties. And I'm a really big fan of the .darkroom events, Gav really puts his heart and soul into it.
 
-
-
 RR: You’ve brought some quality DJs over including one of our faves - Max Cooper. Which was the most memorable Church of Techno gig for you?
 
 Shepz: Max Cooper is also one of my favourites. I'll never forget it, it was an honour to have Max play for us. Boris Brejcha was also pretty intense, the party was off chains! I'll always fondly remember the day parties we used to run on Sundays though - they were loose as hell, and damn good fun.
-
-
 
 RR: Bass to Pain Converter is headlining your event this weekend - he’s been bringing the pain in Berlin and Australia for a while. What do you think we can expect from him?
 
