@@ -36,7 +36,7 @@ export default class IndexPage extends React.Component {
           post.node.frontmatter.templateKey === 'interview-post' ||
           post.node.frontmatter.templateKey === 'review-post'
       )
-      .slice(4);
+      .slice(4, 12);
   }
 
   render() {

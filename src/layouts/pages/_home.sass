@@ -88,9 +88,13 @@
     justify-content: space-between;
     padding: 0;
     border: none;
+    @include mobile
+      flex-direction: column;
+
     .post-link
       font-family: 'Oswald', sans-serif;
       margin-top: 2rem;
+
     p
       margin-bottom: 5px;
 
@@ -99,3 +103,6 @@
     margin-bottom: 0;
     width: 220px;
     height: 220px;
+    @include mobile
+      margin-bottom: 1rem;
+      width: 100%;
