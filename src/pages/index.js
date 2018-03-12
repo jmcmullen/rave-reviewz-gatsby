@@ -54,7 +54,7 @@ export default class IndexPage extends React.Component {
             <FeaturedPosts posts={this.getFeaturedPosts(posts)} />
 
             <div className="columns">
-              <div class="more-recent column is-two-thirds">
+              <div className="more-recent column is-two-thirds">
                 <h3>More recent articles</h3>
                 <MoreRecentPosts posts={this.getMoreRecentPosts(posts)} />
               </div>

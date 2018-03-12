@@ -6,11 +6,11 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   const people = [
-    { name: 'Kamran', img: require('../img/kamran.jpg'), role: 'Bossman' },
-    { name: 'Sean', img: require('../img/sean.jpg'), role: 'Progaholic' },
+    { name: 'Kamran', img: require('../img/kamran.jpg'), role: 'Captain' },
+    { name: 'Sean', img: require('../img/sean.jpg'), role: 'Editor' },
     { name: 'Jay', img: require('../img/jay.jpg'), role: 'Algorithms' },
-    { name: 'Thomas', img: require('../img/thomas.jpg'), role: 'Raver' },
-    { name: 'Magdalena', img: require('../img/mag.jpg'), role: 'Jurno' },
+    { name: 'Thomas', img: require('../img/thomas.jpg'), role: 'Field Agent' },
+    { name: 'Magdalena', img: require('../img/mag.jpg'), role: 'Journo' },
     { name: 'Nick', img: require('../img/nick.jpg'), role: 'Graphics' },
   ];
 

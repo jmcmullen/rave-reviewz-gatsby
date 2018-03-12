@@ -32,6 +32,25 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
+  - name: "community"
+    label: "Community"
+    folder: "src/pages/community"
+    create: true
+    slug: "/community/{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Link", name: "link", widget: "string"}
+  - name: "podcasts"
+    label: "Podcasts"
+    folder: "src/pages/podcasts"
+    create: true
+    slug: "/podcasts/{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Link", name: "link", widget: "string"}
+  
   # - name: "pages"
   #   label: "Pages"
   #   files:

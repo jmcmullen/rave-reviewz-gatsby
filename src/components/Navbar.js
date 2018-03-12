@@ -8,6 +8,7 @@ import {
   volumeHigh,
   users,
   newspaper,
+  ticket,
   bubbles,
 } from 'react-icons-kit/icomoon';
 
@@ -66,6 +67,26 @@ class Navbar extends Component {
         </Link>
       );
     });
+
+    const eventsMobile = (
+      <a
+        className="menu-item"
+        href="https://ravereviewz.net"
+        onClick={this.closeMenu}
+      >
+        <Icon className="menu-icon" icon={ticket} size={25} />
+        Events
+      </a>
+    );
+
+    const eventsDesktop = (
+      <a className="navbar-item" href="https://ravereviewz.net/">
+        Events
+      </a>
+    );
+
+    linksMobile.splice(1, 0, eventsMobile);
+    linksDesktop.splice(1, 0, eventsDesktop);
 
     return (
       <div>
