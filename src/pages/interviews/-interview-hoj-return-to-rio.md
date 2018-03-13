@@ -56,4 +56,4 @@ Shortly after his departure from sunny Sydney, we caught up with master musicolo
 
 **RR:** Sounds dope. Thanks for the chat and we hope to catch you in Australia again soon!
 
-Photo credit: Martin Vivian Pearse
+Photo credit: Martin Vivian Pearse📷

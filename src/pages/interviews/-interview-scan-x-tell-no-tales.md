@@ -4,12 +4,11 @@ path: /interview/scan-x-tell-no-tales
 title: Scan X @ Tell No Tales
 date: 2018-02-19T11:26:49.195Z
 description: >-
-  We had a chat with lauded French techno DJ and composer, Stéphane Dri AKA Scan X about his
-  live performances, longevity in the game and production partnership with
-  fellow pioneer, Laurent Garnier. 
+  We had a chat with lauded French techno DJ and composer, Stéphane Dri AKA Scan
+  X about his live performances, longevity in the game and production
+  partnership with fellow pioneer, Laurent Garnier. 
 featuredImage: /img/scan-x.jpg
 ---
-
 _In preparation for his performance on Saturday at [Tell No Tales](https://www.facebook.com/tellnotalesau), we had a chat with lauded French techno DJ and composer, **Stéphane Dri AKA [Scan X](https://www.facebook.com/scanxmusic/)** about his live performances, longevity in the game and production partnership with fellow pioneer, Laurent Garnier._
 
 **RR:** Scan X! We’re excited for your set at Tell No Tales - what can we expect from it?
@@ -32,7 +31,7 @@ _In preparation for his performance on Saturday at [Tell No Tales](https://www.f
 
 **Scan X:** The concept of the main track was to do something not necessarily focused on the dancefloor and to invite many remixers to bring it to the floor.
 
-[yt:vPOzHu8Gz1U]
+\[yt:vPOzHu8Gz1U]
 
 **RR:** Cool. You’re definitely one of the pioneers of the French techno scene, how do you think it has developed over the years?
 
@@ -55,5 +54,3 @@ _In preparation for his performance on Saturday at [Tell No Tales](https://www.f
 **Scan X:** I have some new productions coming out, but first I have to try them in my live show to see if there is a good reaction from the Australian audience haha.
 
 **RR:** Sounds like we’re in for something special. See you at the show!
-
-_Tell No Tales takes over the Greenwood Hotel on Saturday 24th Feb. Get your tickets [here](https://www.eventbrite.com.au/e/tell-no-tales-sydney-tickets-41258327769)._

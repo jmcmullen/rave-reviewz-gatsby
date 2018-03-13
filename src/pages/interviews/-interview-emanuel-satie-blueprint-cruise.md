@@ -52,4 +52,4 @@ featuredImage: /img/emanuel-satie.jpg
 
 **Emanuel:** Haha. That’s amazing, I hope so too!
 
-Photo credit: [Scott Bruce Photography](https://www.facebook.com/scottbrucephotography/)
+Photo credit: [Scott Bruce Photography](https://www.facebook.com/scottbrucephotography/) 📷

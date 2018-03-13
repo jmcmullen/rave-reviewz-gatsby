@@ -51,5 +51,3 @@ Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.f
 **Andy:** Spend more time in the studio!
 
 **RR:** Get the kids involved! Haha. Have a great Christmas mate.
-
-Tickets for Rotarydisco & co’s NYD extravaganza are available [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fpulseradio.net%2Fevents%2Fview%2F14545&h=ATNx7qDfr3dF7VxgVl5iP6Ds3Ll3vFGCdOrG7Ltanq6vCd7XtjF0dOpNm9bN5CHvJjtjCZIhf5pnFgZQlBwHSIC8GpaVedGyp94AQDBQSVkgwiFvDv06rWbT)

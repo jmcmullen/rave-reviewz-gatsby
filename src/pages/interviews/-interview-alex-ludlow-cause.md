@@ -49,5 +49,3 @@ The name CAUSE is fast becoming synonymous with minimal techno in Sydney. Whethe
 **Alex:** Well, we’ve got an event in Terrigal at Rhonda’s on December 17th, our Christmas Party at The Bunk3r on the 22nd and then [Elrow Australia @ Horden Pavilion](https://www.facebook.com/events/375444536201567/) in January! 
 
 **RR: **Busy times! Looking forward to them mate, cheers.
-
-You can find tickets for the East End Dubs gig on Dec 9th [here](https://www.facebook.com/events/126513934731764/).
