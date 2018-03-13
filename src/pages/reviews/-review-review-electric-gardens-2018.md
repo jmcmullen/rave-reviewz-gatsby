@@ -1,8 +1,8 @@
 ---
 templateKey: review-post
 path: /review/electric-gardens
-title: 'Review: Electric Gardens 2018'
-date: 2018-02-03T15:27:00+11:00
+title: 'Electric Gardens 2018: Review'
+date: 2018-02-03T04:27:00.000Z
 description: >-
   The atmosphere in Sydney reached fever pitch as Electric Gardens Festival
   rolled in to town last weekend, boasting a cast of heavy-hitters from across
