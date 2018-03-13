@@ -2,13 +2,12 @@
 templateKey: interview-post
 path: /interview/shepz-church-of-techno
 title: Shepz @ Church of Techno
-date: 2017-11-14T16:59:12+11:00
+date: 2017-11-14T05:59:12.000Z
 description: >-
   Ahead of The Techno Bug event, we caught up with Church of Techno Sydney's
   high priest Shoaib Shepz Mughal AKA Shepz for a special sermon...
 featuredImage: /img/shepz-church-of-techno.jpg
 ---
-
 [Shepz](https://www.facebook.com/Shepz-156972351076686/) has been doing proper techno in Sydney for a good while and those familiar with his Church of Techno parties will know exactly how they go off. We caught up with the high priest for a special sermon...
 
 **RR:** Hey mate, good to see ya. [Church of Techno](https://www.facebook.com/Church-of-Techno-137093736302751/) has been representing the harder end of the house & tech spectrum in Sydney since 2010. Talk me through how it started.
@@ -63,5 +62,3 @@ RR: Bass to Pain Converter is headlining your event this weekend - he’s been b
 **Shepz:** Probably [Kollectiv Turmstrasse](https://www.facebook.com/kollektivturmstrasse/) - although not strictly techno, they'd be a solid booking. Other than that, I'd like to be able to book Dopamine again. Matty was a resident of ours in the early days of Church of Techno, and tore many a head apart at our parties over the years.
 
 **RR:** Nice one. Cheers mate, catch you at the service!
-
-Church of Techno’s “The Techno Bug” is in session this Friday 17th Nov. Get your tickets [here](https://www.facebook.com/events/694323604094382/).
