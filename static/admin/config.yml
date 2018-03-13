@@ -48,7 +48,7 @@ collections:
     create: true
     slug: "/podcasts/{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "podcasts-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
       - {label: "Link", name: "link", widget: "string"}

@@ -11,7 +11,6 @@ export const HTMLContent = ({ content, className }) => {
    * Find facebook and youtube video ids and replace with player
    * Syntax: [fb:videoId] & [yt:videoId]
    */
-  console.log(FB_VIDEO_REGEX, YT_VIDEO_REGEX);
   const sections = content
     .split(YT_VIDEO_REGEX)
     .join('[section_break]')

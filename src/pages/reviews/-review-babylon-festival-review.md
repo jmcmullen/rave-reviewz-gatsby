@@ -24,7 +24,7 @@ With no sign of rain on Saturday morning the crowds started to gather early, man
 
 Things got serious when [Matrixxman](https://www.facebook.com/matrixxman/) took to the Bloc stage with his dark beats, then true to form the legendary [Carl Cox](https://www.facebook.com/carlcox247/) brought the groove back - dropping in a Talking Heads ‘Psychokiller’ remix at one point, before taking the enthralled audience on a journey through more powerful numbers. With the stage reaching capacity, Cox was clearly the highlight for many of the revellers, but the techno contingent was in full support of the sets delivered later by Enrico Sangiuliano and [Victor Ruiz](https://www.facebook.com/victorruizofficial/). With their similar styles, they flowed seamlessly from one to the next and ended Saturday’s session on an energetic high.
 
-\[fb:594377640913256]
+[fb:594377640913256]
 
 Feeling the burn from the previous two days, we rocked up late on Sunday to the delicious surprise of Carl Cox & Eric Powell’s Mobile Disco project, comprising soulful, funky tracks from the 70s all the way to the early 2000s. Fully refreshed by the familiar disco anthems, surrounded by natural beauty and friendly faces, the Babylonians were in their element.
 
