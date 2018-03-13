@@ -3,12 +3,12 @@ templateKey: interview-post
 path: /interview/stuart-hunter
 title: Stuart Hunter @ Motif
 date: 2017-10-25T06:36:58.000Z
-description: todo
+description: >-
+  Ahead of their 1st birthday celebration at the Civic this Friday, featuring
+  progressive powerhouse Khen, we caught up with Stuart Hunter of Sydney-based
+  events crew Motif for a chat.
 featuredImage: /img/stuart-hunter.jpg
 ---
-
-Ahead of their [1st birthday celebration](https://www.facebook.com/events/1780327001992048/) at the Civic this Friday, featuring progressive powerhouse Khen, we caught up with Stuart Hunter of Sydney-based events crew Motif for a chat.
-
 **RR:** Stuart, happy birthday to [Motif](https://www.facebook.com/MOTIFSYDNEY/)! You’ve definitely made an impact on the prog house scene in Sydney. Tell us how Motif came in to being.
 
 **Stuart:** Thanks! Well Barry Kitts, Jesse Koora and myself are all from the UK and knew each other from going to the same parties in Sydney. We all decided to start DJing around 2014 then eventually progressed to doing our own parties.
