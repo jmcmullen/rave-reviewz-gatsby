@@ -6,7 +6,7 @@ date: 2018-03-12T21:00:00+11:00
 description: "“For 5 years, they’ve been our partners, friends and family…. The label helps us to get inspired but our gigs inspire us the most.” \n- Teenage Mutants on Stil vor Talent! \U0001F3A7\n\nCheck out our interview with the dynamic duo, before their Social Bewegung gig on Saturday."
 featuredImage: /img/teenage - mutants.jpg
 ---
-_A pair of ninjas behind the decks, Christian and Paco AKA _[**_Teenage Mutants_**](https://www.facebook.com/teenagemutants/)_ have been igniting dancefloors around the world. Here’s our chat with the Stil Vor Talent duo, as they prepare for Saturday’s Social Bewegung event._
+_A pair of ninjas behind the decks, Christian and Paco AKA _[_**Teenage Mutants**_](https://www.facebook.com/teenagemutants/)_ have been igniting dancefloors around the world. Here’s our chat with the Stil Vor Talent duo, as they prepare for Saturday’s _[_Social Bewegung_](https://www.facebook.com/socialbewegung/)_ event._
 
 **RR: **Teenage Mutants - welcome! We're really looking forward to your gig at the Civic Underground on Saturday. What can we expect from your set?
 
