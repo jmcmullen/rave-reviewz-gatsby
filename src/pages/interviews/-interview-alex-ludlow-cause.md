@@ -3,11 +3,14 @@ templateKey: interview-post
 path: /interview/alex-ludlow-cause
 title: Alex Ludlow @ CAUSE
 date: 2017-11-24T05:35:37.000Z
-description: todo
+description: >-
+  The name CAUSE is fast becoming synonymous with minimal techno in Sydney.
+  Whether it’s on their home turf of the Bunk3r or further afield, Alex Ludlow &
+  David James have built a reputation for high quality events with a solid music
+  policy. Here’s our chat with founding member Alex, on fighting for the
+  CAUSE...
 featuredImage: /img/alex-ludlow.jpg
 ---
-The name CAUSE is fast becoming synonymous with minimal techno in Sydney. Whether it’s on their home turf of the Bunk3r or further afield, Alex Ludlow & David James have built a reputation for high quality events with a solid music policy. Here’s our chat with founding member Alex, on fighting for the [CAUSE](https://www.facebook.com/CauseSydney/)...
-
 **RR:** Alex, thanks for joining us. [CAUSE](https://www.facebook.com/CauseSydney/) is definitely making waves on the Sydney house & tech scene. How did it all start? 
 
 **Alex:** Well I used to do events in Wollongong then when I moved to Sydney, I started collaborating with a like-minded bunch and we started CAUSE. We’ve been through a lot of changes over the years and now it’s just me and [David James](https://www.facebook.com/Davidjamesdjpage/). We’re both on the same wavelength and always seem to make the same decisions, so it’s a really good duo we have going on. Having 2 people is key I think, it keeps you motivated.
