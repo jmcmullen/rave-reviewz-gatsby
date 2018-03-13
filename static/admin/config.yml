@@ -39,6 +39,7 @@ collections:
     slug: "/community/{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
       - {label: "Link", name: "link", widget: "string"}
   - name: "podcasts"
@@ -48,6 +49,7 @@ collections:
     slug: "/podcasts/{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
       - {label: "Link", name: "link", widget: "string"}
   
