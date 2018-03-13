@@ -51,5 +51,3 @@ With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to se
 **Mark: **Well after the Sea Raid this Saturday there is talk of a secret beach party and possibly a small bush doof! We generally only do 4 parties each year, so for us and our guests each event we do is very special.
 
 **RR:** Sounds great, thanks for the chat!
-
-You can grab one of the last remaining tickets to this Saturday’s sea raid [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.stickytickets.com.au%2F62101%2Fnorti_vikings_010_sea_raid_cruise_w_dj_ruby.aspx&h=ATPkB7qlSSmrf9DQrBLhyBL086zbC4iv53nQgffsZpnjIfMGdUzxijDmnCgDkYzTskzOXtRt8l7udHlKwWqREmkgJoD5IB-qQmLeZzAAEBVAKEdfKrgD1WYA).
