@@ -32,22 +32,13 @@ export default ({ data }) => {
   );
 };
 
-export const aboutPageQuery = graphql`
+export const communityPageQuery = graphql`
   query PodcastsPage($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
         path
-        date(formatString: "MMMM DD, YYYY")
         title
-        description
-        featuredImage {
-          childImageSharp {
-            sizes(maxWidth: 500) {
-              ...GatsbyImageSharpSizes
-            }
-          }
-        }
       }
     }
   }

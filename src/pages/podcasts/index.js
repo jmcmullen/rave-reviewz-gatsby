@@ -4,7 +4,7 @@ import Img from 'gatsby-image';
 import Script from 'react-load-script';
 import graphql from 'graphql';
 
-export default class CommunityPage extends React.Component {
+export default class PodcastsPage extends React.Component {
   handleScriptLoad() {
     if (typeof window !== `undefined` && window.netlifyIdentity) {
       window.netlifyIdentity.on('init', user => {
@@ -23,7 +23,7 @@ export default class CommunityPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <section className="community">
+      <section className="podcasts">
         <Script
           url="https://identity.netlify.com/v1/netlify-identity-widget.js"
           onLoad={() => this.handleScriptLoad()}
@@ -31,7 +31,7 @@ export default class CommunityPage extends React.Component {
         <div className="container">
           {posts
             .filter(
-              post => post.node.frontmatter.templateKey === 'community-post'
+              post => post.node.frontmatter.templateKey === 'podcasts-post'
             )
             .map(({ node: post }) => (
               <div className="content commmunity-preview" key={post.id}>
@@ -51,7 +51,7 @@ export default class CommunityPage extends React.Component {
 }
 
 export const pageQuery = graphql`
-  query CommunityQuery {
+  query PodcastsQuery {
     allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {

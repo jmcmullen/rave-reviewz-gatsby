@@ -32,7 +32,7 @@ export default ({ data }) => {
   );
 };
 
-export const aboutPageQuery = graphql`
+export const communityPageQuery = graphql`
   query CommunityPage($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
