@@ -2,14 +2,13 @@
 templateKey: interview-post
 path: /interview/atish-the-rio-rooftop
 title: Atish @ The Rio Rooftop
-date: 2018-02-20T00:50:56+11:00
+date: 2018-02-19T13:50:56.000Z
 description: >
   Before his highly anticipated sunset session at The Rio Rooftop this Friday,
   we caught up with sonic curator and connect 4 enthusiast Atish, to discuss his
   fast-paced career and side projects. Read on!
 featuredImage: /img/atish.jpg
 ---
-
 _Before his highly anticipated sunset session at [The Rio Rooftop](https://www.facebook.com/events/493902811009824/) this Friday, we caught up with sonic curator and [connect 4](https://www.youtube.com/watch?v=xuZK5MDLpxw) enthusiast **[Atish](https://www.facebook.com/atishmusic/)**, to discuss his fast-paced career and side projects. Read on!_
 
 **RR:** Hi Atish! So we’re hyped for your performance at The Rio Rooftop on Friday - what can we expect from your set?
@@ -45,5 +44,3 @@ _Before his highly anticipated sunset session at [The Rio Rooftop](https://www.f
 **Atish:** After this Australia tour, I have a couple weeks off back home in San Francisco to prepare for my move to New York, which I’m quite excited about. Beyond that I’ve been spending a lot of time on a new clothing line I’m starting called Peculiar Colors, which is way more fun that I imagined and another medium of self-expression. I’m hoping for it to launch in the next 2-3 months, so feel free to follow along on our Instagram.
 
 **RR:** Put us down for some onesies! Thanks for your time Atish.
-
-_Grab your tickets to see Atish @ The Rio Rooftop [here](https://www.facebook.com/events/493902811009824/)_
