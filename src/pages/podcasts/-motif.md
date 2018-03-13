@@ -1,6 +1,7 @@
 ---
 templateKey: podcasts-post
-featuredImage: /img/alex-dimitroff.jpg
-url: https://soundcloud.com/
-title: Motif
+title: Motif Podcast
+featuredImage: /img/motif-podcast.jpg
+link: 'https://soundcloud.com/user-823852767'
 ---
+
