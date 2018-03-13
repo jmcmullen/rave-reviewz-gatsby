@@ -3,11 +3,13 @@ templateKey: interview-post
 path: /interview/kerry-wallace
 title: Kerry Wallace @ S*A*S*H
 date: 2017-11-18T05:50:58.000Z
-description: todo
+description: >-
+  In the world of Sydney house & techno, they don’t come bigger than Kerry
+  Wallace - DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of
+  Sydney’s most revered nightlife institutions, S*A*S*H. Ladies & gents, here’s
+  the man responsible for more Mondays taken off work than anyone in history… 
 featuredImage: /img/kerry-wallace.jpg
 ---
-In the world of Sydney house & techno, they don’t come bigger than [Kerry Wallace](https://www.facebook.com/Kerry-Wallace-170152376404195/) - DJ, part-owner of Inner West vibes-den [SLYFOX](https://www.facebook.com/slyfoxenmore) and pioneer of one of Sydney’s most revered nightlife institutions, [S\*A\*S*H](https://l.facebook.com/l.php?u=http%3A%2F%2Fsash.net.au%2F&h=ATPDNOgnpVy4OZ6FhtUems_esUFtJ2XnRXCkIOTZHoVGIEtXyYsepho3reGorx8NUz5O2nPDjtixe3CF1Gk3REYgtRj366jiI6JlioAOgVoac0v6tTvvorw3). Ladies & gents, here’s the man responsible for more Mondays taken off work than anyone in history… 
-
 **RR:** Kerry, great to see you. Let’s dive straight into our favourite Sunday sesh – how did S.A.S.H begin? 
 
 **Kerry:** It actually started in London. I moved to England when I was about 22 and lived there for 5 years. I ran a party called Pulp Sessions at [Egg](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.egglondon.co.uk%2F&h=ATO5HUgfK6ue5T3lj7fLlSN_eo9QS2CZCzrPrhbAXPpFqkbr5LDMBP-olE9un0lReZWW0xadm5xoCKpkxWiBKD2IV9Kk43NwwCxPtS7uXjeh7NKjTk89EVo3) which used to shut at midday on Sunday, then everyone would carry-on partying at the Chapel bar, which we ran for a couple of years under the S.A.S.H banner. That was S.A.S.H back in the day!
