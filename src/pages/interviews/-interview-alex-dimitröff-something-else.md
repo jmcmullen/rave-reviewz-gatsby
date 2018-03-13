@@ -2,13 +2,12 @@
 templateKey: interview-post
 path: /interview/alex-dimitröff-something-else
 title: Alex Dimitröff @ Something Else
-date: 2017-12-15T15:28:33+11:00
+date: 2017-12-15T04:28:33.000Z
 description: >-
   Here's our chat with Alex Dimitröff, one of the funkiest fellas in the Sydney
   house & techno scene. 
 featuredImage: /img/alex-dimitroff.jpg
 ---
-
 For years, [Something Else](https://www.facebook.com/SomethingElseSyd/) have been putting on some of the finest parties Sydney’s underground scene has to offer. We met up with the brand’s personal Jesus - Alex Dimitröff for a chat...
 
 **RR:** Alex - Your [Something Else](https://www.facebook.com/SomethingElseSyd/) parties have become a firm favourite for the city’s house and techno heads. Can you tell us how it all began?
@@ -52,5 +51,3 @@ For years, [Something Else](https://www.facebook.com/SomethingElseSyd/) have bee
 **Alex:** Be around the 120 - 130 mark I’d say... favourite pair changes every week, but New Balance x Concepts 997 Rosé or the Ronnie Fieg x New Balance Mykonos pack are always in the weekly rotation. And you can't go wrong with the OG shape Air Max 1...
 
 **RR:** We’ll hunt a pair down - cheers Alex!
-
-Grab your tickets for the Something Else - Eric Cloutier party [here](https://www.facebook.com/events/1129443013858251/)
