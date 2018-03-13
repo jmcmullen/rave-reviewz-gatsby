@@ -1,8 +1,8 @@
 ---
 templateKey: review-post
-path: /review/
+path: /review/babylon
 title: 'Babylon Festival: Review'
-date: 2018-03-07T15:11:04+11:00
+date: 2018-03-07T04:11:04.000Z
 description: >-
   The much awaited second edition of Babylon festival finally came around the
   other week - with a line up of highly respected underground electronic artists
