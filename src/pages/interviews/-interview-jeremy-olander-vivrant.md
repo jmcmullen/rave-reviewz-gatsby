@@ -42,7 +42,7 @@ Recognised for his technical artistry and endearing releases, J[eremy Olander](h
 
 **Jeremy:** Impossible to pick one! They all have a special place for me and usually represent what I was feeling and going through at a certain time of my life. One that I really enjoy playing out at the moment is [Galheera](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fgalheera-original-mix%2F9804084&h=ATMyzTvgd7oEspKm-xk2uJTFWGLRr_Ua4DXX-9HGoile9M6sPfadpm7u8LStGrTD4QtIfA4m9GRVkGKFerW8K8BAax8jYEWRTKcStzcVVofKEPwd8bsi57n4) though.
 
-![](/img/26240756_568113143539706_3482597045067097714_o.jpg)
+![null](/img/26240756_568113143539706_3482597045067097714_o.jpg)
 
 **RR:** And of all the sets you've played, can you pick one for us that really stands out in your memory?
 
@@ -58,4 +58,4 @@ Recognised for his technical artistry and endearing releases, J[eremy Olander](h
 
 **RR:** Great film! See you in a few weeks!
 
-Watch Jeremy in action on the [Rio](https://www.facebook.com/ReturnToRio/) Hangout stage at Electric Gardens on Jan 27th. Grab your ticket [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eventbrite.com.au%2Fe%2Felectric-gardens-festival-2018-sydney-tickets-38489481074&h=ATMKI4mxiGY0ssHXVAUsfnplNIjjIwRg0LZkDPEdWgDlNllsN48okHHVzU3toa1f0LddoqGg_sRWB9zjvuUPsQSweXwI02_43SHIuBk8y6jZIcAIjNgkFCZK).
+Watch Jeremy in action on the [Rio](https://www.facebook.com/ReturnToRio/) Hangout stage at Electric Gardens on Jan 27th.
