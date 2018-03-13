@@ -6,7 +6,6 @@ date: 2018-01-12T00:36:22.000Z
 description: We grabbed a chat with the boys behind Canvas Events.
 featuredImage: /img/nathan-mitch.jpg
 ---
-
 With a reputation for hosting unique parties on Sydney’s underground circuit, we caught up with 2 of the founding fathers of [Canvas Events](https://www.facebook.com/canvaseventssydney/), Nathan Shackcloth & Mitch Fowler, before their big [boat party](https://www.facebook.com/pg/canvaseventssydney/events/?ref=page_internal) tomorrow...
 
 **RR:** Hey guys - good to chat. We’re hyped for this Saturday’s big sunset cruise with [Ben Rau](https://www.facebook.com/BenRauMusic/), who previously played at your 2nd birthday bash. What do you think he'll bring to the party this time?
@@ -17,7 +16,7 @@ With a reputation for hosting unique parties on Sydney’s underground circuit, 
 
 **Mitch:** We're all from the UK and used to go to similar parties but didn't actually know each other until we started playing out here. We all got introduced at an after party one day (big love Sam McKenzie!) and all had ideas to start an event - so we sat down, put our ideas together and all shared similar visions. Next thing, the parties started!
 
-[fb:1701206733506390]
+\[fb:1701206733506390]
 
 **RR:** And where did the idea for the name come from?
 
@@ -58,5 +57,3 @@ With a reputation for hosting unique parties on Sydney’s underground circuit, 
 **Mitch:** Probably spread our parties out a bit more and make each one more special!
 
 **RR:** Nice. See you both on the boat!
-
-Grab your tickets to the Canvas Cruise with Captain Ben Rau [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.residentadvisor.net%2Fevents%2F1042776&h=ATOzR1XF07JdnUmGIsaL7dbo0_iNOcsWxR4GFAyZLzksRlaFl1rCpd-inscVQ4cJ9lkTD4hevnJoCK9G1KxblOcUVcRvpghK2r5Xo10zdMxg1uz3J4_eYySh)
