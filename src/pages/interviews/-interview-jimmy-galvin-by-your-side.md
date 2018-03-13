@@ -8,7 +8,6 @@ description: >
   with the talented Francesca Lombardo. 
 featuredImage: /img/jimmy-galvin.jpg
 ---
-
 **RR:** Jimmy! Good to chat - we’re hyped for the Francesca Lombardo boat party this weekend. What do you think we can expect from her set?
 
 **Jimmy:** Thanks for having me. I think you can expect her to put a tasteful and professional show on. Anyone that’s ever watched and listened to Francesca play walks away from her sets feeling fulfilled and appreciative. In terms of her selections? I really can’t say, she’s such a versatile deejay - which makes this Saturday’s cruise so exciting.
@@ -54,7 +53,5 @@ When I was younger my friend ‘Feeder’ Newbrun and I would crank Sunset every
 **Jimmy:** We have our 2018 edition of Two-Up & Techno coming up, which I can quite easily say is the best local-line up I’ve ever seen for a techno event - we’ll be announcing next week. We’re in some exciting talks with a range of international acts to play under our banner over the course of the year, and just as exciting discussions with unique venue owners across Sydney. We also of course hold our monthly residency, on the first Friday of the month at SLYFOX in Enmore, which we started last October and is going from strength to strength.
 
 **RR:** Good stuff. Thank you Jimmy.
-
-Grab your tickets for the BYS Sunset Cruise with Francesca Lombardo here
 
 _Photo by Camila Torres Photography_ 📷
