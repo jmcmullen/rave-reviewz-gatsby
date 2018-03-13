@@ -16,7 +16,7 @@ export const InterviewPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
-  const url = `http://www.ravereviewz.net.au/${path}`;
+  const url = `http://magazine.ravereviewz.net/${path}`;
 
   const meta = [
     { name: 'description', content: description },

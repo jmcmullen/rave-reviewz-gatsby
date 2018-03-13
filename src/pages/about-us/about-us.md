@@ -12,6 +12,8 @@ Our mission is to support good music, make it easier for people to find the righ
 
 You’ll find the Rave Reviewz team all over Sydney, supporting local talent, letting you know about local parties, interviewing DJs and reviewing gigs. If you see one of us, come say hello.
 
+Contact us on admin@ravereviewz.net
+
 &nbsp;
 &nbsp;
 

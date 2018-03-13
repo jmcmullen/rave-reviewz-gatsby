@@ -1,6 +1,6 @@
 # Rave Reviewz Gatsby + Netlify CMS
 
-This repo contains our magazine site for posting interviews with artists for upcoming events in Sydney that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Live Site](https://www.ravereviewz.net.au/)**.
+This repo contains our magazine site for posting interviews with artists for upcoming events in Sydney that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Live Site](https://magazine.ravereviewz.net/)**.
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
