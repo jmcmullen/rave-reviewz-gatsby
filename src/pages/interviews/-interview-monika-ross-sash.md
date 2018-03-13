@@ -2,14 +2,13 @@
 templateKey: interview-post
 path: /interview/monika-ross-sash
 title: Monika Ross @ S.A.S.H
-date: 2018-03-03T00:15:33+11:00
+date: 2018-03-02T13:15:33.000Z
 description: >-
   Forging an impressive path in both Australia and Europe, Monika Ross has a
   stellar reputation in the game. We spoke to the highly sought-after DJ and
   producer before Sunday’s landmark 500th party at S.A.S.H...
 featuredImage: /img/monika-ross.jpg
 ---
-
 _Forging an impressive path in both Australia and Europe, [Monika Ross](https://www.facebook.com/miss.monika.ross/) has a stellar reputation in the game. We spoke to the highly sought-after DJ and producer before Sunday’s landmark 500th party at S.A.S.H..._
 
 **RR:** Hey Monika! You'll be playing at [S.A.S.H](https://www.facebook.com/sashsundays/) by Night on Sunday, part of their 500th event celebrations - what can we expect from your set?
@@ -53,5 +52,3 @@ _Forging an impressive path in both Australia and Europe, [Monika Ross](https://
 **Monika:** I am doing another European tour this year starting in Berlin this April and I’m over the moon to be getting to experience Tel Aviv in Israel for the first time this year. Personally this year is about progression, living large and summer to summer rollin’ baby! See you next Australian summer.
 
 **RR:** Haha see you then!
-
-_Catch Monika Ross at S.A.S.H by Night on Sunday. Details [here](https://www.facebook.com/events/349280622256567/)_
