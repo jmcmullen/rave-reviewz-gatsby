@@ -1,6 +1,7 @@
 ---
 templateKey: community-post
-featuredImage: /img/alex-dimitroff.jpg
-url: https://bondiradio.com/
 title: Bondi Radio
+featuredImage: /img/bondi-radio.jpg
+link: 'http://www.bondiradio.com.au/'
 ---
+
