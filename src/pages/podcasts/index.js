@@ -58,7 +58,7 @@ export const pageQuery = graphql`
           excerpt(pruneLength: 400)
           id
           frontmatter {
-            url
+            link
             templateKey
             featuredImage {
               childImageSharp {

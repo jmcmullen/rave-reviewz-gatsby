@@ -37,8 +37,15 @@ export const communityPageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        path
-        title
+        link
+        templateKey
+        featuredImage {
+          childImageSharp {
+            sizes(maxWidth: 600) {
+              ...GatsbyImageSharpSizes
+            }
+          }
+        }
       }
     }
   }
