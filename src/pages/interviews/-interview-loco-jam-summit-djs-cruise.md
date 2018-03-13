@@ -3,10 +3,11 @@ templateKey: interview-post
 path: /interview/loco-jam-summit-djs-cruise
 title: Loco & Jam @ Summit DJs Cruise
 date: 2018-02-15T15:04:10.000Z
-description: We managed to track down Lloyd AKA Loco to find out what techno tag-team Loco & Jam have in store for this Saturday's boat party.
-featuredImage: "/img/loco-jam.jpg"
+description: >-
+  We managed to track down Lloyd AKA Loco to find out what techno tag-team Loco
+  & Jam have in store for this Saturday's boat party.
+featuredImage: /img/loco-jam.jpg
 ---
-
 _Some of you may remember a certain Vivid boat cruise last year featuring techno tag-team [Loco & Jam](https://www.facebook.com/locoandjam/), which pretty much set the bar for boat parties that followed. Well, the boys are back in Sydney for another round! We managed to track down **loyd AKA Loco** to find out what they have in store..._
 
 **RR:** Lloyd - we're looking forward to having you and James back in Sydney. Your Vivid cruise went off last year! What can we expect from your set this time?
@@ -50,5 +51,3 @@ _Some of you may remember a certain Vivid boat cruise last year featuring techno
 **Lloyd:** This is gonna be a big year for us! We are just back from a tour in South America, then we’re flying to Australia. We have a US tour coming up including a massive show at Miami Music Week and also some big festivals in the summer which we can’t announce yet. We’re also gonna be playing the [Tronic](https://www.facebook.com/tronicmusic/) Party in Ibiza and production wise we’ve got some massive releases on the way on [Tronic](https://www.facebook.com/tronicmusic/) and [Terminal M](https://www.facebook.com/TerminalMRecords/) as well as remixes for [Uto Karem](https://www.facebook.com/UtoKarem/) and [The Southern](https://www.facebook.com/thesouthernofficial/). Everything is falling into place just nice for this year and we can’t wait to see what else it has to offer.
 
 **RR:** Well deserved success mate, cheers.
-
-Grab your tickets to see Loco & Jam at the Summit DJs Sunset Cruise [here](http://www.moshtix.com.au/v2/event/loco-jam-sunset-cruise/100474).
