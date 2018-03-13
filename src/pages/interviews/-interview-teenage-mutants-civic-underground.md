@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/teenage-mutants-civic-underground
 title: Teenage Mutants @ Civic Underground
 date: 2018-03-12T21:00:00+11:00
-description: TBC - interview with the dynamic duo
+description: "“For 5 years, they’ve been our partners, friends and family…. The label helps us to get inspired but our gigs inspire us the most.” \n- Teenage Mutants on Stil vor Talent! \U0001F3A7\n\nCheck out our interview with the dynamic duo, before their Social Bewegung gig on Saturday."
 featuredImage: /img/teenage - mutants.jpg
 ---
 _A pair of ninjas behind the decks, Christian and Paco AKA _[**_Teenage Mutants_**](https://www.facebook.com/teenagemutants/)_ have been igniting dancefloors around the world. Here’s our chat with the Stil Vor Talent duo, as they prepare for Saturday’s Social Bewegung event._
