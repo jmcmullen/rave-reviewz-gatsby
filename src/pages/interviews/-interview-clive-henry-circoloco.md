@@ -6,7 +6,6 @@ date: 2018-01-03T03:41:03.000Z
 description: For a proper musical education read out our interview with DJ Clive.
 featuredImage: /img/clive-henry.jpg
 ---
-
 With the summer heating up and [Electric Gardens festival](https://www.facebook.com/electricgardensfestival/) just around the corner, we caught up with Circoloco resident [Clive Henry](https://www.facebook.com/clivehenrymusic/) in the run up to the main event...
 
 **RR:** Clive, great to chat. We're hyped to see you play at Electric Gardens festival in a few weeks. What can we expect from your set?
@@ -50,5 +49,3 @@ With the summer heating up and [Electric Gardens festival](https://www.facebook.
 **Clive:** Ha that was a long time ago when it was just beginning and getting recognition... KRS One, [Big Daddy Kane](https://www.facebook.com/OfficialBigDaddyKane/), Afrika Bambaata, Mantronix, Public Enemy... the originators and roots of it all.
 
 **RR:** Classic mate. Thanks for the chat!
-
-You can catch Clive rocking the Circoloco stage at Electric Gardens on Jan 27th. Grab your ticket [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eventbrite.com.au%2Fe%2Felectric-gardens-festival-2018-sydney-tickets-38489481074&h=ATOlyifggt7sE7_p1-UUBEuRnK-l1oL2km8k-M-bjrp0bukbanuN6xR6cBQmGlj8j9WntYmBdBL2E-ME-g2J-Bcr9wPYdTTYOnc4tEzEtJfo_fPHYGV0Mosn).
