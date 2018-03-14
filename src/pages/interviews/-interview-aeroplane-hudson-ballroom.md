@@ -56,4 +56,4 @@ _We caught up with Nu disco supremo Vito de Luca AKA _[**_Aeroplane_**](https://
 
 **RR: **Busy times ahead - thanks Vito!
 
-_Get your tickets to see Aeroplane at Hudson Ballroom _[**_here_**](https://www.facebook.com/events/528691954197881/)
+_Get your tickets to see Aeroplane at Hudson Ballroom _[here](https://www.facebook.com/events/528691954197881/)_
