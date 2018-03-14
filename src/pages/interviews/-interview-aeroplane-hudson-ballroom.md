@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interview/aeroplane-Hudson-ballroom
+path: /interview/aeroplane-hudson-ballroom
 title: Aeroplane @ Hudson Ballroom
 date: 2018-03-14T20:52:22.530Z
 description: >-
