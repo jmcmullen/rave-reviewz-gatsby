@@ -3,11 +3,12 @@ templateKey: interview-post
 path: interview/ricky-cooper
 title: Ricky Cooper @ Return to Rio
 date: 2017-10-30T06:30:38.000Z
-description: todo
+description: >-
+  With the countdown to the magical weekender that is Return to Rio entering its
+  final stages, we dropped in on festival director & chief dream-weaver Ricky
+  Cooper for a catch-up…
 featuredImage: /img/ricky-cooper.jpg
 ---
-With the countdown to the magical weekender that is [Return to Rio](https://www.facebook.com/ReturnToRio/) entering its final stages, we dropped in on festival director & chief dream-weaver Ricky Cooper for a catch-up…
-
 **RR:** Ricky, not long to go til the main event! We know how hectic things must be, so thanks for taking the time to chat. How are the preparations going?
 
 **Ricky:** Very well! We really want to go above and beyond this year, so we’re putting extra effort in to everything - the lighting, the scenery, the artwork… it’s all in the details.
