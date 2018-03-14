@@ -8,10 +8,9 @@ description: >-
   Social Bewegung gig on Saturday.
 featuredImage: /img/teenage - mutants.jpg
 ---
-
 _A pair of ninjas behind the decks, Christian and Paco AKA [**Teenage Mutants**](https://www.facebook.com/teenagemutants/) have been igniting dancefloors around the world. Here’s our chat with the Stil Vor Talent duo, as they prepare for Saturday’s [Social Bewegung](https://www.facebook.com/socialbewegung/) event._
 
-**RR:** Teenage Mutants - welcome! We're really looking forward to your gig at the Civic Underground on Saturday. What can we expect from your set?
+**RR:** Teenage Mutants - welcome! We're really looking forward to your gig at the Civic Underground on Saturday. What can we expect from your** set**?
 
 **Teenage Mutants:** Hey thanks for having us! Well, Australia is one of our favourite countries to visit so we will be more than happy to play a strong techno set with a lot of upcoming tracks!
 
