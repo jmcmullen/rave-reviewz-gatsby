@@ -24,11 +24,7 @@ _We caught up with Nu-disco supremo Vito de Luca AKA [**Aeroplane**](https://www
 
 **RR:** Haha tell us what led you in to a career as a DJ and producer .
 
-**Vito:** My career as a DJ is a by-product of the music I was making. When the first EP’s came out, I started getting DJ shows offers pretty much instantly, so I did that. 
-
-**RR:** I had some background as a DJ doing birthdays and things like that when I was about 14 or 15, so I had the technical side of things down - I just played different records. 
-
-**Vito:** My career as a producer started because in the town I grew up in I was kind of the most serious about being a musician and the few bands I had didn’t really like having someone constantly pushing and trying to be better at everything, so I basically got kicked out every time. That’s when I decided to just do it all myself, and bought a computer and a sound card.
+**Vito:** My career as a DJ is a by-product of the music I was making. When the first EP’s came out, I started getting DJ shows offers pretty much instantly, so I did that. I had some background as a DJ doing birthdays and things like that when I was about 14 or 15, so I had the technical side of things down - I just played different records. My career as a producer started because in the town I grew up in I was kind of the most serious about being a musician and the few bands I had didn’t really like having someone constantly pushing and trying to be better at everything, so I basically got kicked out every time. That’s when I decided to just do it all myself, and bought a computer and a sound card.
 
 **RR:** We know you’ve been hard at work on the [Owl Eyes](https://www.facebook.com/ThisIsOwlEyes/) album – can you tell us about the process and the style of the record? 
 
