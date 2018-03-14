@@ -22,7 +22,7 @@ _We caught up with Nu-disco supremo Vito de Luca AKA [**Aeroplane**](https://www
 
 **Vito:** I didn’t really choose it. It was the name of a song that didn’t really fit whatever music I was making at the time so it needed some new project name. So it ended up being called Aeroplane - Aeroplane. And then it took off, no pun intended.
 
-**RR:** Haha tell us what led you in to a career as a DJ and producer .
+**RR:** Haha tell us what led you in to a career as a DJ and producer.
 
 **Vito:** My career as a DJ is a by-product of the music I was making. When the first EP’s came out, I started getting DJ shows offers pretty much instantly, so I did that. I had some background as a DJ doing birthdays and things like that when I was about 14 or 15, so I had the technical side of things down - I just played different records. My career as a producer started because in the town I grew up in I was kind of the most serious about being a musician and the few bands I had didn’t really like having someone constantly pushing and trying to be better at everything, so I basically got kicked out every time. That’s when I decided to just do it all myself, and bought a computer and a sound card.
 
@@ -48,7 +48,7 @@ _We caught up with Nu-disco supremo Vito de Luca AKA [**Aeroplane**](https://www
 
 **RR:** Finally - what else do you have coming up this year?
 
-**Vito:** Quite a few bits but I don’t know in what order yet. A new Aeroplane single is ready, I have a few very interesting collaborations that I’m really excited about but can’t really discuss fully yet as it’s still in the works. And as usual, a bunch of shows. Mexico, US, Europe… 
+**Vito:** Quite a few bits but I don’t know in what order yet. A new Aeroplane single is ready, I have a few very interesting collaborations that I’m really excited about but can’t really discuss fully yet as it’s still in the works. And as usual, a bunch of shows - Mexico, US, Europe… 
 
 **RR:** Busy times ahead - thanks Vito!
 
