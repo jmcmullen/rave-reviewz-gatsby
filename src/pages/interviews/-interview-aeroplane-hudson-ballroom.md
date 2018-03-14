@@ -24,7 +24,7 @@ _We caught up with Nu disco supremo Vito de Luca AKA [_**Aeroplane**_](https://w
 
 **RR:** Haha tell us what led you in to a career as a DJ and producer .
 
-**Vito: ** My career as a DJ is a by-product of the music I was making. When the first EP’s came out, I started getting DJ shows offers pretty much instantly, so I did that. 
+**Vito:** My career as a DJ is a by-product of the music I was making. When the first EP’s came out, I started getting DJ shows offers pretty much instantly, so I did that. 
 
 **RR:** I had some background as a DJ doing birthdays and things like that when I was about 14 or 15, so I had the technical side of things down - I just played different records. 
 
