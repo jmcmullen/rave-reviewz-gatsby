@@ -5,10 +5,10 @@ title: Aeroplane @ Hudson Ballroom
 date: 2018-03-14T20:52:22.530Z
 description: >-
   Our exclusive chat with the Belgian nu-disco inferno before Saturday’s
-  Rotarydisco party 
+  Rotarydisco party! 
 featuredImage: /img/aeroplane.jpg
 ---
-_We caught up with Nu disco supremo Vito de Luca AKA **Aeroplane** as he prepares for take off at the Rotarydisco boogie this Saturday..._
+_We caught up with Nu disco supremo Vito de Luca AKA _[**_Aeroplane_**](https://www.facebook.com/aeroplanemusiclove)_ as he prepares for take off at the _[_Rotarydisco_](https://www.facebook.com/RotarydiscoSydney/)_ boogie this Saturday..._
 
 **RR: **Vito - we’re looking forward to your set over the weekend! What can we expect from it? 
 
@@ -30,21 +30,21 @@ _We caught up with Nu disco supremo Vito de Luca AKA **Aeroplane** as he prepare
 
 **Vito: **My career as a producer started because in the town I grew up in I was kind of the most serious about being a musician and the few bands I had didn’t really like having someone constantly pushing and trying to be better at everything, so I basically got kicked out every time. That’s when I decided to just do it all myself, and bought a computer and a sound card.
 
-**RR: **We know you’ve been hard at work on the Owl Eyes album – can you tell us about the process and the style of the record? 
+**RR: **We know you’ve been hard at work on the [Owl Eyes](https://www.facebook.com/ThisIsOwlEyes/) album – can you tell us about the process and the style of the record? 
 
 **Vito: **We started writing it in Melbourne over a few sessions and it was working and songs were happening. So we kept going and produced most of it in my studio in Brussels. It’s a mix of a lot of things which sort of makes it sound like its own now. There’s synths but also quite a bit of guitars, it is our attempt to emulate the classics that we like with a modern twist. But it’s also very eclectic.
 
-**RR: **You released a great EP with Alex Metric, as Metroplane. Any plans for more collaborations? 
+**RR: **You released a great EP with [Alex Metric](https://www.facebook.com/alexmetricmusic/), as [Metroplane.](https://www.facebook.com/metroplane/) Any plans for more collaborations? 
 
-**Vito: **Bahp, our last EP just got re-released on Ministry Of Sound as a vocal version called Word Of Mouth. It was written by MNEK and Becky Hill and sung by Bree Runway. Me and Alex have a few more bits waiting, and will probably make more at some point.
+**Vito: **[Bahp](https://www.beatport.com/release/bahp/1878841), our last EP just got re-released on [Ministry Of Sound](https://www.facebook.com/ministryofsoundclub/) as a vocal version called Word Of Mouth. It was written by MNEK and Becky Hill and sung by Bree Runway. Me and Alex have a few more bits waiting, and will probably make more at some point.
 
 **RR: **Which disco legend from the past would you love to meet? 
 
-**Vito: **I would have told you Giorgio Moroder, but I have met him..
+**Vito: **I would have told you [Giorgio Moroder](https://www.facebook.com/GiorgioMoroderOfficial/), but I have met him..
 
 **RR: **What a legend! Of all the sets you’ve played, which one really stands out in your memory? 
 
-**Vito: **They all sort of mesh together after this many shows. The obvious ones would be my two Coachella sets, or headlining Sonar with Air and LCD. But also some I might have forgotten. Sometimes you play  a 200 cap room somewhere deep in the UK and it turns into the best party ever… I have had a lot of those…
+**Vito: **They all sort of mesh together after this many shows. The obvious ones would be my two [Coachella](https://www.facebook.com/coachella/) sets, or headlining Sonar with Air and LCD. But also some I might have forgotten. Sometimes you play  a 200 cap room somewhere deep in the UK and it turns into the best party ever… I have had a lot of those…
 
 **RR: **What have been the biggest challenges you’ve faced along the way? 
 
@@ -56,4 +56,4 @@ _We caught up with Nu disco supremo Vito de Luca AKA **Aeroplane** as he prepare
 
 **RR: **Busy times ahead - thanks Vito!
 
-_Get your tickets to see Aeroplane at Hudson Ballroom here_
+_Get your tickets to see Aeroplane at Hudson Ballroom _[**_here_**](https://www.facebook.com/events/528691954197881/)
