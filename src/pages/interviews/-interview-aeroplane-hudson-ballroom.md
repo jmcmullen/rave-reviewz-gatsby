@@ -8,7 +8,7 @@ description: >-
   Rotarydisco party! 
 featuredImage: /img/aeroplane.jpg
 ---
-_We caught up with Nu disco supremo Vito de Luca AKA _[_**Aeroplane**_](https://www.facebook.com/aeroplanemusiclove)_ as he prepares for take off at the _[_Rotarydisco_](https://www.facebook.com/RotarydiscoSydney/)_ boogie this Saturday..._
+_We caught up with Nu disco supremo Vito de Luca AKA _[**_Aeroplane_**](https://www.facebook.com/aeroplanemusiclove)_ as he prepares for take off at the _[_Rotarydisco_](https://www.facebook.com/RotarydiscoSydney/)_ boogie this Saturday..._
 
 **RR: **Vito - we’re looking forward to your set over the weekend! What can we expect from it? 
 
@@ -56,4 +56,4 @@ _We caught up with Nu disco supremo Vito de Luca AKA _[_**Aeroplane**_](https://
 
 **RR: **Busy times ahead - thanks Vito!
 
-_Get your tickets to see Aeroplane at Hudson Ballroom _[_**here**_](https://www.facebook.com/events/528691954197881/)
+_Get your tickets to see Aeroplane at Hudson Ballroom _[**_here_**](https://www.facebook.com/events/528691954197881/)
