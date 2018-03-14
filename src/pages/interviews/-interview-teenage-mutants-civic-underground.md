@@ -2,10 +2,10 @@
 templateKey: interview-post
 path: /interview/teenage-mutants-civic-underground
 title: Teenage Mutants @ Civic Underground
-date: 2018-03-12T21:00:00+11:00
+date: 2018-03-12T10:00:00.000Z
 description: >-
-  Check out our interview with the dynamic duo, before their Social Bewegung gig
-  on Saturday.
+  Check out our interview with Germany’s dynamic techno duo, before their Social
+  Bewegung gig on Saturday.
 featuredImage: /img/teenage - mutants.jpg
 ---
 
