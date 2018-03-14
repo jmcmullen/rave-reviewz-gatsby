@@ -52,7 +52,7 @@ _We caught up with Nu-disco supremo Vito de Luca AKA [**Aeroplane**](https://www
 
 **RR:** Finally - what else do you have coming up this year?
 
-**Vito:** Quite a few bits but I don’t know in what order yet. A new Aeroplane single is ready, I have a few very interesting collaborations that I’m really excited about but can’t really discuss fully yet as it’s still in the works. And as usual a bunch of shows. Mexico, US, Europe… 
+**Vito:** Quite a few bits but I don’t know in what order yet. A new Aeroplane single is ready, I have a few very interesting collaborations that I’m really excited about but can’t really discuss fully yet as it’s still in the works. And as usual, a bunch of shows. Mexico, US, Europe… 
 
 **RR:** Busy times ahead - thanks Vito!
 
