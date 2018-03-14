@@ -56,4 +56,4 @@ _We caught up with Nu-disco supremo Vito de Luca AKA [**Aeroplane**](https://www
 
 **RR:** Busy times ahead - thanks Vito!
 
-_Get your tickets to see Aeroplane at Hudson Ballroom [here](https://www.facebook.com/events/528691954197881/)_
+_Get your tickets to see Aeroplane at Hudson Ballroom [here](http://www.moshtix.com.au/v2/event/rotarydisco-presents-aeroplane-and-dicky-trisco-in-the-mile-high-disco/102050/)_
