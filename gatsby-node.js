@@ -37,9 +37,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             frontmatter {
               templateKey
               path
-              date
               title
-              description
             }
           }
         }
@@ -47,22 +45,25 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
   `).then(result => {
     if (result.errors) {
+      console.log(`Result = `, result);
       result.errors.forEach(e => console.error(e.toString()));
       return Promise.reject(result.errors);
     }
 
     return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       const pagePath = node.frontmatter.path;
-      createPage({
-        path: pagePath,
-        component: path.resolve(
-          `src/templates/${String(node.frontmatter.templateKey)}.js`
-        ),
-        // additional data can be passed via context
-        context: {
+      if (pagePath !== 'external') {
+        createPage({
           path: pagePath,
-        },
-      });
+          component: path.resolve(
+            `src/templates/${String(node.frontmatter.templateKey)}.js`
+          ),
+          // additional data can be passed via context
+          context: {
+            path: pagePath,
+          },
+        });
+      }
     });
   });
 };

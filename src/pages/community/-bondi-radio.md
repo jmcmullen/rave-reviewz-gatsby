@@ -1,7 +1,7 @@
 ---
-templateKey: community-post
+templateKey: community-page
 title: Bondi Radio
 featuredImage: /img/bondi-radio.jpg
 link: 'http://www.bondiradio.com.au/'
+path: 'external'
 ---
-
