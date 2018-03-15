@@ -5,6 +5,9 @@ import Script from 'react-load-script';
 import graphql from 'graphql';
 import FeaturedPosts from '../components/FeaturedPosts';
 import MoreRecentPosts from '../components/MoreRecentPosts';
+import SocialMedia from '../components/SocialMedia';
+import RadioShow from '../components/RadioShow';
+import Footer from '../components/Footer';
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -58,9 +61,16 @@ export default class IndexPage extends React.Component {
                 <h3>More recent articles</h3>
                 <MoreRecentPosts posts={this.getMoreRecentPosts(posts)} />
               </div>
+              <div className="social column is-one-third">
+                <h3>Social media</h3>
+                <SocialMedia />
+                <h3 style={{ marginTop: '6rem' }}>Rave Reviewz Radio Show</h3>
+                <RadioShow />
+              </div>
             </div>
           </div>
         </div>
+        <Footer />
       </section>
     );
   }
