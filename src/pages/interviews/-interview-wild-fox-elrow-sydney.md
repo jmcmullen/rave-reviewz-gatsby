@@ -8,23 +8,24 @@ description: >-
   direction her Compass is pointing her in ... 
 featuredImage: /img/wild-fox.jpg
 ---
-After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallace aka [Wild Fox](https://www.facebook.com/wildfoxdj/) to discuss her music and the direction her [Compass](https://www.facebook.com/compasseventssydney/) is pointing her in... 
 
-**RR:** Thanks for chatting with us Wild Fox. Congratulations on your performance at [Elrow](https://www.facebook.com/elrowofficial/)! How was the experience of playing at such an awesome party? 
+After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallace aka [Wild Fox](https://www.facebook.com/wildfoxdj/) to discuss her music and the direction her [Compass](https://www.facebook.com/compasseventssydney/) is pointing her in...
 
-**Wild Fox:** Leading up to Elrow I found planning my track selection was tricky. Learning to stay true to myself as my sound is generally deeper, whilst playing to the tech house music policy was the biggest learning curve I've experienced as an artist. Then getting up there, taking risks with my tracks and messing around with my breakdowns to take people on a trippy journey whilst they entered the room... it made me realise that this is all I want to do with the rest of my life. This music lifestyle is 110% worth all the pain, sweat & tears. 
+**RR:** Thanks for chatting with us Wild Fox. Congratulations on your performance at [Elrow](https://www.facebook.com/elrowofficial/)! How was the experience of playing at such an awesome party?
+
+**Wild Fox:** Leading up to Elrow I found planning my track selection was tricky. Learning to stay true to myself as my sound is generally deeper, whilst playing to the tech house music policy was the biggest learning curve I've experienced as an artist. Then getting up there, taking risks with my tracks and messing around with my breakdowns to take people on a trippy journey whilst they entered the room... it made me realise that this is all I want to do with the rest of my life. This music lifestyle is 110% worth all the pain, sweat & tears.
 
 **RR:** You cover such a wide range of genres within your music, how would you describe your sound?
 
 **Wild Fox:** I believe it's important to educate people with your sound - keep them guessing as to what’s coming next, take them on a journey and build the set. My sound is a combination of deep, dark, progressive, techno. There are so many chin-stroking genre titles out there it's hard to put a title on it haha!
 
-**RR:** What was the inspiration behind your name “Wild Fox”? 
+**RR:** What was the inspiration behind your name “Wild Fox”?
 
-**Wild Fox:** As a young girl I always loved foxes, they are cheeky little characters with a crazy laugh, same as myself. The wild part comes from my inner self as I run at 110 miles per hour in all aspects of life - from a business perspective, I can party like a wild animal, and when it comes to my goals I'll never back down from the hunt like a hungry Fox. It's the balance of the two. 
+**Wild Fox:** As a young girl I always loved foxes, they are cheeky little characters with a crazy laugh, same as myself. The wild part comes from my inner self as I run at 110 miles per hour in all aspects of life - from a business perspective, I can party like a wild animal, and when it comes to my goals I'll never back down from the hunt like a hungry Fox. It's the balance of the two.
 
-**RR:** You had a pretty hectic New Year’s Eve, playing 5 different venues over 48hrs! How was that? Did you change your style at all for each venue? 
+**RR:** You had a pretty hectic New Year’s Eve, playing 5 different venues over 48hrs! How was that? Did you change your style at all for each venue?
 
-**Wild Fox: **Yeah I did a private party in Manly, Secret Island party Manly, Ivy Pool, Space Ibiza and [WeLove](https://www.facebook.com/welovesydneyunderground/) at the Bridge Hotel. All the sets were totally different - as an artist, you need to consider who's attending, what we are celebrating, set times... no two events are the same. I always want my sets to be totally different... as someone who looked up to the locals for so long, I know who always made the effort to be different and showed their dedication to the study. Those artists are the ones who shaped who I am today - now it's time to pay it forward. 
+**Wild Fox:** Yeah I did a private party in Manly, Secret Island party Manly, Ivy Pool, Space Ibiza and [WeLove](https://www.facebook.com/welovesydneyunderground/) at the Bridge Hotel. All the sets were totally different - as an artist, you need to consider who's attending, what we are celebrating, set times... no two events are the same. I always want my sets to be totally different... as someone who looked up to the locals for so long, I know who always made the effort to be different and showed their dedication to the study. Those artists are the ones who shaped who I am today - now it's time to pay it forward.
 
 **RR:** You’ve been playing in Sydney for a while now, how do you think the house and techno scene has developed?
 
@@ -32,23 +33,23 @@ After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallac
 
 **RR:** Definitely! Aside from your career as a DJ, you also co-founded Compass Events with your boyfriend and fellow DJ [Nine One](https://www.facebook.com/nineonedj/) - tell us how that started.
 
-**Wild Fox:** I've spent 9 years working for promoters and now studying a Bachelor of Entertainment Business at the Australian Institute of Music - so naturally it's important to put what you have learnt into practice so that it sticks. 
+**Wild Fox:** I've spent 9 years working for promoters and now studying a Bachelor of Entertainment Business at the Australian Institute of Music - so naturally it's important to put what you have learnt into practice so that it sticks.
 
-**RR:** So what can we expect from Compass Events in 2018? 
+**RR:** So what can we expect from Compass Events in 2018?
 
 **Wild Fox:** We’re having a break over the summer to focus on our own gigs but Compass will return mid-year in the cool season. We’ll throw a party once a month with progressive & techno roots and every second party we are currently on the hunt for DJs to showcase who have an interesting sound that is unique, different, weird and interesting. There are so many genres of electronic music out there and at Compass, we are open to all directions. As long as people can show us that it makes sense musically and we can script it out with set times to fit with other artists - we want you or someone you know to show us your style!
 
-**RR: **Ok, what’s one track you like to play that always goes off?
+**RR:** Ok, what’s one track you like to play that always goes off?
 
 **Wild Fox:** Oh, that one I might keep a secret haha! I like to treat my playlists like my diary. Fair game if people Shazam tracks these days but I like to keep my poker cards close to my chest.
 
-**RR:** And who would you say are your biggest musical influences? 
+**RR:** And who would you say are your biggest musical influences?
 
-**Wild Fox:** A hard question! Like you said, my music taste is quite broad, but Maceo Plex, Tale of Us, Nina Kraviz, Recondite, Mind Against, Deborah De Luca, Bicep, Patrice Baumel, Maribu State, Bonobo, Guy J, Oliver Schories, Jody Wisternoff, Lane 8, Nora En Pure... to name a few. 
+**Wild Fox:** A hard question! Like you said, my music taste is quite broad, but Maceo Plex, Tale of Us, Nina Kraviz, Recondite, Mind Against, Deborah De Luca, Bicep, Patrice Baumel, Maribu State, Bonobo, Guy J, Oliver Schories, Jody Wisternoff, Lane 8, Nora En Pure... to name a few.
 
-**RR:** Finally… what’s next for Wild Fox that we can look forward to? 
+**RR:** Finally… what’s next for Wild Fox that we can look forward to?
 
-**Wild Fox:** Coming up with international headliners, I have a day party with [Alex Stein](https://www.facebook.com/events/142549763077933/), [Tell No Tales](https://www.facebook.com/events/198978780663183/) and [Marco Polo with Miguel Campbell](https://www.facebook.com/events/1517566008299205/). You can check out all my gigs listed in the event section of my [facebook](https://www.facebook.com/wildfoxdj). 
+**Wild Fox:** Coming up with international headliners, I have a day party with [Alex Stein](https://www.facebook.com/events/142549763077933/), [Tell No Tales](https://www.facebook.com/events/198978780663183/) and [Marco Polo with Miguel Campbell](https://www.facebook.com/events/1517566008299205/). You can check out all my gigs listed in the event section of my [facebook](https://www.facebook.com/wildfoxdj).
 
 **RR: **Sweet! Thanks for the chat!
 
