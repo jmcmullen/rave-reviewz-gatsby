@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/dj-schwa - sash
-title: DJ Schwa @ S.A.S.H by Day
+title: 'DJ Schwa @ S.A.S.H '
 date: 2018-03-15T12:31:35.856Z
 description: TBC
 featuredImage: /img/17192597_10154679747954355_5785484319925579601_o.jpg
