@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master
-  
+
 publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
@@ -12,6 +12,8 @@ collections:
     folder: "src/pages/interviews"
     create: true
     slug: "/interview/{{slug}}"
+    editor:
+      preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "interview-post"}
       - {label: "Path", name: "path", widget: "string"}
@@ -25,6 +27,8 @@ collections:
     folder: "src/pages/reviews"
     create: true
     slug: "/review/{{slug}}"
+    editor:
+      preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "review-post"}
       - {label: "Path", name: "path", widget: "string"}
@@ -38,6 +42,8 @@ collections:
     folder: "src/pages/community"
     create: true
     slug: "/community/{{slug}}"
+    editor:
+      preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
       - {label: "Title", name: "title", widget: "string"}
@@ -48,6 +54,8 @@ collections:
     folder: "src/pages/podcasts"
     create: true
     slug: "/podcasts/{{slug}}"
+    editor:
+      preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "podcasts-post"}
       - {label: "Title", name: "title", widget: "string"}
