@@ -4,8 +4,8 @@ path: /interview/enrico-sangiuliano-max-watts
 title: Enrico Sangiuliano @ Max Watt’s
 date: 2018-03-16T01:00:11.000Z
 description: >-
-  One of Drumcode's hottest signings, Enrico Sangiuliano dropped by for a chat
-  about February's Australian tour... check it out!
+  After his Australian tour in February (and a well-earned rest) we caught up
+  with the Drumcode luminary for a chat...
 featuredImage: /img/enrico-sangiuliano.jpg
 ---
 _After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook.com/victorruizofficial), we caught up with behemoth DJ/Producer [**Enrico Sangiuliano**](https://www.facebook.com/enricosangiuliano/) for a recap on the tour and his propulsive career..._
