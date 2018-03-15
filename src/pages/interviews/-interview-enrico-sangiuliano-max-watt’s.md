@@ -48,4 +48,4 @@ _After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook
 
 **RR:** Fantastic. Come back and visit us again soon!
 
-_For exclusive tracks and mixes from Enrico, follow his official [soundcloud](https://soundcloud.com/enrico-sangiuliano) page._
+_Connect with Enrico on Soundcloud [here](https://soundcloud.com/enrico-sangiuliano)_ 
