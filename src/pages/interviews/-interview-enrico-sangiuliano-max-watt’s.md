@@ -6,7 +6,7 @@ date: 2018-03-16T01:00:11.000Z
 description: TBC
 featuredImage: /img/enrico-sangiuliano.jpg
 ---
-_After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook.com/victorruizofficial), we caught up with behemoth DJ/Producer [**Enrico Sangiuliano**](https://www.facebook.com/enricosangiuliano/) to discuss his tour and propulsive sound..._
+_After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook.com/victorruizofficial), we caught up with behemoth DJ/Producer [**Enrico Sangiuliano**](https://www.facebook.com/enricosangiuliano/) for a recap on the tour and his propulsive career..._
 
 **RR:** Hey Enrico! It was good to see you in Australia again. How was the trip?
 
