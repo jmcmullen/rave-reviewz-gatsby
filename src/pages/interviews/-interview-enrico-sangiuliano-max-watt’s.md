@@ -3,7 +3,9 @@ templateKey: interview-post
 path: /interview/enrico-sangiuliano-max-watts
 title: Enrico Sangiuliano @ Max Watt’s
 date: 2018-03-16T01:00:11.000Z
-description: TBC
+description: >-
+  One of Drumcode's hottest signings, Enrico Sangiuliano dropped by for a chat
+  about February's Australian tour... check it out!
 featuredImage: /img/enrico-sangiuliano.jpg
 ---
 _After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook.com/victorruizofficial), we caught up with behemoth DJ/Producer [**Enrico Sangiuliano**](https://www.facebook.com/enricosangiuliano/) for a recap on the tour and his propulsive career..._
@@ -28,7 +30,7 @@ _After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook
 
 **Enrico:** I really do hope one day to be playing b2b with Adam. I would love to see how far we can raise the bar! 
 
-**RR:** You've been a prominent figure in the industry for some time now - how do you keep yourself motivated in touring and production?
+**RR:** We'd all love to see that happen! You've been a prominent figure in the industry for some time now - how do you keep yourself motivated in touring and production?
 
 **Enrico:** When you do something you love, it’s never hard to stay happy and motivated. I have to say that the love and support I have from my family, friends, and of course all the fans that come to see me play all over the world is probably the main driving force.
 
@@ -38,12 +40,12 @@ _After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook
 
 **RR:** OK – if you had to pick a gig which really stands out in your memory, which one would you go with?
 
-**Enrico:** Oh well, I would have to say the Street Rave Parade in Bologna, Italy - back in 2003. For 24 hours, there were about 150,000 people enjoying non-stop pure madness. I was only 17 at the time, and I played 9-11am on one of the main trucks. In front of my was about 10,000 people. I was nervous, but at the same time kind of feeling supercharged with energy. I didn't pre-select any of the tracks in my set, but a lot of what I played was my own material (which I did with a drummachines and Playstation). I think my sent went down really well, people went crazy dancing all over the place. So that's a moment I will never forget.
+**Enrico:** Oh well, I would have to say the Street Rave Parade in Bologna, Italy - back in 2003. For 24 hours, there were about 150,000 people enjoying non-stop pure madness. I was only 17 at the time, and I played 9-11am on one of the main trucks. In front of me was about 10,000 people. I was nervous, but at the same time kind of feeling supercharged with energy. I didn't pre-select any of the tracks in my set, but a lot of what I played was my own material (which I did with a drummachines and Playstation). I think my set went down really well - people went crazy dancing all over the place. So that's a moment I will never forget.
 
-**RR:** Finally - what's up next for you?
+**RR:** Definitely sounds unforgettable! Finally - what's up next for you?
 
-**Enrico:** A lot! This year has got so busy already. After my tour we are back to Europe, where I have some mega festivals booked in for the spring and summer including Awakenings, Loveland, Boomtown, Junction2 – all of these are going to be very special. As for releases and my musical output, I am working on something very fresh and ambitious – but more news about that soon.
+**Enrico:** A lot! This year has got so busy already. After my tour we are back to Europe, where I have some mega festivals booked in for the spring and summer including [Awakenings](https://www.facebook.com/awakenings/), Loveland, Boomtown, Junction2 – all of these are going to be very special. As for releases and my musical output, I am working on something very fresh and ambitious – but more news about that soon.
 
-**RR:** Fantastic. See you next time!
+**RR:** Fantastic. Come back and visit us again soon!
 
 _For exclusive tracks and mixes from Enrico, follow his official [soundcloud](https://soundcloud.com/enrico-sangiuliano) page._
