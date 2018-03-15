@@ -10,9 +10,9 @@ _After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook
 
 **RR:** Hey Enrico! It was good to see you in Australia again. How was the trip?
 
-**Enrico: **It was the second tour I have done, where both times I played in Sydney. I love this city! I actually was really excited about this tour, because I had a little time to myself, so I managed to escape the cities and see more nature and the beautiful countryside, which was amazing. Australia really has everything.
+**Enrico:** It was the second tour I have done, where both times I played in Sydney. I love this city! I actually was really excited about this tour, because I had a little time to myself, so I managed to escape the cities and see more nature and the beautiful countryside, which was amazing. Australia really has everything.
 
-**RR: **You've released various monster tracks on Drumcode like [Astral Projection](https://www.beatport.com/track/astral-projection-original-mix/9460134) and [Ghettoblaster](https://www.beatport.com/track/ghettoblaster-original-mix/8244938). Can you describe the label’s creative environment?
+**RR:** You've released various monster tracks on Drumcode like [Astral Projection](https://www.beatport.com/track/astral-projection-original-mix/9460134) and [Ghettoblaster](https://www.beatport.com/track/ghettoblaster-original-mix/8244938). Can you describe the label’s creative environment?
 
 **Enrico:** I have a very close relationship to [Drumcode](https://www.facebook.com/drumcoderecords/), and that has naturally progressed throughout the years I have been working with the team. They have a really good energy and family style vibe, which helps artists to completely free to express their creativity, knowing that Adam understands what we are all trying to achieve. The relationships between all the other artists are really good, and I love it when we get to see each other in random places all over the world and play the same line up. A good environment helps to create good music.
 
@@ -46,4 +46,4 @@ _After last month’s ‘Monolith’ gig with [Victor Ruiz](https://www.facebook
 
 **RR:** Fantastic. See you next time!
 
-_For exclusive tracks and mixes from Enrico, follow his official [_soundcloud_](https://soundcloud.com/enrico-sangiuliano) page._
+_For exclusive tracks and mixes from Enrico, follow his official [soundcloud](https://soundcloud.com/enrico-sangiuliano) page._
