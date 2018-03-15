@@ -45,8 +45,8 @@ class Navbar extends Component {
       { name: 'Interviews', path: '/interviews', icon: bubbles },
       { name: 'Reviews', path: '/reviews', icon: newspaper },
       { name: 'About Us', path: '/about-us', icon: info },
-      // { name: 'Community', path: '/community', icon: users },
-      // { name: 'Podcasts', path: '/podcasts', icon: volumeHigh },
+      { name: 'Community', path: '/community', icon: users },
+      { name: 'Podcasts', path: '/podcasts', icon: volumeHigh },
     ];
 
     menu.forEach(link => {
@@ -73,6 +73,7 @@ class Navbar extends Component {
         className="menu-item"
         href="https://ravereviewz.net"
         onClick={this.closeMenu}
+        key="events"
       >
         <Icon className="menu-icon" icon={ticket} size={25} />
         Events
@@ -80,7 +81,7 @@ class Navbar extends Component {
     );
 
     const eventsDesktop = (
-      <a className="navbar-item" href="https://ravereviewz.net/">
+      <a className="navbar-item" href="https://ravereviewz.net/" key="events">
         Events
       </a>
     );

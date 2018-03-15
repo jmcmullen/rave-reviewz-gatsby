@@ -29,21 +29,25 @@ export default class CommunityPage extends React.Component {
           onLoad={() => this.handleScriptLoad()}
         />
         <div className="container">
-          {posts
-            .filter(
-              post => post.node.frontmatter.templateKey === 'community-post'
-            )
-            .map(({ node: post }) => (
-              <div className="content commmunity-preview" key={post.id}>
-                <a className="post-link" to={post.frontmatter.url}>
-                  <Img
-                    className="img-preview"
-                    alt={post.frontmatter.title}
-                    sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
-                  />
-                </a>
-              </div>
-            ))}
+          <div className="friends">
+            {posts
+              .filter(
+                post => post.node.frontmatter.templateKey === 'community-post'
+              )
+              .map(({ node: post }) => (
+                <div className="friend" key={post.id}>
+                  <a className="post-link" href={post.frontmatter.link} target="_blank">
+                    <Img
+                      className="img-preview"
+                      alt={post.frontmatter.title}
+                      sizes={
+                        post.frontmatter.featuredImage.childImageSharp.sizes
+                      }
+                    />
+                  </a>
+                </div>
+              ))}
+          </div>
         </div>
       </section>
     );
