@@ -30,7 +30,8 @@ featuredImage: /img/fabio-neural.jpg
 
 **Fabio:**  I remember the first time I played at Ibiza Global Radio was in 2007 when I won a d competition in Ibiza and they invited me to perform live. It was great for me, the first time playing in a radio (what a radio!) and answering the questions of David Moreno that was hosting the show. I started a friendship with him and all the times I came to Ibiza he always asked me to be part of his program. One day he sent me a text message and he asked me if I would like to have my own show and here we are, it is my fifth years!
 
-**RR:** Tell us one track you like to play which always goes off.
+**RR:** 
+Tell us one track you like to play which always goes off.
 
 **Fabio:** Well, for sure Dj Rolando - Jaguar & Technasia - Obsession (Hombre Lowdown French Kissed Edit) 
 
@@ -49,3 +50,5 @@ featuredImage: /img/fabio-neural.jpg
 **Fabio:** 2018 will be a important here for me not only because I finally refind myself after an amazing travel alone in Sri Lanka. I have joined Analog Agency for Spain, Portugal and Italy. I just played at Egg in London few weeks ago and released my rmx for the new label of Carl Cox and Christopher Coe that is going very well. I also close my eight Ep on Intec and one Ep on OFF Recordings.  I will perform with Carl in Italy at Afrobar in Sicily and in another important club that I cannot reveal yet. I will also take part at Creamfields Uk and Medusa Festival in Spain. But the biggest one is Pure Festival!! See you in Australia guys!
 
 **RR:** We can't wait. See you soon Fabio!
+
+_Join Fabio on April 28th for PURE 2018. Tickets available _[**_here_**](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
