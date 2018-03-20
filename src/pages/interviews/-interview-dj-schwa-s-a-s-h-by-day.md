@@ -12,9 +12,9 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **DJ Schwa:** I’ve spent more time the studio than at the beach, but it's great. I used to live here so it doesn’t feel like I’m a tourist in a foreign country. I went fishing on the Harbour in a small boat... caught some fish, straight from the Harbour on to the barbie!
 
-**RR: **So when you lived here from 2011 to 2016, where did you used to play out?
+**RR: **So when you lived here from 2011 to 2016, where did you used to play at?
 
-**DJ Schwa:** I started to play in Sydney’s underground scene at the legendary [Reckless Republic](https://www.facebook.com/RecklessRepublic) parties in Kings Cross. I was also a resident DJ at Sydney's finest after-hours party Spice. I played at the first two Subsonic music festivals and pretty much every year at Rainbow Serpent in Victoria. I was also regularly playing at many other clubs in Melbourne and Sydney like Revolver, Civic, Home, Tramp, OneSixOne, Burdekin, Abercrombie...
+**DJ Schwa:** I started to play in Sydney’s underground scene at the legendary [Reckless Republic](https://www.facebook.com/RecklessRepublic) parties in Kings Cross. I was also a resident DJ at Sydney's finest after-hours party Spice. I played at the first two Subsonic music festivals and pretty much every year at Rainbow Serpent in Victoria. I was also regularly playing at many other clubs in Melbourne and Sydney like [Revolver](https://www.facebook.com/revolverupstairs/), [Civic](https://www.facebook.com/civicunderground/), [Home](https://www.facebook.com/homethevenue/), Tramp, OneSixOne, [Burdekin](https://www.facebook.com/BurdekinHotel/), Abercrombie...
 
 **RR:** Cool. What are your favourite festivals here? Any chance of returning to them?
 
@@ -22,7 +22,7 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **RR:** When you lived in Sydney, did you get a chance to travel with music much?
 
-**DJ Schwa: **When I lived here we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. We arrived after BPM, so after the shooting.  I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with Catz n Dogz which was an amazing experience.
+**DJ Schwa: **When I lived here we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. We arrived after BPM, so after the shooting.  I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with [Catz n Dogz](https://www.facebook.com/catzndogz.official/) which was an amazing experience.
 
 **RR:** Having played extensively in Europe and Australia, do you notice any differences between the crowds?
 
@@ -42,7 +42,7 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **RR:** Your label Beef Records is making a mark. Tell us how it started and what we can expect from it this year.
 
-**DJ Schwa:** About 13 years ago I was working on label called Tribal Vision with my partner Slater. Then I realised I wanna do something on my own with my own understanding of techno and electro. First release was a compilation Prime Cuts with names such Martinez and Trentemoller. These producers influenced me a lot. The rest is a history. We are still pressing 12” records, we also did 6 CD albums and many digital releases. The most recent project on Beef is 2 vinyl samplers and LP by BUSZ™ (Pier Bucci and Oskar Szafraniec). Great jazzy techno / minimal music. LP is coming out in a few weeks. The samplers you can check here and here.”
+**DJ Schwa:** About 13 years ago I was working on label called [Tribal Vision](https://www.facebook.com/tribalvisionrecords/) with my partner [Slater](https://www.facebook.com/djslatertribalvision/). Then I realised I wanna do something on my own with my own understanding of techno and electro. First release was a compilation Prime Cuts with names such Martinez and [Trentemoller](https://www.facebook.com/trentemoller/). These producers influenced me a lot. The rest is history. We are still pressing 12” records, we also did 6 CD albums and many digital releases. The most recent project on Beef is 2 vinyl samplers and LP by BUSZ™ (Pier Bucci and Oskar Szafraniec). Great jazzy techno / minimal music. LP is coming out in a few weeks. The samplers you can check here and here.”
 
 [https://soundcloud.com/beef/sets/busz-tm-tipico-lationo](https://soundcloud.com/beef/sets/beefep017-busz-tm-dubai)
 
@@ -51,3 +51,5 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 **RR**: Finally - what’s up next for you?
 
 **DJ Schwa:** On Saturday, I will be playing in Belgrade. It’ll be my first time. I heard it's great. My girlfriend is half Serbian. From Sydney I’m flying to Melbourne, and then to Belgrade, where I’ll be for 2 days. And after that, home. I will be playing at Prague festival, RoundUp, which runs from the 11-13th of May.
+
+**RR: **Michael, thank you.
