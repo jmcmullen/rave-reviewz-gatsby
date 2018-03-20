@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/dj-schwa-sash
 title: 'DJ Schwa @ S.A.S.H '
-date: 2018-03-15T12:31:35.856Z
+date: 2018-03-20T15:00:00+11:00
 description: Our chat with DJ Schwa after February's dynamite set at S.A.S.H
 featuredImage: /img/dj-schwa.jpg
 ---
