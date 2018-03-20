@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/dj-schwa - sash
 title: 'DJ Schwa @ S.A.S.H '
 date: 2018-03-15T12:31:35.856Z
-description: TBC
+description: Our chat with DJ Schwa from February's dynamite set at S.A.S.H
 featuredImage: /img/17192597_10154679747954355_5785484319925579601_o.jpg
 ---
 _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA **DJ Schwa** recently returned to his former home to grace the decks at SASH by Day. We managed to pin him down for a chat during his Australian tour to relive the glory days of Reckless Republic and his residency at Spice... _
