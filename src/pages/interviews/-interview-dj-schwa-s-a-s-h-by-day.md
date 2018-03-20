@@ -2,17 +2,17 @@
 templateKey: interview-post
 path: /interview/dj-schwa-sash
 title: 'DJ Schwa @ S.A.S.H '
-date: 2018-03-20T15:00:00+11:00
+date: 2018-03-20T04:00:00.000Z
 description: Our chat with DJ Schwa after February's dynamite set at S.A.S.H
 featuredImage: /img/dj-schwa.jpg
 ---
 _No stranger to Sydney, Czech DJ and Beef records label boss Michael AKA **DJ Schwa** recently returned to his former home to grace the decks at SASH by Day. We managed to pin him down for a chat after his Australian tour to relive the glory days of Reckless Republic and his residency at Spice... _
 
-**RR: **Michael, great to chat. How did you spend your time in Sydney besides working and playing gigs?
+**RR:** Michael, great to chat. How did you spend your time in Sydney besides working and playing gigs?
 
 **DJ Schwa:** I spent more time in the studio than at the beach, but it was great. I used to live in Sydney so it didn't feel like I was a tourist in a foreign country. I went fishing on the Harbour in a small boat... caught some fish... straight from the Harbour on to the barbie!
 
-**RR: **So when you lived here from 2011 to 2016, where did you used to play?
+**RR:** So when you lived here from 2011 to 2016, where did you used to play?
 
 **DJ Schwa:** I started to play in Sydney’s underground scene at the legendary [Reckless Republic](https://www.facebook.com/RecklessRepublic) parties in Kings Cross. I was also a resident DJ at Sydney's finest after-hours party Spice. I played at the first two Subsonic music festivals and pretty much every year at Rainbow Serpent in Victoria. I was also regularly playing at many other clubs in Melbourne and Sydney like [Revolver](https://www.facebook.com/revolverupstairs/), [Civic](https://www.facebook.com/civicunderground/), [Home](https://www.facebook.com/homethevenue/), Tramp, OneSixOne, [Burdekin](https://www.facebook.com/BurdekinHotel/), Abercrombie...
 
@@ -22,7 +22,7 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael AKA **DJ Sc
 
 **RR:** When you lived in Sydney, did you get a chance to travel with music much?
 
-**DJ Schwa: **When I lived there we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with [Catz n Dogz](https://www.facebook.com/catzndogz.official/) which was an amazing experience.
+**DJ Schwa:** When I lived there we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with [Catz n Dogz](https://www.facebook.com/catzndogz.official/) which was an amazing experience.
 
 **RR:** Having played extensively in Europe and Australia, do you notice any differences between the crowds?
 
@@ -48,4 +48,4 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael AKA **DJ Sc
 
 **DJ Schwa:** Yes! I will be playing at the Prague festival, RoundUp, which runs from the 11-13th of May.
 
-**RR: **Great. Thank you Michael!
+**RR:** Great. Thank you Michael!
