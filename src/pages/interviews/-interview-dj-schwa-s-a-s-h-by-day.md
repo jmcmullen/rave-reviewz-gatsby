@@ -38,7 +38,7 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **RR:** So have you been able to sit down and write a track during this trip??
 
-**DJ Schwa:** Yes, that's what I am doing now. I want to finish a track that I’ll play at SASH.  Well, I would rather be on the beach, hanging out with my friends. But I don’t get to see Nick West - my Australian partner in crime very often. So when we do meet, we spend our time working.
+**DJ Schwa:** Yes, that's what I am doing now. I want to finish a track that I’ll play at SASH. Well, I would rather be on the beach, hanging out with my friends. But I don’t get to see Nick West - my Australian partner in crime very often. So when we do meet, we spend our time working.
 
 **RR:** Your label [Beef Records](https://www.facebook.com/beefrecords/) is making a mark. Tell us how it started and what we can expect from it this year.
 
