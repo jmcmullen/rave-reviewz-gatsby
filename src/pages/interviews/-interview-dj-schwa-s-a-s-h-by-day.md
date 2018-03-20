@@ -8,7 +8,7 @@ featuredImage: /img/17192597_10154679747954355_5785484319925579601_o.jpg
 ---
 _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA **DJ Schwa** recently returned to his former home to grace the decks at SASH by Day. We managed to pin him down for a chat during his Australian tour to relive the glory days of Reckless Republic and his residency at Spice... _
 
-**RR: **Michael, great to chat. How have you been spending your time in Sydney besides working and playing gigs?
+**RR: **Michael, great to chat. How did you spending your time in Sydney besides working and playing gigs?
 
 **DJ Schwa:** I’ve spent more time the studio than at the beach, but it's great. I used to live here so it doesn’t feel like I’m a tourist in a foreign country. I went fishing on the Harbour in a small boat... caught some fish, straight from the Harbour on to the barbie!
 
@@ -42,10 +42,10 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **RR:** Your label [Beef Records](https://www.facebook.com/beefrecords/) is making a mark. Tell us how it started and what we can expect from it this year.
 
-**DJ Schwa:** About 13 years ago I was working on label called [Tribal Vision](https://www.facebook.com/tribalvisionrecords/) with my partner [Slater](https://www.facebook.com/djslatertribalvision/). Then I realised I wanna do something on my own with my own understanding of techno and electro. First release was a compilation Prime Cuts with names such Martinez and [Trentemoller](https://www.facebook.com/trentemoller/). These producers influenced me a lot. The rest is history. We are still pressing 12” records, we also did 6 CD albums and many digital releases. The most recent project on Beef is 2 vinyl [samplers](https://soundcloud.com/beef/sets/busz-tm-tipico-lationo) and LP by BUSZ, which is Pier Bucci and Oskar Szafraniec. Great jazzy techno / minimal music. LP is coming out in a few weeks. The samplers you can check here and here.
+**DJ Schwa:** About 13 years ago I was working on label called [Tribal Vision](https://www.facebook.com/tribalvisionrecords/) with my partner [Slater](https://www.facebook.com/djslatertribalvision/). Then I realised I wanna do something on my own with my own understanding of techno and electro. First release was a compilation Prime Cuts with names such as Martinez and [Trentemoller](https://www.facebook.com/trentemoller/). These producers influenced me a lot. The rest is history. We are still pressing 12” records, we also did 6 CD albums and many digital releases. The most recent project on Beef is 2 vinyl [samplers](https://soundcloud.com/beef/sets/busz-tm-tipico-lationo) and LP by BUSZ, which is Pier Bucci and Oskar Szafraniec. Great jazzy techno / minimal music - LP is coming out in a few weeks.
 
 **RR**: Finally - what’s up next for you?
 
-**DJ Schwa:** On Saturday, I will be playing in Belgrade. It’ll be my first time. I heard it's great. My girlfriend is half Serbian. From Sydney I’m flying to Melbourne, and then to Belgrade, where I’ll be for 2 days. And after that, home. I will be playing at Prague festival, RoundUp, which runs from the 11-13th of May.
+**DJ Schwa:** I'm playing in Belgrade. It’ll be my first time... I heard it's great. My girlfriend is half Serbian. From Sydney I’m flying to Melbourne, and then to Belgrade, where I’ll be for 2 days. And after that, home. I will be playing at the Prague festival, RoundUp, which runs from the 11-13th of May.
 
 **RR: **Enjoy Prague. Thank you Michael!
