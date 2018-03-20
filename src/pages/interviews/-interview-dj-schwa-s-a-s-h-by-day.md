@@ -42,11 +42,7 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **RR:** Your label Beef Records is making a mark. Tell us how it started and what we can expect from it this year.
 
-**DJ Schwa:** About 13 years ago I was working on label called [Tribal Vision](https://www.facebook.com/tribalvisionrecords/) with my partner [Slater](https://www.facebook.com/djslatertribalvision/). Then I realised I wanna do something on my own with my own understanding of techno and electro. First release was a compilation Prime Cuts with names such Martinez and [Trentemoller](https://www.facebook.com/trentemoller/). These producers influenced me a lot. The rest is history. We are still pressing 12” records, we also did 6 CD albums and many digital releases. The most recent project on Beef is 2 vinyl samplers and LP by BUSZ™ (Pier Bucci and Oskar Szafraniec). Great jazzy techno / minimal music. LP is coming out in a few weeks. The samplers you can check here and here.”
-
-[https://soundcloud.com/beef/sets/busz-tm-tipico-lationo](https://soundcloud.com/beef/sets/beefep017-busz-tm-dubai)
-
-<https://soundcloud.com/beef/sets/beefep017-busz-tm-dubai>
+**DJ Schwa:** About 13 years ago I was working on label called [Tribal Vision](https://www.facebook.com/tribalvisionrecords/) with my partner [Slater](https://www.facebook.com/djslatertribalvision/). Then I realised I wanna do something on my own with my own understanding of techno and electro. First release was a compilation Prime Cuts with names such Martinez and [Trentemoller](https://www.facebook.com/trentemoller/). These producers influenced me a lot. The rest is history. We are still pressing 12” records, we also did 6 CD albums and many digital releases. The most recent project on Beef is 2 vinyl [samplers](https://soundcloud.com/beef/sets/busz-tm-tipico-lationo) and LP by BUSZ, which is Pier Bucci and Oskar Szafraniec. Great jazzy techno / minimal music. LP is coming out in a few weeks. The samplers you can check here and here.
 
 **RR**: Finally - what’s up next for you?
 
