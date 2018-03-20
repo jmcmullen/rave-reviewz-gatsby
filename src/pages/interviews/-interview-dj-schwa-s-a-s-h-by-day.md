@@ -30,7 +30,7 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **RR:** Fair point. What's your motivation for making a new track?
 
-**DJ Schwa:** A combination of things.... the process relaxes me, especially when you're jamming with other people. You get high in the studio, the energy when that happens is amazing, you’re high but actually you’re not... you are productive. You might listen to it later and maybe you’ll throw it away because it wasn't right, but when it is right and you play it at the gig and afterwards people come over and ask you “what's the name of the track?” - that’s the second rush. Great feeling.
+**DJ Schwa:** A combination of things... the process relaxes me, especially when you're jamming with other people. You get high in the studio, the energy when that happens is amazing, you’re high but actually you’re not... you are productive. You might listen to it later and maybe you’ll throw it away because it wasn't right, but when it is right and you play it at the gig and afterwards people come over and ask you “what's the name of the track?” - that’s the second rush. Great feeling.
 
 **RR:** What equipment do you like using in your studio?
 
@@ -48,4 +48,4 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA *
 
 **DJ Schwa:** On Saturday, I will be playing in Belgrade. It’ll be my first time. I heard it's great. My girlfriend is half Serbian. From Sydney I’m flying to Melbourne, and then to Belgrade, where I’ll be for 2 days. And after that, home. I will be playing at Prague festival, RoundUp, which runs from the 11-13th of May.
 
-**RR: **Michael, thank you.
+**RR: **Enjoy Prague. Thank you Michael!
