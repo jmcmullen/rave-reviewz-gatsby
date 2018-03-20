@@ -6,23 +6,23 @@ date: 2018-03-15T12:31:35.856Z
 description: TBC
 featuredImage: /img/17192597_10154679747954355_5785484319925579601_o.jpg
 ---
-_No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA **DJ Schwa** recently returned to his former home to grace the decks at Sash by Day. We managed to pin him down for a chat during his Australian tour to relive the glory days of Reckless Republic and his residency at Spice... _
+_No stranger to Sydney, Czech DJ and Beef records label boss Michael Schwa AKA **DJ Schwa** recently returned to his former home to grace the decks at SASH by Day. We managed to pin him down for a chat during his Australian tour to relive the glory days of Reckless Republic and his residency at Spice... _
 
 **RR: **Michael, great to chat. How have you been spending your time in Sydney besides working and playing gigs?
 
 **DJ Schwa:** I’ve spent more time the studio than at the beach, but it's great. I used to live here so it doesn’t feel like I’m a tourist in a foreign country. I went fishing on the Harbour in a small boat... caught some fish, straight from the Harbour on to the barbie!
 
-RR: So when you lived here from 2011 to 2016, where did you used to play out?
+**RR: **So when you lived here from 2011 to 2016, where did you used to play out?
 
-DJ Schwa: I started to play in Sydney’s underground scene at the legendary Reckless Republic parties in Kings Cross. I was also a resident DJ at Sydney's finest after-hours party Spice. I played at the first two Subsonic music festivals and pretty much every year at Rainbow Serpent in Victoria. I was also regularly playing at many other clubs in Melbourne and Sydney like Revolver, Civic, Home, Tramp, OneSixOne, Burdekin, Abercrombie...
+**DJ Schwa:** I started to play in Sydney’s underground scene at the legendary [Reckless Republic](https://www.facebook.com/RecklessRepublic) parties in Kings Cross. I was also a resident DJ at Sydney's finest after-hours party Spice. I played at the first two Subsonic music festivals and pretty much every year at Rainbow Serpent in Victoria. I was also regularly playing at many other clubs in Melbourne and Sydney like Revolver, Civic, Home, Tramp, OneSixOne, Burdekin, Abercrombie...
 
 **RR:** Cool. What are your favourite festivals here? Any chance of returning to them?
 
-**DJ Schwa:** My best memories are from Subsonic and Rainbow Serpent... the organisers of Subsonic are friends of mine. But the festival season here is when we are busy organising New Year’s events back in Prague. And during Christmas time, I am with my family so it's hard to come over.
+**DJ Schwa:** My best memories are from [Subsonic](https://www.facebook.com/subsonicmusic/) and [Rainbow Serpent](https://www.facebook.com/rainbowHQ/)... the organisers of Subsonic are friends of mine. But the festival season here is when we are busy organising New Year’s events back in Prague. And during Christmas time, I am with my family so it's hard to come over.
 
-**RR:** When you lived in Sydney,  did you get a chance to travel with music much?
+**RR:** When you lived in Sydney, did you get a chance to travel with music much?
 
-DJ Schwa: When I lived here we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. We arrived after BPM, so after the shooting.  I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with Catz n Dogz which was an amazing experience.
+**DJ Schwa: **When I lived here we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. We arrived after BPM, so after the shooting.  I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with Catz n Dogz which was an amazing experience.
 
 **RR:** Having played extensively in Europe and Australia, do you notice any differences between the crowds?
 
