@@ -4,7 +4,7 @@ path: /interview/dj-schwa-sash
 title: 'DJ Schwa @ S.A.S.H '
 date: 2018-03-15T12:31:35.856Z
 description: Our chat with DJ Schwa after February's dynamite set at S.A.S.H
-featuredImage: /img/17192597_10154679747954355_5785484319925579601_o.jpg
+featuredImage: /img/dj-schwa.jpg
 ---
 _No stranger to Sydney, Czech DJ and Beef records label boss Michael AKA **DJ Schwa** recently returned to his former home to grace the decks at SASH by Day. We managed to pin him down for a chat after his Australian tour to relive the glory days of Reckless Republic and his residency at Spice... _
 
@@ -22,7 +22,7 @@ _No stranger to Sydney, Czech DJ and Beef records label boss Michael AKA **DJ Sc
 
 **RR:** When you lived in Sydney, did you get a chance to travel with music much?
 
-**DJ Schwa: **When I lived there we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. We arrived after BPM, so after the shooting.  I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with [Catz n Dogz](https://www.facebook.com/catzndogz.official/) which was an amazing experience.
+**DJ Schwa: **When I lived there we visited Japan, India, and Thailand. In India, the gig in Goa was the best.  Japan is also great for music - or at least it used to be, I haven’t been back for quite a few years. I also did a couple of small gigs in Mexico last year, which was great. I spun in Tulum, Playa, and Monterrey - a  town close to the US border. We had a great time. The year before I played at BPM with [Catz n Dogz](https://www.facebook.com/catzndogz.official/) which was an amazing experience.
 
 **RR:** Having played extensively in Europe and Australia, do you notice any differences between the crowds?
 
