@@ -6,19 +6,19 @@ date: 2018-03-17T09:56:37.331Z
 description: TBC
 featuredImage: /img/fabio-neural.jpg
 ---
-**RR:** Hi Fabio – we’re really looking forward to your performance at PURE in April. What can we expect from your set?
+**RR:** Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?
 
 **Fabio:** I can't wait to perform at this amazing festival me too! Well, I will  show all my skills during my set, trying to bring people in a trip and sharing with them the energy that music make me feel.
 
 **RR:** Now Carl Cox, who is also performing has been a big supporter of your music. Has he been an influence for you?
 
-**Fabio:** Yes, of course. Since the first time he asked me some demos for his label Intec, I always worked on doing something he will probably play, not focusing in only one genre but keeping my mind free as he do in his sets. As you know Carl can play techno, house or even funky. This thing also helped me a lot as nowadays it is so important to be openmind as music changes everyday.
+**Fabio:** Yes, of course. Since the first time he asked me some demos for his label [Intec](https://www.facebook.com/IntecDigital/), I always worked on doing something he will probably play, not focusing in only one genre but keeping my mind free as he do in his sets. As you know Carl can play techno, house or even funky. This thing also helped me a lot as nowadays it is so important to be openmind as music changes everyday.
 
 **RR:** We gather this will be your first time in Australia – what have you got planned for your visit? Will you get any downtime to explore?
 
 **Fabio:** Yes, it is. It will be my first time in Australia and I'm so excited about that. It always has been my dream to come there, I mean, the other part of the world! I love nature and animals and you have so many incredible things to see. I still don't know the plans of the tour but if I will have enough time I want to see something for sure. Any suggestions by the way? 
 
-**RR:** Plenty - we'll send you a list haha! Now your monster hit, Kama, is featured in the PURE promo video. What was the concept behind the track?
+**RR:** Plenty - we'll send you a list haha! Now your monster hit, [Kama](https://www.beatport.com/track/kama-original-mix/9418512), is featured in the PURE promo video. What was the concept behind the track?
 
 **Fabio:** Kama was for me something that remind me when I was a young raver. The vocal I used is from an anthem track of 90's, 'Age of Love' that was played by all DJs during that period. I remember I listened Luciano and Pan-Pot playing it again and I thought: 'This track is still bomb and the vocal is amazing, but it needs a refresh' and I did it :) 
 
@@ -28,10 +28,9 @@ featuredImage: /img/fabio-neural.jpg
 
 **RR:** We’ve been listening to your weekly radio show on Ibiza Global Radio – how did the whole thing start?
 
-**Fabio:**  I remember the first time I played at Ibiza Global Radio was in 2007 when I won a d competition in Ibiza and they invited me to perform live. It was great for me, the first time playing in a radio (what a radio!) and answering the questions of David Moreno that was hosting the show. I started a friendship with him and all the times I came to Ibiza he always asked me to be part of his program. One day he sent me a text message and he asked me if I would like to have my own show and here we are, it is my fifth years!
+**Fabio:**  I remember the first time I played at [Ibiza Global Radio](http://ibizaglobalradio.com/radioshow/fabio-neural-radio-show-by-fabio-neural/) was in 2007 when I won a DJ competition in Ibiza and they invited me to perform live. It was great for me, the first time playing on the radio (what a radio!) and answering the questions of David Moreno that was hosting the show. That was the beginning of our friendship and all the times I come to Ibiza he always asked me to be part of his program. One day he sent me a text message and he asked me if I would like to have my own show and here we are - now in my fifth year!
 
-**RR:** 
-Tell us one track you like to play which always goes off.
+**RR:** Tell us one track you like to play which always goes off.
 
 **Fabio:** Well, for sure Dj Rolando - Jaguar & Technasia - Obsession (Hombre Lowdown French Kissed Edit) 
 
@@ -51,4 +50,4 @@ Tell us one track you like to play which always goes off.
 
 **RR:** We can't wait. See you soon Fabio!
 
-_Join Fabio on April 28th for PURE 2018. Tickets available _[**_here_**](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
+_Join Fabio on April 28th for PURE 2018. Tickets available _[_**here**_](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
