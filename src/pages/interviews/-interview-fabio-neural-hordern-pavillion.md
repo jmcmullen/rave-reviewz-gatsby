@@ -3,9 +3,7 @@ templateKey: interview-post
 path: /interview/fabio-neural-hordern-pavillion
 title: Fabio Neural @ Hordern Pavillion
 date: 2018-03-17T09:56:37.331Z
-description: >-
-  With as much passion to much his skill on the decks, read our interview with
-  Fabio Neural before the big party at PURE...
+description: TBC
 featuredImage: /img/fabio-neural.jpg
 ---
 **RR:** Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?
