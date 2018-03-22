@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/zankee-gulati-bootz-n-catz
-title: Zankee Gulati @ Bootz ‘N’ Catz
+title: 'Zankee Gulati: Bootz ‘N’ Catz'
 date: 2017-10-10T14:50:48.000Z
 description: >
   We sat down with Bootz ‘N’ Catz co-owner ZANKEE GULATI for a quick chat about
