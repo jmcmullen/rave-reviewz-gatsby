@@ -50,4 +50,4 @@ _After defining her sound on London's underground circuit, Marlie Kay returned t
 
 **RR:** Enjoy the trip and your birthday tomorrow. Cheers! 
 
-_Join Marlie tomorrow night @The Flamingo Lounge - more details _[_here_](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)
+_Join Marlie tomorrow night @The Flamingo Lounge - more details _[here](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)_
