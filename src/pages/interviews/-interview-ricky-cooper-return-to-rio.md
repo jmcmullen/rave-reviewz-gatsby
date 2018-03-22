@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: interview/ricky-cooper
-title: Ricky Cooper @ Return to Rio
+title: 'Ricky Cooper: Return to Rio'
 date: 2017-10-30T06:30:38.000Z
 description: >-
   With the countdown to the magical weekender that is Return to Rio entering its
