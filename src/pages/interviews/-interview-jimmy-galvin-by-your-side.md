@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
 path: /interview/jimmy-galvin-by-your-side
-title: Jimmy Galvin @ By Your Side
-date: 2018-02-14T13:55:45.940Z
+title: 'Jimmy Galvin: By Your Side'
+date: 2018-02-13T13:55:45.000Z
 description: >
   We spoke to brand boss Jimmy Galvin before their sunset cruise this Saturday
   with the talented Francesca Lombardo. 
