@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/nathan-mitch
-title: Nathan & Mitch @ Canvas Events
+title: 'Nathan & Mitch: Canvas Events'
 date: 2018-01-12T00:36:22.000Z
 description: We grabbed a chat with the boys behind Canvas Events.
 featuredImage: /img/nathan-mitch.jpg
