@@ -6,9 +6,9 @@ date: 2018-03-22T01:13:49.874Z
 description: TBC
 featuredImage: /img/marlie.jpg
 ---
-After_ nurturing her sound the instituitions of London's club circuit, _[_**Marlie**_](https://www.facebook.com/marliedj)_ returned to Australia and established party brand, _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)
+After_ nurturing her sound in the instituitions of London's club circuit, _[**_Marlie_**](https://www.facebook.com/marliedj)_ returned to Australia and established party brand, _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)
 
-Here's out chat with the minimal techno siren before tomorrow's festivities at Flamingo Lounge...
+_Here's out chat with the minimal techno siren before tomorrow's festivities at Flamingo Lounge..._
 
 **RR:** Hey Marlie! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
