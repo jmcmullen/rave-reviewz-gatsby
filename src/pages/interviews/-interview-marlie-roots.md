@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/marlie-roots
 title: 'Marlie: Roots'
 date: 2018-03-22T01:13:49.874Z
-description: TBC
+description: Our insightful chat with the talented DJ and Roots founder...
 featuredImage: /img/marlie.jpg
 ---
 _After first defining her sound on London's underground circuit, _[**_Marlie_**](https://www.facebook.com/marliedj)_ returned to her hometown of Sydney and established the enterprising party brand - _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_. Here's our chat with the minimal techno siren before tomorrow's festivities at Flamingo Lounge..._
