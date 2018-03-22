@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: interview/jeremy-olander
-title: Jeremy Olander @ Vivrant
+title: 'Jeremy Olander: Vivrant'
 date: 2018-01-09T00:49:31.000Z
 description: >-
   With the countdown to his highly anticipated performance at Electric Gardens
