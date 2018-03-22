@@ -6,7 +6,7 @@ date: 2018-03-22T01:13:49.874Z
 description: TBC
 featuredImage: /img/marlie.jpg
 ---
-_We met up with Roots founder Marlie to discuss the brand's growing popularity and diversity in the music scene. _
+_We met up with Roots founder and top selector _[**_Marlie_**](https://www.facebook.com/marliedj)_ to discuss the brand's growing popularity and diversity in the music scene. _
 
 **RR: **Hey Marlie! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
