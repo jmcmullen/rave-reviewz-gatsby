@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/kerry-wallace
-title: Kerry Wallace @ S*A*S*H
+title: 'Kerry Wallace: S*A*S*H'
 date: 2017-11-18T05:50:58.000Z
 description: >-
   In the world of Sydney house & techno, they don’t come bigger than Kerry
