@@ -6,7 +6,7 @@ date: 2018-03-22T01:13:49.874Z
 description: Our insightful chat with the talented DJ and Roots founder...
 featuredImage: /img/marlie.jpg
 ---
-_After defining her sound on London's underground circuit, Marlie Kay returned to her _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ in Sydney to establish her minimal techno brand. Here's our chat with the skilled selector before her birthday festivities tomorrow..._
+_After defining her sound on London's underground circuit, Marlie Kay returned to her [Roots](https://www.facebook.com/rootsmusicaustralia)_ in Sydney to establish her minimal techno brand. Here's our chat with the skilled selector before her birthday festivities tomorrow..._
 
 **RR:** Hey [**Marlie**](https://www.facebook.com/marliedj/)! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
@@ -38,11 +38,11 @@ _After defining her sound on London's underground circuit, Marlie Kay returned t
 
 **RR:** Can you tell us about the most memorable set you’ve ever played?
 
-**Marlie:** Oooh - This is another tough question! Fabric & [Club Der Visionaerre](https://www.facebook.com/ClubderVisionaere/) were certainly very special, but playing the sunset slot at [S.A.S.H](https://www.facebook.com/sashsundays) is up there too! Otherwise it would have to be a closing set at one of the many illegal raves in London - They are really incredible.  
+**Marlie:** Oooh - this is another tough question! Fabric & [Club Der Visionaere](https://www.facebook.com/ClubderVisionaere/) were certainly very special, but playing the sunset slot at [S.A.S.H](https://www.facebook.com/sashsundays) is up there too! Otherwise it would have to be a closing set at one of the many illegal raves in London - they are really incredible.  
 
 **RR:** And what do you like to do to unwind when you aren't DJing?
 
-**Marlie: **For those who know me well, they know I loveeee to eat! If I’m not enjoying my Dad's delicious cooking at home, I love going out for food with friends - don’t even get me started about dessert! Aside from that you could find me at one of the many beautiful beaches in Sydney, cuddling my wonderful little dog Rigby, or asleep in bed!
+**Marlie:** For those who know me well, they know I loveeee to eat! If I’m not enjoying my Dad's delicious cooking at home, I love going out for food with friends - don’t even get me started about dessert! Aside from that you could find me at one of the many beautiful beaches in Sydney, cuddling my wonderful little dog Rigby, or asleep in bed!
 
 **RR:** Finally - what does the future hold for you and Roots? 
 
@@ -50,4 +50,4 @@ _After defining her sound on London's underground circuit, Marlie Kay returned t
 
 **RR:** Enjoy the trip and your birthday tomorrow. Cheers! 
 
-_Join Marlie tomorrow night @The Flamingo Lounge - more details _[_here_](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)
+_Join Marlie tomorrow night @The Flamingo Lounge - more details [here](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)_
