@@ -6,9 +6,7 @@ date: 2018-03-22T01:13:49.874Z
 description: TBC
 featuredImage: /img/marlie.jpg
 ---
-_We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ founder and top selector _[_**Marlie**_](https://www.facebook.com/marliedj)_ to discuss the brand's growth, before their free party tomorrow. _
-
-
+After_ nurturing her sound the instituitions of London's club circuit, _[_**Marlie**_](https://www.facebook.com/marliedj)_ returned to Australia and established party brand, _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)
 
 Here's out chat with the minimal techno siren before tomorrow's festivities at Flamingo Lounge...
 
