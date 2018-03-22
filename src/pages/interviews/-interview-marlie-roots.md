@@ -18,11 +18,11 @@ _We met up with Roots founder and top selector _[**_Marlie_**](https://www.faceb
 
 **RR: **You’re supporting Funk E on Saturday night at the Junction. What sort of set will you be dropping?
 
-**Marlie: **Yes, I’m really looking forward to it! Warming up for Funk E gives me the perfect opportunity to play what I really love - Romanian minimal. Yes, I’ll add the groove too! I must admit, you will be hearing a fair few BRYZ tracks from me this weekend! I’m super excited to play on the four point Funktion One sound system they have in there too!
+**Marlie: **Yes, I’m really looking forward to it! Warming up for [Funk E](https://www.facebook.com/FunkEtheDJ/) gives me the perfect opportunity to play what I really love - Romanian minimal. Yes, I’ll add the groove too! I must admit, you will be hearing a fair few [BRYZ](https://www.facebook.com/Emanuelbryz) tracks from me this weekend! I’m super excited to play on the four point Funktion One sound system they have in there too!
 
 **RR: **What track do you like to play that always goes off?
 
-**Marlie: **I can always count on an Archie Hamilton track for that sort of thing... Over the past year or so it's been 'Ricochet' for me!
+**Marlie: **I can always count on an [Archie Hamilton](https://www.facebook.com/archiehamiltonmusic) track for that sort of thing... Over the past year or so it's been 'Ricochet' for me!
 
 **RR:** We’ve really enjoyed your Facebook live streams and the guests you’ve had, such as Nils Weimann. If you could pick any DJ for a b2b session, who would it be?
 
