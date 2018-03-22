@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/damian-gelle-electric-gardens
-title: Damian Gelle @ Electric Gardens
+title: 'Damian Gelle: Electric Gardens'
 date: 2017-11-10T06:07:48.000Z
 description: >-
   With the countdown to Electric Gardens Festival firmly under way and a monster
