@@ -14,7 +14,7 @@ _After defining her sound on London's underground circuit, Marlie Kouzoumis retu
 
 **RR:** Sounds great! Now Roots has made a name for itself since breaking onto the scene last year. Tell us how it all started.
 
-**Marlie:** Yeah - I’m pretty happy with the progress so far! When I moved back home from London I wanted to start a new project here in Sydney. I came up with a name, logo & created a SoundCloud page for Roots. I hand picked both local & international artists that play the sound I wanted to build this brand upon and asked them to record a podcast for me. That got the ball rolling until  about 8 months later when I threw the first secret Roots party, and another 6 months later when I threw the second… Let’s just say Roots became a familiar name after that one…
+**Marlie:** Yeah - I’m pretty happy with the progress so far! When I moved back home from London I wanted to start a new project here in Sydney. I came up with a name, logo & created a [SoundCloud](https://soundcloud.com/rootsaustralia) page for Roots. I hand picked both local & international artists that play the sound I wanted to build this brand upon and asked them to record a podcast for me. That got the ball rolling until  about 8 months later when I threw the first secret Roots party, and another 6 months later when I threw the second… Let’s just say Roots became a familiar name after that one…
 
 **RR:** You’re supporting Funk E on Saturday night at the [Junction](https://www.facebook.com/TheJunctionBondi/). What sort of set will you be dropping?
 
