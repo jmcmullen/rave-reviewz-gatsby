@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/alex-ludlow-cause
-title: Alex Ludlow @ CAUSE
+title: 'Alex Ludlow: CAUSE'
 date: 2017-11-24T05:35:37.000Z
 description: >-
   The name CAUSE is fast becoming synonymous with minimal techno in Sydney.
