@@ -6,13 +6,13 @@ date: 2018-03-22T01:13:49.874Z
 description: TBC
 featuredImage: /img/marlie.jpg
 ---
-_We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ founder and top selector _[**_Marlie_**](https://www.facebook.com/marliedj)_ to discuss the brand's growing popularity and diversity in the music scene. _
+_We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ founder and top selector _[**_Marlie_**](https://www.facebook.com/marliedj)_ to discuss the brand's growth, before their free party tomorrow. _
 
 **RR: **Hey Marlie! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
 **Marlie: **I certainly am! I’ve created a solid line-up with not only some of Sydney’s top selectors but great friends of mine too. Add a top notch sound system into the mix, some more friends & a few drinks - I guess we have the recipe for a quality night! 
 
-**RR:** Roots has made a name for itself since breaking onto the scene last year. Tell us how it all started.
+**RR:** Sounds great! Now Roots has made a name for itself since breaking onto the scene last year. Tell us how it all started.
 
 **Marlie: **Yeah - I’m pretty happy with the progress so far! When I moved back home from London I wanted to start a new project here in Sydney. I came up with a name, logo & created a SoundCloud page for Roots. I hand picked both local & international artists that play the sound I wanted to build this brand upon and asked them to record a podcast for me. That got the ball rolling until  about 8 months later when I threw the first secret Roots party, and another 6 months later when I threw the second… Let’s just say Roots became a familiar name after that one…
 
@@ -22,7 +22,7 @@ _We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ found
 
 **RR: **What track do you like to play that always goes off?
 
-**Marlie: **I can always count on an [Archie Hamilton](https://www.facebook.com/archiehamiltonmusic) track for that sort of thing... Over the past year or so it's been 'Ricochet' for me!
+**Marlie: **I can always count on an [Archie Hamilton](https://www.facebook.com/archiehamiltonmusic) track for that sort of thing... Over the past year or so it's been '[Ricochet](https://www.beatport.com/track/ricochet-original-mix/9408300)' for me!
 
 **RR:** We’ve really enjoyed your Facebook live streams and the guests you’ve had, such as [Nils Weimann](https://www.facebook.com/nils.weimann.music/). If you could pick any DJ for a b2b session, who would it be?
 
@@ -42,12 +42,12 @@ _We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ found
 
 **RR:** And what do you like to do to unwind when you aren't DJing?
 
-**Marlie: **For those who know me well, they know I loveeee to eat! If I’m not enjoying my Dads delicious cooking at home, I love going out for food with friends - Don’t even get me started about dessert! Aside from that you could find me at one of the many beautiful beaches in Sydney, cuddling my wonderful little dog Rigby, or asleep in bed!
+**Marlie: **For those who know me well, they know I loveeee to eat! If I’m not enjoying my Dad's delicious cooking at home, I love going out for food with friends - don’t even get me started about dessert! Aside from that you could find me at one of the many beautiful beaches in Sydney, cuddling my wonderful little dog Rigby, or asleep in bed!
 
 **RR: **Finally - what does the future hold for you and Roots? 
 
 **Marlie: **Well in ten days I'm heading to Europe for a couple of months… I’ll be playing at my first festival which is in Prague alongside some great company - I’m very excited for that! Upon return I have a few things lined up for myself and for Roots - I can’t give away too much at the minute but it looks promising to say the least.
 
-**RR:** Enjoy your birthday tomorrow. Cheers! 
+**RR:** Enjoy the trip and your birthday tomorrow. Cheers! 
 
 _Join Marlie tomorrow night @The Flamingo Lounge - more details _[_here_](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)
