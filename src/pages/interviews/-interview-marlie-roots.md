@@ -6,7 +6,11 @@ date: 2018-03-22T01:13:49.874Z
 description: TBC
 featuredImage: /img/marlie.jpg
 ---
-_We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ founder and top selector _[**_Marlie_**](https://www.facebook.com/marliedj)_ to discuss the brand's growth, before their free party tomorrow. _
+_We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ founder and top selector _[_**Marlie**_](https://www.facebook.com/marliedj)_ to discuss the brand's growth, before their free party tomorrow. _
+
+
+
+Here's out chat with the minimal techno siren before tomorrow's festivities at Flamingo Lounge...
 
 **RR:** Hey Marlie! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
