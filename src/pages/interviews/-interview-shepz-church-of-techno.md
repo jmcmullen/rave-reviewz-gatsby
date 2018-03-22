@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/shepz-church-of-techno
-title: Shepz @ Church of Techno
+title: 'Shepz: Church of Techno'
 date: 2017-11-14T05:59:12.000Z
 description: >-
   Ahead of The Techno Bug event, we caught up with Church of Techno Sydney's
