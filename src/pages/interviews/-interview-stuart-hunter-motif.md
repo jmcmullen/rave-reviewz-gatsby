@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/stuart-hunter
-title: Stuart Hunter @ Motif
+title: 'Stuart Hunter: Motif'
 date: 2017-10-25T06:36:58.000Z
 description: >-
   Ahead of their 1st birthday celebration at the Civic this Friday, featuring
