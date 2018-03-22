@@ -6,7 +6,7 @@ date: 2018-03-22T01:13:49.874Z
 description: TBC
 featuredImage: /img/marlie.jpg
 ---
-_We met up with Roots founder and top selector _[**_Marlie_**](https://www.facebook.com/marliedj)_ to discuss the brand's growing popularity and diversity in the music scene. _
+_We met up with _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ founder and top selector _[**_Marlie_**](https://www.facebook.com/marliedj)_ to discuss the brand's growing popularity and diversity in the music scene. _
 
 **RR: **Hey Marlie! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
@@ -16,7 +16,7 @@ _We met up with Roots founder and top selector _[**_Marlie_**](https://www.faceb
 
 **Marlie: **Yeah - I’m pretty happy with the progress so far! When I moved back home from London I wanted to start a new project here in Sydney. I came up with a name, logo & created a SoundCloud page for Roots. I hand picked both local & international artists that play the sound I wanted to build this brand upon and asked them to record a podcast for me. That got the ball rolling until  about 8 months later when I threw the first secret Roots party, and another 6 months later when I threw the second… Let’s just say Roots became a familiar name after that one…
 
-**RR: **You’re supporting Funk E on Saturday night at the Junction. What sort of set will you be dropping?
+**RR: **You’re supporting Funk E on Saturday night at the [Junction](https://www.facebook.com/TheJunctionBondi/). What sort of set will you be dropping?
 
 **Marlie: **Yes, I’m really looking forward to it! Warming up for [Funk E](https://www.facebook.com/FunkEtheDJ/) gives me the perfect opportunity to play what I really love - Romanian minimal. Yes, I’ll add the groove too! I must admit, you will be hearing a fair few [BRYZ](https://www.facebook.com/Emanuelbryz) tracks from me this weekend! I’m super excited to play on the four point Funktion One sound system they have in there too!
 
@@ -24,9 +24,9 @@ _We met up with Roots founder and top selector _[**_Marlie_**](https://www.faceb
 
 **Marlie: **I can always count on an [Archie Hamilton](https://www.facebook.com/archiehamiltonmusic) track for that sort of thing... Over the past year or so it's been 'Ricochet' for me!
 
-**RR:** We’ve really enjoyed your Facebook live streams and the guests you’ve had, such as Nils Weimann. If you could pick any DJ for a b2b session, who would it be?
+**RR:** We’ve really enjoyed your Facebook live streams and the guests you’ve had, such as [Nils Weimann](https://www.facebook.com/nils.weimann.music/). If you could pick any DJ for a b2b session, who would it be?
 
-**Marlie: **Thanks a lot - We’ve managed to find a pretty neat spot I must admit. I’d find it difficult to choose one, but there’s a 90% chance it’d be a Romanian artist! Mihai Pol, Rhadoo & Barac are some of the top contenders! 
+**Marlie: **Thanks a lot - We’ve managed to find a pretty neat spot I must admit. I’d find it difficult to choose one, but there’s a 90% chance it’d be a Romanian artist! [Mihai Pol](https://www.facebook.com/mihapolprod/), [Rhadoo](https://www.facebook.com/RhadooArpiar/) & [Barac](https://www.facebook.com/baracmusic/) are some of the top contenders! 
 
 **RR: **Now you spent some time living in London - can you tell us about that period and how it shaped you as an artist? 
 
@@ -38,7 +38,7 @@ _We met up with Roots founder and top selector _[**_Marlie_**](https://www.faceb
 
 **RR:** Can you tell us about the most memorable set you’ve ever played?
 
-**Marlie: **Oooh - This is another tough question! Fabric & Club Der Visionaerre were certainly very special, but playing the sunset slot at S.A.S.H is up there too! Otherwise it would have to be a closing set at one of the many illegal raves in London - They are really incredible.  
+**Marlie: **Oooh - This is another tough question! Fabric & [Club Der Visionaerre](https://www.facebook.com/ClubderVisionaere/) were certainly very special, but playing the sunset slot at [S.A.S.H](https://www.facebook.com/sashsundays) is up there too! Otherwise it would have to be a closing set at one of the many illegal raves in London - They are really incredible.  
 
 **RR:** And what do you like to do to unwind when you aren't DJing?
 
@@ -50,4 +50,4 @@ _We met up with Roots founder and top selector _[**_Marlie_**](https://www.faceb
 
 **RR:** Enjoy your birthday tomorrow. Cheers! 
 
-_Join Marlie for a free Roots party tomorrow @The Flamingo Lounge - more details _[_here_](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)
+_Join Marlie tomorrow night @The Flamingo Lounge - more details _[_here_](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)
