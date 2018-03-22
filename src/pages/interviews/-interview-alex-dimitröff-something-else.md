@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/alex-dimitröff-something-else
-title: Alex Dimitröff @ Something Else
+title: 'Alex Dimitröff: Something Else'
 date: 2017-12-15T04:28:33.000Z
 description: >-
   Here's our chat with Alex Dimitröff, one of the funkiest fellas in the Sydney
