@@ -42,7 +42,7 @@ _After defining her sound on London's underground circuit, Marlie Kay returned t
 
 **RR:** And what do you like to do to unwind when you aren't DJing?
 
-**Marlie: **For those who know me well, they know I loveeee to eat! If I’m not enjoying my Dad's delicious cooking at home, I love going out for food with friends - don’t even get me started about dessert! Aside from that you could find me at one of the many beautiful beaches in Sydney, cuddling my wonderful little dog Rigby, or asleep in bed!
+**Marlie:** For those who know me well, they know I loveeee to eat! If I’m not enjoying my Dad's delicious cooking at home, I love going out for food with friends - don’t even get me started about dessert! Aside from that you could find me at one of the many beautiful beaches in Sydney, cuddling my wonderful little dog Rigby, or asleep in bed!
 
 **RR:** Finally - what does the future hold for you and Roots? 
 
@@ -50,4 +50,4 @@ _After defining her sound on London's underground circuit, Marlie Kay returned t
 
 **RR:** Enjoy the trip and your birthday tomorrow. Cheers! 
 
-_Join Marlie tomorrow night @The Flamingo Lounge - more details _[_here_](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)
+_Join Marlie tomorrow night @The Flamingo Lounge - more details [here](https://www.ravereviewz.net/Event/Roots-Potts-Point/84)_
