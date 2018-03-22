@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/marlie-roots
 title: 'Marlie: Roots'
-date: 2018-03-22T18:20:49+11:00
+date: 2018-03-22T07:20:49.000Z
 description: 'Our insightful chat with the talented DJ and Roots founder, Marlie...'
 featuredImage: /img/marlie.jpg
 ---
