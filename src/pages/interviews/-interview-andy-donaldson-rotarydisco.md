@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/andy-donaldson-rotarydisco
-title: Andy Donaldson @ Rotarydisco
+title: 'Andy Donaldson: Rotarydisco'
 date: 2017-12-23T03:54:32.000Z
 description: >-
   In the run up to their New Years's Day Extravaganza, here's our interview with
