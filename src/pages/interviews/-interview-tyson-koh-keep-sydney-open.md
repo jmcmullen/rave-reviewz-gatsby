@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/tyson-koh
-title: Tyson Koh @ Keep Sydney Open
+title: 'Tyson Koh: Keep Sydney Open'
 date: 2017-10-19T03:53:10.000Z
 description: >-
   Stoked at the news that Keep Sydney Open is considering running for state
