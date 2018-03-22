@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: interview/nick-reverse-we-love
-title: Nick Reverse @ WeLove
+title: 'Nick Reverse: WeLove'
 date: 2018-01-05T03:29:14.000Z
 description: >-
   We all love we love_sydney! Ahead of their gig tonight at the Burdekin hotel
