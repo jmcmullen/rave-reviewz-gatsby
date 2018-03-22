@@ -6,7 +6,7 @@ date: 2018-03-22T01:13:49.874Z
 description: Our insightful chat with the talented DJ and Roots founder...
 featuredImage: /img/marlie.jpg
 ---
-_After defining her sound on London's underground circuit, Marlie Kouzoumis returned to her _[_Roots _](https://www.facebook.com/rootsmusicaustralia)_in Sydney to establish her minimal techno brand. Here's our chat with the skilled selector before her birthday festivities tomorrow..._
+_After defining her sound on London's underground circuit, Marlie Kouzoumis returned to her [Roots](https://www.facebook.com/rootsmusicaustralia) in Sydney to establish her minimal techno brand. Here's our chat with the skilled selector before her birthday festivities tomorrow..._
 
 **RR:** Hey [Marlie](https://www.facebook.com/marliedj/), happy birthday for tomorrow! You’re throwing a special Roots event to celebrate. What can we expect from the night?
 
@@ -18,9 +18,9 @@ _After defining her sound on London's underground circuit, Marlie Kouzoumis retu
 
 **RR:** You’re supporting Funk E on Saturday night at the [Junction](https://www.facebook.com/TheJunctionBondi/). What sort of set will you be dropping?
 
-**Marlie: **Yes, I’m really looking forward to it. Warming up for [Funk E](https://www.facebook.com/FunkEtheDJ/) gives me the perfect opportunity to play what I really love - Romanian minimal... and I’ll add the groove too! I must admit, you will be hearing a fair few [BRYZ](https://www.facebook.com/Emanuelbryz) tracks from me this weekend and I’m super excited to play on the four point Funktion One sound system they have in there too.
+**Marlie:** Yes, I’m really looking forward to it. Warming up for [Funk E](https://www.facebook.com/FunkEtheDJ/) gives me the perfect opportunity to play what I really love - Romanian minimal... and I’ll add the groove too! I must admit, you will be hearing a fair few [BRYZ](https://www.facebook.com/Emanuelbryz) tracks from me this weekend and I’m super excited to play on the four point Funktion One sound system they have in there too.
 
-**RR: **What track do you like to play that always goes off?
+**RR:** What track do you like to play that always goes off?
 
 **Marlie:** I can always count on an [Archie Hamilton](https://www.facebook.com/archiehamiltonmusic) track for that sort of thing... over the past year or so it's been '[Ricochet](https://www.beatport.com/track/ricochet-original-mix/9408300)' for me.
 
