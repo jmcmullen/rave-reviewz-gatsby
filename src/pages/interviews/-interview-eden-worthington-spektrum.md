@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/eden-worthington-spektrum
-title: Eden Worthington @ Spektrum
+title: 'Eden Worthington: Spektrum'
 date: 2017-12-13T04:44:50.000Z
 description: 'Here''s our chat with Spectrum founder, Eden Worthington. '
 featuredImage: /img/eden-worthington.jpg
