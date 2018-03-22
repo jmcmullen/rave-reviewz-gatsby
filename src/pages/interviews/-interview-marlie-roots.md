@@ -6,7 +6,7 @@ date: 2018-03-22T01:13:49.874Z
 description: Our insightful chat with the talented DJ and Roots founder...
 featuredImage: /img/marlie.jpg
 ---
-_After defining her sound on London's underground circuit, Marlie Kay returned to her [_Roots_](https://www.facebook.com/rootsmusicaustralia) in Sydney to establish her minimal techno brand. Here's our chat with the skilled selector before her birthday festivities tomorrow...__
+_After defining her sound on London's underground circuit, Marlie Kouzoumis returned to her [_Roots_](https://www.facebook.com/rootsmusicaustralia) in Sydney to establish her minimal techno brand. Here's our chat with the skilled selector before her birthday festivities tomorrow...__
 
 **RR:** Hey [**Marlie**](https://www.facebook.com/marliedj/)! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
