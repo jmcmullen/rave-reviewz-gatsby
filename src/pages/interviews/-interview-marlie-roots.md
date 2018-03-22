@@ -6,9 +6,9 @@ date: 2018-03-22T01:13:49.874Z
 description: Our insightful chat with the talented DJ and Roots founder...
 featuredImage: /img/marlie.jpg
 ---
-_After first defining her sound on London's underground circuit, _[**_Marlie_**](https://www.facebook.com/marliedj)_ returned to her hometown of Sydney and established the enterprising party brand - _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_. Here's our chat with the minimal techno siren before tomorrow's festivities at Flamingo Lounge..._
+_After defining her sound on London's underground circuit, Marlie Kay returned to her _[_Roots_](https://www.facebook.com/rootsmusicaustralia/)_ in Sydney to establish her minimal techno brand. Here's our chat with the skilled selector before her birthday festivities tomorrow..._
 
-**RR:** Hey Marlie! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
+**RR:** Hey [_**Marlie**_](https://www.facebook.com/marliedj)_ _! You’re throwing a special Roots event tomorrow for your birthday. What can we expect from the night?
 
 **Marlie:** I certainly am! I’ve created a solid line-up with not only some of Sydney’s top selectors but great friends of mine too. Add a top notch sound system into the mix, some more friends & a few drinks - I guess we have the recipe for a quality night! 
 
