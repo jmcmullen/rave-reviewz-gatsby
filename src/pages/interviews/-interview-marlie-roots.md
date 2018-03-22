@@ -18,7 +18,7 @@ _After defining her sound on London's underground circuit, Marlie Kouzoumis retu
 
 **RR:** You’re supporting Funk E on Saturday night at the [Junction](https://www.facebook.com/TheJunctionBondi/). What sort of set will you be dropping?
 
-**Marlie: **Yes, I’m really looking forward to it! Warming up for [Funk E](https://www.facebook.com/FunkEtheDJ/) gives me the perfect opportunity to play what I really love - Romanian minimal. Yes, I’ll add the groove too! I must admit, you will be hearing a fair few [BRYZ](https://www.facebook.com/Emanuelbryz) tracks from me this weekend! I’m super excited to play on the four point Funktion One sound system they have in there too!
+**Marlie:** Yes, I’m really looking forward to it! Warming up for [Funk E](https://www.facebook.com/FunkEtheDJ/) gives me the perfect opportunity to play what I really love - Romanian minimal. Yes, I’ll add the groove too! I must admit, you will be hearing a fair few [BRYZ](https://www.facebook.com/Emanuelbryz) tracks from me this weekend! I’m super excited to play on the four point Funktion One sound system they have in there too!
 
 **RR:** What track do you like to play that always goes off?
 
