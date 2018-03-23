@@ -6,7 +6,7 @@ date: 2018-03-17T09:56:37.331Z
 description: TBC
 featuredImage: /img/fabio-neural.jpg
 ---
-We caught up with italian Mixmaster Fabio Neural, before next month's PURE event. Check it out!
+Before setting foot on Australian soil for PURE next month, we caught up with italian Mixmaster Fabio Neural to chat about his kife. Check it out!
 
 
 
