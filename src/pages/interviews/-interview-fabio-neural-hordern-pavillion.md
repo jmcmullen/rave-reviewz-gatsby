@@ -6,7 +6,7 @@ date: 2018-03-17T09:56:37.331Z
 description: TBC
 featuredImage: /img/fabio-neural.jpg
 ---
-_Before he sets foot on Australian soil for next month's PURE, italian Mixmaster Fabio Neural joined us for a chat about his life, challenges and passion for music. Check it out!_
+_Before he sets foot on Australian soil for next month's PURE, Italian Mixmaster Fabio Neural joined us for a chat about his life, challenges and passion for music. Check it out!_
 
 **RR:** Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?
 
