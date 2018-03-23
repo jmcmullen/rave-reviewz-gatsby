@@ -6,6 +6,10 @@ date: 2018-03-17T09:56:37.331Z
 description: TBC
 featuredImage: /img/fabio-neural.jpg
 ---
+We caught up with italian Mixmaster Fabio Neural, before next month's PURE event. Check it out!
+
+
+
 **RR:** Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?
 
 **Fabio:** I can't wait to perform at this amazing festival! Well, I will show all my skills during my set, trying to take people on a trip and share with them the energy that music makes me feel.
@@ -48,4 +52,4 @@ featuredImage: /img/fabio-neural.jpg
 
 **RR:** We can't wait - see you soon!
 
-_Join Fabio on April 28th for PURE 2018. Tickets available _[_**here**_](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
+_Join Fabio on April 28th for PURE 2018. Tickets available _[**_here_**](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
