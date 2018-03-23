@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/fabio-neural-hordern-pavillion
 title: Fabio Neural @ Hordern Pavillion
 date: 2018-03-17T09:56:37.331Z
-description: TBC
+description: Our chat with one of PURE festival's secret weapons
 featuredImage: /img/fabio-neural.jpg
 ---
 _Before he sets foot on Australian soil for next month's PURE, Italian Mixmaster Fabio Neural joined us for a chat about his life, challenges and passion for music. Check it out!_
