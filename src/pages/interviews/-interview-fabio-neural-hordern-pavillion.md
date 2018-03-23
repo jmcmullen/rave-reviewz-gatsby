@@ -8,7 +8,7 @@ description: >-
   month's PURE 
 featuredImage: /img/fabio-neural.jpg
 ---
-_Before he sets foot on Australian soil for next month's PURE, mixmaster Fabio Neural joined us for a chat about his life, challenges and passion for music. Check it out!_
+_Before setting foot on Australian soil for PURE, mixmaster Fabio Neural joined us for a chat about his life, challenges and passion for music. Check it out!_
 
 **RR:** Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?
 
@@ -52,4 +52,4 @@ _Before he sets foot on Australian soil for next month's PURE, mixmaster Fabio N
 
 **RR:** We can't wait - see you soon!
 
-_Join Fabio on April 28th for PURE 2018. Tickets available _[**_here_**](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
+_Join Fabio on April 28th for PURE 2018. Tickets available _[_**here**_](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
