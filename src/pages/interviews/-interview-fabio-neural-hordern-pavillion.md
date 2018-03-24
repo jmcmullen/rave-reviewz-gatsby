@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/fabio-neural-pure
 title: Fabio Neural @ Pure
-date: 2018-03-24T15:10:37+11:00
+date: 2018-03-24T04:10:37.000Z
 description: >-
   Read our interview with the Italian weapon before his Australian debut at next
   month's PURE 
@@ -36,7 +36,7 @@ _With the countdown to his Australian debut firmly under way, mixmaster Fabio Ne
 
 **RR:** Nice! Now, tell us one track you like to play which always goes off.
 
-**Fabio:** Well, for sure [Dj Rolando - Jaguar](https://www.youtube.com/watch?v=C0f96HQbCY4) & [Technasia - Obsession (Hombre Lowdown French Kissed Edit) ](https://www.beatport.com/track/obsession-hombre-lowdown-french-kissed-edit/6679378)
+**Fabio:** Well, for sure [Dj Rolando - Jaguar](https://www.youtube.com/watch?v=C0f96HQbCY4) & [Technasia - Obsession (Hombre Lowdown French Kissed Edit) ](https://www.beatport.com/track/obsession-hombre-lowdown-french-kissed-edit/6679378).
 
 **RR:** You’ve played all over the world - is there a set that really stands out in your memory?
 
@@ -44,12 +44,12 @@ _With the countdown to his Australian debut firmly under way, mixmaster Fabio Ne
 
 **RR:** Sounds amazing. What have been the biggest challenges during your career?
 
-**Fabio:** Honestly? Myself and life. I mean, in the world of music it is difficult to find people that help you because everyone is scared that you might take their place. I find that doesn't make sense because there are enough clubs and festivals for everyone, but people often want more and more. The passion and the love I feel for music is so big but it wasn't easy... I took so many doors in the face, until now. The reason I said myself and life is because I've had to live with losing my mother to cancer and then my father. I lost her 10 years ago when I was 17 and him last year, so you can imagine the impact it had on my life and music.  For many people, they believe that being a DJ is no work and all play, sometimes making music and enjoying parties. But that is not the reality, there is a lot of work behind it and you have to pour your life into your music. A lot of people are doing the same as you and so many demos are being sent to labels.  It's important to stay active on all social networks, doing the right posts at the right time. You have to contact promoters or find an agency and you need to be listening to music daily and buying tracks. And it is also very important to go to as many clubs and festivals as you can, to meet artists and label managers and build connections and friendships. So life itself and the fight to overcome my personal tragedies have been the biggest challenges, but I've been lucky to love my music and what I do. This is what's given me the power to not give up.
+**Fabio:** Honestly? Myself and life. I mean, in the world of music it is difficult to find people that help you because everyone is scared that you might take their place. I find that doesn't make sense because there are enough clubs and festivals for everyone, but people often want more and more. The passion and the love I feel for music is so big but it wasn't easy... I took so many doors in the face, until now. The reason I said myself and life, is because I've had to live with losing my mother to cancer, and then my father. I lost her 10 years ago when I was 17 and him last year, so you can imagine the impact it had on my life and music. Many people believe that being a DJ is no work and all play, sometimes making music and enjoying parties. But that is not the reality, there is a lot of work behind it and you have to pour your life into your music. A lot of people are doing the same as you and so many demos are being sent to labels.  It's important to stay active on all social networks, to contact promoters or find an agency, listen to music daily and buy tracks. And it is also very important to go to as many clubs and festivals as you can, to meet artists and label managers and build connections and friendships. So life itself and the fight to overcome my personal tragedies have been the biggest challenges, but I've been lucky to love my music and what I do. This is what's given me the power to not give up.
 
-**RR: **Very sorry for your losses Fabio, and thanks for your honesty. Just one last question – what else is in store for you this year?
+**RR:** Very sorry for your losses Fabio, and thanks for your honesty. Just one last question – what else is in store for you this year?
 
 **Fabio:** 2018 will be an important year for me - I had an amazing solo trip to Sri Lanka, I have joined [Analog Agency](https://www.facebook.com/AnalogAgency/) for Spain, Portugal and Italy. I just played at Egg in London a few weeks ago and released my remix for Carl Cox and Christopher Coe's new label, which is doing very well. I also closed my Eighth EP on Intec and first EP on [OFF Recordings](https://www.facebook.com/OFF.Recordings/).  I will be performing with Carl in Italy at Afrobar in Sicily and in another important club that I cannot reveal yet. I will also play at Creamfields UK and Medusa Festival in Spain. But the biggest one is Pure Festival... see you in Australia guys!
 
 **RR:** We can't wait - see you soon.
 
-_Join Fabio on April 28th for PURE 2018. Tickets available _[**_here_**](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)
+_Join Fabio on April 28th for PURE 2018. Tickets available [**here**](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)_
