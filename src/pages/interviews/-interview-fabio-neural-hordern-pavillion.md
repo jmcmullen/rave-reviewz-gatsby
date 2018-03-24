@@ -8,7 +8,7 @@ description: >-
   month's PURE 
 featuredImage: /img/fabio-neural.jpg
 ---
-_With the countdown to his Australian debut firmly under way, mixmaster Fabio Neural joined us for a chat about his life, challenges and passion for music..._
+_With the countdown to his Australian debut firmly under way, mixmaster Fabio Neural joined us for a chat about his friendship with Carl Cox, the challenges he's faced and his passion for music..._
 
 **RR:** Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?
 
