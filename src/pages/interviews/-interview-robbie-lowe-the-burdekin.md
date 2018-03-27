@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interview/robbie-love
+path: /interview/robbie-lowe
 title: Robbie Lowe @ The Burdekin
 date: 2017-10-23T04:02:33.000Z
 description: >
