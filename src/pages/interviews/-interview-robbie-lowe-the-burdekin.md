@@ -4,7 +4,7 @@ path: /interview/robbie-lowe
 title: Robbie Lowe @ The Burdekin
 date: 2017-10-23T04:02:33.000Z
 description: >-
-  One of the most influential forces on Australia's underground scene... here's
+  One of the most influential DJs on Australia's underground circuit ... here's
   our candid chat with the local master!
 featuredImage: /img/robbie lowe.jpg
 ---
