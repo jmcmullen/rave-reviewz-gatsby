@@ -45,7 +45,7 @@ featuredImage: /img/tyson-koh.jpg
 
 _Find out more about becoming a member of the Keep Sydney Open Party _[_here_](https://l.facebook.com/l.php?u=http%3A%2F%2Fkeepsydneyopen.com%2Fparty.html&h=ATNyPk9vZw5fGCjgkDPIu_71Q9ed78KW5C7HzuqMDYU1BtCFaCtv6OCKQ0KU3Njxj_kCek5oOWpDP3CAbro8sKD_FAYTYqSSbVLVrQeXVc5LQbMoy4AtX1_ohkX3wY4AmL0bb_Jr)
 
-_If you’re interested in volunteering for Keep Sydney Open, email _[_volunteers@keepsydneyopen.com_](volunteers@keepsydneyopen.com)_. _
+_If you’re interested in volunteering for Keep Sydney Open, email _[_volunteers@keepsydneyopen.com_](volunteers@keepsydneyopen.com)
 
 _You can catch Tyson Koh on FBI radio on Sundays 3-5pm. _
 
