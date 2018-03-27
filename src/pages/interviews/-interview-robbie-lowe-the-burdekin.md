@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/robbie-love
 title: Robbie Lowe @ The Burdekin
-date: 2017-10-23T15:02:33+11:00
+date: 2017-10-23T04:02:33.000Z
 description: >
   If there’s a name that’s synonymous with Australian’s dance music scene, it
   would have to be Robbie Lowe. We caught up with the eclectic DJ about his
@@ -30,7 +30,7 @@ featuredImage: /img/robbie-lowe.jpg
 
 **Robbie:** I did some great warmups for [Digweed](https://www.facebook.com/djjohndigweed/) – one at Home in 2006 and a Greenwood gig 5 years ago. I also did Tiesto warmups at the Hordern Pavilion for a crowd of 6000 people which was amazing. But the standout would have to be my 8 hour set at Spice which actually went down a week before the lockout laws. The gig was to celebrate 20 years of DJing and from start to finish I had the crowd. [James Zabiela](https://www.facebook.com/jameszabiela/) rocked up during it and tapped me on the shoulder to ask if we could play B2B which was humbling as he is one of my favourite DJs – he didn’t realise I was on a mission to play an 8 hour set. Any other night I would have said yes! 
 
-**RR: **Haha, sounds epic. Is there a DJ you haven’t supported yet but would love to? 
+**RR:** Haha, sounds epic. Is there a DJ you haven’t supported yet but would love to? 
 
 **Robbie:** I’m very lucky to have played alongside all my progressive house favourites – Sasha, Digweed, Howells, Dave Seaman, [Cattaneo](https://www.facebook.com/hernancattaneo/), Kleinenberg… there are some techno DJs I like but I think there are other DJs that champion that sound that would do a better job. 
 
