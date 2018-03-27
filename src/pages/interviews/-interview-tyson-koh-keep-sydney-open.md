@@ -43,7 +43,7 @@ featuredImage: /img/tyson-koh.jpg
 
 **RR:** Sweet as. We’ll meet you in Darlo mate.
 
-_Find out more about becoming a member of the Keep Sydney Open Party _[_here_](https://keepsydneyopen.com/)
+_Find out more about becoming a member of the Keep Sydney Open Party [here](https://keepsydneyopen.com/)
 
 _If you’re interested in volunteering for Keep Sydney Open, email [volunteers@keepsydneyopen.com](volunteers@keepsydneyopen.com)_
 
