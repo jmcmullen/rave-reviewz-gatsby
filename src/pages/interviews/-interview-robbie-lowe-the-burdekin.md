@@ -3,13 +3,13 @@ templateKey: interview-post
 path: /interview/robbie-lowe
 title: Robbie Lowe @ The Burdekin
 date: 2017-10-23T04:02:33.000Z
-description: >
-  If there’s a name that’s synonymous with Australian’s dance music scene, it
-  would have to be Robbie Lowe. We caught up with the eclectic DJ about his
-  illustrious career after his set at Enter the Beehive; part of the Meet me in
-  Darlo event.
+description: >-
+  One of the most influential forces on Australia's underground scene - here's
+  our candid chat with the local master. 
 featuredImage: /img/robbie lowe.jpg
 ---
+_If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be _[_Robbie Lowe_](https://www.facebook.com/robbielowemusic/)_. We caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the Meet me in Darlo event._
+
 **RR:** Robbie, great set. Enter The Beehive and [Meet Me in Darlo](https://www.facebook.com/events/292009331276595/) have been a lot of fun. How involved have you been with the Keep Sydney Open movement?
 
 **Robbie:** I hold the flag up high for the cause – it’s in my best interests and I want to see the culture stay strong in Sydney. You’ll always find me on the frontline.
