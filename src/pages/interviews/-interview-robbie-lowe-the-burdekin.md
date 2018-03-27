@@ -8,7 +8,7 @@ description: >
   would have to be Robbie Lowe. We caught up with the eclectic DJ about his
   illustrious career after his set at Enter the Beehive; part of the Meet me in
   Darlo event.
-featuredImage: /img/robbie-lowe.jpg
+featuredImage: /img/robbie lowe.jpg
 ---
 **RR:** Robbie, great set. Enter The Beehive and [Meet Me in Darlo](https://www.facebook.com/events/292009331276595/) have been a lot of fun. How involved have you been with the Keep Sydney Open movement?
 
