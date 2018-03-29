@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/mantra-collective-civic-underground
 title: Mantra Collective @ Civic Underground
-date: 2018-03-29T00:28:59.906Z
+date: 2018-03-30T11:28:59+11:00
 description: >-
   Our chat with the forward-thinking trio - discussing their new venture,
   underground takeovers and love of spinning wax...
