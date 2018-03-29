@@ -4,7 +4,7 @@ path: /interview/mantra-collective-civic-underground
 title: Mantra Collective @ Civic Underground
 date: 2018-03-29T00:28:59.906Z
 description: >-
-  Read our interview the forward-thinking trio about their new venture,
+  An insight into Sydney's forward-thinking trio - discussing their new venture,
   underground takeovers and love of spinning wax
 featuredImage: /img/mantra collective 3.jpg
 ---
