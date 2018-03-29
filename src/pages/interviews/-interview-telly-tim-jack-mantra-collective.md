@@ -4,8 +4,8 @@ path: /interview/mantra-collective-civic-underground
 title: Mantra Collective @ Civic Underground
 date: 2018-03-29T00:28:59.906Z
 description: >-
-  An insight into Sydney's forward-thinking trio - discussing their new venture,
-  underground takeovers and love of spinning wax
+  Our chat with the forward-thinking trio - discussing their new venture,
+  underground takeovers and love of spinning wax...
 featuredImage: /img/mantra collective 3.jpg
 ---
 _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.facebook.com/MantraCollective/) have curated some of the finest underground parties in Sydney and are now gearing up for the launch of their record label. We dropped in on founders Telly, Tim and Jack for a chat before this weekend’s milestone party…_
