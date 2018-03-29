@@ -6,4 +6,4 @@ date: 2018-03-29T00:28:59.906Z
 description: TBC
 featuredImage: /img/mantra collective 3.jpg
 ---
-**TBC**
+![](/img/mantra-collective-party.jpg)
