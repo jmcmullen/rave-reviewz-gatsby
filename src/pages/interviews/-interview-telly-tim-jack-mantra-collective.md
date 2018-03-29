@@ -22,7 +22,7 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 **RR:** Stellar list! What is the origin of the name Mantra Collective and how would you describe your sound?
 
-**Mantra Collective:** It took weeks of brainstorming and lots of heated meetings before we finally agreed on the name. We loved bringing two words that are significant to the 3 of us together - “Mantra” which originates from Hinduism and Buddhism, meaning ‘a word or sound repeated to aid concentration in meditation’… and “Collective” which means ‘done or shared by all members of a group of people’. So in a way the name “Mantra Collective” has represents a shared consciousness that we strive to achieve through music and experiences at our events.
+**Mantra Collective:** It took weeks of brainstorming and lots of heated meetings before we finally agreed on the name. We loved bringing two words that are significant to the 3 of us together - “Mantra” which originates from Hinduism and Buddhism, meaning ‘a word or sound repeated to aid concentration in meditation’… and “Collective” which means ‘done or shared by all members of a group of people’. So in a way the name “Mantra Collective” represents a shared consciousness that we strive to achieve through music and experiences at our events.
 
 **RR:** Of the many Mantra parties you’ve hosted, which one stands out in your memories?
 
