@@ -6,11 +6,11 @@ date: 2018-03-29T00:28:59.906Z
 description: TBC
 featuredImage: /img/mantra collective 3.jpg
 ---
-_Since exploding onto the scene in 2012, Mantra Collective have curated some of the finest underground parties in Sydney and are now gearing up for the launch of their record label. We dropped in on founders Telly, Tim and Jack for a chat before this weekend’s milestone party…_
+_Since exploding onto the scene in 2012, _[_Mantra Collective_](https://www.facebook.com/MantraCollective/)_ have curated some of the finest underground parties in Sydney and are now gearing up for the launch of their record label. We dropped in on founders Telly, Tim and Jack for a chat before this weekend’s milestone party…_
 
-**RR:** Hey guys, great to chat. David Gtronic will be joining you and the team for the launch of Mantra Collective Records on Saturday. What can we all expect from the night?
+**RR:** Hey guys, great to chat. [David Gtronic](https://www.facebook.com/DavidGtronic07/) will be joining you and the team for the launch of Mantra Collective Records on Saturday. What can we all expect from the night?
 
-**Mantra Collective:** Well it’s shaping up to be quite massive… we have a fully stacked local line-up including Mike Watts, Venda and Charles and us three supporting underground weapon David Gtronic at the Civic - without a doubt the venue with Sydney’s best sound system. It will be a true celebration with the launch of our label, and should be a real highlight this long weekend.
+**Mantra Collective:** Well it’s shaping up to be quite massive… we have a fully stacked local line-up including [Mike Watts](https://www.facebook.com/mikewattsdj), [Venda](https://www.facebook.com/Vendamusic) and Charles and us three supporting underground weapon David Gtronic at the Civic - without a doubt the venue with Sydney’s best sound system. It will be a true celebration with the launch of our label, and should be a real highlight this long weekend.
 
 **RR: **We’re looking forward to it! Can you tell us how the idea to start the label come about and what the ethos will be?
 
@@ -48,4 +48,4 @@ _Since exploding onto the scene in 2012, Mantra Collective have curated some of 
 
 **RR: **Thanks for the chat and enjoy Saturday’s launch!
 
-_Get tickets to the MANTRA COLLECTIVE RECORDS LAUNCH PARTY _[**_here_**](https://www.residentadvisor.net/events/1084491)
+_Get tickets to the MANTRA COLLECTIVE RECORDS LAUNCH PARTY _[_**here**_](https://www.residentadvisor.net/events/1084491)
