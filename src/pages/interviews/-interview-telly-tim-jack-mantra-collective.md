@@ -31,7 +31,7 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 **Mantra Collective:** Last year’s ‘Reconstructed’ party with the [Bare Essentials](https://www.facebook.com/bareessentialssydney/) team stands out as the crown jewel in our history. It was probably our most ambitious and creative project… a proper 900 person rave in a carpark with 2 of the world’s leading underground acts - [Barac ](https://www.facebook.com/baracmusic/)and [East End Dubs](https://www.facebook.com/EastEndDubs/). It was ambitious in terms of location and line-up, and we also enlisted the very best Sydney has to offer in terms of Funktion-One Sound and a world class lighting system. There was also an unexpected heatwave! So we had to use all our combined experience to pull together an impromptu cooling system to keep the crowd cool and happy…
 
-![null](/img/mantra-collective-party.jpg)
+![Party-mantra-collective](/img/mantra-collective-party.jpg)
 
 **RR:** It was one hell of a party. You guys have played in Japan a couple of times - how were those experiences?
 
@@ -52,3 +52,5 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 **RR:** Thanks for the chat and enjoy Saturday’s launch!
 
 _Get tickets to the MANTRA COLLECTIVE RECORDS LAUNCH PARTY [**here**](https://www.residentadvisor.net/events/1084491)_
+
+📸 [Gui Jorge Photography](https://www.facebook.com/guijorgeweddingphotography/)
