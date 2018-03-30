@@ -23,6 +23,12 @@ svg.social-icon
     display: flex;
     justify-content: space-between;
 
+    @include tablet
+      display: none
+
+    @include desktop
+     display: none
+
 .share-buttons
   opacity: 0;
   transition: all 0.5s;
