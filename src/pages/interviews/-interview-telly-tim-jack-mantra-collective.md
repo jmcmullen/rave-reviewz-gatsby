@@ -9,6 +9,8 @@ description: >-
   party and more... 
 featuredImage: /img/mantra- collective.jpg
 ---
+![](/img/mantra-collective-party.jpg)
+
 _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.facebook.com/MantraCollective/) have curated some of the finest underground parties in Sydney and are now gearing up for the launch of their record label. We dropped in on founders Telly, Tim and Jack for a chat before this weekend’s milestone party…_
 
 **RR:** Hey guys, great to chat. [David Gtronic](https://www.facebook.com/DavidGtronic07/) will be joining you and the team for the launch of Mantra Collective Records on Saturday. What can we all expect from the night?
