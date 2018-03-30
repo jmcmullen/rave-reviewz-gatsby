@@ -8,7 +8,7 @@ description: >-
   discuss his strategy for this musical voyage.
 featuredImage: /img/mark cutajar.jpg
 ---
-With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage...
+_With the _[_Norti Vikings_](https://www.facebook.com/nortivikings/)_ preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage..._
 
 **RR:** Hey Mark! We're looking forward to this Saturday's [Sea Raid boat party](https://www.facebook.com/events/276588012864846/), which sees the return of [DJ Ruby](https://www.facebook.com/djruby/) to Sydney - what kind of set can we expect from the man?
 
