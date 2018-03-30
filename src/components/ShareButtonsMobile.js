@@ -30,6 +30,10 @@ class ShareButtons extends Component {
     });
   }
 
+  getUrl() {
+    return window !== 'undefined' ? window.location.href : '/';
+  }
+
   render() {
     return (
       <section
@@ -38,13 +42,13 @@ class ShareButtons extends Component {
         }`}
       >
         <div className="post-icons post-icons--mobile">
-          <FacebookShareButton url={window.location.href}>
+          <FacebookShareButton url={this.getUrl()}>
             <FacebookIcon size={52} round={false} /> Share
           </FacebookShareButton>
-          <TwitterShareButton url={window.location.href}>
+          <TwitterShareButton url={this.getUrl()}>
             <TwitterIcon size={52} round={false} /> Tweet
           </TwitterShareButton>
-          <EmailShareButton url={window.location.href}>
+          <EmailShareButton url={this.getUrl()}>
             <EmailIcon size={52} round={false} /> Email
           </EmailShareButton>
         </div>
