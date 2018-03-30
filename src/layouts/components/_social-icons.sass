@@ -1,0 +1,32 @@
+svg.social-icon
+  margin: 1rem 0;
+  display: block;
+
+.post-icons
+  text-align: center;
+
+  &--desktop
+    position: fixed;
+    top: 30vh;
+
+    @include mobile
+      display: none;
+
+    @include tablet
+      margin-left: 2%;
+
+    @include desktop
+      margin-left: 5%;
+
+  &--mobile
+    margin: 2rem 1rem 0;
+    display: flex;
+    justify-content: space-between;
+
+.share-buttons
+  opacity: 0;
+  transition: all 0.5s;
+
+  &.visible
+    opacity: 1;
+    visibility: visible;

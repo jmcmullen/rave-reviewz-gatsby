@@ -5,6 +5,8 @@ import Header from '../components/Header';
 import Img from 'gatsby-image';
 import FacebookProvider, { Comments } from 'react-facebook';
 import Content, { HTMLContent } from '../components/Content';
+import ShareButtonsMobile from '../components/ShareButtonsMobile';
+import ShareButtonsDesktop from '../components/ShareButtonsDesktop';
 
 export const InterviewPostTemplate = ({
   content,
@@ -40,11 +42,15 @@ export const InterviewPostTemplate = ({
       <Header alt={title} image={featuredImage} />
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
+          <div className="column column--icons is-2">
+            <ShareButtonsDesktop />
+          </div>
+          <div className="column is-8">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
             <PostContent content={content} />
+            <ShareButtonsMobile />
             <FacebookProvider className="fb-comments" appId="1994812974114706">
               <Comments href={url} width="100%" />
             </FacebookProvider>

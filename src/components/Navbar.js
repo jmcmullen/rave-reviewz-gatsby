@@ -45,7 +45,7 @@ class Navbar extends Component {
       { name: 'Interviews', path: '/interviews', icon: bubbles },
       { name: 'Reviews', path: '/reviews', icon: newspaper },
       { name: 'About Us', path: '/about-us', icon: info },
-      { name: 'Community', path: '/community', icon: users },
+      // { name: 'Community', path: '/community', icon: users },
       { name: 'Podcasts', path: '/podcasts', icon: volumeHigh },
     ];
 

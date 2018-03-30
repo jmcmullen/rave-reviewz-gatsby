@@ -6,7 +6,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   const people = [
-    { name: 'Kamran', img: require('../img/kamran.jpg'), role: 'Captain' },
+    { name: 'Kamran', img: require('../img/kamran.jpg'), role: 'Director' },
     { name: 'Sean', img: require('../img/sean.jpg'), role: 'Editor' },
     { name: 'Jay', img: require('../img/jay.jpg'), role: 'Algorithms' },
     { name: 'Thomas', img: require('../img/thomas.jpg'), role: 'Field Agent' },

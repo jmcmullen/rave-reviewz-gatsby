@@ -29,6 +29,7 @@
     "react-helmet": "^5.2.0",
     "react-icons-kit": "^1.0.7",
     "react-load-script": "0.0.6",
+    "react-share": "^2.0.0",
     "react-youtube": "^7.5.0"
   },
   "keywords": [
