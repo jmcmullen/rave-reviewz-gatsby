@@ -18,6 +18,7 @@ class ShareButtons extends Component {
     window.addEventListener('scroll', () => {
       this.setState({
         isVisible: window.innerHeight < document.documentElement.scrollTop,
+        url: window.location.href,
       });
     });
   }
@@ -26,12 +27,9 @@ class ShareButtons extends Component {
     window.removeEventListener('scroll', () => {
       this.setState({
         isVisible: window.innerHeight < document.documentElement.scrollTop,
+        url: window.location.href,
       });
     });
-  }
-
-  getUrl() {
-    return window !== 'undefined' ? window.location.href : '/';
   }
 
   render() {
@@ -42,13 +40,13 @@ class ShareButtons extends Component {
         }`}
       >
         <div className="post-icons post-icons--desktop">
-          <FacebookShareButton url={this.getUrl()}>
+          <FacebookShareButton url={this.state.url}>
             <FacebookIcon size={52} round={false} /> Share
           </FacebookShareButton>
-          <TwitterShareButton url={this.getUrl()}>
+          <TwitterShareButton url={this.state.url}>
             <TwitterIcon size={52} round={false} /> Tweet
           </TwitterShareButton>
-          <EmailShareButton url={this.getUrl()}>
+          <EmailShareButton url={this.state.url}>
             <EmailIcon size={52} round={false} /> Email
           </EmailShareButton>
         </div>
