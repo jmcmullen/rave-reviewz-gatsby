@@ -8,7 +8,7 @@ description: >-
   from the festival's curator and bossman...
 featuredImage: /img/ricky-cooper.jpg
 ---
-_With the countdown to the magical weekender that is [Return to Rio](https://www.facebook.com/ReturnToRio/)_ entering its final stages, we dropped in on festival director & chief dream-weaver Ricky Cooper for a catch-up…_
+_With the countdown to the magical weekender that is [Return to Rio](https://www.facebook.com/ReturnToRio/) entering its final stages, we dropped in on festival director & chief dream-weaver Ricky Cooper for a catch-up…_
 
 **RR:** Ricky, not long to go til the main event! We know how hectic things must be, so thanks for taking the time to chat. How are the preparations going?
 
