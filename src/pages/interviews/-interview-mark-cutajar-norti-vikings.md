@@ -6,7 +6,7 @@ date: 2018-01-16T23:45:15.000Z
 description: >-
   We caught up with one of the captains of the Norti Vikings ship Mark to
   discuss his strategy for this musical voyage.
-featuredImage: /img/mark-cutajar.jpg
+featuredImage: /img/mark cutajar.jpg
 ---
 With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage...
 
@@ -48,6 +48,6 @@ With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to se
 
 **RR:** Finally - what's in store for the Norti Vikings in 2018?
 
-**Mark: **Well after the Sea Raid this Saturday there is talk of a secret beach party and possibly a small bush doof! We generally only do 4 parties each year, so for us and our guests each event we do is very special.
+**Mark:** Well after the Sea Raid this Saturday there is talk of a secret beach party and possibly a small bush doof! We generally only do 4 parties each year, so for us and our guests each event we do is very special.
 
 **RR:** Sounds great, thanks for the chat!
