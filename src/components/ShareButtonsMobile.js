@@ -11,7 +11,7 @@ import {
 class ShareButtons extends Component {
   constructor(props) {
     super(props);
-    this.state = { isVisible: false };
+    this.state = { isVisible: false, url: '' };
   }
 
   componentDidMount() {
