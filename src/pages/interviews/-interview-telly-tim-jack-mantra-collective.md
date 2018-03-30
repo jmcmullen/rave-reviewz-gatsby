@@ -27,7 +27,7 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 **Mantra Collective:** It took weeks of brainstorming and lots of heated meetings before we finally agreed on the name. We loved bringing two words that are significant to the 3 of us together - “Mantra” which originates from Hinduism and Buddhism, meaning ‘a word or sound repeated to aid concentration in meditation’… and “Collective” which means ‘done or shared by all members of a group of people’. So in a way the name “Mantra Collective” represents a shared consciousness that we strive to achieve through music and experiences at our events.
 
-**RR:** Of the many Mantra parties you’ve hosted, which one stands out in your memories?
+**RR:** Of the many Mantra parties hosted, which one stands out in your memories?
 
 **Mantra Collective:** Last year’s ‘Reconstructed’ party with the [Bare Essentials](https://www.facebook.com/bareessentialssydney/) team stands out as the crown jewel in our history. It was probably our most ambitious and creative project… a proper 900 person rave in a carpark with 2 of the world’s leading underground acts - [Barac ](https://www.facebook.com/baracmusic/)and [East End Dubs](https://www.facebook.com/EastEndDubs/). It was ambitious in terms of location and line-up, and we also enlisted the very best Sydney has to offer in terms of Funktion-One Sound and a world class lighting system. There was also an unexpected heatwave! So we had to use all our combined experience to pull together an impromptu cooling system to keep the crowd cool and happy…
 
