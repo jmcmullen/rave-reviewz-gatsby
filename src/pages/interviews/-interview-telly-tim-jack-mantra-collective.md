@@ -21,7 +21,7 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 **RR:** Mantra Collective have achieved a lot over the years - how did the you first get together?
 
-**Mantra Collective:** We were brought together by mutual friends and a strong passion for music. We wanted to bring something unique to the table, so we decided to kick things off with a boat party at the height of summer in 2012 and have never looked back! Since then, we’ve had a whole range of underground talent headline our parties including a label showcase from Fuse and individual acts like East End Dubs, Barac, [Subb-an](https://www.facebook.com/subbanmusic/), [Andrey Pushkarev](https://www.facebook.com/andrey.pushkarev.pro/), [Dana Ruh](https://www.facebook.com/danaruh/), [Molly](https://www.facebook.com/molly.emeline/), [Diego Krause](https://www.facebook.com/diegokrause) and [Varhat](https://www.facebook.com/varhatyoyaku/) to name a few...
+**Mantra Collective:** We were brought together by mutual friends and a strong passion for music. We wanted to bring something unique to the table, so we decided to kick things off with a boat party at the height of summer in 2012 and have never looked back! Since then, we’ve had a whole range of underground talent headline our parties including a label showcase from [Fuse](https://www.facebook.com/FuseLondon/) and individual acts like East End Dubs, Barac, [Subb-an](https://www.facebook.com/subbanmusic/), [Andrey Pushkarev](https://www.facebook.com/andrey.pushkarev.pro/), [Dana Ruh](https://www.facebook.com/danaruh/), [Molly](https://www.facebook.com/molly.emeline/), [Diego Krause](https://www.facebook.com/diegokrause) and [Varhat](https://www.facebook.com/varhatyoyaku/) to name a few...
 
 **RR:** Stellar list! What is the origin of the name Mantra Collective and how would you describe your sound?
 
@@ -52,7 +52,5 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 **RR:** Thanks for the chat and enjoy Saturday’s launch!
 
 _Get tickets to the MANTRA COLLECTIVE RECORDS LAUNCH PARTY [**here**](https://www.residentadvisor.net/events/1084491)_
-
-
 
 📸 [Gui Jorge Photography](https://www.facebook.com/guijorgeweddingphotography/)
