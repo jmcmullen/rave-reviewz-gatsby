@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/mantra-collective-civic-underground
 title: Mantra Collective @ Civic Underground
-date: 2018-03-30T11:28:59+11:00
+date: 2018-03-30T00:28:59.000Z
 description: >-
   Our chat with the forward-thinking trio - discussing their new venture,
   renowned parties and love of spinning wax...
@@ -32,7 +32,7 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 ![Full house at the 'Reconstructed' event with Barac & East End Dubs - Photo 📸 Gui Jorge](/img/mantra-collective-party.jpg)
 
-**RR: **It was one hell of a party. You guys have played in Japan a couple of times - how were those experiences?
+**RR:** It was one hell of a party. You guys have played in Japan a couple of times - how were those experiences?
 
 **Mantra Collective:** Japan was, and continues to be, one of the most amazing places to tour and visit. Nothing screams passion, respect, precision, and integrity like Japanese culture – it’s reflected in every aspect of their society. This might sound crazy but every experience from convenience store egg sandwiches, to record shopping, to clubbing is bathed in so much care and love… you can sense the obsession with quality and attention to detail.
 
