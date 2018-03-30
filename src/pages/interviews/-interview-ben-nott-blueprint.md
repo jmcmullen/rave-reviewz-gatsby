@@ -8,8 +8,7 @@ description: >-
   ahead of their boat cruise this Saturday...
 featuredImage: /img/ben-nott.jpg
 ---
-
-We caught up with Blueprint boss Ben Nott for a chat about all things ravey ahead of their boat cruise this Saturday...
+_We caught up with Blueprint boss Ben Nott for a chat about all things ravey ahead of their boat cruise this Saturday..._
 
 **RR:** So Ben, Blueprint has built a reputation as one of the most consistent house & techno parties in Sydney. Tell us how it started.
 

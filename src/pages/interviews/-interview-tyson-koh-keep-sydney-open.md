@@ -11,7 +11,7 @@ featuredImage: /img/tyson-koh.jpg
 ---
 **RR:** Tyson, good to speak to you. We’re delighted that [Keep Sydney Open](https://www.facebook.com/KeepSydneyOpen/) is considering running for parliament. What’s the plan?
 
-**Tyson: **Yes, we’re considering registering as a political party! We want more of a seat at the table. Nightlife is important, we want people to be proud of their city and we think this might be the most effective way to change things. We also want to use nightlife as a pathway into other important issues that our supporters care about, so we’re asking if we should start a party. We need 750 registered members, so let’s see what happens! 
+**Tyson:** Yes, we’re considering registering as a political party! We want more of a seat at the table. Nightlife is important, we want people to be proud of their city and we think this might be the most effective way to change things. We also want to use nightlife as a pathway into other important issues that our supporters care about, so we’re asking if we should start a party. We need 750 registered members, so let’s see what happens! 
 
 **RR:** Well, we think it’s a great idea. A political party that supports actual parties? You can definitely count us in! The Keep Sydney Open campaign has really captured the hearts of those after a decent night out in Sydney. How did it all start?
 
@@ -31,11 +31,11 @@ featuredImage: /img/tyson-koh.jpg
 
 **RR:** Sounds like a plan. It’s clearly a massive operation, how do you staff and fund the campaign? 
 
-**Tyson: **We have a small dedicated team and rely on the goodwill of volunteers. We haven’t asked for donations, we fund it through the selling of Keep Sydney Open [merchandise](https://l.facebook.com/l.php?u=http%3A%2F%2Fkeepsydneyopen.merchfanstores.com%2F&h=ATNDcysQsSpaS1DnziazkVfIgbCXE77MHSi8K3dow-KfszuObihdNJ0ojd94KZw42QmCeuYW21rTfZqlRgr2Pv6cpr0aoznN7X-RBC-DiVo2TuRkz1liXOSzdLu7fnVMlCTRk8VW) and fundraising events like the one we did in [King’s Cross in July](https://www.facebook.com/events/623256924548671/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A710458675653681%2C%22action_history%22%3A%5B%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22pag). 
+**Tyson:** We have a small dedicated team and rely on the goodwill of volunteers. We haven’t asked for donations, we fund it through the selling of Keep Sydney Open [merchandise](https://l.facebook.com/l.php?u=http%3A%2F%2Fkeepsydneyopen.merchfanstores.com%2F&h=ATNDcysQsSpaS1DnziazkVfIgbCXE77MHSi8K3dow-KfszuObihdNJ0ojd94KZw42QmCeuYW21rTfZqlRgr2Pv6cpr0aoznN7X-RBC-DiVo2TuRkz1liXOSzdLu7fnVMlCTRk8VW) and fundraising events like the one we did in [King’s Cross in July](https://www.facebook.com/events/623256924548671/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A710458675653681%2C%22action_history%22%3A%5B%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22pag). 
 
 **RR:** Yep, it was a great event. You’re doing something similar, [Meet me in Darlo](https://www.facebook.com/events/292009331276595/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A710458675653681%2C%22action_history%22%3A%5B%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22pag) this Saturday. Why Darlinghurst? 
 
-**Tyson: **The Darlinghurst area, particularly Oxford St is one of the country’s premier spots for nightlife with plenty of great, diverse venues but it has been struggling recently. We want to support the area and for people to experience all it has to offer. There are free and ticketed events taking place all day across multiple venues with lots of great artists. It should be a lot of fun and people can register their interest for our political party there too. 
+**Tyson:** The Darlinghurst area, particularly Oxford St is one of the country’s premier spots for nightlife with plenty of great, diverse venues but it has been struggling recently. We want to support the area and for people to experience all it has to offer. There are free and ticketed events taking place all day across multiple venues with lots of great artists. It should be a lot of fun and people can register their interest for our political party there too. 
 
 **RR:** Nice. We like a bit of house & techno here at Rave Reviewz. Any underground electronic music on the bill?
 
@@ -43,10 +43,10 @@ featuredImage: /img/tyson-koh.jpg
 
 **RR:** Sweet as. We’ll meet you in Darlo mate.
 
-Find out more about becoming a member of the Keep Sydney Open Party [here](https://l.facebook.com/l.php?u=http%3A%2F%2Fkeepsydneyopen.com%2Fparty.html&h=ATNyPk9vZw5fGCjgkDPIu_71Q9ed78KW5C7HzuqMDYU1BtCFaCtv6OCKQ0KU3Njxj_kCek5oOWpDP3CAbro8sKD_FAYTYqSSbVLVrQeXVc5LQbMoy4AtX1_ohkX3wY4AmL0bb_Jr)
+_Find out more about becoming a member of the Keep Sydney Open Party [here](https://keepsydneyopen.com/)_
 
-If you’re interested in volunteering for Keep Sydney Open, email [volunteers@keepsydneyopen.com](volunteers@keepsydneyopen.com). 
+_If you’re interested in volunteering for Keep Sydney Open, email [volunteers@keepsydneyopen.com](volunteers@keepsydneyopen.com)_
 
-You can catch Tyson Koh on FBI radio on Sundays 3-5pm. 
+_You can catch Tyson Koh on FBI radio on Sundays 3-5pm._
 
-photo credit: Parker Blain
+_Photo credit: Parker Blain_

@@ -1,15 +1,15 @@
 ---
 templateKey: interview-post
-path: /interview/robbie-love
+path: /interview/robbie-lowe
 title: Robbie Lowe @ The Burdekin
-date: 2017-10-23T15:02:33+11:00
-description: >
-  If there’s a name that’s synonymous with Australian’s dance music scene, it
-  would have to be Robbie Lowe. We caught up with the eclectic DJ about his
-  illustrious career after his set at Enter the Beehive; part of the Meet me in
-  Darlo event.
-featuredImage: /img/robbie-lowe.jpg
+date: 2017-10-23T04:02:33.000Z
+description: >-
+  One of the most influential DJs on Australia's underground circuit ... here's
+  our candid chat with the local master!
+featuredImage: /img/robbie lowe.jpg
 ---
+_If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be [Robbie Lowe](https://www.facebook.com/robbielowemusic/). We caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the Meet me in Darlo event._
+
 **RR:** Robbie, great set. Enter The Beehive and [Meet Me in Darlo](https://www.facebook.com/events/292009331276595/) have been a lot of fun. How involved have you been with the Keep Sydney Open movement?
 
 **Robbie:** I hold the flag up high for the cause – it’s in my best interests and I want to see the culture stay strong in Sydney. You’ll always find me on the frontline.
@@ -30,7 +30,7 @@ featuredImage: /img/robbie-lowe.jpg
 
 **Robbie:** I did some great warmups for [Digweed](https://www.facebook.com/djjohndigweed/) – one at Home in 2006 and a Greenwood gig 5 years ago. I also did Tiesto warmups at the Hordern Pavilion for a crowd of 6000 people which was amazing. But the standout would have to be my 8 hour set at Spice which actually went down a week before the lockout laws. The gig was to celebrate 20 years of DJing and from start to finish I had the crowd. [James Zabiela](https://www.facebook.com/jameszabiela/) rocked up during it and tapped me on the shoulder to ask if we could play B2B which was humbling as he is one of my favourite DJs – he didn’t realise I was on a mission to play an 8 hour set. Any other night I would have said yes! 
 
-**RR: **Haha, sounds epic. Is there a DJ you haven’t supported yet but would love to? 
+**RR:** Haha, sounds epic. Is there a DJ you haven’t supported yet but would love to? 
 
 **Robbie:** I’m very lucky to have played alongside all my progressive house favourites – Sasha, Digweed, Howells, Dave Seaman, [Cattaneo](https://www.facebook.com/hernancattaneo/), Kleinenberg… there are some techno DJs I like but I think there are other DJs that champion that sound that would do a better job. 
 
