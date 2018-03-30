@@ -4,11 +4,11 @@ path: /interview/mark-cutajar-norti-vikings
 title: 'Mark Cutajar: Norti Vikings'
 date: 2018-01-16T23:45:15.000Z
 description: >-
-  We caught up with one of the captains of the Norti Vikings ship Mark to
-  discuss his strategy for this musical voyage.
+  Our interview with Norti Vikings co-founder before the return of their
+  infamous Sea Raid parties...
 featuredImage: /img/mark cutajar.jpg
 ---
-_With the _[_Norti Vikings_](https://www.facebook.com/nortivikings/)_ preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage..._
+_With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage..._
 
 **RR:** Hey Mark! We're looking forward to this Saturday's [Sea Raid boat party](https://www.facebook.com/events/276588012864846/), which sees the return of [DJ Ruby](https://www.facebook.com/djruby/) to Sydney - what kind of set can we expect from the man?
 
