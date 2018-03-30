@@ -33,6 +33,8 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 ![Party-mantra-collective](/img/mantra-collective-party.jpg)
 
+📸 [Gui Jorge Photography](https://www.facebook.com/guijorgeweddingphotography/)
+
 **RR:** It was one hell of a party. You guys have played in Japan a couple of times - how were those experiences?
 
 **Mantra Collective:** Japan was, and continues to be, one of the most amazing places to tour and visit. Nothing screams passion, respect, precision, and integrity like Japanese culture – it’s reflected in every aspect of their society. This might sound crazy but every experience from convenience store egg sandwiches, to record shopping, to clubbing is bathed in so much care and love… you can sense the obsession with quality and attention to detail.
@@ -52,7 +54,3 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 **RR:** Thanks for the chat and enjoy Saturday’s launch!
 
 _Get tickets to the MANTRA COLLECTIVE RECORDS LAUNCH PARTY [**here**](https://www.residentadvisor.net/events/1084491)_
-
-
-
-📸 [Gui Jorge Photography](https://www.facebook.com/guijorgeweddingphotography/)
