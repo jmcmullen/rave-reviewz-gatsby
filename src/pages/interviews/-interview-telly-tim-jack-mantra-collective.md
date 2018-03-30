@@ -21,7 +21,7 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 **RR:** Mantra Collective have achieved a lot over the years - how did the you first get together?
 
-**Mantra Collective:** We were brought together by mutual friends and a strong passion for music. We wanted to bring something unique to the table, so we decided to kick things off with a boat party at the height of summer in 2012 and have never looked back! Since then, we’ve had a whole range of underground talent headline our parties including a label showcase from [Fuse](https://www.facebook.com/FuseLondon/) and individual acts like East End Dubs, Barac, [Subb-an](https://www.facebook.com/subbanmusic/), [Andrey Pushkarev](https://www.facebook.com/andrey.pushkarev.pro/), [Dana Ruh](https://www.facebook.com/danaruh/), [Molly](https://www.facebook.com/molly.emeline/), [Diego Krause](https://www.facebook.com/diegokrause) and [Varhat](https://www.facebook.com/varhatyoyaku/) to name a few...
+**Mantra Collective:** We were brought together by mutual friends and a strong passion for music. We wanted to bring something unique to the table, so we decided to kick things off with a boat party at the height of summer in 2012 and have never looked back! Since then, we’ve had a whole range of underground talent headline our parties including a label showcase from Fuse and individual acts like East End Dubs, Barac, [Subb-an](https://www.facebook.com/subbanmusic/), [Andrey Pushkarev](https://www.facebook.com/andrey.pushkarev.pro/), [Dana Ruh](https://www.facebook.com/danaruh/), [Molly](https://www.facebook.com/molly.emeline/), [Diego Krause](https://www.facebook.com/diegokrause) and [Varhat](https://www.facebook.com/varhatyoyaku/) to name a few...
 
 **RR:** Stellar list! What is the origin of the name Mantra Collective and how would you describe your sound?
 
@@ -32,6 +32,8 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 **Mantra Collective:** Last year’s ‘Reconstructed’ party with the [Bare Essentials](https://www.facebook.com/bareessentialssydney/) team stands out as the crown jewel in our history. It was probably our most ambitious and creative project… a proper 900 person rave in a carpark with 2 of the world’s leading underground acts - [Barac ](https://www.facebook.com/baracmusic/)and [East End Dubs](https://www.facebook.com/EastEndDubs/). It was ambitious in terms of location and line-up, and we also enlisted the very best Sydney has to offer in terms of Funktion-One Sound and a world class lighting system. There was also an unexpected heatwave! So we had to use all our combined experience to pull together an impromptu cooling system to keep the crowd cool and happy…
 
 ![Party-mantra-collective](/img/mantra-collective-party.jpg)
+
+📸 [Gui Jorge Photography](https://www.facebook.com/guijorgeweddingphotography/)
 
 **RR:** It was one hell of a party. You guys have played in Japan a couple of times - how were those experiences?
 
@@ -52,5 +54,3 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 **RR:** Thanks for the chat and enjoy Saturday’s launch!
 
 _Get tickets to the MANTRA COLLECTIVE RECORDS LAUNCH PARTY [**here**](https://www.residentadvisor.net/events/1084491)_
-
-📸 [Gui Jorge Photography](https://www.facebook.com/guijorgeweddingphotography/)
