@@ -8,7 +8,7 @@ featuredImage: /img/kiko-crop.jpg
 ---
 A key figure in France's dance music scene since the 90s, **Kiko** has an astounding back catalogue of music. We grabbed a quick chat with the Frenchman before he headlines sunday's [Zoo Events](https://www.facebook.com/z00project/) party.
 
-**RR:** Great to chat Kiko – we’re looking forward to your performance on Sunday. What kind of set can we expect from you?
+**RR:** Great to chat [Kiko](https://www.facebook.com/KIKOMUSIC/) – we’re looking forward to your performance on Sunday. What kind of set can we expect from you?
 
 **Kiko:** Hi! Well... I am going to play a lot of my own productions and try out some of my new tracks too.
 
