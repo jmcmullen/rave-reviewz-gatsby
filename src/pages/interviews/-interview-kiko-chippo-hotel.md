@@ -4,7 +4,7 @@ path: /interview/kiko-chippo-hotel
 title: Kiko @ Chippo Hotel
 date: 2018-03-30T06:15:49.268Z
 description: TBC
-featuredImage: /img/alex-ludlow.jpg
+featuredImage: /img/kiko-crop.jpg
 ---
 **RR:** Great to chat Kiko – we’re looking forward to your performance this weekend. What kind of set can we expect from you?
 
