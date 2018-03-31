@@ -12,15 +12,15 @@ featuredImage: /img/alex-ludlow.jpg
 
 **RR: **You've played in Australia a few times - how were those experiences?
 
-**Kiko:** It's been about 5 or 6 times that I’ve played in Australia. I played at the Babylon Festival last year. I was with my old friend The Hacker! I love playing in Australia, people are very receptive to the music I play. My true first time in Australia was in Sydney and Melbourne in 2002 or 2003.
+**Kiko:** It's been about 5 or 6 times that I’ve played in Australia. I played at the Babylon Festival last year. I was with my old friend [The Hacker](https://www.facebook.com/DJTheHacker/)! I love playing in Australia, people are very receptive to the music I play. My true first time in Australia was in Sydney and Melbourne in 2002 or 2003.
 
-**RR:** Now you ran a record store called Ozone in the 90s. What was the dance scene like back then in Grenoble? 
+**RR:** Now you ran a record store in the 90s. What was the dance scene like back then in Grenoble? 
 
-**Kiko:** I had opened a record shop in Grenoble in 1994, and thanks to this shop, I met The Hacker, Miss Kittin and Oxia, who are all from Grenoble. It’s with oxia that we set up our first record label Ozone in 1995. Later we created the goodlife label in 1997 with The Hacker and Oxia. Then finally we created our group Phunky Data (Oxia and I) in 1998.
+**Kiko:** I had opened a record shop in Grenoble in 1994, and thanks to this shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. It’s with Oxia that we set up our first record label Ozone in 1995. Later we created the goodlife label in 1997 with The Hacker. Then finally we created our group [Phunky Data ](https://www.facebook.com/phunkydatamusic)(Oxia and I) in 1998.
 
 **RR:** You've dabbled in multiple genres from new wave to techno and electro to italo disco. What made you experiment with so many different styles?
 
-**Kiko:** Yes in Grenoble we love italo disco, because Grenoble is not very far from Italy . My reference group is of course on Depeche mode. My tracks are full of these influences.
+**Kiko:** Yes in Grenoble we love italo disco, because Grenoble is not very far from Italy. My reference group is of course on [Depeche Mode](https://www.facebook.com/depechemode/). My tracks are full of these influences.
 
 **RR: **We gather that you have produced over 500 tracks! How do you keep finding fresh ideas for music?
 
