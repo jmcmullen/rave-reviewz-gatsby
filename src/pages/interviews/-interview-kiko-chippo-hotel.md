@@ -8,7 +8,7 @@ featuredImage: /img/alex-ludlow.jpg
 ---
 **RR:** Great to chat Kiko – we’re looking forward to your performance this weekend. What kind of set can we expect from you?
 
-**Kiko:** Hi! I am going to play a lot of my own productions and try out some new tracks of mine
+**Kiko:** Hi! I am going to play a lot of my own productions and try out some new tracks of mine.
 
 **RR: **Sounds good! Now you've played in Australia a few times - how were those experiences?
 
@@ -16,7 +16,7 @@ featuredImage: /img/alex-ludlow.jpg
 
 **RR:** You ran a very popular record store in the 90s. What was the dance scene like back then in Grenoble? 
 
-**Kiko:** I opened the record store in 1994, and thanks to this shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. It’s with Oxia that we set up our first record label Ozone in 1995. Later we created the goodlife label in 1997 with The Hacker. Then finally we created our group [Phunky Data ](https://www.facebook.com/phunkydatamusic)(Oxia and I) in 1998.
+**Kiko:** I opened the record store in 1994, and thanks to this shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. It’s with Oxia that we set up our first record label Ozone in 1995. Later we created the goodlife label in 1997 with The Hacker. 
 
 **RR:** You've dabbled in multiple genres from new wave to techno and electro to italo disco. What made you experiment with so many different styles?
 
@@ -28,11 +28,11 @@ featuredImage: /img/alex-ludlow.jpg
 
 **RR:** You have a track with [Thomas Gandey](https://www.facebook.com/ThomasGandeyOfficial/) due out next month. Can you tell us a bit about the collaboration?
 
-**Kiko:** I've met Thomas Gandey via facebook, he had already produced tracks with my friend [Oliver Giacomotto](https://www.facebook.com/oliviergiacomotto/)! I love his voice! I've worked with Oliver for quite a few years now - naturally i needed to work something out with Thomas Gandey! We had a track which was released in February on Suara Records and we have another track that will be released on the 20th of April for [Stil Vor Talent](https://www.facebook.com/stilvortalent/).
+**Kiko:** I met Thomas Gandey via facebook and he had already produced tracks with my friend [Oliver Giacomotto](https://www.facebook.com/oliviergiacomotto/), who I've known for quite a few years! I love his voice! We had a track which was released in February on Suara Records and we have another track that will be released on the 20th of April for [Stil Vor Talent](https://www.facebook.com/stilvortalent/).
 
-**RR: **You also have a side project called 'Minota' which is signed under [Miguel Campbell](https://www.facebook.com/miguelcampbellofficial/)'s label. What is the concept behind it?
+**RR: **You also have a side project called 'Minota' which is signed under [Miguel Campbell](https://www.facebook.com/miguelcampbellofficial/)'s label. How did that come together?
 
-**Kiko: **. I know Miguel Campbell very well , he's like family to me and I love his label Outcross Records. This is actually not my side project - I was already doing house music 20 years ago with Oxia, under the name of [Phunky Data](https://www.facebook.com/phunkydatamusic)
+**Kiko: **. I know Miguel Campbell very well, he's like family to me and I love his label Outcross Records. This is actually not my first side project - I was already doing house music 20 years ago with Oxia, under the name of [Phunky Data](https://www.facebook.com/phunkydatamusic)
 
 **RR: **Having worked in the music business for many years, what would you say has been the key to your longevity? 
 
@@ -44,8 +44,7 @@ featuredImage: /img/alex-ludlow.jpg
 
 **RR: **Finally - what else have you got coming up this year?
 
-**
-Kiko: **This year I am going to focus a lot on production haha!
+**Kiko: **This year I am going to focus a lot on production haha!
 
 **RR: ** Thanks for chatting Kiko!
 
