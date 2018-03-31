@@ -18,9 +18,9 @@ A key figure in France's dance music scene since the 90s, **Kiko** has an astoun
 
 **RR:** You ran a very popular record store in Grenoble. What was that period of your life like?
 
-**Kiko:** I opened the record store in 1994, and thanks to that shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. With Oxia, we set up our first record label Ozone in 1995. Later we created the Goodlife label in 1997 with The Hacker. 
+**Kiko:** I opened the record store in 1994, and thanks to that shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. With Oxia, I set up our first record label Ozone in 1995. Later we created the Goodlife label in 1997 with The Hacker. 
 
-**RR:** You've dabbled in multiple genres from new wave to techno and electro to italo disco. What made you experiment with so many different styles?
+**RR:** You've dabbled in multiple genres including italo disco. What draws you to that style of music?
 
 **Kiko:** Yes in Grenoble we love italo disco, because Grenoble is not very far from Italy. My favourite group as a reference is of course [Depeche Mode](https://www.facebook.com/depechemode/). My tracks are full of their influences.
 
