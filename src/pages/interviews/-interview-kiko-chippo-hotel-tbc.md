@@ -6,9 +6,9 @@ date: 2018-03-31T03:50:50.177Z
 description: TBC
 featuredImage: /img/kiko-crop.jpg
 ---
+A key figure in France's dance scene since the 90s, we grabbed a quick chat with DJ and Producer, **Kiko **- before he headlines sunday's [Zoo Events](https://www.facebook.com/z00project/) party.
 
-
-**RR:** Great to chat Kiko – we’re looking forward to your performance this weekend. What kind of set can we expect from you?
+**RR:** Great to chat Kiko – we’re looking forward to your performance on Sunday. What kind of set can we expect from you?
 
 **Kiko:** Hi! I am going to play a lot of my own productions and try out some new tracks of mine.
 
@@ -16,7 +16,7 @@ featuredImage: /img/kiko-crop.jpg
 
 **Kiko:** It's been about 5 or 6 times that I’ve played in Australia. I played at the [Babylon Festival](https://www.facebook.com/babylonfestivalau/) last year. I was with my old friend [The Hacker](https://www.facebook.com/DJTheHacker/)! I love playing in Australia, people are very receptive to the music I play. My true first time in Australia was in Sydney and Melbourne in 2002 or 2003.
 
-**RR:** You ran a very popular record store in the 90s. What was the dance scene like back then in Grenoble? 
+**RR:** You ran a very popular record store in Grenoble. What was that period of your life like?
 
 **Kiko:** I opened the record store in 1994, and thanks to this shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. It’s with Oxia that we set up our first record label Ozone in 1995. Later we created the goodlife label in 1997 with The Hacker. 
 
@@ -38,11 +38,11 @@ featuredImage: /img/kiko-crop.jpg
 
 **RR: **Having worked in the music business for many years, what would you say has been the key to your longevity? 
 
-**Kiko: **To work and and to never give up! And of course, be well surrounded by trustworthy people. 
+**Kiko: **To work and and to never give up! And of course, surround yourself with trustworthy and hardworking people. 
 
 **RR:** And across your extensive career, which gig has been the most memorable for you?
 
-**Kiko:** In 2011 and 2012, I toured with [Carl Cox](https://www.facebook.com/carlcox247/) for 2 years, it was such an epic experience.
+**Kiko:** In 2011 and 2012, I toured with [Carl Cox](https://www.facebook.com/carlcox247/) for 2 years. I was such an epic experience.
 
 **RR: **Finally - what else have you got coming up this year?
 
