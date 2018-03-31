@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
-path: /interview/kiko-chippo-hotel2
-title: Kiko @ Chippo Hotel TBC
+path: /interview/kiko-chippo-hotel
+title: 'Kiko @ Chippo Hotel '
 date: 2018-03-31T03:50:50.177Z
 description: TBC
 featuredImage: /img/kiko-crop.jpg
