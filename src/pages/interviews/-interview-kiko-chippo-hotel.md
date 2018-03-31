@@ -8,11 +8,11 @@ featuredImage: /img/alex-ludlow.jpg
 ---
 **RR:** Great to chat Kiko – we’re looking forward to your performance this weekend. What kind of set can we expect from you?
 
-**Kiko:** I am going to play a lot of my own production 🙂 i’m also going to try out some new tracks of mine
+**Kiko:** Hi! I am going to play a lot of my own production and try out some new tracks of mine.
 
 **RR: **You've played in Australia a few times - how were those experiences?
 
-**Kiko:** It's been about 5 or 6 times that I’ve played in Australia. I also played at the Babylon Festival last year. I was with my old friend The Hacker! I love playing in Australia, people are very receptive to the music I play. My true first time in Australia was in Sydney and Melbourne in 2002 or 2003.
+**Kiko:** It's been about 5 or 6 times that I’ve played in Australia. I played at the Babylon Festival last year. I was with my old friend The Hacker! I love playing in Australia, people are very receptive to the music I play. My true first time in Australia was in Sydney and Melbourne in 2002 or 2003.
 
 **RR:** Now you ran a record store called Ozone in the 90s. What was the dance scene like back then in Grenoble? 
 
