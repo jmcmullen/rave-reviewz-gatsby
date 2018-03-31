@@ -8,15 +8,15 @@ featuredImage: /img/alex-ludlow.jpg
 ---
 **RR:** Great to chat Kiko – we’re looking forward to your performance this weekend. What kind of set can we expect from you?
 
-**Kiko:** Hi! I am going to play a lot of my own production and try out some new tracks of mine.
+**Kiko:** Hi! I am going to play a lot of my own productions and try out some new tracks of mine
 
-**RR: **You've played in Australia a few times - how were those experiences?
+**RR: **Sounds good! Now you've played in Australia a few times - how were those experiences?
 
 **Kiko:** It's been about 5 or 6 times that I’ve played in Australia. I played at the Babylon Festival last year. I was with my old friend [The Hacker](https://www.facebook.com/DJTheHacker/)! I love playing in Australia, people are very receptive to the music I play. My true first time in Australia was in Sydney and Melbourne in 2002 or 2003.
 
-**RR:** Now you ran a record store in the 90s. What was the dance scene like back then in Grenoble? 
+**RR:** You ran a very popular record store in the 90s. What was the dance scene like back then in Grenoble? 
 
-**Kiko:** I had opened a record shop in Grenoble in 1994, and thanks to this shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. It’s with Oxia that we set up our first record label Ozone in 1995. Later we created the goodlife label in 1997 with The Hacker. Then finally we created our group [Phunky Data ](https://www.facebook.com/phunkydatamusic)(Oxia and I) in 1998.
+**Kiko:** I opened the record store in 1994, and thanks to this shop, I met The Hacker, [Miss Kittin](https://www.facebook.com/misskittin/) and [Oxia](https://www.facebook.com/OXIA.official/), who are all from Grenoble. It’s with Oxia that we set up our first record label Ozone in 1995. Later we created the goodlife label in 1997 with The Hacker. Then finally we created our group [Phunky Data ](https://www.facebook.com/phunkydatamusic)(Oxia and I) in 1998.
 
 **RR:** You've dabbled in multiple genres from new wave to techno and electro to italo disco. What made you experiment with so many different styles?
 
@@ -44,7 +44,8 @@ featuredImage: /img/alex-ludlow.jpg
 
 **RR: **Finally - what else have you got coming up this year?
 
-**Kiko: **This year I am going to focus a lot on production haha!
+**
+Kiko: **This year I am going to focus a lot on production haha!
 
 **RR: ** Thanks for chatting Kiko!
 
