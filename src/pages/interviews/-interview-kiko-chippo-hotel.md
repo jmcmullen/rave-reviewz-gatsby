@@ -24,19 +24,19 @@ featuredImage: /img/alex-ludlow.jpg
 
 **RR: **We gather that you have produced over 500 tracks! How do you keep finding fresh ideas for music?
 
-**Kiko:** Music is like a therapy for me, I work every day in my Bunker (studio) and i’ve been doing that for 24 years now! I need to create, it's vital for me.
+**Kiko:** Music is like a therapy for me, I work every day in my Bunker aka studio - I’ve been doing that for 24 years now! I need to create, it's vital for me.
 
-**RR:** You have a track with Thomas Gandey due out next month. Can you tell us a bit about the collaboration?
+**RR:** You have a track with [Thomas Gandey](https://www.facebook.com/ThomasGandeyOfficial/) due out next month. Can you tell us a bit about the collaboration?
 
-**Kiko:** I've met Thomas Gandey via facebook, he had already produced tracks with my friend Olivier Giacomotto! I love his voice! As I’ve worked with Oliver Giacomotto since quite a few years now, naturally i needed to work something out with Thomas Gandey! We had a track which was released in February on Suara Records and we have another track that will be released on the 20th of April for Stil Vor Talent.
+**Kiko:** I've met Thomas Gandey via facebook, he had already produced tracks with my friend [Oliver Giacomotto](https://www.facebook.com/oliviergiacomotto/)! I love his voice! I've worked with Oliver for quite a few years now - naturally i needed to work something out with Thomas Gandey! We had a track which was released in February on Suara Records and we have another track that will be released on the 20th of April for [Stil Vor Talent](https://www.facebook.com/stilvortalent/).
 
-**RR: **You also have a side project called 'Minota' which is signed under Miguel Campbell's label. What is the concept behind it?
+**RR: **You also have a side project called 'Minota' which is signed under [Miguel Campbell](https://www.facebook.com/miguelcampbellofficial/)'s label. What is the concept behind it?
 
-**Kiko: **I was already doing house music 20 years ago with Oxia, under the name of Phunky Data . I know Miguel Campbell very well , he's like family to me  and I love his label Outcross Records.
+**Kiko: **. I know Miguel Campbell very well , he's like family to me and I love his label Outcross Records. This is actually not my side project - I was already doing house music 20 years ago with Oxia, under the name of [Phunky Data](https://www.facebook.com/phunkydatamusic)
 
 **RR: **Having worked in the music business for many years, what would you say has been the key to your longevity? 
 
-**Kiko: **To work and and to never give up! And of course, be well surrounded (booker, manager, agent press ..)
+**Kiko: **To work and and to never give up! And of course, be well surrounded by trustworthy people. 
 
 **RR:** And across your extensive career, which gig has been the most memorable for you?
 
@@ -44,8 +44,8 @@ featuredImage: /img/alex-ludlow.jpg
 
 **RR: **Finally - what else have you got coming up this year?
 
-**Kiko: **This year I am going to focus a lot on production!
+**Kiko: **This year I am going to focus a lot on production haha!
 
-**RR: ** We'll let you let go Kiko. Thanks for chatting!
+**RR: ** Thanks for chatting Kiko!
 
 **Kiko: **Thanks for having me.
