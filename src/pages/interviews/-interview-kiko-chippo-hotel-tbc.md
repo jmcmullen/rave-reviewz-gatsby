@@ -51,3 +51,5 @@ _A key figure in France's dance music scene since the 90s, **Kiko** has an astou
 **RR:** Thanks for the chatting Kiko, we look forward to your set. 
 
 **Kiko:** Thanks for having me!
+
+_Get your tickets for the Easter Sunday event with Kiko [**here**](https://www.residentadvisor.net/events/1087966)_
