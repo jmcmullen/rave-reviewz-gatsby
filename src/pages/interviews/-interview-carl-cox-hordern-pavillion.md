@@ -6,7 +6,9 @@ date: 2018-04-02T09:11:36.928Z
 description: TBC
 featuredImage: /img/carl-cox-soundclash.jpg
 ---
-**RR: **Hi Carl - I’m Kamran Ahmed from Rave Reviewz. So good to to talk to you, thanks for taking the time. We’re all really looking forward to [PURE](https://www.facebook.com/purecarlcox/) here in Sydney - you have a great line up this year, how do you think it’ll be different to last year? 
+_No introduction needed, here's Kamran Ahmed's chat with the legendary _[_Carl Cox_](https://www.facebook.com/carlcox247/)
+
+**RR: **Hi Carl - so good to to talk to you, thanks for taking the time. We’re all really looking forward to [PURE](https://www.facebook.com/purecarlcox/) here in Sydney - you have a great line up this year, how do you think it’ll be different to last year? 
 
 **Carl:** Well first and foremost we’ve changed around the production once again. People really enjoy that we try and keep the production as minimal as possible, but also in line with what they expect to see today. Of course, the sound is always paramount for us - the DJs we have this year will create a completely different sound, but it will obviously still be the sound of house & techno music. We have [Paco Osuna](https://www.facebook.com/PacoOsunaOfficial/) and [Nastia](https://www.facebook.com/Nastia.official/), which for me is really exciting – two people with that European sound, who I think are the best at it. I’m sure me and Eric Powell will be able to support them in their quest to play the very best music possible. 
 
@@ -40,7 +42,7 @@ featuredImage: /img/carl-cox-soundclash.jpg
 
 **RR: **Cool. Your label [Intec](https://www.facebook.com/IntecDigital/) has been so influential, we really liked [Darren Emerson](https://www.facebook.com/DarrenEmersonMusic/)’s release on it - [The Bird Cage EP](https://www.beatport.com/release/birdcage-ep/2213277). We know that you two are good mates and when we interviewed him a while back, he told us that the first time he came to Australia, you him and Norman Cook ([Fatboy Slim](https://www.facebook.com/fatboyslim/)) where on a yacht, eating lobster and drinking champagne. Do you remember that??
 
-**Carl: **I remember it very well because it was the first time us three British guys were enjoying Christmas Day on a yacht! It was bizarre for us to be having Christmas dinner on a beautiful day out on Sydney harbour! It was a moment for all of us, because we knew that our friends back in the UK were freezing their nuts off haha. And it was Darren’s first introduction to the Australian crowd, we had a ball… he was still the man from [Underworld](https://www.facebook.com/Underworld/), Norman Cook was Fatboy slim, I was there as Carl Cox.. we came together as a unit to give people the best time possible and it was great. 
+**Carl: **I remember it very well because it was the first time us three British guys were enjoying Christmas Day on a yacht! It was bizarre for us to be having Christmas dinner on a beautiful day out on Sydney Harbour! It was a moment for all of us, because we knew that our friends back in the UK were freezing their nuts off haha. And it was Darren’s first introduction to the Australian crowd, we had a ball… he was still the man from [Underworld](https://www.facebook.com/Underworld/), Norman Cook was Fatboy slim, I was there as Carl Cox.. we came together as a unit to give people the best time possible and it was great. 
 
 Darren has actually made an abundance of amazing new music and this is our second release with him. We want to put out another EP from him this year, we’re going to cherry pick what’s on it. I think he has that old school feel to his sound and he makes it with a lot of heart. In Birdcage you can really feel the passion and the energy that he’s created it with, it’s not techno by numbers at all. I really love that - he is one of my most revered, prolific producers. I’m looking to bring him over for next year’s PURE hopefully.
 
@@ -62,7 +64,7 @@ Darren has actually made an abundance of amazing new music and this is our secon
 
 It all depends how hard you want to do it - I’ve been doing this most of my life now and I know I’m not happy if I do it like that any more. Now I cherry pick and choose how I travel, which is why I get to do these events 110% in the way that I like to. It is almost like a military operation - how do you get Carl to play 3 parties, over 2 days, in 3 different countries? Sometimes you take a normal flight, sometimes we need a private jet to be able to do it all, but at the end of the day I don’t like letting anyone down. If I’m booked to play there, then I’m booked to play there and I do have a 99.5% turnout rate. So that’s the biggest challenge with all this, getting there.
 
-**RR:** Now we’re big on mental health at Rave Reviewz - how do you look after your own wellbeing with such a hectic schedule?
+**RR:** Now we’re big on mental health at Rave Reviewz - how do you look after your own well-being with such a hectic schedule?
 
 **Carl: **Well, I pull myself away from it. Where I am in Australia now I have my own time, my own freedom to do whatever I want to do - camping, fishing, barbecues, drag-racing, riding my motorcycles… that kind of stuff. Just something else! Because if you’re doing it the whole time and you can’t get out, that’s when things start to go wrong, that’s when you start to overthink who you are, and why you’re doing it. 
 
@@ -76,35 +78,19 @@ And it can be kind of lonely… if you go out there and you’re rocking the hou
 
 **RR:** Well, I grew up in the 70s when there was a lot of national front and a lot of hatred for West Indians and ethnic minority groups. I came forward through it all and just thought ‘you know what? I don’t really care, my music is an open door for everyone. If you don’t like it walk away, if you do you like it - enjoy yourself’. The rave scene as a whole was so amazing because it didn’t discriminate against anybody… whether you were a punk or a teddy boy, into rock ‘n’ roll or hard metal. It didn’t matter, if you liked the music and you’re into it, there would be other like-minded people who would embrace the fact, and it didn’t matter what colour or creed you were. …At the end of the day, I basically stand as a person to be the performer that I am, thinking ‘I don’t care this music is for everyone, I want everyone to enjoy it’. You have to take that stance.
 
+**Carl: **Very nice to hear. We know you have a collection of cars and bikes - can you pick a favourite?
 
+**RR:** I’ve got some amazing bikes and amazing cars, but I do have a favourite car. It’s a 1969 Plymouth Road Runner. In this car, there’s a 572 Heady, which is a big block engine for this car. It runs 10 second passes down any dragstrip, which makes it a very fast car in its class. It’s black on black, with big wheels and tyres, and a big engine - so probably because of who I am, it’s also the most fitting car for me! It’s a pretty car, but it looks like it’s going to eat all your children haha.
 
+**RR:** Haha sounds sick. Last question, what would you say is the most memorable set you’ve played over the years?
 
+**RR: **The most memorable time I ever had in a club was at Space in Ibiza, the very last 10 hour set that I played there. It was one of my own nights, the Revolution nights we used to do. I played part vinyl and part digital - the vinyl was a lot of the music I used to play in the early days at that club. It was recorded on [Be-At TV](https://www.facebook.com/beattvofficial/) for posterity too. That was probably the most memorable set that I’ve ever played. 
 
-Very nice to hear. We know you have a collection of cars and bikes - can you pick a favourite?
+**RR:** Gotta tell you, my fave was when you closed [Exit festival](https://www.facebook.com/exit.festival/) in 2009!
 
+**Carl: **Haha excellent, thanks.  
 
-
-I’ve got some amazing bikes and amazing cars, but I do have a favourite car. It’s a 1969 Plymouth Road Runner. In this car, there’s a 572 Heady, which is a big block engine for this car. It runs 10 second passes down any dragstrip, which makes it a very fast car in its class. It’ss black on black, with big wheels and tyres, and a big engine - so probably because of who I am, it’s also the most fitting car for me! It’s a pretty car, but it looks like it’s going to eat all your children haha.
-
-
-
-Haha sounds sick. Last question, what would you say is the most memorable set you’ve played over the years?
-
-
-
-The most memorable time I ever had in a club was at Space in Ibiza, the very last 10 hour set that I played there. It was one of my own nights, the Revolution nights we used to do. I played part vinyl and part digital - the vinyl was a lot of the music I used to play in the early days at that club. It was recorded on BEAT TV for posterity too. That was probably the most memorable set that I’ve ever played. 
-
-
-
-RR: Gotta tell you, my fave was when you closed Exit festival in 2009!
-
-
-
-Carl: Haha excellent, thanks.  
-
-
-
-RR: Thanks so much for the chat, look forward to seeing you at PURE.
+**RR: **Thanks so much for the chat, look forward to seeing you at PURE.
 
 
 
