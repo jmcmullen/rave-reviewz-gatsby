@@ -45,7 +45,7 @@ _No introduction needed, here's Kamran Ahmed's chat with the legendary _[_Carl C
 
 **RR: **Cool. Your label [Intec](https://www.facebook.com/IntecDigital/) has been so influential, we really liked [Darren Emerson](https://www.facebook.com/DarrenEmersonMusic/)’s release on it - [The Bird Cage EP](https://www.beatport.com/release/birdcage-ep/2213277). We know that you two are good mates and when we interviewed him a while back, he told us that the first time he came to Australia, you him and Norman Cook ([Fatboy Slim](https://www.facebook.com/fatboyslim/)) where on a yacht, eating lobster and drinking champagne. Do you remember that??
 
-**Carl: **I remember it very well because it was the first time us three British guys were enjoying Christmas Day on a yacht! It was bizarre for us to be having Christmas dinner on a beautiful day out on Sydney Harbour! It was a moment for all of us, because we knew that our friends back in the UK were freezing their nuts off haha. And it was Darren’s first introduction to the Australian crowd, we had a ball… he was still the man from [Underworld](https://www.facebook.com/Underworld/), Norman Cook was Fatboy slim, I was there as Carl Cox.. we came together as a unit to give people the best time possible and it was great. 
+**Carl: **I remember it very well because it was the first time us three British guys were enjoying Christmas Day on a yacht! It was bizarre for us to be having Christmas dinner on a beautiful day out on Sydney Harbour! It was a moment for all of us, because we knew that our friends back in the UK were freezing their nuts off haha. And it was Darren’s first introduction to the Australian crowd, we had a ball… he was still the man from [Underworld](https://www.facebook.com/Underworld/), Norman Cook was [Fatboy Slim](https://www.facebook.com/fatboyslim/), I was there as Carl Cox.. we came together as a unit to give people the best time possible and it was great. 
 
 Darren has actually made an abundance of amazing new music and this is our second release with him. We want to put out another EP from him this year, we’re going to cherry pick what’s on it. I think he has that old school feel to his sound and he makes it with a lot of heart. In Birdcage you can really feel the passion and the energy that he’s created it with, it’s not techno by numbers at all. I really love that - he is one of my most revered, prolific producers. I’m looking to bring him over for next year’s PURE hopefully.
 
@@ -97,4 +97,4 @@ And it can be kind of lonely… if you go out there and you’re rocking the hou
 
 **Carl: **Thanks, looking forward to it.
 
-_Catch Carl Cox at PURE April 28th at Hordern Pavillion. Tickets available _[**_here_**](https://www.facebook.com/events/1725683464129300/)
+_Catch Carl Cox at PURE on April 28th at Hordern Pavillion. Tickets available _[**_here_**](https://www.facebook.com/events/1725683464129300/)
