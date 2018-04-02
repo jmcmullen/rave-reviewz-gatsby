@@ -51,3 +51,61 @@ Darren has actually made an abundance of amazing new music and this is our secon
 **RR: **We’re all about helping the Australian underground music scene. So how can we tackle that Carl?
 
 **Carl: **It’s a tricky one, I’ve been trying to help the situation. We’re creating another new record label trying to sign artists from here. We just did [Babylon festival](https://www.facebook.com/babylonfestivalau/), and we had lots of Australian techno DJs playing and they’re bloody excellent! I scratch my head… I don’t know why labels (like [Pan Pot](https://www.facebook.com/PanPotOfficial/)’s label for example) are not picking up on some of this music. One man is no island, I can’t do everything but at least I can tell people - one of the reasons I’m in Australia is because there is a demand for my sound, now more than ever. We book Paco Osuna alongside local techno DJs to push them to the forefront too, which I think is really important. Eric Powell, with BUSH records tries his best to pick up on Australian talent, but it is difficult to get the music to crossover. We need another Juice record label that HMC was on that fires everything into Europe, or like when Future Sound of Melbourne had their label which tried to find techno tracks.
+
+**RR: **You’ve tried your hand at everything in the world of electronic music - DJing, production, you have a label, you had a music management agency, you had your global radio show and now you have your own festival - PURE. What do you love most?
+
+**Carl: **I think more than anything, the creativity of it all and bringing new people together with their ideas. When we did Babylon for example, there are four of us - a couple of young guys and me and Richie McNeil. Me and Richie are from the old guard, and the other guys are learning, but also enjoying the fact that we are all able to collaborate with our ideas to create something we love. For me and Richie we’ve been there, done it, bought the T-shirt, made the movie, whatever… but we’re still here because we think we can create something unique and special. Babylon is not structured as a normal festival, you have to create everything - so it’s nice when you see it all happen and people enjoy it to the point that they’re already booking their tickets for next year.
+
+**RR: **Yeah some of the Rave Reviewz team were down there and absolutely loved it. Now, looking back over your career what have been the biggest challenges over the past 4 decades?
+
+**Carl:** The biggest challenge has been more of a personal challenge for me… being away from my family and friends, and unfortunately my mum died two years ago and I didn’t get to spend as much time as I would’ve liked with her. It’s alright having all these amazing parties to do, but getting to them is the art. People only see when we turn up at the decks and play, but not that it took 12 hours to get there, by hook or by crook. It takes a lot of energy to perform too and people don’t see that side of it, plus you’ve got to do it day after day. 
+
+It all depends how hard you want to do it - I’ve been doing this most of my life now and I know I’m not happy if I do it like that any more. Now I cherry pick and choose how I travel, which is why I get to do these events 110% in the way that I like to. It is almost like a military operation - how do you get Carl to play 3 parties, over 2 days, in 3 different countries? Sometimes you take a normal flight, sometimes we need a private jet to be able to do it all, but at the end of the day I don’t like letting anyone down. If I’m booked to play there, then I’m booked to play there and I do have a 99.5% turnout rate. So that’s the biggest challenge with all this, getting there.
+
+**RR:** Now we’re big on mental health at Rave Reviewz - how do you look after your own wellbeing with such a hectic schedule?
+
+**Carl: **Well, I pull myself away from it. Where I am in Australia now I have my own time, my own freedom to do whatever I want to do - camping, fishing, barbecues, drag-racing, riding my motorcycles… that kind of stuff. Just something else! Because if you’re doing it the whole time and you can’t get out, that’s when things start to go wrong, that’s when you start to overthink who you are, and why you’re doing it. 
+
+And it can be kind of lonely… if you go out there and you’re rocking the house with 2000 people, and they want one more tune and everyone’s clapping, but you can’t do one more and you walk away, get in your car and go to your hotel room, and you’re on your own. And then you think what do I do now? I can handle that because I’ve been doing it for many years, but there’s a lot of DJs who haven’t been able to handle that situation. It’s really amazing that some DJs have spoken out about it and how they’ve overcome it - like [Nina Kraviz](https://www.facebook.com/NinaKravizMusic/). No one is saying ‘poor me’, but it does have an effect on who you are. When I started DJing we never had this intensity, the only DJs playing at this intensity were radio DJs who did roadshows with 50-60,000 kids screaming at them. Other DJs played pubs and clubs - we’d finish at 11 and be home by 12! What we are doing now is way beyond that.
+
+**Carl:** What advice would you give to DJs starting out - in terms of maintaining a career as long as you have, and particularly balancing popularity with credibility?
+
+**RR: **It’s difficult when you’re young and thirsty for it, and then you get it. You put your record out, it’s number one and all the DJs love it, the girls love it, you’re at the top step, you’re getting flown everywhere first class… bang bang! Then your next record isn’t as popular, you don’t get all the adulation and all the girls disappear, so then you think right - I’ve got to make my next record more commercial, like my first one. That’s when it goes wrong. What you have to do is go ‘right who am I? Why am I making this record? What’s my purpose as an artist?’. You need to re-evaluate that and continue. If you try and fight for that top step and everything that goes with it, you end up slipping into a depression when you’re not getting it any more. So you have to stand by who you are as a person and not listen to anyone. You had your time and your time might come again, but you have to take strength in who you are and step outside of it all. I’ve had to do it a few times… I’ve had times when my career has gone through the roof, then plateaued, then gone up, then plateaued again - but through all of it there is a strain of who I am. 
+
+**Carl: **Now, these are tough times we’re living in. There’s a lot of discrimination out there – I wonder if you could tell me if you’ve ever experienced any and how you’ve dealt with it. I think it could be really helpful for anyone going through the same thing. 
+
+**RR:** Well, I grew up in the 70s when there was a lot of national front and a lot of hatred for West Indians and ethnic minority groups. I came forward through it all and just thought ‘you know what? I don’t really care, my music is an open door for everyone. If you don’t like it walk away, if you do you like it - enjoy yourself’. The rave scene as a whole was so amazing because it didn’t discriminate against anybody… whether you were a punk or a teddy boy, into rock ‘n’ roll or hard metal. It didn’t matter, if you liked the music and you’re into it, there would be other like-minded people who would embrace the fact, and it didn’t matter what colour or creed you were. …At the end of the day, I basically stand as a person to be the performer that I am, thinking ‘I don’t care this music is for everyone, I want everyone to enjoy it’. You have to take that stance.
+
+
+
+
+
+Very nice to hear. We know you have a collection of cars and bikes - can you pick a favourite?
+
+
+
+I’ve got some amazing bikes and amazing cars, but I do have a favourite car. It’s a 1969 Plymouth Road Runner. In this car, there’s a 572 Heady, which is a big block engine for this car. It runs 10 second passes down any dragstrip, which makes it a very fast car in its class. It’ss black on black, with big wheels and tyres, and a big engine - so probably because of who I am, it’s also the most fitting car for me! It’s a pretty car, but it looks like it’s going to eat all your children haha.
+
+
+
+Haha sounds sick. Last question, what would you say is the most memorable set you’ve played over the years?
+
+
+
+The most memorable time I ever had in a club was at Space in Ibiza, the very last 10 hour set that I played there. It was one of my own nights, the Revolution nights we used to do. I played part vinyl and part digital - the vinyl was a lot of the music I used to play in the early days at that club. It was recorded on BEAT TV for posterity too. That was probably the most memorable set that I’ve ever played. 
+
+
+
+RR: Gotta tell you, my fave was when you closed Exit festival in 2009!
+
+
+
+Carl: Haha excellent, thanks.  
+
+
+
+RR: Thanks so much for the chat, look forward to seeing you at PURE.
+
+
+
+Carl: Thanks, looking forward to it.
