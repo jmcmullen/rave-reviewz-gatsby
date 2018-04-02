@@ -1,9 +1,12 @@
 ---
 templateKey: interview-post
-path: /interview/carl-cox-hordern-pavilion
-title: Carl Cox @ Hordern Pavillion
+path: /interview/carl-cox-pure
+title: Carl Cox @ PURE
 date: 2018-04-02T09:11:36.928Z
-description: TBC
+description: >-
+  To mark our 50th interview - we had a wide ranging, personal chat with the
+  legendary Carl Cox ahead of PURE about his life, his music, mental health,
+  discrimination and more. 
 featuredImage: /img/carl-cox-soundclash.jpg
 ---
 _No introduction needed, here's Kamran Ahmed's chat with the legendary _[_Carl Cox_](https://www.facebook.com/carlcox247/)
@@ -86,12 +89,12 @@ And it can be kind of lonely… if you go out there and you’re rocking the hou
 
 **RR: **The most memorable time I ever had in a club was at Space in Ibiza, the very last 10 hour set that I played there. It was one of my own nights, the Revolution nights we used to do. I played part vinyl and part digital - the vinyl was a lot of the music I used to play in the early days at that club. It was recorded on [Be-At TV](https://www.facebook.com/beattvofficial/) for posterity too. That was probably the most memorable set that I’ve ever played. 
 
-**RR:** Gotta tell you, my fave was when you closed [Exit festival](https://www.facebook.com/exit.festival/) in 2009!
+**RR:** Gotta tell you, my fave was when you closed [Exit festival](https://www.facebook.com/exit.festival/) in 2009.
 
 **Carl: **Haha excellent, thanks.  
 
 **RR: **Thanks so much for the chat, look forward to seeing you at PURE.
 
+**Carl: **Thanks, looking forward to it.
 
-
-Carl: Thanks, looking forward to it.
+_Catch Carl Cox at PURE April 28th at Hordern Pavillion. Tickets available _[**_here_**](https://www.facebook.com/events/1725683464129300/)
