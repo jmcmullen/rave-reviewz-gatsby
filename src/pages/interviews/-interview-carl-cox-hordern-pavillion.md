@@ -4,8 +4,8 @@ path: /interview/carl-cox-pure
 title: Carl Cox @ PURE
 date: 2018-04-03T07:00:00.000Z
 description: >-
-  No introductions necessary... read our milestone chat with one of the finest
-  house and techno DJs of our time.
+  Read our milestone chat with one of the greatest house and techno DJs of our
+  time.
 featuredImage: /img/carl-cox.jpg
 ---
 _To mark our 50th interview, [Rave Reviewz'](https://www.facebook.com/ravereviewz/) Kamran Ahmed had a wide-ranging, personal chat with the legendary [Carl Cox](https://www.facebook.com/carlcox247/) ahead of PURE..._
