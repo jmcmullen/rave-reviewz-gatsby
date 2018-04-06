@@ -10,7 +10,7 @@ featuredImage: /img/carl-cox.jpg
 ---
 _For our 50th interview, [Rave Reviewz'](https://www.facebook.com/ravereviewz/) Kamran Ahmed had a wide-ranging, personal chat with the legendary [**Carl Cox**](https://www.facebook.com/carlcox247/) ahead of PURE..._
 
-**RR:** Hi Carl - great to to talk to you, thanks for taking the time. We’re all really looking forward to [PURE](https://www.facebook.com/purecarlcox/) here in Sydney. You have a great line up this year - how do you think it’ll be different to last year? 
+**RR:** Hi Carl - great to to talk to you, thanks for taking the time. We’re all really looking forward to [PURE](https://www.facebook.com/purecarlcox/) here in Sydney. You have a great lineup this year - how do you think it’ll be different to last year? 
 
 **Carl:** Well first and foremost we’ve changed around the production once again. People really enjoy that we try and keep the production as minimal as possible, but also in line with what they expect to see nowadays. Of course, the sound is always paramount for us - the DJs we have this year will create a completely different sound, but it will obviously still be house & techno music. We have [Paco Osuna](https://www.facebook.com/PacoOsunaOfficial/) and [Nastia](https://www.facebook.com/Nastia.official/), which for me is really exciting – two people who I think are the best at that European sound. I’m sure me and Eric Powell will be able to support them in their quest to play the very best music possible. 
 
