@@ -20,7 +20,7 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **RR:** A happy accident! On their Facebook event page, Bootz ‘N’ Catz ran a poll for people to vote on their favourite Yotto track/remix. Which one do you think got the most votes?
 
-**Yotto:** Hmm…not sure. It could have been Marisa or Aviate, which I forgot to play actually! Or the Above & Beyond and Rufus remixes?
+**Yotto:** Hmm…not sure. It could have been Marisa or [Aviate](https://www.beatport.com/track/aviate-original-mix/7829153), which I forgot to play actually! Or the Above & Beyond and Rufus remixes?
 
 **RR:** Aviate was 2nd, but top spot went to your Above & Beyond remix ([Counting Down the Days](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Faboveandbeyond%2Fcounting-down-the-days-yotto&h=ATNIbMqGPV-Jvhxl0t57IcNoSU9xOrlidPzLYiVkfjE8oean4iX7XMaZL2KQ6zsEtOQKxsKBlALe_IlB85Psz2df9e7e7IzPUXDg5ZKmo-L4O3tspVlOwhwnSwWuj5KaOv1sbQZi)).
 
@@ -28,9 +28,9 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **RR:** Do you have a particular favourite amongst your tracks?
 
-**Yotto:** It changes, but at the moment – it’s Marisa. There’s just something about it. It’s kind of borderline annoying, which I like. It was one of those melodies that I made while I was travelling and I was super home-sick. You can feel that in the track’s mood, it’s kind of happy and sad at the same time. It’s the first track I signed to Joris Voorn’s label ([Green](https://www.facebook.com/greenrcrds/)). Joris and Kölsch are great idols of mine and they have been playing my track a lot, which made it that little bit more special to me.
+**Yotto:** It changes, but at the moment – it’s [Marisa](https://www.beatport.com/track/marisa-original-mix/9110474). There’s just something about it. It’s kind of borderline annoying, which I like. It was one of those melodies that I made while I was travelling and I was super home-sick. You can feel that in the track’s mood, it’s kind of happy and sad at the same time. It’s the first track I signed to Joris Voorn’s label ([Green](https://www.facebook.com/greenrcrds/)). Joris and Kölsch are great idols of mine and they have been playing my track a lot, which made it that little bit more special to me.
 
-**RR:** Congratulations on North. The cover art for the EP is very unique with its Nordic landscape. Was your homeland an influence in the music?
+**RR:** Congratulations on [North](https://www.beatport.com/release/north-ep/2106603). The cover art for the EP is very unique with its Nordic landscape. Was your homeland an influence in the music?
 
 **Yotto:** Most of my EPs have not had a concept behind them, they’ve been a combination of tracks which work. But North was different. I made the lead track last winter when I was touring a lot in America, then when I got home it was really snowy and cold. I just stayed in my studio downstairs in the basement, drinking hot chocolate and built a whole EP around it. Then we also included Edge of Affection which was already on the Anjunadeep compilation. It made sense as the closing track on the EP, because it was more sunny rather than being dark and gloomy like the rest.
 
@@ -44,7 +44,7 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **RR:** Ok, what’s the deep house/progressive scene like in Finland?
 
-**Yotto:** It’s really hard actually. Finland has a great club scene, but we have more of a German underground influence, more Berghain than what goes down in America, for example. We have DJs like Dixon, Black Madonna and [Marcel Dettmann](https://www.facebook.com/marceldettmannofficial/) as big influences on one side and then the EDM peak on the other side, but the stuff in-between, where I think I belong does not really exist. But I’m working on it!
+**Yotto:** It’s really hard actually. Finland has a great club scene, but we have more of a German underground influence, more Berghain than what goes down in America, for example. We have DJs like [Dixon](https://www.facebook.com/dixoninnervisions/), [Black Madonna](https://www.facebook.com/theblackmadonnachi/) and [Marcel Dettmann](https://www.facebook.com/marceldettmannofficial/) as big influences on one side and then the EDM peak on the other side, but the stuff in-between, where I think I belong does not really exist. But I’m working on it!
 
 **RR:** Well as you’ve seen tonight, there’s a big Anjunadeep community over here in Australia. Any chance of you putting in a word with [James Grant](https://www.facebook.com/jamesanjunadeep/) and getting the whole team over for an Australian tour??
 
