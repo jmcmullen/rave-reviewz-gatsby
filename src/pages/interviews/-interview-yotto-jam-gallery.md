@@ -12,9 +12,9 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **RR:** Yotto, welcome to Australia. That was a fantastic set. You’ve played all over the world, how did this gig compare to other places?
 
-**Yotto:** It was very intimate, which is honestly my favourite way to play. I always love it when you have a low ceiling and when the booth is close to the dancefloor; you can actually connect with the crowd. And I could definitely feel that they were here for my music tonight - when I opened with my own record (Off the Grid) the reaction was just amazing. I’m super happy about this being my Sydney debut.
+**Yotto:** It was very intimate, which is honestly my favourite way to play. I always love it when you have a low ceiling and when the booth is close to the dancefloor; you can actually connect with the crowd. And I could definitely feel that they were here for my music tonight - when I opened with my own record ([Off the Grid](https://www.beatport.com/track/off-the-grid-original-mix/9717291)) the reaction was just amazing. I’m super happy about this being my Sydney debut.
 
-**RR:** We are too mate. [Bootz ‘N’ Catz](https://www.facebook.com/Bootz-N-Catz-1644734072456020/) have built a reputation for hosting events featuring deep/progressive house legends, including some of your label mates. Tell us how you got involved with [Anjunadeep](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.anjunadeep.com%2F&h=ATMsg7-YlXooj2UiNvslpFnXa-tE3LOK3YU1uL63N0XqBGaYNSEQIW4iJVqOWVYTFzB0qYGJehHuWqoJJVc62e-UsQf8uAzLPGAhjeJ2cbCl1_mh1kpN8CYVulUR1Aqt3ROPd6t5).
+**RR:** We are too mate. Bootz ‘N’ Catz have built a reputation for hosting events featuring deep/progressive house legends, including some of your label mates. Tell us how you got involved with [Anjunadeep](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.anjunadeep.com%2F&h=ATMsg7-YlXooj2UiNvslpFnXa-tE3LOK3YU1uL63N0XqBGaYNSEQIW4iJVqOWVYTFzB0qYGJehHuWqoJJVc62e-UsQf8uAzLPGAhjeJ2cbCl1_mh1kpN8CYVulUR1Aqt3ROPd6t5).
 
 **Yotto:** Well, I made a remix for Pierce Fulton, who I’ve been internet friends with for ages then [ABGT](https://www.facebook.com/abgrouptherapy/) played it on their radio show and asked me for a mix. I had all this unsigned music lying around, so I made a mixtape of all my own music and instead of putting it out, they signed all the music from it. It was more like an accident! 
 
@@ -34,7 +34,7 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **Yotto:** Most of my EPs have not had a concept behind them, they’ve been a combination of tracks which work. But North was different. I made the lead track last winter when I was touring a lot in America, then when I got home it was really snowy and cold. I just stayed in my studio downstairs in the basement, drinking hot chocolate and built a whole EP around it. Then we also included Edge of Affection which was already on the Anjunadeep compilation. It made sense as the closing track on the EP, because it was more sunny rather than being dark and gloomy like the rest.
 
-**RR:** Speaking of inspiration, we’re big Twin Peaks fans here at [Rave Reviewz](https://www.facebook.com/ravereviewz/) and love that you made a trilogy (The Owls/Cooper’s Cup/Fire Walk) inspired by the show. Have you watched the new season?
+**RR:** Speaking of inspiration, we’re big Twin Peaks fans here at Rave Reviewz and love that you made a trilogy (The Owls/Cooper’s Cup/Fire Walk) inspired by the show. Have you watched the new season?
 
 **Yotto:** Actually not all of it because I travel all the time, but I’ve seen the first couple of episodes and I’m a big fan of the original. My mum and Dad used to watch it when I was very young and I remember hanging around the living room and seeing clips of it and thinking it looked weird and interesting. Then I got more into it when I was 16/17 and since then it’s been very important to me.
 
