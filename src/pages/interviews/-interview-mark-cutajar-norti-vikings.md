@@ -4,11 +4,11 @@ path: /interview/mark-cutajar-norti-vikings
 title: 'Mark Cutajar: Norti Vikings'
 date: 2018-01-16T23:45:15.000Z
 description: >-
-  We caught up with one of the captains of the Norti Vikings ship Mark to
-  discuss his strategy for this musical voyage.
-featuredImage: /img/mark-cutajar.jpg
+  Our interview with Norti Vikings co-founder before the return of their
+  infamous Sea Raid parties...
+featuredImage: /img/mark cutajar.jpg
 ---
-With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage...
+_With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage..._
 
 **RR:** Hey Mark! We're looking forward to this Saturday's [Sea Raid boat party](https://www.facebook.com/events/276588012864846/), which sees the return of [DJ Ruby](https://www.facebook.com/djruby/) to Sydney - what kind of set can we expect from the man?
 
@@ -48,6 +48,6 @@ With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to se
 
 **RR:** Finally - what's in store for the Norti Vikings in 2018?
 
-**Mark: **Well after the Sea Raid this Saturday there is talk of a secret beach party and possibly a small bush doof! We generally only do 4 parties each year, so for us and our guests each event we do is very special.
+**Mark:** Well after the Sea Raid this Saturday there is talk of a secret beach party and possibly a small bush doof! We generally only do 4 parties each year, so for us and our guests each event we do is very special.
 
 **RR:** Sounds great, thanks for the chat!

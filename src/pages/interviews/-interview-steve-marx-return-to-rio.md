@@ -8,8 +8,7 @@ description: >-
   tales from behind the decks!
 featuredImage: /img/steve-marx.jpg
 ---
-
-Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with [Steve Marx](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fstevemarx&h=ATM0dyds18-BMAj8IjfACGTtT2eRHiu-439BEZRKX1_yHcVY9j94RPwc478YzR2ktbU42CeGDnxYApdif5_--5-9gja5WpcjnFmPEv9AT-_gBYuap0-b-Ex78Vr2USwBs-8MXrek) – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival de-brief…
+_Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with [Steve Marx](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fstevemarx&h=ATM0dyds18-BMAj8IjfACGTtT2eRHiu-439BEZRKX1_yHcVY9j94RPwc478YzR2ktbU42CeGDnxYApdif5_--5-9gja5WpcjnFmPEv9AT-_gBYuap0-b-Ex78Vr2USwBs-8MXrek) – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival debrief…_
 
 **RR:** Steve, good to see you again. How was Rio for you??
 
@@ -55,4 +54,4 @@ Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/)
 
 **Steve:** I’ve got the Norti Vikings party at the Bridge Hotel on the 18th November, which will be my first time playing with the guys. I’m also playing the Cristoph gig in December with the Spektrum team, which should be unreal. There’s also Chicane at Bungalow 8 and a secret harbour cruise on New Year’s Day. That’s all I can reveal at the moment!
 
-**RR: **You’re a busy man! Thanks for the chat mate.
+**RR:** You’re a busy man! Thanks for the chat mate.

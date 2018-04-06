@@ -4,13 +4,12 @@ path: /interview/yotto
 title: Yotto @ Jam Gallery
 date: 2017-10-16T03:40:47.000Z
 description: >-
-  Fresh off the release of his acclaimed EP North, Finnish DJ/Producer YOTTO
-  made his Australian debut on Friday night in Sydney, with a passionate 2-hour
-  set at Jam Gallery, courtesy of Bootz ‘N’ Catz. We caught up with the Deep
-  house hitmaker afterwards to discuss his career, recent release and upcoming
-  projects.
+  With major releases on both Anjunadeep and Joris Voorn's Green imprint, here's
+  our insightful chat with the Finnish artist...
 featuredImage: /img/yotto.jpg
 ---
+_Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**](https://www.facebook.com/yottomusic/) made his Australian debut on Friday night in Sydney, with a passionate 2-hour set at Jam Gallery, courtesy of Bootz ‘N’ Catz. We caught up with the Deep house hitmaker afterwards to discuss his career, recent release and upcoming projects._
+
 **RR:** Yotto, welcome to Australia. That was a fantastic set. You’ve played all over the world, how did this gig compare to other places?
 
 **Yotto:** It was very intimate, which is honestly my favourite way to play. I always love it when you have a low ceiling and when the booth is close to the dancefloor; you can actually connect with the crowd. And I could definitely feel that they were here for my music tonight - when I opened with my own record (Off the Grid) the reaction was just amazing. I’m super happy about this being my Sydney debut.
