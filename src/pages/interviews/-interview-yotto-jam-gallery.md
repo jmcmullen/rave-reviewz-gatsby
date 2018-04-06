@@ -8,13 +8,13 @@ description: >-
   our insightful chat with the Finnish artist...
 featuredImage: /img/yotto.jpg
 ---
-_Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**](https://www.facebook.com/yottomusic/) made his Australian debut on Friday night in Sydney, with a passionate 2-hour set at Jam Gallery, courtesy of Bootz ‘N’ Catz. We caught up with the Deep house hitmaker afterwards to discuss his career, recent release and upcoming projects._
+_Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**](https://www.facebook.com/yottomusic/) made his Australian debut on Friday night in Sydney, with a passionate 2-hour set at Jam Gallery, courtesy of Bootz ‘N’ Catz. _[_Rave Reviewz'_](https://www.facebook.com/ravereviewz)_ Sean McDonald caught up with the Deep house hitmaker afterwards to discuss his career, recent release and upcoming projects._
 
 **RR:** Yotto, welcome to Australia. That was a fantastic set. You’ve played all over the world, how did this gig compare to other places?
 
 **Yotto:** It was very intimate, which is honestly my favourite way to play. I always love it when you have a low ceiling and when the booth is close to the dancefloor; you can actually connect with the crowd. And I could definitely feel that they were here for my music tonight - when I opened with my own record (Off the Grid) the reaction was just amazing. I’m super happy about this being my Sydney debut.
 
-**RR:** We are too mate. Bootz ‘N’ Catz have built a reputation for hosting events featuring deep/progressive house legends, including some of your label mates. Tell us how you got involved with [Anjunadeep](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.anjunadeep.com%2F&h=ATMsg7-YlXooj2UiNvslpFnXa-tE3LOK3YU1uL63N0XqBGaYNSEQIW4iJVqOWVYTFzB0qYGJehHuWqoJJVc62e-UsQf8uAzLPGAhjeJ2cbCl1_mh1kpN8CYVulUR1Aqt3ROPd6t5).
+**RR:** We are too mate. [Bootz ‘N’ Catz](https://www.facebook.com/Bootz-N-Catz-1644734072456020/) have built a reputation for hosting events featuring deep/progressive house legends, including some of your label mates. Tell us how you got involved with [Anjunadeep](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.anjunadeep.com%2F&h=ATMsg7-YlXooj2UiNvslpFnXa-tE3LOK3YU1uL63N0XqBGaYNSEQIW4iJVqOWVYTFzB0qYGJehHuWqoJJVc62e-UsQf8uAzLPGAhjeJ2cbCl1_mh1kpN8CYVulUR1Aqt3ROPd6t5).
 
 **Yotto:** Well, I made a remix for Pierce Fulton, who I’ve been internet friends with for ages then [ABGT](https://www.facebook.com/abgrouptherapy/) played it on their radio show and asked me for a mix. I had all this unsigned music lying around, so I made a mixtape of all my own music and instead of putting it out, they signed all the music from it. It was more like an accident! 
 
