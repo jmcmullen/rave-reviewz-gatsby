@@ -20,7 +20,7 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **RR:** A happy accident! On their Facebook event page, Bootz ‘N’ Catz ran a poll for people to vote on their favourite Yotto track/remix. Which one do you think got the most votes?
 
-**Yotto:** Hmm…not sure. It could have been Marisa or Aviate, which I forgot to play actually! Or the Above & Beyond and Rufus remixes?
+**Yotto:** Hmm…not sure. It could have been Marisa or [Aviate](https://www.beatport.com/track/aviate-original-mix/7829153), which I forgot to play actually! Or the Above & Beyond and Rufus remixes?
 
 **RR:** Aviate was 2nd, but top spot went to your Above & Beyond remix ([Counting Down the Days](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Faboveandbeyond%2Fcounting-down-the-days-yotto&h=ATNIbMqGPV-Jvhxl0t57IcNoSU9xOrlidPzLYiVkfjE8oean4iX7XMaZL2KQ6zsEtOQKxsKBlALe_IlB85Psz2df9e7e7IzPUXDg5ZKmo-L4O3tspVlOwhwnSwWuj5KaOv1sbQZi)).
 
@@ -44,7 +44,7 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **RR:** Ok, what’s the deep house/progressive scene like in Finland?
 
-**Yotto:** It’s really hard actually. Finland has a great club scene, but we have more of a German underground influence, more Berghain than what goes down in America, for example. We have DJs like Dixon, Black Madonna and [Marcel Dettmann](https://www.facebook.com/marceldettmannofficial/) as big influences on one side and then the EDM peak on the other side, but the stuff in-between, where I think I belong does not really exist. But I’m working on it!
+**Yotto:** It’s really hard actually. Finland has a great club scene, but we have more of a German underground influence, more Berghain than what goes down in America, for example. We have DJs like [Dixon](https://www.facebook.com/dixoninnervisions/), [Black Madonna](https://www.facebook.com/theblackmadonnachi/) and [Marcel Dettmann](https://www.facebook.com/marceldettmannofficial/) as big influences on one side and then the EDM peak on the other side, but the stuff in-between, where I think I belong does not really exist. But I’m working on it!
 
 **RR:** Well as you’ve seen tonight, there’s a big Anjunadeep community over here in Australia. Any chance of you putting in a word with [James Grant](https://www.facebook.com/jamesanjunadeep/) and getting the whole team over for an Australian tour??
 
