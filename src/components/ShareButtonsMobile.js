@@ -41,13 +41,13 @@ class ShareButtons extends Component {
       >
         <div className="post-icons post-icons--mobile">
           <FacebookShareButton url={this.state.url}>
-            <FacebookIcon size={52} round={false} /> Share
+            <FacebookIcon size={52} round={false} />
           </FacebookShareButton>
           <TwitterShareButton url={this.state.url}>
-            <TwitterIcon size={52} round={false} /> Tweet
+            <TwitterIcon size={52} round={false} />
           </TwitterShareButton>
           <EmailShareButton url={this.state.url}>
-            <EmailIcon size={52} round={false} /> Email
+            <EmailIcon size={52} round={false} />
           </EmailShareButton>
         </div>
       </section>
