@@ -28,7 +28,7 @@ _Fresh off the release of his acclaimed EP North, Finnish DJ/Producer [**Yotto**
 
 **RR:** Do you have a particular favourite amongst your tracks?
 
-**Yotto:** It changes, but at the moment – it’s Marisa. There’s just something about it. It’s kind of borderline annoying, which I like. It was one of those melodies that I made while I was travelling and I was super home-sick. You can feel that in the track’s mood, it’s kind of happy and sad at the same time. It’s the first track I signed to Joris Voorn’s label ([Green](https://www.facebook.com/greenrcrds/)). Joris and Kölsch are great idols of mine and they have been playing my track a lot, which made it that little bit more special to me.
+**Yotto:** It changes, but at the moment – it’s [Marisa](https://www.beatport.com/track/marisa-original-mix/9110474). There’s just something about it. It’s kind of borderline annoying, which I like. It was one of those melodies that I made while I was travelling and I was super home-sick. You can feel that in the track’s mood, it’s kind of happy and sad at the same time. It’s the first track I signed to Joris Voorn’s label ([Green](https://www.facebook.com/greenrcrds/)). Joris and Kölsch are great idols of mine and they have been playing my track a lot, which made it that little bit more special to me.
 
 **RR:** Congratulations on North. The cover art for the EP is very unique with its Nordic landscape. Was your homeland an influence in the music?
 
