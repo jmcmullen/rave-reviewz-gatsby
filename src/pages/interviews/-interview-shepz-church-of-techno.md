@@ -36,7 +36,7 @@ Shepz: The Techno Bug was actually a name for parties that I used to run in Lond
 
 **Shepz:** My sound would probably piss off the techno purists. I tend to go between darker minimal techno, techno and darker tech house sounds with a dabble of prog psy chucked in for good measure. Maybe I'd call it Bush Techno. I've got a more aggressive style of playing which works for me - I thrive on it and enjoy it.
 
-**RR: **Bass to Pain Converter is headlining your event this weekend - he’s been bringing the pain in Berlin and Australia for a while. What do you think we can expect from him?
+**RR:** Bass to Pain Converter is headlining your event this weekend - he’s been bringing the pain in Berlin and Australia for a while. What do you think we can expect from him?
 
 **RR:** You’ve played some massive venues in London as well as a load of gigs in Australia. What would you say is your most memorable set?
 
