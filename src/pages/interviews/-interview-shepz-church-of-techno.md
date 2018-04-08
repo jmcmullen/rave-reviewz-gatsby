@@ -16,7 +16,7 @@ _[**Shepz**](https://www.facebook.com/Shepz-156972351076686/) has been doing pro
 
 **RR:** …and The Techno Bug moniker grew out of that?
 
-Shepz: The Techno Bug was actually a name for parties that I used to run in London at [Corsica Studios](https://www.facebook.com/CorsicaStudiosLondon/) and 54 Commercial Street in the years before coming to Sydney. When we brought the Church of Techno brand in to the nightlife scene, it felt right to use another name to differentiate it from the Sunday day parties. It also allowed us to use really cool branding concepts, like mechanical bugs and bugged out graphics.
+**Shepz:** The Techno Bug was actually a name for parties that I used to run in London at [Corsica Studios](https://www.facebook.com/CorsicaStudiosLondon/) and 54 Commercial Street in the years before coming to Sydney. When we brought the Church of Techno brand in to the nightlife scene, it felt right to use another name to differentiate it from the Sunday day parties. It also allowed us to use really cool branding concepts, like mechanical bugs and bugged out graphics.
 
 **RR:** So how do you think the techno scene has progressed in Sydney over the years?
 
