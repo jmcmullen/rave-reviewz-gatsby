@@ -26,7 +26,7 @@ Shepz: The Techno Bug was actually a name for parties that I used to run in Lond
 
 **Shepz:** Max Cooper is also one of my favourites. I'll never forget it, it was an honour to have Max play for us. [Boris Brejcha](https://www.facebook.com/BorisBrejcha.Official/) was also pretty intense, the party was off chains! I'll always fondly remember the day parties we used to run on Sundays though - they were loose as hell, and damn good fun.
 
-RR: You’ve brought some quality DJs over including one of our faves - Max Cooper. Which was the most memorable Church of Techno gig for you?
+**RR:** You’ve brought some quality DJs over including one of our faves - Max Cooper. Which was the most memorable Church of Techno gig for you?
 
 **RR:** [Bass to Pain Converter](https://www.facebook.com/basstopainconvertermusic/) is headlining your event this weekend - he’s been bringing the pain in Berlin and Australia for a while. What do you think we can expect from him?
 
