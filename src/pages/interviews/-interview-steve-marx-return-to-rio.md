@@ -8,7 +8,7 @@ description: >-
   tales from behind the decks!
 featuredImage: /img/steve-marx.jpg
 ---
-_Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with **Steve Marx** – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival debrief…_
+_Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with** Steve Marx **– a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival debrief…_
 
 **RR:** Steve, good to see you again. How was Rio for you??
 
