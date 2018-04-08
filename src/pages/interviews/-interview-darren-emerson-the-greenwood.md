@@ -4,12 +4,12 @@ path: /interview/darren-emerson
 title: Darren Emerson @ The Greenwood
 date: 2017-11-12T06:02:11.000Z
 description: >-
-  We caught up with the LEGEND Darren Emerson ahead of his recent Global
+  We caught up with the legendary Darren Emerson ahead of his recent Global
   Underground gig at the Greenwood Hotel for a drink and chat about his career,
   record label and upcoming releases.
 featuredImage: /img/darren-emerson.jpg
 ---
-_Shortly after his touchdown in Sydney for the [Global Underground](https://www.facebook.com/events/1563659050364245/)_ 20 year anniversary gig, we caught up with legendary DJ / producer and top bloke [**Darren Emerson**](https://www.facebook.com/DarrenEmersonMusic/) in the lead up to the main event..._
+_Shortly after his touchdown in Sydney for the [Global Underground](https://www.facebook.com/events/1563659050364245/) 20 year anniversary gig, we caught up with legendary DJ / producer and top bloke [**Darren Emerson**](https://www.facebook.com/DarrenEmersonMusic/) in the lead up to the main event...__
 
 **RR:** Darren, welcome to Sydney. You’ve been here before, what are your thoughts on the house music scene here?
 
