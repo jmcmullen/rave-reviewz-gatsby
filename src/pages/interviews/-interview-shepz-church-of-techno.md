@@ -8,7 +8,7 @@ description: >-
   high priest Shoaib Shepz Mughal AKA Shepz for a special sermon...
 featuredImage: /img/shepz-church-of-techno.jpg
 ---
-[_**Shepz**](https://www.facebook.com/Shepz-156972351076686/) has been doing proper techno in Sydney for a good while and those familiar with his Church of Techno parties will know exactly how they go off. We caught up with the high priest for a special sermon..._
+_[**Shepz**](https://www.facebook.com/Shepz-156972351076686/) has been doing proper techno in Sydney for a good while and those familiar with his Church of Techno parties will know exactly how they go off. We caught up with the high priest for a special sermon..._
 
 **RR:** Hey mate, good to see ya. [Church of Techno](https://www.facebook.com/Church-of-Techno-137093736302751/) has been representing the harder end of the house & tech spectrum in Sydney since 2010. Talk me through how it started.
 
