@@ -9,7 +9,7 @@ description: >-
   record label and upcoming releases.
 featuredImage: /img/darren-emerson.jpg
 ---
-Shortly after his touchdown in Sydney for the [Global Underground 20](https://www.facebook.com/events/1563659050364245/) year anniversary gig, we caught up with legendary DJ / producer and top bloke [Darren Emerson](https://www.facebook.com/DarrenEmersonMusic/) in the lead up to the main event...
+_Shortly after his touchdown in Sydney for the [Global Underground 20](https://www.facebook.com/events/1563659050364245/)_ year anniversary gig, we caught up with legendary DJ / producer and top bloke [**Darren Emerson**](https://www.facebook.com/DarrenEmersonMusic/) in the lead up to the main event..._
 
 **RR:** Darren, welcome to Sydney. You’ve been here before, what are your thoughts on the house music scene here?
 
@@ -51,10 +51,10 @@ Shortly after his touchdown in Sydney for the [Global Underground 20](https://ww
 
 **Darren:** Ahh mate! I’m really excited about Detone at the moment. We have some great artists that are part of the family. [Saytek](https://www.facebook.com/Saytek.live/), Kristin Velvet, Rose Tinted & Anna Be, Satoshi Fumi to name just a few. We have some cool tracks planned for next year. Personally, I have an EP coming out in March called Stop It. It was gonna be released in December but I decided to push it back to next year so it doesn’t clash with a release I have on Carl Cox’s Intec label in February - Birdcage EP. 
 
-**RR: **Nice! We know this will be tough, but if you had to choose one standout set you’ve played over the years, which would it be? And what would you say has been the highlight of your career?
+**RR:** Nice! We know this will be tough, but if you had to choose one standout set you’ve played over the years, which would it be? And what would you say has been the highlight of your career?
 
 **Darren:** It’s just too hard to pick one set! I’ve been so lucky to play in the best clubs in the world over the years. I’ve had some great moments over my career though - having my kids of course, but maybe on a music tip… smashing the Pyramid Stage at Glastonbury on the Saturday night with Underworld.
 
 **RR:** Quality. Thanks mate, appreciate the chat. 
 
-You can donate to see Darren go through hell for a great cause in the London Marathon  here.
+_You can donate to see Darren go through hell for a great cause in the London Marathon here._
