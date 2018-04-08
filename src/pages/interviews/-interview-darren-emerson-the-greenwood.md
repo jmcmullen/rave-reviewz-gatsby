@@ -9,7 +9,7 @@ description: >-
   record label and upcoming releases.
 featuredImage: /img/darren-emerson.jpg
 ---
-Shortly after his touchdown in Sydney for the [Global Underground 20](https://www.facebook.com/events/1563659050364245/) year anniversary gig, we caught up with legendary DJ / producer and top bloke [Darren Emerson](https://www.facebook.com/DarrenEmersonMusic/) in the lead up to the main event...
+_Shortly after his touchdown in Sydney for the _[_Global Underground 20_](https://www.facebook.com/events/1563659050364245/)_ year anniversary gig, we caught up with legendary DJ / producer and top bloke _[**_Darren Emerson_**](https://www.facebook.com/DarrenEmersonMusic/)_ in the lead up to the main event..._
 
 **RR:** Darren, welcome to Sydney. You’ve been here before, what are your thoughts on the house music scene here?
 
@@ -57,4 +57,4 @@ Shortly after his touchdown in Sydney for the [Global Underground 20](https://ww
 
 **RR:** Quality. Thanks mate, appreciate the chat. 
 
-You can donate to see Darren go through hell for a great cause in the London Marathon  here.
+_You can donate to see Darren go through hell for a great cause in the London Marathon here._
