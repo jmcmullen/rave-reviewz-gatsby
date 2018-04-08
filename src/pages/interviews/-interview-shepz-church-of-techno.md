@@ -8,7 +8,7 @@ description: >-
   high priest Shoaib Shepz Mughal AKA Shepz for a special sermon...
 featuredImage: /img/shepz-church-of-techno.jpg
 ---
-[**_Shepz_**](https://www.facebook.com/Shepz-156972351076686/)_ has been doing proper techno in Sydney for a good while and those familiar with his Church of Techno parties will know exactly how they go off. We caught up with the high priest for a special sermon..._
+[Shepz](https://www.facebook.com/Shepz-156972351076686/) has been doing proper techno in Sydney for a good while and those familiar with his Church of Techno parties will know exactly how they go off. We caught up with the high priest for a special sermon...
 
 **RR:** Hey mate, good to see ya. [Church of Techno](https://www.facebook.com/Church-of-Techno-137093736302751/) has been representing the harder end of the house & tech spectrum in Sydney since 2010. Talk me through how it started.
 
@@ -20,13 +20,13 @@ Shepz: The Techno Bug was actually a name for parties that I used to run in Lond
 
 **RR:** So how do you think the techno scene has progressed in Sydney over the years?
 
-**Shepz:** Now there's a loaded question haha! We've seen parties and brands come and go, we've seen things go up and down. I think the underground scene has flourished - like outdoor parties and warehouses, but the club scene has certainly taken a hit. Deep House and Tech House has dominated Sydney clubbing to be honest. It's unfortunate that the wider audience of punters in Sydney like to hear familiar tunes with the same DJs at Sydney clubs. And a lot of promoters have played it safe, especially after the lock out laws hit. There are some great parties happening right now though, like some of the warehouse parties. And I'm a really big fan of the .darkroom events, Gav really puts his heart and soul into it.
+**Shepz: **Now there's a loaded question haha! We've seen parties and brands come and go, we've seen things go up and down. I think the underground scene has flourished - like outdoor parties and warehouses, but the club scene has certainly taken a hit. Deep House and Tech House has dominated Sydney clubbing to be honest. It's unfortunate that the wider audience of punters in Sydney like to hear familiar tunes with the same DJs at Sydney clubs. And a lot of promoters have played it safe, especially after the lock out laws hit. There are some great parties happening right now though, like some of the warehouse parties. And I'm a really big fan of the .darkroom events, Gav really puts his heart and soul into it.
 
 **RR:** You’ve brought some quality DJs over including one of our faves - [Max Cooper](https://www.facebook.com/maxcoopermax/). Which was the most memorable Church of Techno gig for you?
 
 **Shepz:** Max Cooper is also one of my favourites. I'll never forget it, it was an honour to have Max play for us. [Boris Brejcha](https://www.facebook.com/BorisBrejcha.Official/) was also pretty intense, the party was off chains! I'll always fondly remember the day parties we used to run on Sundays though - they were loose as hell, and damn good fun.
 
-**RR: **You’ve brought some quality DJs over including one of our faves - Max Cooper. Which was the most memorable Church of Techno gig for you?
+RR: You’ve brought some quality DJs over including one of our faves - Max Cooper. Which was the most memorable Church of Techno gig for you?
 
 **RR:** [Bass to Pain Converter](https://www.facebook.com/basstopainconvertermusic/) is headlining your event this weekend - he’s been bringing the pain in Berlin and Australia for a while. What do you think we can expect from him?
 
