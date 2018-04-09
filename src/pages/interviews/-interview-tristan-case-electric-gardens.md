@@ -10,7 +10,7 @@ He’s one of the busiest DJs on Sydney’s underground circuit, but we managed 
 
 **RR:** Hey Tristan! You dropped a hell of a set at [Lost Paradise](https://www.facebook.com/LostParadiseAU/) over new year. How was the festival for you?
 
-**Tristan: **Amazing, it was a real privilege to play for such a big crowd - I think I had 5000 to 6000, which was breathtaking. I’ve been a part of [Finely Tuned](https://www.facebook.com/FinelyTunedAU/) for about 6 years, from back in the AGWA boat party days and when they hosted Circoloco. It was my fourth Lost Paradise and it’s been fantastic seeing their project grow each year. It gets better each time!
+**Tristan:** Amazing, it was a real privilege to play for such a big crowd - I think I had 5000 to 6000, which was breathtaking. I’ve been a part of [Finely Tuned](https://www.facebook.com/FinelyTunedAU/) for about 6 years, from back in the AGWA boat party days and when they hosted Circoloco. It was my fourth Lost Paradise and it’s been fantastic seeing their project grow each year. It gets better each time!
 
 **RR:** So tell us how you made the journey into DJing...
 
@@ -50,4 +50,4 @@ He’s one of the busiest DJs on Sydney’s underground circuit, but we managed 
 
 **RR:** Looking forward to it mate, thanks for the chat!
 
-Don’t miss Tristan on Return to Rio’s ‘The Hangout’ stage from 12pm-1.30pm @ Electric Gardens Festival!
+_Don’t miss Tristan on Return to Rio’s ‘The Hangout’ stage from 12pm-1.30pm @ Electric Gardens Festival!_
