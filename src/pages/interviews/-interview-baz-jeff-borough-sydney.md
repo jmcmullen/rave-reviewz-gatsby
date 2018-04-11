@@ -20,17 +20,17 @@ _As they gear up for the launch of their brand new rooftop party **Borough**, we
 
 **RR:** What have been the biggest challenges in getting to this point with the brand?
 
-**Baz:** Finding the right venues to partner with - it was really difficult and we had our fair share of unfortunate events. But what started out as a challenge ended up being a blessing, as we ended up with The Rook and Josh McMahon who were like chalk and cheese compared with the rest of the market.
+**Baz:** Finding the right venues to partner with - it was really difficult and we had our fair share of unfortunate events. But what started out as a challenge ended up being a blessing, as we ended up with [The Rook](https://www.facebook.com/TheRookSydney/) and Josh McMahon who were like chalk and cheese compared with the rest of the market.
 
 **RR:** So how did the two of you meet? …And what is the maddest party you've been to together??
 
 **Baz:** We met at our friends house on a Saturday morning after being out the night before - literally sat there talking shit listening to music, laughing our heads off, drinking cans of VB and watching the horse racing - super glamorous!!!!
 
-**Jeff:** Haha... we've been to some crazy parties - Monegros in the Fraga Desert outside of Barcelona was pretty crazy, we'lll never forget that one!
+**Jeff:** Haha... we've been to some crazy parties - [Monegros](https://www.facebook.com/MONEGROSDESERTFESTIVAL/) in the Fraga Desert outside of Barcelona was pretty crazy, we'lll never forget that one!
 
 **RR:** You both recently travelled to Bali to play an Easter Saturday session with some of your friends - how was the experience?
 
-**Jeff:** It was good fun! We've been blessed to play lots of gigs across the world as a collective group of friends, who can all DJ quite a bit. Bali seems to be in an interesting place at the moment. It has a base of underground music punters which is rapidly growing as a lot of Europeans and fellow Australians move there.
+**Jeff:** It was good fun! We've been blessed to play lots of gigs across the world as a collective group of friends, who can all DJ quite a bit. Bali seems to be in an interesting place at the moment - it has a base of underground music punters, which is rapidly growing as a lot of Europeans and fellow Australians move there.
 
 **RR:** Sydney's nightlife is currently going through a tough period, what do you think we can all do to help revive the thriving underground music scene the city once played host to?
 
@@ -40,19 +40,19 @@ _As they gear up for the launch of their brand new rooftop party **Borough**, we
 
 **RR:** Now, what is the most memorable set each of you has played?
 
-**Baz:** It's hard to choose one... playing at Warehouse Project in Manchester to a couple of thousand people back in 2013 was hectic, I shat myself haha. That was something I'm very proud of, but maybe playing at the opening of Kehakuma at Space Ibiza back in 2012 was a better gig. That felt like vindication for all those years playing as a kid, so I was buzzing pretty hard after that one.
+**Baz:** It's hard to choose one... playing at [Warehouse Project](https://www.facebook.com/thewarehouseproject/) in Manchester to a couple of thousand people back in 2013 was hectic, I shat myself haha. That was something I'm very proud of, but maybe playing at the opening of Kehakuma at Space Ibiza back in 2012 was a better gig. That felt like vindication for all those years playing as a kid, so I was buzzing pretty hard after that one.
 
-**Jeff:** Having only played for 5 years now including a couple of gigs overseas, the best gig for me would have to be the opening of Afters at Club 77 about 7 months ago. It was an awesome experience being able to kick things off there. Being a resident at Afters and being able to play regularly with a great vibe is pretty cool - each gig is always a fun one. 
+**Jeff:** Having only played for 5 years now including a couple of gigs overseas, the best gig for me would have to be the opening of [Afters](https://www.facebook.com/afterssydney/) at Club 77 about 7 months ago. It was an awesome experience being able to kick things off there. Being a resident at Afters and being able to play regularly with a great vibe is pretty cool - each gig is always a fun one. 
 
 **RR:** Nice. Tell us one track you like to drop which always goes off... 
 
-**Baz:** Hmm, anything by Mandar.
+**Baz:** Hmm, anything by [Mandar](https://www.facebook.com/mandarmusic/).
 
 **Jeff:** That 90’s dubbed house always pleases!
 
 **RR:** And if you could have any DJ headline a Borough event, who would it be?
 
-**Jeff:** Has to be Kerri Chandler. 
+**Jeff:** Has to be [Kerri Chandler](https://www.facebook.com/KerriChandlerOfficial/). 
 
 **Baz:** For me, it’s Arpiar.
 
