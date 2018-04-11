@@ -4,7 +4,7 @@ path: /interview/baz-jeff-borough
 title: 'Baz & Jeff: Borough Sydney'
 date: 2018-04-11T09:45:53.880Z
 description: >-
-  A new rooftop party - Borough makes its Sydney debut this weekend. We caught
+  A new rooftop party - Borough, makes its Sydney debut this weekend. We caught
   up with founders Baz & Jeff to get the lowdown.
 featuredImage: /img/jeff-baz-borough.jpg
 ---
