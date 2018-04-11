@@ -8,11 +8,11 @@ description: >-
   up with founders Baz & Jeff to get the lowdown.
 featuredImage: /img/jeff-baz-borough.jpg
 ---
-_As they gear up for the launch of their brand new rooftop party **Borough**, we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about the concept, Sydney nightlife and their maddest party escapades... _
+_As they gear up for the launch of their brand new rooftop party - _[**_Borough_**](https://www.facebook.com/boroughsydney/)_, we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about Sydney nightlife and their maddest party escapades... _
 
 **RR:** Baz, Jeff... great to chat. We're excited for the launch of Borough this Sunday. Tell us about the concept.
 
-**Baz:** It’s all about the environment, people, music and sound - off the back of that, if it's well planned, curated and executed then the party should flow. It's the little things that make it special, that's what we’re focusing on… attention to detail!
+**Baz:** It’s all about the environment, people, music and sound. Off the back of that, if it's well planned, curated and executed, then the party should flow. It's the little things that make it special, that's what we’re focusing on… attention to detail!
 
 **RR:** You've included a 3 hour extended “expression session” for headliners in the Borough format. As DJs, what do you think that will add?
 
@@ -20,17 +20,17 @@ _As they gear up for the launch of their brand new rooftop party **Borough**, we
 
 **RR:** What have been the biggest challenges in getting to this point with the brand?
 
-**Baz:** Finding the right venues to partner with - it was really difficult and we had our fair share of unfortunate events. But what started out as a challenge ended up being a blessing, as we ended up with [The Rook](https://www.facebook.com/TheRookSydney/) and Josh McMahon who were like chalk and cheese compared with the rest of the market.
+**Baz:** Finding the right venues to partner with. It was really difficult and we had our fair share of unfortunate events. But what started out as a challenge ended up being a blessing, as we ended up with [The Rook](https://www.facebook.com/TheRookSydney/) and Josh McMahon who were like chalk and cheese compared with the rest of the market.
 
 **RR:** So how did the two of you meet? …And what is the maddest party you've been to together??
 
-**Baz:** We met at our friends house on a Saturday morning after being out the night before - literally sat there talking shit listening to music, laughing our heads off, drinking cans of VB and watching the horse racing - super glamorous!!!!
+**Baz:** We met at our friends house on a Saturday morning after being out the night before - literally sat there talking shit listening to music, laughing our heads off, drinking cans of VB and watching the horse racing - super glamorous!
 
-**Jeff:** Haha... we've been to some crazy parties - [Monegros](https://www.facebook.com/MONEGROSDESERTFESTIVAL/) in the Fraga Desert outside of Barcelona was pretty crazy, we'lll never forget that one!
+**Jeff:** Haha! We've been to some crazy parties - [Monegros](https://www.facebook.com/MONEGROSDESERTFESTIVAL/) in the Fraga Desert outside of Barcelona was pretty crazy, we'lll never forget that one.
 
 **RR:** You both recently travelled to Bali to play an Easter Saturday session with some of your friends - how was the experience?
 
-**Jeff:** It was good fun! We've been blessed to play lots of gigs across the world as a collective group of friends, who can all DJ quite a bit. Bali seems to be in an interesting place at the moment - it has a base of underground music punters, which is rapidly growing as a lot of Europeans and fellow Australians move there.
+**Jeff:** It was good fun! We've been blessed to play lots of gigs across the world as a collective group of friends, who can all DJ. Bali seems to be in an interesting place at the moment - it has a base of underground music punters, which is rapidly growing as a lot of Europeans and fellow Australians move there.
 
 **RR:** Sydney's nightlife is currently going through a tough period, what do you think we can all do to help revive the thriving underground music scene the city once played host to?
 
@@ -56,10 +56,10 @@ _As they gear up for the launch of their brand new rooftop party **Borough**, we
 
 **Baz:** For me, it’s Arpiar.
 
-**RR:** Finally - What else have the two of you got planned for this year?
+**RR:** Finally - what else have the two of you got planned for this year?
 
-**Baz:** The focus at the moment is on Borough and to get this event and the vibe right, and for it to run consistently. We’re super excited!!
+**Baz:** The focus at the moment is on Borough and to get this event and the vibe right, and for it to run consistently. We’re super excited!
 
-**RR:** So are we mate, see you there.
+**RR:** So are we mate, see you there!
 
 _Check out Borough this Sunday 15th April, details [here](https://www.ravereviewz.net/Event/BOROUGH---Launch-Party-Sydney/49)._
