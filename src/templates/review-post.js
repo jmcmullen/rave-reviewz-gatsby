@@ -38,7 +38,11 @@ export const ReviewPostTemplate = ({
 
   return (
     <section className="section">
-      {helmet || ''}
+      <Helmet
+        title={`${title} | Rave Reviewz Magazine`}
+        description={description}
+        link={[{ rel: 'amphtml', href: `/amp${post.frontmatter.path}` }]}
+      />
       <Header alt={title} image={featuredImage} />
       <div className="container content">
         <div className="columns">
