@@ -10,8 +10,6 @@ featuredImage: /img/jeff-baz-borough.jpg
 ---
 _As they gear up for the launch of their brand new rooftop party **Borough,** we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about the concept, Sydney nightlife and their maddest party escapades... _
 
-
-
 **RR:** Baz, Jeff... great to chat. We're excited for the launch of Borough this Sunday. Tell us about the concept.
 
 **Baz:** It’s all about the environment, people, music and sound - off the back of that, if it's well planned, curated and executed then the party should flow. It's the little things that make it special, that's what we’re focusing on… attention to detail!
@@ -48,7 +46,7 @@ _As they gear up for the launch of their brand new rooftop party **Borough,** we
 
 **RR:** Nice. Tell us one track you like to drop which always goes off... 
 
-**Baz:** Hmm, ‘Anything’ by Mandar.
+**Baz:** Hmm, anything by Mandar.
 
 **Jeff: **That 90’s dubbed house always pleases!
 
@@ -63,7 +61,5 @@ _As they gear up for the launch of their brand new rooftop party **Borough,** we
 **Baz: **The focus at the moment is on Borough and to get this event and the vibe right, and for it to run consistently. We’re super excited!!
 
 **RR: **So are we mate, see you there.
-
-
 
 Check out Borough this Sunday 15th April, details [here](https://www.ravereviewz.net/Event/BOROUGH---Launch-Party-Sydney/49).
