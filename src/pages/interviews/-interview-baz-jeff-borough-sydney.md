@@ -8,7 +8,7 @@ description: >-
   up with founders Baz & Jeff to get the lowdown.
 featuredImage: /img/jeff-baz-borough.jpg
 ---
-_As they gear up for the launch of their brand new rooftop party **Borough,** we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about the concept, Sydney nightlife and their maddest party escapades..._
+_As they gear up for the launch of their brand new rooftop party **Borough**, we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about the concept, Sydney nightlife and their maddest party escapades... _
 
 **RR:** Baz, Jeff... great to chat. We're excited for the launch of Borough this Sunday. Tell us about the concept.
 
@@ -52,9 +52,9 @@ _As they gear up for the launch of their brand new rooftop party **Borough,** we
 
 **RR:** And if you could have any DJ headline a Borough event, who would it be?
 
-**Jeff:** Has to be Kerri Chandler 
+**Jeff:** Has to be Kerri Chandler. 
 
-**Baz:**For me, it’s Arpiar.
+**Baz:** For me, it’s Arpiar.
 
 **RR:** Finally - What else have the two of you got planned for this year?
 
@@ -62,4 +62,4 @@ _As they gear up for the launch of their brand new rooftop party **Borough,** we
 
 **RR:** So are we mate, see you there.
 
-Check out Borough this Sunday 15th April, details [here](https://www.ravereviewz.net/Event/BOROUGH---Launch-Party-Sydney/49).
+_Check out Borough this Sunday 15th April, details [here](https://www.ravereviewz.net/Event/BOROUGH---Launch-Party-Sydney/49)._
