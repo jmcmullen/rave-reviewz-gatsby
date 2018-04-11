@@ -8,7 +8,8 @@ description: >-
   up with founders Baz & Jeff to get the lowdown.
 featuredImage: /img/jeff-baz-borough.jpg
 ---
-_As they gear up for the launch of their brand new rooftop party - [**_Borough_**](https://www.facebook.com/boroughsydney/), we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about Sydney nightlife and their maddest party escapades..._
+
+_As they gear up for the launch of their brand new rooftop party - **[Borough](https://www.facebook.com/boroughsydney/)**, we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about Sydney nightlife and their maddest party escapades..._
 
 **RR:** Baz, Jeff... great to chat. We're excited for the launch of Borough this Sunday. Tell us about the concept.
 
@@ -34,7 +35,7 @@ _As they gear up for the launch of their brand new rooftop party - [**_Borough_*
 
 **RR:** Sydney's nightlife is currently going through a tough period, what do you think we can all do to help revive the thriving underground music scene the city once played host to?
 
-**Baz:** Actually voting at the next state election for a more open-minded, pro-nightlife regime may be a good starting point! I think people actually going out and staying out longer is important too - back in the day if we liked a party, we went religiously every week and stayed for at least 6 hours. 
+**Baz:** Actually voting at the next state election for a more open-minded, pro-nightlife regime may be a good starting point! I think people actually going out and staying out longer is important too - back in the day if we liked a party, we went religiously every week and stayed for at least 6 hours.
 
 **Jeff:** The scary part is that if the lockouts were relaxed, I think we may not actually see the pick-up of activity back to the where it was pre-lockouts. Encouraging people to go out and support the local music scene is the best starting point.
 
@@ -42,9 +43,9 @@ _As they gear up for the launch of their brand new rooftop party - [**_Borough_*
 
 **Baz:** It's hard to choose one... playing at [Warehouse Project](https://www.facebook.com/thewarehouseproject/) in Manchester to a couple of thousand people back in 2013 was hectic, I shat myself haha. That was something I'm very proud of, but maybe playing at the opening of Kehakuma at Space Ibiza back in 2012 was a better gig. That felt like vindication for all those years playing as a kid, so I was buzzing pretty hard after that one.
 
-**Jeff:** Having only played for 5 years now including a couple of gigs overseas, the best gig for me would have to be the opening of [Afters](https://www.facebook.com/afterssydney/) at Club 77 about 7 months ago. It was an awesome experience being able to kick things off there. Being a resident at Afters and being able to play regularly with a great vibe is pretty cool - each gig is always a fun one. 
+**Jeff:** Having only played for 5 years now including a couple of gigs overseas, the best gig for me would have to be the opening of [Afters](https://www.facebook.com/afterssydney/) at Club 77 about 7 months ago. It was an awesome experience being able to kick things off there. Being a resident at Afters and being able to play regularly with a great vibe is pretty cool - each gig is always a fun one.
 
-**RR:** Nice. Tell us one track you like to drop which always goes off... 
+**RR:** Nice. Tell us one track you like to drop which always goes off...
 
 **Baz:** Hmm, anything by [Mandar](https://www.facebook.com/mandarmusic/).
 
@@ -52,7 +53,7 @@ _As they gear up for the launch of their brand new rooftop party - [**_Borough_*
 
 **RR:** And if you could have any DJ headline a Borough event, who would it be?
 
-**Jeff:** Has to be [Kerri Chandler](https://www.facebook.com/KerriChandlerOfficial/). 
+**Jeff:** Has to be [Kerri Chandler](https://www.facebook.com/KerriChandlerOfficial/).
 
 **Baz:** For me, it’s Arpiar.
 
