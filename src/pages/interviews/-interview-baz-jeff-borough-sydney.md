@@ -8,7 +8,7 @@ description: >-
   up with founders Baz & Jeff to get the lowdown.
 featuredImage: /img/jeff-baz-borough.jpg
 ---
-_As they gear up for the launch of their brand new rooftop party **Borough,** we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about the concept, Sydney nightlife and their maddest party escapades... _
+_As they gear up for the launch of their brand new rooftop party **Borough,** we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about the concept, Sydney nightlife and their maddest party escapades..._
 
 **RR:** Baz, Jeff... great to chat. We're excited for the launch of Borough this Sunday. Tell us about the concept.
 
@@ -42,24 +42,24 @@ _As they gear up for the launch of their brand new rooftop party **Borough,** we
 
 **Baz:** It's hard to choose one... playing at Warehouse Project in Manchester to a couple of thousand people back in 2013 was hectic, I shat myself haha. That was something I'm very proud of, but maybe playing at the opening of Kehakuma at Space Ibiza back in 2012 was a better gig. That felt like vindication for all those years playing as a kid, so I was buzzing pretty hard after that one.
 
-**Jeff: **Having only played for 5 years now including a couple of gigs overseas, the best gig for me would have to be the opening of Afters at Club 77 about 7 months ago. It was an awesome experience being able to kick things off there. Being a resident at Afters and being able to play regularly with a great vibe is pretty cool - each gig is always a fun one. 
+**Jeff:** Having only played for 5 years now including a couple of gigs overseas, the best gig for me would have to be the opening of Afters at Club 77 about 7 months ago. It was an awesome experience being able to kick things off there. Being a resident at Afters and being able to play regularly with a great vibe is pretty cool - each gig is always a fun one. 
 
 **RR:** Nice. Tell us one track you like to drop which always goes off... 
 
 **Baz:** Hmm, anything by Mandar.
 
-**Jeff: **That 90’s dubbed house always pleases!
+**Jeff:** That 90’s dubbed house always pleases!
 
 **RR:** And if you could have any DJ headline a Borough event, who would it be?
 
 **Jeff:** Has to be Kerri Chandler 
 
-**Baz: **For me, it’s Arpiar.
+**Baz:**For me, it’s Arpiar.
 
-**RR: **Finally - What else have the two of you got planned for this year?
+**RR:** Finally - What else have the two of you got planned for this year?
 
-**Baz: **The focus at the moment is on Borough and to get this event and the vibe right, and for it to run consistently. We’re super excited!!
+**Baz:** The focus at the moment is on Borough and to get this event and the vibe right, and for it to run consistently. We’re super excited!!
 
-**RR: **So are we mate, see you there.
+**RR:** So are we mate, see you there.
 
 Check out Borough this Sunday 15th April, details [here](https://www.ravereviewz.net/Event/BOROUGH---Launch-Party-Sydney/49).
