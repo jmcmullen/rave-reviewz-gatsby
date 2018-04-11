@@ -41,7 +41,6 @@ export const ReviewPostTemplate = ({
       <Helmet
         title={`${title} | Rave Reviewz Magazine`}
         description={description}
-        link={[{ rel: 'amphtml', href: `/amp${post.frontmatter.path}` }]}
       />
       <Header alt={title} image={featuredImage} />
       <div className="container content">
