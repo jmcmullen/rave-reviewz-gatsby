@@ -8,7 +8,8 @@ exports.onCreateNode = ({
 }) => {
   const { frontmatter } = node;
   if (frontmatter) {
-    const { featuredImage } = frontmatter;
+    const { featuredImage, title } = frontmatter;
+    console.log(title);
     if (featuredImage) {
       if (featuredImage.indexOf('/img') === 0) {
         frontmatter.featuredImage = path.relative(
