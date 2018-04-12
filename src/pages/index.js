@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 import Link from 'gatsby-link';
 import Img from 'gatsby-image';
 import Script from 'react-load-script';
@@ -45,9 +46,16 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
+    const meta = [
+      {
+        name: 'description',
+        content: `Sydney's voice of house and techno. Information on great parties & festivals to attend, plus interviews with top DJs & promoters, party reviews, podcasts and more!`,
+      },
+    ];
 
     return (
       <section className="section home">
+        <Helmet title={`Rave Reviewz Magazine`} meta={meta} />
         <Script
           url="https://identity.netlify.com/v1/netlify-identity-widget.js"
           onLoad={() => this.handleScriptLoad()}

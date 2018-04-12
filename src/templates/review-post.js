@@ -20,22 +20,6 @@ export const ReviewPostTemplate = ({
   const PostContent = contentComponent || Content;
   const url = `https://magazine.ravereviewz.net/${path}`;
 
-  const meta = [
-    { name: 'description', content: description },
-    { property: 'og:type', content: 'article' },
-    { property: 'og:url', content: url },
-    { property: 'og:image', content: featuredImage.childImageSharp.sizes[0] },
-    { property: 'og:title', content: title },
-    { property: 'og:description', content: description },
-    { name: 'twitter:card', content: 'summary' },
-    {
-      name: 'twitter:image:src',
-      content: featuredImage.childImageSharp.sizes[0],
-    },
-    { name: 'twitter:title', content: title },
-    { name: 'twitter:description', content: description },
-  ];
-
   return (
     <section className="section">
       {helmet || ''}
@@ -63,6 +47,25 @@ export const ReviewPostTemplate = ({
 
 export default ({ data }) => {
   const { markdownRemark: post } = data;
+  const url = `https://magazine.ravereviewz.net/${post.frontmatter.path}`;
+  const meta = [
+    { name: 'description', content: post.frontmatter.description },
+    { property: 'og:type', content: 'article' },
+    { property: 'og:url', content: url },
+    {
+      property: 'og:image',
+      content: post.frontmatter.featuredImage.childImageSharp.sizes[0],
+    },
+    { property: 'og:title', content: post.frontmatter.title },
+    { property: 'og:description', content: post.frontmatter.description },
+    { name: 'twitter:card', content: 'summary' },
+    {
+      name: 'twitter:image:src',
+      content: post.frontmatter.featuredImage.childImageSharp.sizes[0],
+    },
+    { name: 'twitter:title', content: post.frontmatter.title },
+    { name: 'twitter:description', content: post.frontmatter.description },
+  ];
 
   return (
     <ReviewPostTemplate
@@ -72,7 +75,7 @@ export default ({ data }) => {
       helmet={
         <Helmet
           title={`${post.frontmatter.title} | Rave Reviewz Magazine`}
-          description={post.frontmatter.description}
+          meta={meta}
         />
       }
       title={post.frontmatter.title}
