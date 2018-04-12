@@ -38,10 +38,7 @@ export const InterviewPostTemplate = ({
 
   return (
     <section className="section interview-post">
-      <Helmet
-        title={`${title} | Rave Reviewz Magazine`}
-        description={description}
-      />
+      {helmet || ''}
       <Header alt={title} image={featuredImage} />
       <div className="container content">
         <div className="columns">
@@ -72,7 +69,12 @@ export default ({ data }) => {
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
-      helmet={<Helmet title={`Rave Reviewz: ${post.frontmatter.title}`} />}
+      helmet={
+        <Helmet
+          title={`${post.frontmatter.title} | Rave Reviewz Magazine`}
+          description={post.frontmatter.description}
+        />
+      }
       title={post.frontmatter.title}
       featuredImage={post.frontmatter.featuredImage}
       path={post.frontmatter.path}
