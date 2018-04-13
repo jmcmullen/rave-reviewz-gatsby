@@ -8,7 +8,7 @@ description: >-
   most ridiculous house party that Sydney has ever seen’...
 featuredImage: /img/dean-pogs.jpg
 ---
-_As we close in on Saturday’s hotly anticipated ‘Project S’ mansion party, we sat down with [Summerlove](https://www.facebook.com/worldsummerlove/) co-founder and DJ, Dean Pogs to discuss their unique events and supporting Sydney’s local talent…_
+_As we close in on Saturday’s hotly anticipated ‘Project S’ mansion party, we sat down with [Summerlove](https://www.facebook.com/worldsummerlove/) co-founder and DJ, **Dean Pogs** to discuss their unique events and supporting Sydney’s local talent…_
 
 **RR:** Dean, great to chat. [Project S](https://www.ravereviewz.net/Event/Summerlove-Project-S-Sydney/64) is almost upon us! Tell us about the concept behind the event and what we should expect.
 
@@ -53,6 +53,5 @@ _As we close in on Saturday’s hotly anticipated ‘Project S’ mansion party,
 **Dean:** Summerlove will continue to grow… I’ll be setting up in Tel Aviv and Steve will manage the Sydney winter events. I’ll also be back for a visit at the end of this year as we’re already planning the Summer 2018/19 Parties… so follow us on Facebook to get all our invites!
 
 **RR:** Thanks for the chat Dean, we’ll be seeing you at Project S!
-
 
 _Tickets are on final release for Saturday’s ‘Project S’. Get your invite [here](https://www.ravereviewz.net/Event/Summerlove-Project-S-Sydney/64)._
