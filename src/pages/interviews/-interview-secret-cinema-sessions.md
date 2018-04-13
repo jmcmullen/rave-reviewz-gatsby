@@ -1,10 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/secret-cinema-sessions
-title: >-
-  Secret Cinema: "What also helps is that festivals and the government are easy
-  on drugs. There is drug testing at parties and we therefore have a healthy way
-  of dealing with it." 
+title: Secret Cinema @ The Junction
 date: 2018-04-13T04:26:38.407Z
 description: >-
   Our chat with an artist whose name is synonymous with timeless music - Secret
