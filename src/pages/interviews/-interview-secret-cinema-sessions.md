@@ -8,29 +8,29 @@ description: >-
   Cinema.
 featuredImage: /img/secret-cinema.jpg
 ---
-Jeroen - great to chat! We’re looking forward to seeing you play. You’ve played in Australia quite a few times - how were those experiences? 
+**RR:** Jeroen - great to chat! We’re looking forward to seeing you play. You’ve played in Australia quite a few times - how were those experiences? 
 
-Hey there! Yes, I was lucky enough to be here and enjoy the country. I played Rainbow Serpent a few times as well as the Eclipse in 2012. Both are outdoors and to me, two of the best parties in Australia. Clubbing here is great and I love it, but there is something special about those outdoor events… we just don't have that kind of nature in The Netherlands. 
+**Secret Cinema: **Hey there! Yes, I was lucky enough to be here and enjoy the country. I played [Rainbow Serpent](https://www.facebook.com/rainbowHQ/) a few times as well as the Eclipse in 2012. Both are outdoors and to me, two of the best parties in Australia. Clubbing here is great and I love it, but there is something special about those outdoor events… we just don't have that kind of nature in The Netherlands. 
 
-OK - we’ve got to ask... how did you settle on the name, Secret Cinema?
+**RR: **OK - we’ve got to ask... how did you settle on the name, Secret Cinema?
 
-Whenever I heard good music on the dance floor or wherever, it made me see images that only I could see. It gave me pictures in my mind, so I thought - “that’s my Secret Cinema”. So, when I play I hope people reach that same state and experience their secret cinema with me.
+**Secret Cinema: **Whenever I heard good music on the dance floor or wherever, it made me see images that only I could see. It gave me pictures in my mind, so I thought - “that’s my Secret Cinema”. So, when I play I hope people reach that same state and experience their secret cinema with me.
 
-Very cool. Your label Gem Records has been going strong for almost a decade now. What have been the highlights and challenges with it over that time? 
+**RR: **Very cool. Your label [Gem Records](https://www.facebook.com/gemrecords/) has been going strong for almost a decade now. What have been the highlights and challenges with it over that time? 
 
-The challenge is most certainly to release timeless music. I want it to be special, to last longer than a week in the charts and then be forgotten. But with all the ‘fast food’ going on it’s not that easy. The highlight was probably releasing my Silver compilation to celebrate 25 years in the business. I released a box with all my tracks on USB and CD, videos on DVD and vinyls with new remixes of my old tracks from the likes of Pig & Dan, Enrico Sangiuliano, Joris Voorn and Christian Smith. A new Secret Cinema logo was designed and all sorts of cool collectables were added… it was so cool to be able to do that on my own label.
+**Secret Cinema: **The challenge is most certainly to release timeless music. I want it to be special, to last longer than a week in the charts and then be forgotten. But with all the ‘fast food’ going on it’s not that easy. The highlight was probably releasing my Silver compilation to celebrate 25 years in the business. I released a box with all my tracks on USB and CD, videos on DVD and vinyls with new remixes of my old tracks from the likes of [Pig&Dan,](https://www.facebook.com/piganddan) [Enrico Sangiuliano,](https://www.facebook.com/enricosangiuliano/) [Joris Voorn](https://www.facebook.com/jorisvoorndj/) and [Christian Smith](https://www.facebook.com/officialchristiansmith/). A new Secret Cinema logo was designed and all sorts of cool collectables were added… it was so cool to be able to do that on my own label.
 
-And congrats on the 25th anniversary of your classic track ‘Timeless Altitude’ last year. We wondered if you chose its name because you had a feeling it would stand the test of time? 
+**RR: **And congrats on the 25th anniversary of your classic track ‘[Timeless Altitude](https://www.beatport.com/track/timeless-altitude-original-mix/10231110)’ last year. We wondered if you chose its name because you had a feeling it would stand the test of time? 
 
 Thank you! Yes, it was part of the Silver box release but it was total coincidence it withstood the test of time. But maybe it's all in the name... never call a track ‘one day fly’ I guess haha! 
 
-Ha! We loved your release with Egbert from last year, ‘I can feel it rising’. The two of you play and produce together often, can you tell us about the development of the track and how you work together creatively? 
+Ha! We loved your release with [Egbert](https://www.facebook.com/DiscoverEgbert/) from last year, ‘[I can feel it rising](https://www.beatport.com/track/i-can-feel-it-rising-original-mix/10014591)’. The two of you play and produce together often, can you tell us about the development of the track and how you work together creatively? 
 
-Usually Egbert has a track which he thinks we should work on together. He then sends over the stems to me and I create new layers on top and send it back to him and so forth. We can't really sit together in the studio for some weird reason, but like this we work very well. When I produce with Reinier we are in the studio together and that goes easy - strange how that works! With Egbert I can play on stage and have that magical connection there - we completely understand our flow then.
+Usually Egbert has a track which he thinks we should work on together. He then sends over the stems to me and I create new layers on top and send it back to him and so forth. We can't really sit together in the studio for some weird reason, but like this we work very well. When I produce with [Reinier](https://www.facebook.com/ReinierZonneveld/) we are in the studio together and that goes easy - strange how that works! With Egbert I can play on stage and have that magical connection there - we completely understand our flow then.
 
 Your Gem Sessions club nights are famous for being improvised and having multiple DJs playing back to back all night. Where did the idea come from? 
 
-It started as a live session and most of the time, it still is. I used to only play live every week, so just my own tracks, no DJing. I came up with the idea to invite other live-acts to come play with me without practicing… you know, a jam session. When it works it can be so magical, so I called it Gem Sessions – as in gems of sessions. When I started the label, me and the team thought of bringing back this idea and make them all-night sessions as well. The first all-nighter was with Egbert and we didn't practice, we just gemmed away! We’ve done it every year since and have started doing them outside of the original venue as well, which is Melkweg Amsterdam. 
+It started as a live session and most of the time, it still is. I used to only play live every week, so just my own tracks, no DJing. I came up with the idea to invite other live-acts to come play with me without practicing… you know, a jam session. When it works it can be so magical, so I called it Gem Sessions – as in gems of sessions. When I started the label, me and the team thought of bringing back this idea and make them all-night sessions as well. The first all-nighter was with Egbert and we didn't practice, we just gemmed away! We’ve done it every year since and have started doing them outside of the original venue as well, which is [Melkweg Amsterdam](https://www.facebook.com/melkwegamsterdam/). 
 
 Now the Netherlands has a very healthy underground music scene with some of the best clubs in the world - why do you think that is? 
 
@@ -44,7 +44,7 @@ I once played a live set at Womb in Tokyo where everyone got into that state of 
 
 Sounds awesome. What's next for you? Any projects in the pipeline?
 
-I'm in the middle of touring Aussie and after Sydney I'll stop in Launceston and and Melbourne followed by Japan and Singapore. Then it's back to the Netherlands to kick off the festival season with Loveland Kingsday and Music On Festival. I have a release out now on Gem Records by SQL with a Frits Wentink remix, which is more housey than what we usually do. But I love how Frits took the bassline from the original which bounces all over the groove and made his own version of it. Coming up soon on Gem is an EP by Ferdinand Dreyssig who sent us a very exciting demo and will be a new name on the label. I have quite a few unreleased tracks ready and am planning releases now, more on that soon!
+I'm in the middle of touring Aussie and after Sydney I'll stop in Launceston and and Melbourne followed by Japan and Singapore. Then it's back to the Netherlands to kick off the festival season with [Loveland Kingsday](https://www.facebook.com/lovelandevents/) and Music On Festival. I have a release out now on Gem Records by SQL with a [Frits Wentink](https://www.facebook.com/Frits-Wentink-127501074009698/) remix, which is more housey than what we usually do. But I love how Frits took the bassline from the original which bounces all over the groove and made his own version of it. Coming up soon on Gem is an EP by Ferdinand Dreyssig who sent us a very exciting demo and will be a new name on the label. I have quite a few unreleased tracks ready and am planning releases now, more on that soon!
 
 Last question - we heard that if you hadn’t become a DJ, you would’ve been a computer game programmer. What is your favourite computer game?
 
