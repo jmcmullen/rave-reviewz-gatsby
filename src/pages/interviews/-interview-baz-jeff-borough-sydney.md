@@ -8,8 +8,7 @@ description: >-
   up with founders Baz & Jeff to get the lowdown.
 featuredImage: /img/baz-jeff-borough.jpg
 ---
-
-_As they gear up for the launch of their brand new rooftop party - **[Borough](https://www.facebook.com/boroughsydney/)**, we caught up with Anthony ‘Baz’ Barrett and Jeff Barrass for a chat about Sydney nightlife and their maddest party escapades..._
+_As they gear up for the launch of their brand new rooftop party - **[Borough](https://www.facebook.com/boroughsydney/)**, we caught up with **Anthony ‘Baz’ Barrett** and **Jeff Barrass** for a chat about Sydney nightlife and their maddest party escapades..._
 
 **RR:** Baz, Jeff... great to chat. We're excited for the launch of Borough this Sunday. Tell us about the concept.
 
