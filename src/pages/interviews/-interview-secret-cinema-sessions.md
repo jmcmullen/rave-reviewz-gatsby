@@ -1,13 +1,18 @@
 ---
 templateKey: interview-post
 path: /interview/secret-cinema-sessions
-title: 'Secret Cinema @ Sessions '
+title: >-
+  Secret Cinema: "What also helps is that festivals and the government are easy
+  on drugs. There is drug testing at parties and we therefore have a healthy way
+  of dealing with it." 
 date: 2018-04-13T04:26:38.407Z
 description: >-
   Our chat with an artist whose name is synonymous with timeless music - Secret
   Cinema.
 featuredImage: /img/secret-cinema.jpg
 ---
+_As he prepares to take to the decks at The Junction tonight, we had a chat with Jeroen AKA _[_Secret Cinema_](https://www.facebook.com/secretcinema.gem/)_ about Dutch nightlife, computer games and his 25+ years in the business... _
+
 **RR:** Jeroen - great to chat! We’re looking forward to seeing you play. You’ve played in Australia quite a few times - how were those experiences? 
 
 **Secret Cinema: **Hey there! Yes, I was lucky enough to be here and enjoy the country. I played [Rainbow Serpent](https://www.facebook.com/rainbowHQ/) a few times as well as the Eclipse in 2012. Both are outdoors and to me, two of the best parties in Australia. Clubbing here is great and I love it, but there is something special about those outdoor events… we just don't have that kind of nature in The Netherlands. 
@@ -50,4 +55,4 @@ What also helps is that festivals and the government are easy on drugs. There is
 
 **Secret Cinema: **Choosing a favourite game is tough. I like so many... I recently enjoyed Horizon Zero Dawn and Nier: Automata was a masterpiece. The first Metal Gear Solid blew me away and Bayonetta comes close to being the perfect game. I have the remaster on PC and I just love it! But my all time favourite has to be Final Fantasy VII. Just that moment in time, going for over 100 hours of play-time and getting that Golden Chocobo for a 100% score... what can I say. I’m looking forward to visiting game paradise Japan next week already!
 
-_Get your tickets to see Secret Cinema tonight - available _[_**here**_](https://embed.ticketbooth.com.au/event/road-to-odyssey)
+_Get your tickets to see Secret Cinema tonight - available _[**_here_**](https://embed.ticketbooth.com.au/event/road-to-odyssey)
