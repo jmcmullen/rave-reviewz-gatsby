@@ -26,7 +26,7 @@ _As we close in on Saturday’s hotly anticipated ‘Project S’ mansion party,
 
 **Dean:** Haha it always makes me laugh… we were sitting in our living room in the summer of 2004, we got bored of sitting around, so we said “let’s create a free Facebook event, invite a shitload of people to a secret location, send out a treasure map, get a cheap ass boat and hook up some speakers and DJ decks to the back of it”. The next thing we knew, there were over 1000 people at Gibson’s Beach near Watsons Bay, dancing in the water and on the sand. We had two police SWAT boats tied up on either side of us, the police were flirting with the girls in bikinis dancing on the back of our boat - it was brilliant!
 
-[The police showing that summerlove!](/img/boat-party.jpg)
+![The police showing that summerlove!](/img/boat-party.jpg)
 
 **RR:** Sounds it haha. Your sold out collaboration with [Blueprint](https://www.facebook.com/blueprintentsydney/) for the Boxing day party at Watsons Bay Hotel was mad! What do you think made it so successful?
 
