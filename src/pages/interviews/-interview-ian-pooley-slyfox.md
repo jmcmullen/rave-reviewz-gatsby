@@ -44,4 +44,4 @@ featuredImage: /img/ian-pooley press shot.jpg
 
 **RR: **Finally - what else do you have in the pipeline this year?
 
-**Ian: **A new Album !!!!
+**Ian: **A new album.
