@@ -16,7 +16,7 @@ featuredImage: /img/ian-pooley press shot.jpg
 
 **RR:** You run 2 successful labels, Pooledmusic and Montage - focusing on house and techno, respectively. What are the challenges you face in managing the two?
 
-**Ian: **I’d say finding new talent , people who haven’t released much previously and who relate to my own sound . Indira Paganotto is a perfect example for that. Her tracks always sound that they could’ve been produced by me
+**Ian: **I’d say finding new talent , people who haven’t released much previously and who relate to my own sound. Indira Paganotto is a perfect example for that. Her tracks always sound that they could’ve been produced by me.
 
 **RR:** You also have some serious kit in your studio - can you tell us about your most prized piece of equipment? 
 
