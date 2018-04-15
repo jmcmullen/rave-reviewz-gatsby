@@ -36,7 +36,7 @@ _As they gear up for the launch of their brand new rooftop party - **[Borough](h
 
 **Baz:** Actually voting at the next state election for a more open-minded, pro-nightlife regime may be a good starting point! I think people actually going out and staying out longer is important too - back in the day if we liked a party, we went religiously every week and stayed for at least 6 hours.
 
-**Jeff:** The scary part is that if the lockouts were relaxed, I think we may not actually see the pick-up of activity back to the where it was pre-lockouts. Encouraging people to go out and support the local music scene is the best starting point.
+**Jeff:** The scary part is that if the lockouts were relaxed, I think we may not actually see the pick-up of activity back to where it was pre-lockouts. Encouraging people to go out and support the local music scene is the best starting point.
 
 **RR:** Now, what is the most memorable set each of you has played?
 
