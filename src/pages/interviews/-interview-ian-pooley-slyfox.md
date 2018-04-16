@@ -6,7 +6,7 @@ date: 2018-04-14T00:45:19.333Z
 description: TBC
 featuredImage: /img/ian-pooley press shot.jpg
 ---
-_With 2 massive sets in Sydney last month, we caught up with DJ and production wizard, Ian Pooley for a recap on the visit to Australia._
+_After smashing two Sydney gigs last month, we caught up with DJ and production wizard, **Ian Pooley** for a quick chat and recap on the Australia trip. _
 
 **RR:** Hey Ian! You were in Sydney last month and played at [SLYFOX](https://www.facebook.com/slyfoxenmore/) and [S.A.S.H](https://www.facebook.com/sashsundays/) - two very different settings. How did you find them?
 
@@ -32,7 +32,7 @@ _With 2 massive sets in Sydney last month, we caught up with DJ and production w
 
 **RR:** Your 1998 Meridian album is well-recognised as a classic. Did it feel like you had crafted something special at the time?
 
-**Ian: **Haha not at all. I was just happy that i had finally finished that album. Took me a year.
+**Ian: **Haha not at all. I was just happy that I had finally finished that album. Took me a year.
 
 **RR: **You've had a career spanning almost 3 decades, but if we asked you to pick one set that stands out in your memory, which would it be?
 
