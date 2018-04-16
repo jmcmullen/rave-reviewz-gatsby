@@ -10,19 +10,19 @@ _With 2 massive sets in Sydney last month, we caught up with DJ and production w
 
 **RR:** Hey Ian! You were in Sydney last month and played at [SLYFOX](https://www.facebook.com/slyfoxenmore/) and [S.A.S.H](https://www.facebook.com/sashsundays/) - two very different settings. How did you find them?
 
-**Ian:** I’ve played SASH a few times. SASH by day is a lot of fun - really energetic and fun crowd. This time it started raining heavily in the middle of my set. It was crazy ! We had to move the booth , set up umbrellas and wipe the CDJs all while I was playing. The crowd was phenomenal, they went crazy hahaha ! I played Sly Fox for the first time this time and it was very nice . The venue is more intimate and you are really close to the crowd , i like that . The sound system is great too !
+**Ian:** I’ve played SASH a few times. SASH by day is a lot of fun - really energetic and fun crowd. This time it started raining heavily in the middle of my set. It was crazy ! We had to move the booth , set up umbrellas and wipe the CDJs all while I was playing. The crowd was phenomenal, they went crazy hahaha! I played SLYFOX for the first time and it was very nice . The venue is more intimate and you are really close to the crowd - I like that . The sound system is great too !
 
 **RR:** The last time you were in Australia was 2 years ago. How was the experience? 
 
-**Ian:** Very nice . I played Something Else at Burdekin first and the SASH by day and by night . Really cool
+**Ian:** Very nice. I played [Something Else](https://ravereviewz.net.au/interview/alex-dimitr%C3%B6ff-something-else) at Burdekin first and the SASH by day and by night. Really cool!
 
 **RR:** You run 2 successful labels, [Pooledmusic](https://www.facebook.com/Pooledmusic) and Montage - focusing on house and techno, respectively. What are the challenges you face in managing the two?
 
-**Ian: **I’d say finding new talent , people who haven’t released much previously and who relate to my own sound. Indira Paganotto is a perfect example for that. Her tracks always sound that they could’ve been produced by me.
+**Ian: **I’d say finding new talent , people who haven’t released much previously and who relate to my own sound. [Indira Paganotto](https://www.facebook.com/IndiraPaganotto/) is a perfect example for that. Her tracks always sound that they could’ve been produced by me.
 
 **RR:** You also have some serious kit in your studio - can you tell us about your most prized piece of equipment? 
 
-**Ian: **The Akai MPC 3000 is the heart of my studio , it controls all my synthesizers and drum machines and i use it in every track.
+**Ian: **The Akai MPC 3000 is the heart of my studio, it controls all my synthesizers and drum machines and I use it in every track.
 
 ![](/img/ian pooley-studio.jpeg)
 
@@ -36,16 +36,18 @@ _With 2 massive sets in Sydney last month, we caught up with DJ and production w
 
 **RR: **You've had a career spanning almost 3 decades, but if we asked you to pick one set that stands out in your memory, which would it be?
 
-**Ian:** People ask me that a lot and I have to say that I definitely cannot pick one favourite set. Far too many amazing experiences all over the world !
+**Ian:** People ask me that a lot and I have to say that I definitely cannot pick one favourite set. Far too many amazing experiences all over the world!
 
 **RR: **Are there any new artists that you are digging at the moment and would recommend?
 
-**Ian:** Trikk, Black Loops, Dan Beaumont, Mathias Schober & Wajeed.
+**Ian:** [Trikk](https://www.facebook.com/musictrikk/), [Black Loops](https://www.facebook.com/blackloopsitaly/), [Dan Beaumont](https://www.facebook.com/danbeaumont.london/), [Mathias Schober](https://www.facebook.com/mathiasschober.showb/) & [Wajeed](https://www.facebook.com/waajeedmusic/).
 
 **RR:** We really like your photography blog, Weekend views, in which you take pictures from the view of your hotel room. What gave you the idea? ...Can we expect a photo from your Sydney visit??
 
-**Ian**: Ohhhhh i need to update that ! I started it in the 90’s with a classic film camera , can’t remember how i got the idea . Then i forgot it for a while and now i’m back onto it .
+**Ian**: Ohhh I need to update that! I started it in the 90’s with a classic film camera, can’t remember how i got the idea. Then i forgot it for a while and now i’m back onto it .
 
 **RR: **Finally - what else do you have in the pipeline this year?
 
-**Ian: **A new album.
+**Ian: **A new album!
+
+**RR: **Ian - thank you.
