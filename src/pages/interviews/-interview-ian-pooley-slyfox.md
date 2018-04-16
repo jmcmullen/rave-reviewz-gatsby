@@ -6,7 +6,7 @@ date: 2018-04-14T00:45:19.333Z
 description: TBC
 featuredImage: /img/ian-pooley press shot.jpg
 ---
-_After smashing two Sydney gigs last month, we caught up with DJ and production wizard, **Ian Pooley** for a quick chat and recap on the Australia trip. _
+_After wowing the crowd at 2 Sydney gigs last month, we caught up with DJ and production wizard, **Ian Pooley** for a quick chat and recap on the Australia trip. _
 
 **RR:** Hey Ian! You were in Sydney last month and played at [SLYFOX](https://www.facebook.com/slyfoxenmore/) and [S.A.S.H](https://www.facebook.com/sashsundays/) - two very different settings. How did you find them?
 
