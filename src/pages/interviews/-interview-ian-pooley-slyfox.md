@@ -6,9 +6,11 @@ date: 2018-04-14T00:45:19.333Z
 description: TBC
 featuredImage: /img/ian-pooley press shot.jpg
 ---
-**RR:** Hey Ian! You were in Sydney last month and played at SLYFOX and SASH - two very different settings. How did you find them?
+_With 2 massive sets in Sydney last month, we caught up with DJ and production wizard, Ian Pooley for a recap on the visit to Australia._
 
-**Ian:** I’ve played SASH a few and recently also SASH by day . SASH by day is a lot of fun , really energetic and fun crowd . This time it started raining heavily in the middle of my set , it was crazy ! We had to move the booth , set up umbrellas and wipe the CDJs all while i was playing . The crowd was phenomenal , they went crazy …hahaha ! I played Sly Fox for the first time this time and it was very nice . The venue is more intimate and you are really close to the crowd , i like that . The sound system is great too !
+**RR:** Hey Ian! You were in Sydney last month and played at [SLYFOX](https://www.facebook.com/slyfoxenmore/) and [S.A.S.H](https://www.facebook.com/sashsundays/) - two very different settings. How did you find them?
+
+**Ian:** I’ve played SASH a few times. SASH by day is a lot of fun - really energetic and fun crowd. This time it started raining heavily in the middle of my set , it was crazy ! We had to move the booth , set up umbrellas and wipe the CDJs all while i was playing . The crowd was phenomenal , they went crazy …hahaha ! I played Sly Fox for the first time this time and it was very nice . The venue is more intimate and you are really close to the crowd , i like that . The sound system is great too !
 
 **RR:** The last time you were in Australia was 2 years ago. How was the experience? 
 
