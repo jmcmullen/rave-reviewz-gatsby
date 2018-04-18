@@ -20,7 +20,7 @@ featuredImage: /img/jimpster2012_71 (2).jpg
 
 **RR:** You co-founded two very successful labels - [Freerange Records](https://www.facebook.com/FreerangeRecords/) and [Delusions of Grandeur.](https://www.facebook.com/Delusions-of-Grandeur-337255673024451/) What have been the biggest challenges along the way in those journeys?
 
-**Jamie:** Many many challenges!  Probably the biggest being distribution companies going bust on us on more than one occasion.  This would have put most labels out of business but we managed to weather the storm and by managing things carefully and not putting all our (Freerange!) eggs in one basket we stayed afloat. It’s sometimes hard to keep things fresh and relevant after 23 years but we keep our ear to the ground and work hard to dig for new, upcoming artists as well as introducing more established names via remixes so we like to think we still know which direction things are heading and keep trying to push forward without bandwagon jumping.
+**Jamie:** Many many challenges!  Probably the biggest being distribution companies going bust on us on more than one occasion.  This would have put most labels out of business but we managed to weather the storm and by managing things carefully and not putting all our (Freerange) eggs in one basket we stayed afloat. It’s sometimes hard to keep things fresh and relevant after 23 years but we keep our ear to the ground and work hard to dig for new, upcoming artists as well as introducing more established names via remixes... so we like to think we still know which direction things are heading and keep trying to push forward without bandwagon jumping.
 
 **RR:** Now, rumour has it that you've done somewhere in the region of 100 remixes! Talk us through your creative and technical process when remixing a track.
 
@@ -28,7 +28,7 @@ featuredImage: /img/jimpster2012_71 (2).jpg
 
 **RR:** Speaking of remixes - we liked your take on Mystified for Defected. You've done a fair few tracks with the label over the years, can you tell us about your relationship with them?
 
-**Jamie:** Glad you like the Mystified remix!  This was one that came together really quickly actually.  Yeah, I’ve done several remixes for Defected over the years and have a lot of respect for how they operate.  I know Luke Solomon from Classic who A&R’s the label quite well and he’s a good guy and has a great ear for what works in the clubs from his years of experience as a DJ and producer.  If he thinks that a certain project might be suitable for a Jimpster remix, the chances are he’ll be right.  They’ve also invited me to play a few of their parties and had a great time with them in Croatia for their Defected event at the Garden Tisno the last two years.  
+**Jamie:** Glad you like the Mystified remix!  This was one that came together really quickly actually.  Yeah, I’ve done several remixes for Defected over the years and have a lot of respect for how they operate.  I know Luke Solomon from Classic who A&Rs the label quite well and he’s a good guy and has a great ear for what works in the clubs from his years of experience as a DJ and producer.  If he thinks that a certain project might be suitable for a Jimpster remix, the chances are he’ll be right.  They’ve also invited me to play a few of their parties and had a great time with them in Croatia for their Defected event at the Garden Tisno the last two years.  
 
 ![](/img/jimpsterzigzag1 (2).jpg)
 
@@ -40,7 +40,7 @@ featuredImage: /img/jimpster2012_71 (2).jpg
 
 **Jamie:** Try to find your own sound and niche.  There are millions of producers out there so it’s important to work out what you offer that is different from the next one.  This applies to both production and DJing and is fairly obvious but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music, and sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.  
 
-![](/img/jimpsterzigzag5-min.jpg)
+![null](/img/jimpsterzigzag5-min.jpg)
 
 **RR:** Now, if we asked you to pick a favourite set from across your extensive career, which one springs to mind?
 
