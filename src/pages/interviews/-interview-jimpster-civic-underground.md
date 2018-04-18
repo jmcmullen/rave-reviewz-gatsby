@@ -6,6 +6,8 @@ date: 2018-04-18T09:47:40.959Z
 description: TBC
 featuredImage: /img/jimpster2012_71 (2).jpg
 ---
+For decades, Jamie O'Dell AKA **Jimpster** has been working the music scene. Here's our chat with the multi-tatlented DJ/Producer & label boss
+
 **RR:** Jamie, great to chat. We're looking forward to Saturday's gig at the Civic Underground. What can we expect from you on the night?
 
 **Jamie: **Hi!  I’m really looking forward to this trip to Australia next weekend as it’s my first time in five years and have loved playing Civic Underground on my previous visits. The venue is great and I hear there’s a new sound system now as well as some visuals being installed for this event, so all in all it’s sure to be a special night.  You can expect to hear plenty of new and unreleased Freerange and Delusions material as well as some deep, dubby disco, raw house and maybe a few classics for good measure.
@@ -34,20 +36,22 @@ featuredImage: /img/jimpster2012_71 (2).jpg
 
 **RR:** You've broken some serious new artists, including Detroit Swindle, Tornado Wallace and Session Victim. Are there any young producers who have caught your eye at the moment?
 
-**Jamie:** There’s a lot of amazing emerging talent in house music at the moment.  Some of the guys I’m checking out for include Massiande from Chile, Austin Ato from Scotland, Bawrut from Spain and Sam Irl from Austria.  
+**Jamie:** There’s a lot of amazing emerging talent in house music at the moment. Some of the guys I’m checking out for include Massiande from Chile, Austin Ato from Scotland, Bawrut from Spain and Sam Irl from Austria.  
 
 **RR:** And having been in the game for 2 decades, what advice would you give to DJs or producers starting out?
 
-**Jamie:** Try to find your own sound and niche.  There are millions of producers out there so it’s important to work out what you offer that is different from the next one.  This applies to both production and DJing and is fairly obvious but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music, and sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.  
+**Jamie:** Try to find your own sound and niche. There are millions of producers out there so it’s important to work out what you offer that is different from the next one.  This applies to both production and DJing and is fairly obvious, but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music. Sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.  
 
 ![null](/img/jimpsterzigzag5-min.jpg)
 
 **RR:** Now, if we asked you to pick a favourite set from across your extensive career, which one springs to mind?
 
-**Jamie: **I tend not to record or listen back to my DJ sets as the atmosphere of the room doesn’t always transfer to the recording but this one in San Diego was a great boat party, super busy, and they also had a mic in the crowd so you get a bit of feeling for the vibe.   https://soundcloud.com/musicis4lovers/jimpster-live-at-lovelife
+**Jamie: **I tend not to record or listen back to my DJ sets as the atmosphere of the room doesn’t always transfer to the recording but this [gig in San Diego](https://soundcloud.com/musicis4lovers/jimpster-live-at-lovelife) was a great boat party, super busy, and they also had a mic in the crowd so you get a bit of feeling for the vibe.   
 
 **RR: **Finally - what else have you got coming up this year? Any releases or projects we can look forward to?
 
 J**amie: **I’ve just finished a new Jimpster EP which has three original tracks plus a Bawrut remix of Burning Up.  Also look out for my Jimpster Remixes 2008-2017 compilation which will be dropping on Freerange in September.  I remixed the Bawrut track More Cowbell which will be out in June on Ransom Note and there will also be a remix I made of Charles Webster’s Webster Wraight Ensemble coming after summer.
 
-RR: Great stuff Jamie. See you on Saturday!
+**RR:** Great stuff Jamie. See you on Saturday!
+
+_Get your tickets to see Jimpster at the Civic underground** **_[**_here_**](https://www.eventbrite.com.au/e/social-bewegung-ft-jimpster-3hr-set-at-civic-underground-tickets-43284238322?aff=efbeventtix)
