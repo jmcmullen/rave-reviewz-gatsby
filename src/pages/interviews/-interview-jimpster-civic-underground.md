@@ -6,13 +6,13 @@ date: 2018-04-18T09:47:40.959Z
 description: TBC
 featuredImage: /img/jimpster2012_71 (2).jpg
 ---
-For decades, Jamie O'Dell AKA **Jimpster** has been working the music scene. Here's our chat with the multi-tatlented DJ/Producer & label boss
+_As co-founder of 2 successful labels and a stellar discography to his name, it's easy to see why Jamie O'Dell AKA **Jimpster** is one of the hardest working artists on today's dance scene. Here's our chat with the multi-talented DJ/Producer before Saturday's _[_Social Bewegung _](https://www.facebook.com/socialbewegung/)_event._
 
 **RR:** Jamie, great to chat. We're looking forward to Saturday's gig at the Civic Underground. What can we expect from you on the night?
 
 **Jamie: **Hi!  I’m really looking forward to this trip to Australia next weekend as it’s my first time in five years and have loved playing Civic Underground on my previous visits. The venue is great and I hear there’s a new sound system now as well as some visuals being installed for this event, so all in all it’s sure to be a special night.  You can expect to hear plenty of new and unreleased Freerange and Delusions material as well as some deep, dubby disco, raw house and maybe a few classics for good measure.
 
-**RR: **For the last month, [Burning Up](https://soundcloud.com/the-ransom-note/premiere-jimpster-burning-up-freerange) has been a prominent fixture on our playlist at Rave Reviewz HQ. What was the concept behind the track?
+**RR: **For the last month, [Burning Up](https://soundcloud.com/the-ransom-note/premiere-jimpster-burning-up-freerange) has been a prominent fixture on our playlist at [Rave Reviewz](https://www.facebook.com/ravereviewz/) HQ. What was the concept behind the track?
 
 **Jamie:** Burning Up was inspired by a sound I made on the Korg Minilogue synth which forms the main bass line.  It was one of those tracks which came together very quickly and only consists of a few key elements.  I jammed out the bassline and then tweaked the sound in one live take and kept everything as raw and stripped back as possible for maximum impact on the dance floor.  I guess you could say it’s one of them more ‘full on’ Jimpster tracks and was great fun to make after having been working on more mellow and deep tracks for a while.  It’s certainly been dropping nicely in my DJ sets and great to see a different bunch of DJ’s picking up on it like Kolsch, Tensnake and &Me.
 
