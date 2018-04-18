@@ -16,7 +16,9 @@ Jamie: Hi! I’m really looking forward to this trip to Australia, as it’s my 
 
 
 
-**RR: For the last month, [Burning Up](https://soundcloud.com/the-ransom-note/premiere-jimpster-burning-up-freerange) has been a prominent fixture on our playlist at [Rave Reviewz](https://magazine.ravereviewz.net) HQ. What was the concept behind the track?**
+**RR: For the last month, your track 'Burning up' has been a prominent fixture on our playlist at [Rave Reviewz](https://magazine.ravereviewz.net) HQ. What was the concept behind it?**
+
+<iframe src="https://embed.beatport.com/?id=10345210&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 Jamie: Burning Up was inspired by a sound I made on the Korg Minilogue synth which forms the main bass line. It was one of those tracks which came together very quickly and only consists of a few key elements. I jammed out the bassline and then tweaked the sound in one live take, keeping everything as raw and stripped back as possible for maximum impact on the dance floor. I guess you could say it’s one of them more ‘full on’ Jimpster tracks and was great fun to make after having been working on more mellow and deep tracks for a while. It’s certainly been dropping nicely in my DJ sets and great to see a different bunch of DJ’s picking up on it like Kolsch, Tensnake and &Me.
 
@@ -48,7 +50,7 @@ Jamie: Glad you like the Mystified remix! This was one that came together really
 
 
 
-![null](/img/jimpsterzigzag1(2).jpg)
+!\[null](/img/jimpsterzigzag1(2).jpg)
 
 
 
@@ -62,11 +64,7 @@ Jamie: There’s a lot of amazing emerging talent in house music at the moment. 
 
 Jamie: Try to find your own sound and niche. There are millions of producers out there so it’s important to work out what you offer that is different from the next one. This applies to both production and DJing and is fairly obvious, but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music. Sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.  
 
-
-
 ![null](/img/jimpsterzigzag5-min.jpg)
-
-
 
 **RR: Now, if we asked you to pick a favourite set from across your extensive career, which one springs to mind?**
 
@@ -81,7 +79,5 @@ Jamie: I’ve just finished a new Jimpster EP which has three original tracks pl
 
 
 **RR: Great stuff Jamie. See you on Saturday!**
-
-
 
 _Get your tickets to see Jimpster at the Civic underground [here](https://www.ravereviewz.net/Event/Social-Bewegung-Ft-Jimpster-3HR-Set-Sydney/50)_
