@@ -16,7 +16,7 @@ Jamie: Hi! I’m really looking forward to this trip to Australia, as it’s my 
 
 
 
-**RR: For the last month, [Burning Up](https://soundcloud.com/the-ransom-note/premiere-jimpster-burning-up-freerange) has been a prominent fixture on our playlist at **[**Rave Reviewz**](https://magazine.ravereviewz.net)** HQ. What was the concept behind the track?**
+**RR: For the last month, [Burning Up](https://soundcloud.com/the-ransom-note/premiere-jimpster-burning-up-freerange) has been a prominent fixture on our playlist at [Rave Reviewz](https://magazine.ravereviewz.net) HQ. What was the concept behind the track?**
 
 Jamie: Burning Up was inspired by a sound I made on the Korg Minilogue synth which forms the main bass line. It was one of those tracks which came together very quickly and only consists of a few key elements. I jammed out the bassline and then tweaked the sound in one live take, keeping everything as raw and stripped back as possible for maximum impact on the dance floor. I guess you could say it’s one of them more ‘full on’ Jimpster tracks and was great fun to make after having been working on more mellow and deep tracks for a while. It’s certainly been dropping nicely in my DJ sets and great to see a different bunch of DJ’s picking up on it like Kolsch, Tensnake and &Me.
 
@@ -84,4 +84,4 @@ Jamie: I’ve just finished a new Jimpster EP which has three original tracks pl
 
 
 
-_Get your tickets to see Jimpster at the Civic underground _[_**here**_](https://www.ravereviewz.net/Event/Social-Bewegung-Ft-Jimpster-3HR-Set-Sydney/50)
+_Get your tickets to see Jimpster at the Civic underground [here](https://www.ravereviewz.net/Event/Social-Bewegung-Ft-Jimpster-3HR-Set-Sydney/50)_
