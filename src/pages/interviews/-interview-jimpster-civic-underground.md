@@ -1,12 +1,12 @@
 ---
 templateKey: interview-post
 path: /interview/jimpster-civic-underground
-title: Jimpster @ Civic Underground
+title: 'Jimpster on remixing, alter-egos & Defected'
 date: 2018-04-18T09:47:40.959Z
-description: TBC
+description: Our interview with the king of the remix - Jimpster!
 featuredImage: /img/jimpster2012_71 (2).jpg
 ---
-_With 2 successful labels and a stellar discography to his name, Jamie Odell AKA **Jimpster** remains one of the hardest working artists on today's dance scene. Here's our chat with the man of multiple talents before Saturday's _[_Social Bewegung_](https://www.ravereviewz.net/Promoter/social-bewegung/98)_ event._
+_With 2 successful labels and a stellar discography to his name, Jamie Odell AKA Jimpster remains one of the hardest working artists on today's dance scene. Here's our chat with the man of multiple talents before Saturday's [Social Bewegung](https://www.ravereviewz.net/Promoter/social-bewegung/98) event._
 
 
 
@@ -16,19 +16,19 @@ Jamie: Hi! I’m really looking forward to this trip to Australia, as it’s my 
 
 
 
-**RR: For the last month, **[**Burning Up**](https://soundcloud.com/the-ransom-note/premiere-jimpster-burning-up-freerange)** has been a prominent fixture on our playlist at Rave Reviewz HQ. What was the concept behind the track?**
+**RR: For the last month, [Burning Up](https://soundcloud.com/the-ransom-note/premiere-jimpster-burning-up-freerange) has been a prominent fixture on our playlist at **[**Rave Reviewz**](https://magazine.ravereviewz.net)** HQ. What was the concept behind the track?**
 
-Jamie: Burning Up was inspired by a sound I made on the Korg Minilogue synth which forms the main bass line. It was one of those tracks which came together very quickly and only consists of a few key elements. I jammed out the bassline and then tweaked the sound in one live take and kept everything as raw and stripped back as possible for maximum impact on the dance floor. I guess you could say it’s one of them more ‘full on’ Jimpster tracks and was great fun to make after having been working on more mellow and deep tracks for a while. It’s certainly been dropping nicely in my DJ sets and great to see a different bunch of DJ’s picking up on it like Kolsch, Tensnake and &Me.
+Jamie: Burning Up was inspired by a sound I made on the Korg Minilogue synth which forms the main bass line. It was one of those tracks which came together very quickly and only consists of a few key elements. I jammed out the bassline and then tweaked the sound in one live take, keeping everything as raw and stripped back as possible for maximum impact on the dance floor. I guess you could say it’s one of them more ‘full on’ Jimpster tracks and was great fun to make after having been working on more mellow and deep tracks for a while. It’s certainly been dropping nicely in my DJ sets and great to see a different bunch of DJ’s picking up on it like Kolsch, Tensnake and &Me.
 
 
 
 **RR: You've released a lot of great music under your alter egos, Franc Spangler and Audiomontage. How are they different to Jimpster? Any plans to release more tracks under those monikers?**
 
-Jamie: The original idea was that Jimpster would be the moniker for my more eclectic, jazzy, downtempo jams and Audiomontage would be a more dance floor focused alias. But after a few releases under both names, Jimpster started to gain the most attention and so I started getting remix requests as Jimpster which would often be aimed at DJ’s and then things kind of turned on their head a bit. When we started Delusions Of Grandeur we didn’t announce that it was linked to Freerange so I started Franc Spangler as an outlet for the more disco-influenced sounds that we were pushing on DOG. I’ve not done any Audiomontage material for a while now but will continue to release as Franc Spangler on Delusions and I'm about to start work on a new EP as soon as I finish my latest Jimpster release.
+Jamie: The original idea was that Jimpster would be the moniker for my more eclectic, jazzy, downtempo jams and Audiomontage would be a more dance floor focused alias. But after a few releases under both names, Jimpster started to gain the most attention and so I started getting remix requests as Jimpster which would often be aimed at DJ’s and then things kind of turned on their head a bit. When we started Delusions Of Grandeur we didn’t announce that it was linked to Freerange so I started Franc Spangler as an outlet for the more disco-influenced sounds that we were pushing on it. I’ve not done any Audiomontage material for a while now but will continue to release as Franc Spangler on Delusions and I'm about to start work on a new EP as soon as I finish my latest Jimpster release.
 
 
 
-**RR: Nice! You co-founded two very successful labels - **[**Freerange Records**](https://www.facebook.com/FreerangeRecords/)** and **[**Delusions of Grandeur.**](https://www.facebook.com/Delusions-of-Grandeur-337255673024451/)** What have been the biggest challenges along the way in those journeys?**
+**RR: Nice! You co-founded two very successful labels - [Freerange Records](https://www.facebook.com/FreerangeRecords/) and [Delusions of Grandeur.](https://www.facebook.com/Delusions-of-Grandeur-337255673024451/) What have been the biggest challenges along the way in those journeys?**
 
 Jamie: Many many challenges! Probably the biggest being distribution companies going bust on us on more than one occasion. This would have put most labels out of business but we managed to weather the storm - by managing things carefully and not putting all our (Freerange) eggs in one basket we stayed afloat. It’s sometimes hard to keep things fresh and relevant after 23 years but we keep our ear to the ground and work hard to dig for new, upcoming artists as well as introducing more established names via remixes... so we like to think we still know which direction things are heading in and keep trying to push forward without bandwagon-jumping.
 
@@ -46,7 +46,7 @@ Jamie: Glad you like the Mystified remix! This was one that came together really
 
 
 
-!\[](/img/jimpsterzigzag1 (2).jpg)
+![null](/img/jimpsterzigzag1(2).jpg)
 
 
 
@@ -58,7 +58,7 @@ Jamie: There’s a lot of amazing emerging talent in house music at the moment. 
 
 **RR: And having been in the game for 2 decades, what advice would you give to DJs or producers starting out?**
 
-**Jamie:** Try to find your own sound and niche. There are millions of producers out there so it’s important to work out what you offer that is different from the next one. This applies to both production and DJing and is fairly obvious, but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music. Sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.  
+Jamie: Try to find your own sound and niche. There are millions of producers out there so it’s important to work out what you offer that is different from the next one. This applies to both production and DJing and is fairly obvious, but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music. Sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.  
 
 
 
@@ -80,4 +80,6 @@ Jamie: I’ve just finished a new Jimpster EP which has three original tracks pl
 
 **RR: Great stuff Jamie. See you on Saturday!**
 
-_Get your tickets to see Jimpster at the Civic underground _[**_here_**](https://www.ravereviewz.net/Event/Social-Bewegung-Ft-Jimpster-3HR-Set-Sydney/50)
+
+
+_Get your tickets to see Jimpster at the Civic underground _[_**here**_](https://www.ravereviewz.net/Event/Social-Bewegung-Ft-Jimpster-3HR-Set-Sydney/50)
