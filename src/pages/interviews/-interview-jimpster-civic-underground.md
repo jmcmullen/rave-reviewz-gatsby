@@ -4,7 +4,7 @@ path: /interview/jimpster-remixing-alter-egos-defected
 title: 'Jimpster on remixing, alter-egos & Defected'
 date: 2018-04-19T03:59:40.000Z
 description: Our interview with Jimpster ahead of his gig at the Civic Underground
-featuredImage: /img/jimpster2012_71 (2).jpg
+featuredImage: /img/jimpsterzigzag1(2).jpg
 ---
 _With 2 successful labels and a stellar discography to his name, Jamie Odell AKA Jimpster remains one of the hardest working artists on today's dance scene. Here's our chat with the man of multiple talents before Saturday's [Social Bewegung](https://www.ravereviewz.net/Promoter/social-bewegung/98) event._
 <br><br>
@@ -41,8 +41,6 @@ Jamie: First off, when I’m offered a remix, I listen carefully to the original
 <iframe src="https://embed.beatport.com/?id=9234306&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 Jamie: Glad you like the Mystified remix! This was one that came together really quickly actually. Yeah, I’ve done several remixes for Defected over the years and have a lot of respect for how they operate. I know Luke Solomon from Classic who A&Rs the label quite well and he’s a good guy and has a great ear for what works in the clubs from his years of experience as a DJ and producer. If he thinks that a certain project might be suitable for a Jimpster remix, the chances are he’ll be right. They’ve also invited me to play a few of their parties and I had a great time with them in Croatia for their Defected event at the Garden Tisno the last two years.  
-
-![null](/img/jimpsterzigzag1(2).jpg)
 <br><br>
 
 **RR: You've broken some serious new artists, including Detroit Swindle, Tornado Wallace and Session Victim. Are there any young producers who have caught your eye at the moment?**
