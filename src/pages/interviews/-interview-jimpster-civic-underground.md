@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interview/jimpster-remixes-alter-egos-labels
+path: interview/jimpster-remixing-alter-egos-defected
 title: 'JIMPSTER on his remixes, alter-egos & labels'
 date: 2018-04-19T03:59:40.000Z
 description: Our interview with Jimpster ahead of his gig at the Civic Underground
