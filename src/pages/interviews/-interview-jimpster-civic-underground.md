@@ -48,7 +48,7 @@ Jamie: Glad you like the Mystified remix! This was one that came together really
 **RR: You've broken some serious new artists, including Detroit Swindle, Tornado Wallace and Session Victim. Are there any young producers who have caught your eye at the moment?**
 
 Jamie: There’s a lot of amazing emerging talent in house music at the moment. Some of the guys I’m checking out include [Massiande](https://soundcloud.com/freerangerecords/sets/massiande-yesterday-today-forever-ep) from Chile, [Austin Ato](https://www.facebook.com/austinatouk/) from Scotland, [Bawrut](https://www.facebook.com/Bawrut/) from Spain and [Sam Irl](https://www.facebook.com/samirlmusic/) from Austria. 
-<br><br>
+<br>
 
 **RR: And having been in the game for 2 decades, what advice would you give to DJs or producers starting out?**
 
