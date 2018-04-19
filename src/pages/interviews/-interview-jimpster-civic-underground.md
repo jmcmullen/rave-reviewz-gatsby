@@ -32,7 +32,7 @@ Jamie: Many many challenges! Probably the biggest being distribution companies g
 
 **RR: Now, rumour has it that you've done somewhere in the region of 100 remixes! Talk us through your creative and technical process when remixing a track.**
 
-Jamie: First off, when I’m offered a remix, I listen carefully to the original and make sure I have some specific ideas of how I can bring my own sound and make my interpretation with the sounds and ideas at my disposal. I usually prefer to remix a vocal track, even if my version ends up being a more instrumental or dubby take on it. I have a good idea of the direction I’m going to take even before I load any sounds up so I’ll set out to create what I’m hearing in my head, chopping up original parts, replacing the drums and jamming out a new arrangement. Sometimes a remix comes together very quickly, like three or four days, but usually I spend at least a couple of weeks on something.  
+Jamie: First off, when I’m offered a remix, I listen carefully to the original and make sure I have some specific ideas of how I can bring my own sound and make my interpretation with the sounds and ideas at my disposal. I usually prefer to remix a vocal track, even if my version ends up being a more instrumental or dubby take on it. I have a good idea of the direction I’m going to take even before I load any sounds up so I’ll set out to create what I’m hearing in my head, chopping up original parts, replacing the drums and jamming out a new arrangement. Sometimes a remix comes together very quickly, like three or four days, but usually I spend at least a couple of weeks on something.\
 <br><br>
 
 **RR: Speaking of remixes - we liked your take on Mystified for Defected. You've done a fair few tracks with the label over the years, can you tell us about your relationship with them?**
@@ -41,12 +41,12 @@ Jamie: First off, when I’m offered a remix, I listen carefully to the original
 
 Jamie: Glad you like the Mystified remix! This was one that came together really quickly actually. Yeah, I’ve done several remixes for Defected over the years and have a lot of respect for how they operate. I know Luke Solomon from Classic who A&Rs the label quite well and he’s a good guy and has a great ear for what works in the clubs from his years of experience as a DJ and producer. If he thinks that a certain project might be suitable for a Jimpster remix, the chances are he’ll be right. They’ve also invited me to play a few of their parties and I had a great time with them in Croatia for their Defected event at the Garden Tisno the last two years.  
 
-![](/img/jimpsterzigzag1(2).jpg)
+![](/img/jimpsterzigzag1 (2).jpg)
 <br><br>
 
 **RR: You've broken some serious new artists, including Detroit Swindle, Tornado Wallace and Session Victim. Are there any young producers who have caught your eye at the moment?**
 
-Jamie: There’s a lot of amazing emerging talent in house music at the moment. Some of the guys I’m checking out include [Massiande](https://soundcloud.com/freerangerecords/sets/massiande-yesterday-today-forever-ep) from Chile, [Austin Ato](https://www.facebook.com/austinatouk/) from Scotland, [Bawrut](https://www.facebook.com/Bawrut/) from Spain and [Sam Irl](https://www.facebook.com/samirlmusic/) from Austria.  
+Jamie: There’s a lot of amazing emerging talent in house music at the moment. Some of the guys I’m checking out include [Massiande](https://soundcloud.com/freerangerecords/sets/massiande-yesterday-today-forever-ep) from Chile, [Austin Ato](https://www.facebook.com/austinatouk/) from Scotland, [Bawrut](https://www.facebook.com/Bawrut/) from Spain and [Sam Irl](https://www.facebook.com/samirlmusic/) from Austria.\
 <br><br>
 
 **RR: And having been in the game for 2 decades, what advice would you give to DJs or producers starting out?**
