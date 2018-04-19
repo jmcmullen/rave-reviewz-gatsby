@@ -40,20 +40,20 @@ Jamie: First off, when I’m offered a remix, I listen carefully to the original
 
 <iframe src="https://embed.beatport.com/?id=9234306&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-Jamie: Glad you like the Mystified remix! This was one that came together really quickly actually. Yeah, I’ve done several remixes for Defected over the years and have a lot of respect for how they operate. I know Luke Solomon from Classic who A&Rs the label quite well and he’s a good guy and has a great ear for what works in the clubs from his years of experience as a DJ and producer. If he thinks that a certain project might be suitable for a Jimpster remix, the chances are he’ll be right. They’ve also invited me to play a few of their parties and I had a great time with them in Croatia for their Defected event at the Garden Tisno the last two years.  
+Jamie: Glad you like the Mystified remix! This was one that came together really quickly actually. Yeah, I’ve done several remixes for Defected over the years and have a lot of respect for how they operate. I know Luke Solomon from Classic who A&Rs the label quite well and he’s a good guy and has a great ear for what works in the clubs from his years of experience as a DJ and producer. If he thinks that a certain project might be suitable for a Jimpster remix, the chances are he’ll be right. They’ve also invited me to play a few of their parties and I had a great time with them in Croatia for their Defected event at the Garden Tisno the last two years.
 <br><br>
 
 **RR: You've broken some serious new artists, including Detroit Swindle, Tornado Wallace and Session Victim. Are there any young producers who have caught your eye at the moment?**
 
 Jamie: There’s a lot of amazing emerging talent in house music at the moment. Some of the guys I’m checking out include [Massiande](https://soundcloud.com/freerangerecords/sets/massiande-yesterday-today-forever-ep) from Chile, [Austin Ato](https://www.facebook.com/austinatouk/) from Scotland, [Bawrut](https://www.facebook.com/Bawrut/) from Spain and [Sam Irl](https://www.facebook.com/samirlmusic/) from Austria. 
-<br>
+<br><br>
 
 **RR: And having been in the game for 2 decades, what advice would you give to DJs or producers starting out?**
 
 Jamie: Try to find your own sound and niche. There are millions of producers out there so it’s important to work out what you offer that is different from the next one. This applies to both production and DJing and is fairly obvious, but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music. Sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.
 
 ![null](/img/jimpsterzigzag5-min.jpg)
-<br><br>
+<br>
 
 **RR: Now, if we asked you to pick a favourite set from across your extensive career, which one springs to mind?**
 
