@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interview/carl-cox-music-mental-health-discrimination
+path: /interview/carl-cox-pure
 title: 'CARL COX on music, mental health & discrimination'
 date: 2018-04-03T07:00:00.000Z
 description: >-
@@ -10,7 +10,7 @@ featuredImage: /img/carl-cox.jpg
 ---
 _For our 50th interview, [Rave Reviewz'](https://magazine.ravereviewz.net) Kamran Ahmed had a wide-ranging, personal chat with the legendary Carl Cox ahead of [PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138)..._
 
-**RR: Hi Carl - great to to talk to you, thanks for taking the time. We’re all really looking forward to PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138) here in Sydney. You have a great lineup this year - how do you think it’ll be different to last year?**
+**RR: Hi Carl - great to to talk to you, thanks for taking the time. We’re all really looking forward to [PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138) here in Sydney. You have a great lineup this year - how do you think it’ll be different to last year?**
 
 Carl: Well first and foremost we’ve changed around the production once again. People really enjoy that we try and keep the production as minimal as possible, but also in line with what they expect to see nowadays. Of course, the sound is always paramount for us - the DJs we have this year will create a completely different sound, but it will obviously still be house & techno music. We have [Paco Osuna](https://www.facebook.com/PacoOsunaOfficial/) and [Nastia](https://www.facebook.com/Nastia.official/), which for me is really exciting – two people who I think are the best at that European sound. I’m sure me and Eric Powell will be able to support them in their quest to play the very best music possible.
 
@@ -19,7 +19,6 @@ Carl: Well first and foremost we’ve changed around the production once again. 
 Carl: Yeah - I’ve always been a guy who acknowledges the fact that no one man is an island. I can’t do everything but I can support what I believe people should listen to or at least be aware of. It would be difficult for Fabio to come over here off his own back, even though he’s made some of the most amazing music of all time - people still don’t know that. So to be able to bring him to the forefront so he can shine is quite exciting for me, and he’s very excited by it too. He’s been waiting for his time and it’s now coming. He’s made so much music, he could play just his own records and still rock the house! I actually want him to do that haha. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39d4e4vOBQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-_Carl Cox & Joseph Capriati playing Fabio Neural's Sickboy_
 
 **RR: He actually told us that when he makes a track he thinks ‘Is this something Carl Cox would play?'**
 
@@ -67,7 +66,7 @@ Carl: It is really difficult, I remember [HMC](https://www.facebook.com/djhmc-13
 
 Carl: It’s a tricky one, I’ve been trying to help the situation. We’re creating another new record label trying to sign artists from here. We just did [Babylon festival](https://www.facebook.com/ravereviewz/videos/594377640913256/), and we had lots of Australian techno DJs playing and they’re bloody excellent! I scratch my head… I don’t know why labels, like Pan Pot’s label for example, are not picking up on some of this music. One man is no island, I can’t do everything but at least I can tell people - one of the reasons I’m in Australia is because there is a demand for my sound, now more than ever. We book Paco Osuna alongside local techno DJs to push them to the forefront too, which I think is really important. Eric Powell, with BUSH records tries his best to pick up on Australian talent, but it is difficult to get the music to crossover. We need another Juice record label that HMC was on that fires everything into Europe, or like when Future Sound of Melbourne had their label which tried to find techno tracks.
 
-**RR: You’ve tried your hand at everything in the world of electronic music - DJing, production, you have a label, you had a music management agency, you had your global radio show and now you have your own festival - PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138). What do you love most?**
+**RR: You’ve tried your hand at everything in the world of electronic music - DJing, production, you have a label, you had a music management agency, you had your global radio show and now you have your own festival - [PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138). What do you love most?**
 
 Carl: I think more than anything, the creativity of it all and bringing new people together with their ideas. When we do Babylon for example, there are four of us - a couple of young guys and me and Richie McNeil. Me and Richie are from the old guard, and the other guys are learning, but also enjoying the fact that we are all able to collaborate with our ideas to create something we love. For me and Richie we’ve been there, done it, bought the T-shirt, made the movie, whatever… but we’re still here because we think we can create something unique and special. Babylon is not structured as a normal festival, you have to create everything - so it’s nice when you see it all happen and people enjoy it to the point that they’re already booking their tickets for next year.
 
@@ -76,8 +75,6 @@ Carl: I think more than anything, the creativity of it all and bringing new peop
 Carl: The biggest challenge has been more of a personal challenge for me… being away from my family and friends, and unfortunately my mum died two years ago and I didn’t get to spend as much time as I would’ve liked with her. It’s alright having all these amazing parties to do, but getting to them is the art. People only see when we turn up at the decks and play, but not that it took 12 hours to get there, by hook or by crook. It takes a lot of energy to perform too and people don’t see that side of it, plus you’ve got to do it day after day. 
 
 It all depends how hard you want to do it - I’ve been doing this most of my life now and I know I’m not happy if I do it like that any more. Now I cherry pick and choose how I travel, which is why I get to do these events 110% in the way that I like to. It is almost like a military operation - 'how do you get Carl to play 3 parties, over 2 days, in 3 different countries?'. Sometimes you take a normal flight, sometimes we need a private jet to be able to do it all, but at the end of the day I don’t like letting anyone down. If I’m booked to play there, then I’m booked to play there and I do have a 99.5% turnout rate. So that’s the biggest challenge with all this, getting there.
-
-![null](/img/carl-cox-thinking.jpg)
 
 **RR: Now we’re big on mental health at Rave Reviewz - how do you look after your own well-being with such a hectic schedule?**
 
