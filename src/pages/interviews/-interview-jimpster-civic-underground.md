@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/jimpster-remixing-alter-egos-defected
-title: 'Jimpster on remixing, alter-egos & Defected'
+title: 'JIMPSTER on remixing, alter-egos & Defected'
 date: 2018-04-19T03:59:40.000Z
 description: Our interview with Jimpster ahead of his gig at the Civic Underground
 featuredImage: /img/jimpsterzigzag1(2).jpg
