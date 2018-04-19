@@ -32,7 +32,7 @@ Jamie: Many many challenges! Probably the biggest being distribution companies g
 
 **RR: Now, rumour has it that you've done somewhere in the region of 100 remixes! Talk us through your creative and technical process when remixing a track.**
 
-Jamie: First off, when I’m offered a remix, I listen carefully to the original and make sure I have some specific ideas of how I can bring my own sound and make my interpretation with the sounds and ideas at my disposal. I usually prefer to remix a vocal track, even if my version ends up being a more instrumental or dubby take on it. I have a good idea of the direction I’m going to take even before I load any sounds up so I’ll set out to create what I’m hearing in my head, chopping up original parts, replacing the drums and jamming out a new arrangement. Sometimes a remix comes together very quickly, like three or four days, but usually I spend at least a couple of weeks on something.\
+Jamie: First off, when I’m offered a remix, I listen carefully to the original and make sure I have some specific ideas of how I can bring my own sound and make my interpretation with the sounds and ideas at my disposal. I usually prefer to remix a vocal track, even if my version ends up being a more instrumental or dubby take on it. I have a good idea of the direction I’m going to take even before I load any sounds up so I’ll set out to create what I’m hearing in my head, chopping up original parts, replacing the drums and jamming out a new arrangement. Sometimes a remix comes together very quickly, like three or four days, but usually I spend at least a couple of weeks on something.
 <br><br>
 
 **RR: Speaking of remixes - we liked your take on Mystified for Defected. You've done a fair few tracks with the label over the years, can you tell us about your relationship with them?**
@@ -59,7 +59,7 @@ Jamie: Try to find your own sound and niche. There are millions of producers out
 
 **RR: Now, if we asked you to pick a favourite set from across your extensive career, which one springs to mind?**
 
-Jamie: I tend not to record or listen back to my DJ sets as the atmosphere of the room doesn’t always transfer to the recording but this [gig in San Diego](https://soundcloud.com/musicis4lovers/jimpster-live-at-lovelife) was a great boat party, super busy, and they also had a mic in the crowd so you get a bit of feeling for the vibe.
+Jamie: I tend not to record or listen back to my DJ sets as the atmosphere of the room doesn’t always transfer to the recording but [this gig in San Diego](https://soundcloud.com/musicis4lovers/jimpster-live-at-lovelife) was a great boat party, super busy, and they also had a mic in the crowd so you get a bit of feeling for the vibe.
 <br><br>
 
 **RR: Finally - what else have you got coming up this year? Any releases or projects we can look forward to?**
