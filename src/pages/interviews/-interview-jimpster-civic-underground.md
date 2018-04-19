@@ -1,9 +1,9 @@
 ---
 templateKey: interview-post
-path: /interview/jimpster-civic-underground
+path: /interview/jimpster-remixing-alter-egos-defected
 title: 'Jimpster on remixing, alter-egos & Defected'
-date: 2018-04-18T09:47:40.959Z
-description: Our interview with the king of the remix - Jimpster!
+date: 2018-04-19T13:59:40+10:00
+description: Our interview with Jimpster ahead of his gig at the Civic Underground
 featuredImage: /img/jimpster2012_71 (2).jpg
 ---
 _With 2 successful labels and a stellar discography to his name, Jamie Odell AKA Jimpster remains one of the hardest working artists on today's dance scene. Here's our chat with the man of multiple talents before Saturday's [Social Bewegung](https://www.ravereviewz.net/Promoter/social-bewegung/98) event._
