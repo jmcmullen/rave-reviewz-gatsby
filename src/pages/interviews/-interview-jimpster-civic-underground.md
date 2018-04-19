@@ -7,7 +7,6 @@ description: Our interview with Jimpster ahead of his gig at the Civic Undergrou
 featuredImage: /img/jimpster2012_71 (2).jpg
 ---
 _With 2 successful labels and a stellar discography to his name, Jamie Odell AKA Jimpster remains one of the hardest working artists on today's dance scene. Here's our chat with the man of multiple talents before Saturday's [Social Bewegung](https://www.ravereviewz.net/Promoter/social-bewegung/98) event._
-<br><br>
 
 **RR: Jamie, great to chat. We're looking forward to the weekend's gig at the Civic. What can we expect from you on the night?**
 
@@ -42,12 +41,12 @@ Jamie: First off, when I’m offered a remix, I listen carefully to the original
 
 Jamie: Glad you like the Mystified remix! This was one that came together really quickly actually. Yeah, I’ve done several remixes for Defected over the years and have a lot of respect for how they operate. I know Luke Solomon from Classic who A&Rs the label quite well and he’s a good guy and has a great ear for what works in the clubs from his years of experience as a DJ and producer. If he thinks that a certain project might be suitable for a Jimpster remix, the chances are he’ll be right. They’ve also invited me to play a few of their parties and I had a great time with them in Croatia for their Defected event at the Garden Tisno the last two years.  
 
-!\[null](/img/jimpsterzigzag1(2).jpg)
+![](/img/jimpsterzigzag1(2).jpg)
 <br><br>
 
 **RR: You've broken some serious new artists, including Detroit Swindle, Tornado Wallace and Session Victim. Are there any young producers who have caught your eye at the moment?**
 
-Jamie: There’s a lot of amazing emerging talent in house music at the moment. Some of the guys I’m checking out include [Massiande](https://soundcloud.com/freerangerecords/sets/massiande-yesterday-today-forever-ep) from Chile, [Austin Ato](https://www.facebook.com/austinatouk/) from Scotland, [Bawrut](https://www.facebook.com/Bawrut/) from Spain and [Sam Irl](https://www.facebook.com/samirlmusic/) from Austria. 
+Jamie: There’s a lot of amazing emerging talent in house music at the moment. Some of the guys I’m checking out include [Massiande](https://soundcloud.com/freerangerecords/sets/massiande-yesterday-today-forever-ep) from Chile, [Austin Ato](https://www.facebook.com/austinatouk/) from Scotland, [Bawrut](https://www.facebook.com/Bawrut/) from Spain and [Sam Irl](https://www.facebook.com/samirlmusic/) from Austria.\
 <br><br>
 
 **RR: And having been in the game for 2 decades, what advice would you give to DJs or producers starting out?**
