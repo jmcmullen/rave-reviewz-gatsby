@@ -48,7 +48,7 @@ Fabio: I remember the first time I played at [Ibiza Global Radio](http://ibizagl
 
 **RR: Nice! Now, tell us one track you like to play which always goes off.**
 
-Fabio: Well, for sure [Dj Rolando - Jaguar](https://www.youtube.com/watch?v=C0f96HQbCY4) & Technasia - Obsession (Hombre Lowdown French Kissed Edit)
+Fabio: Well, for sure [Dj Rolando - Jaguar](https://www.youtube.com/watch?v=C0f96HQbCY4) & Technasia - Obsession (Hombre Lowdown French Kissed Edit).
 
 <iframe src="https://embed.beatport.com/?id=6679378&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
