@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/fabio-neural-pure
-title: FABIO NEURAL on his aussie debut and biggest challenges
+title: FABIO NEURAL on his Aussie debut and biggest challenges
 date: 2018-03-24T04:10:37.000Z
 description: >-
   Read our interview with the Italian weapon before his Australian debut at next
@@ -71,4 +71,4 @@ Fabio: 2018 will be an important year for me - I had an amazing solo trip to Sri
 
 **RR: We can't wait - see you soon.**
 
-_Join Fabio on April 28th for PURE 2018. Tickets available _[_**here**_](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138)
+_Join Fabio on April 28th for PURE 2018. Tickets available [**here**](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138)_
