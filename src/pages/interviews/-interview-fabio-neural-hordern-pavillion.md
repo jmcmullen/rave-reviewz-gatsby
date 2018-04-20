@@ -22,9 +22,11 @@ Fabio: Yes, of course - since the first time he asked me for some demos for his 
 
 Fabio: Yes, it is. It will be my first time in Australia and I'm so excited about that. It has always been my dream to come there, I mean, it's the other side of the world! I love nature and animals and you have so many incredible things to see. I still don't know the tour plans but if I have enough time I want to see things for sure. Any suggestions by the way? 
 
-**RR: Plenty - we'll send you a list haha! Now your monster hit, [Kama](https://www.beatport.com/track/kama-original-mix/9418512)** is featured in the PURE promo video. What was the concept behind the track?**
+**RR: Plenty - we'll send you a list haha! Now your monster hit, Kama is featured in the PURE promo video. What was the concept behind the track?**
 
 Fabio: For me, Kama was something that reminded me of when I was a young raver. The vocal I used is from a 90's anthem track, 'Age of Love' that was played by all DJs during that period. I remember I listened to Luciano and Pan-Pot playing it again and I thought "This track is the bomb and the vocal is amazing, but it needs a refresh" ...so I did it haha!
+
+<iframe src="https://embed.beatport.com/?id=9418512&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 **RR: Can you describe where you find inspiration when making music?**
 
