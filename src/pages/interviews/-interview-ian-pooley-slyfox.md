@@ -4,7 +4,7 @@ path: /interview/ian-pooley
 title: 'IAN POOLEY on Australia, '
 date: 2018-04-14T00:45:19.333Z
 description: TBC
-featuredImage: /img/ian-pooley press shot.jpg
+featuredImage: /img/ian pooley-studio.jpeg
 ---
 _After wowing the crowd last month in Sydney, we caught up with DJ and production wizard, **Ian Pooley** for a quick chat and debrief on the Australia trip. _
 
@@ -20,26 +20,27 @@ Ian: Very nice. I played [Something Else](https://ravereviewz.net.au/interview/a
 
 **RR: You run 2 successful labels, **[**Pooledmusic**](https://www.facebook.com/Pooledmusic)** and Montage - focusing on house and techno, respectively. What are the challenges you face in managing the two?**
 
-Ian:** **I’d say finding new talent , people who haven’t released much previously and who relate to my own sound. [Indira Paganotto](https://www.facebook.com/IndiraPaganotto/) is a perfect example for that. Her tracks always sound that they could’ve been produced by me.
+Ian: I’d say finding new talent , people who haven’t released much previously and who relate to my own sound. [Indira Paganotto](https://www.facebook.com/IndiraPaganotto/) is a perfect example for that. Her tracks always sound that they could’ve been produced by me.
 <br><br>
 
 **RR: You also have some serious kit in your studio - can you tell us about your most prized piece of equipment? **
 
-Ian:** **The Akai MPC 3000 is the heart of my studio, it controls all my synthesizers and drum machines and I use it in every track.
+Ian: The Akai MPC 3000 is the heart of my studio, it controls all my synthesizers and drum machines and I use it in every track.
 <br><br>
 
-!\[](/img/ian pooley-studio.jpeg)
-<br>
+![null](/img/ian-pooley.jpg)
 
 **RR: You’ve released many tracks and remixes over the years - do you have a personal favourite?**
 
-Ian:** **Not really! Too many to mention and with a lot of them I have special memories.
+Ian: Not really! Too many to mention and with a lot of them I have special memories.
 <br><br>
 
 **RR: Your 1998 Meridian album is well-recognised as a classic. Did it feel like you had crafted something special at the time?**
 
-Ian:** **Haha not at all. I was just happy that I had finally finished that album. Took me a year.
+Ian: Haha not at all. I was just happy that I had finally finished that album. Took me a year.
 <br><br>
+
+<iframe src="https://embed.beatport.com/?id=8052127&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 **RR: You've had a career spanning almost 3 decades, but if we asked you to pick one set that stands out in your memory, which would it be?**
 
