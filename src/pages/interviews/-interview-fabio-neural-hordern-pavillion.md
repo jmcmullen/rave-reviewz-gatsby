@@ -18,6 +18,8 @@ Fabio: Hi [Rave Reviewz](https://www.facebook.com/ravereviewz/)! I can't wait to
 
 Fabio: Yes, of course - since the first time he asked me for some demos for his label [Intec](https://www.facebook.com/IntecDigital/). I always work on making something that he would probably play, not focusing on one genre but keeping my mind free as he does in his sets. As you know Carl can play techno, house or even funky... it is so important to be open-minded, as music changes everyday.
 
+![null](/img/fabio-neural-2.jpg)
+
 **RR: We gather this will be your first time in Australia – what have you got planned for your visit? Will you get any downtime to explore?**
 
 Fabio: Yes, it is. It will be my first time in Australia and I'm so excited about that. It has always been my dream to come there, I mean, it's the other side of the world! I love nature and animals and you have so many incredible things to see. I still don't know the tour plans but if I have enough time I want to see things for sure. Any suggestions by the way? 
