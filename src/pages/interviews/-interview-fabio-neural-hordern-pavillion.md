@@ -13,7 +13,7 @@ _With the countdown to his Australian debut firmly under way, mixmaster Fabio Ne
 
 **RR: Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138) in April. What can we expect from your set?**
 
-Fabio: Hi [Rave Reviewz](https://www.facebook.com/ravereviewz/)! I can't wait to perform at this amazing festival! Well, I will try to show all my skills during my set and take people on a trip, and share the energy that music makes me feel with them.
+Fabio: Hi [Rave Reviewz](https://magazine.ravereviewz.net/)! I can't wait to perform at this amazing festival! Well, I will try to show all my skills during my set and take people on a trip, and share the energy that music makes me feel with them.
 <br><br>
 
 **RR: Now [Carl Cox,](https://ravereviewz.net.au/interview/carl-cox-pure) who is also performing has been a big supporter of your music. Has he been an influence in your career?**
@@ -71,4 +71,4 @@ Fabio: 2018 will be an important year for me - I had an amazing solo trip to Sri
 
 **RR: We can't wait - see you soon.**
 
-_Join Fabio on April 28th for PURE 2018. Tickets available [**here**](http://premier.ticketek.com.au/shows/show.aspx?sh=PURE18)_
+_Join Fabio on April 28th for PURE 2018. Tickets available _[_**here**_](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138)
