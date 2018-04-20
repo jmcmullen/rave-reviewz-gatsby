@@ -11,7 +11,7 @@ featuredImage: /img/fabio-neural.jpg
 _With the countdown to his Australian debut firmly under way, mixmaster Fabio Neural joined us for a chat about his friendship with Carl Cox, the challenges he's faced and his passion for music..._
 <br><br>
 
-**RR: Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?**
+**RR: Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138) in April. What can we expect from your set?**
 
 Fabio: Hi [Rave Reviewz](https://www.facebook.com/ravereviewz/)! I can't wait to perform at this amazing festival! Well, I will try to show all my skills during my set and take people on a trip, and share the energy that music makes me feel with them.
 <br><br>
