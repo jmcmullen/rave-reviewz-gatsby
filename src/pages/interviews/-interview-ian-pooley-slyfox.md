@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/ian-pooley
-title: 'IAN POOLEY on Australia, '
+title: IAN POOLEY on Sydney gigs and prized equipment
 date: 2018-04-14T00:45:19.333Z
 description: TBC
 featuredImage: /img/ian pooley-studio.jpeg
