@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/fabio-neural-pure
-title: Fabio Neural @ PURE
+title: 'FABIO NEURAL on his inspirations, projects and biggest challenges'
 date: 2018-03-24T04:10:37.000Z
 description: >-
   Read our interview with the Italian weapon before his Australian debut at next
