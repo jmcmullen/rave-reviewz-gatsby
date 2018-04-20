@@ -11,7 +11,7 @@ featuredImage: /img/fabio-neural.jpg
 _With the countdown to his Australian debut firmly under way, mixmaster Fabio Neural joined us for a chat about his friendship with Carl Cox, the challenges he's faced and his passion for music..._
 <br><br>
 
-**RR: Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.facebook.com/purecarlcox/) in April. What can we expect from your set?**
+**RR: Hi Fabio – we’re really looking forward to your performance at [PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138) in April. What can we expect from your set?**
 
 Fabio: Hi [Rave Reviewz](https://www.facebook.com/ravereviewz/)! I can't wait to perform at this amazing festival! Well, I will try to show all my skills during my set and take people on a trip, and share the energy that music makes me feel with them.
 <br><br>
@@ -26,8 +26,8 @@ Fabio: Yes, of course - since the first time he asked me for some demos for his 
 
 **RR: We gather this will be your first time in Australia – what have you got planned for your visit? Will you get any downtime to explore?**
 
-Fabio: Yes, it is. It will be my first time in Australia and I'm so excited about that. It has always been my dream to come there, I mean, it's the other side of the world! I love nature and animals and you have so many incredible things to see. I still don't know the tour plans but if I have enough time I want to see things for sure. Any suggestions by the way?
-<br><br> 
+Fabio: Yes, it is. It will be my first time in Australia and I'm so excited about that. It has always been my dream to come there, I mean, it's the other side of the world! I love nature and animals and you have so many incredible things to see. I still don't know the tour plans but if I have enough time I want to see things for sure. Any suggestions by the way? 
+<br><br>
 
 **RR: Plenty - we'll send you a list haha! Now your monster hit, Kama is featured in the PURE promo video. What was the concept behind the track?**
 
