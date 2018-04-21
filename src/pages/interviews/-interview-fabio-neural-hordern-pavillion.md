@@ -57,6 +57,10 @@ Fabio: Well, for sure [Dj Rolando - Jaguar](https://www.youtube.com/watch?v=C0f9
 Fabio: When I played at [Space](https://www.facebook.com/spaceibiza/) in Ibiza for Carl Cox's 'The Final Chapter' in 2016. For me it was a dream come true - the last season of his party in Ibiza, the last year of Space, playing in the main room, it was awesome.
 <br><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mav6qNis4us" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+
 **RR: Sounds amazing. What have been the biggest challenges during your career?**
 
 Fabio: Honestly? Myself and life. I mean, in the world of music it is difficult to find people that help you because everyone is scared that you might take their place. I find that doesn't make sense because there are enough clubs and festivals for everyone, but people often want more and more. The passion and the love I feel for music is so big but it wasn't easy... I took so many doors in the face, until now. The reason I said myself and life, is because I've had to live with losing my mother to cancer, and then my father. I lost her 10 years ago when I was 17 and him last year, so you can imagine the impact it had on my life and music. 
