@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
 path: /interview/paco-osuna-pure
-title: Paco Osuna...
-date: 2018-04-24T02:00:00.000Z
+title: Paco Osuna
+date: 2018-04-25T12:00:00+10:00
 description: >-
   Ahead of his PURE debut in Sydney, we chat to [**Paco Osuna**]
   (https://www.facebook.com/PacoOsunaOfficial/) about….
@@ -26,9 +26,13 @@ We've never had the opportunity to go deeper into our relationship beyond the pr
 	
 **Paco:** It looks simple but is not. You have to be very concentrated since there are three of us playing together with our complete set up and mixes. We need to check continuously what the other is doing. But once you get into the mood it is so much fun because I'm playing drums or hitting hats on top of their music or doing effects when they play or keeping one of my loops. It was very creative, and the people's reaction to all the mixing of our styles was so positive.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pdk3CS5SVI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 **RR:**  You also had the annual showcase of your imprint - [Mindshake](https://www.facebook.com/mindshakerecords/). What have been the biggest challenges with running the label over the years?
 	
 **Paco:** The biggest challenge to survive during this year was having an identity. Mindshake has been releasing records since 2006 and we have experienced so many different musical situations and hype - producers coming and going. And also, across the years my team has had some changes but we are still doing what we like with the support of the fans. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XcYNgjmBD54?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **RR:**  [Club4](https://www.facebook.com/Club4.barcelona/) - which you founded, celebrated its 12th birthday at the start of the year. Looking back, how do you feel it has contributed to the development of Barcelona’s techno scene?
 	
