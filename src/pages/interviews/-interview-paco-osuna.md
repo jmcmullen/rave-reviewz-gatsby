@@ -4,7 +4,7 @@ path: /interview/paco-osuna-pure
 title: Paco Osuna...
 date: 2018-04-24T02:00:00.000Z
 description: >-
-  Ahead of his PURE debut in Sydney, we chat with [**Paco Osuna**]
+  Ahead of his PURE debut in Sydney, we chat to [**Paco Osuna**]
   (https://www.facebook.com/PacoOsunaOfficial/) about….
 featuredImage: /img/pacoosuna-01.jpg
 ---
