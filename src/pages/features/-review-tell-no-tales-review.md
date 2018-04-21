@@ -1,6 +1,6 @@
 ---
 templateKey: review-post
-path: /review/tell-no-tales
+path: /feature/tell-no-tales
 title: 'Tell No Tales: Review'
 date: 2018-03-06T00:10:58+11:00
 description: >-

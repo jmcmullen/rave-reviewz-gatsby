@@ -1,6 +1,6 @@
 ---
 templateKey: review-post
-path: /review/babylon-festival
+path: /feature/babylon-festival
 title: 'Babylon Festival: Review'
 date: 2018-03-07T04:11:04.000Z
 description: >-

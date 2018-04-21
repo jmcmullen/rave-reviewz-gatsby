@@ -1,0 +1,2 @@
+/reviews/* /features/:splat 301
+/reviews /features 301

@@ -1,6 +1,6 @@
 ---
 templateKey: review-post
-path: /review/the-rio-revel-review
+path: /feature/the-rio-revel-review
 title: "The Rio Revel: Review"
 date: 2018-02-14T15:04:10.000Z
 description: Return to Rio were back with a fresh instalment on their party roster - The Rio Revel. With their signature décor and high quality production, the team transformed the Manning Bar into an eye-catching playground, fit for its line-up of local & international powerhouse DJs.

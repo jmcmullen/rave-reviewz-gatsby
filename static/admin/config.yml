@@ -22,11 +22,11 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
-  - name: "reviews"
-    label: "Reviews"
-    folder: "src/pages/reviews"
+  - name: "features"
+    label: "Features"
+    folder: "src/pages/features"
     create: true
-    slug: "/review/{{slug}}"
+    slug: "/feature/{{slug}}"
     editor:
       preview: false
     fields:
