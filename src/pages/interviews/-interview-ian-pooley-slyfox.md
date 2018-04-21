@@ -8,7 +8,7 @@ description: >-
   German DJ/Producer
 featuredImage: /img/ian pooley-studio.jpeg
 ---
-_After wowing the crowd last month in Sydney, we caught up with DJ and production wizard, Ian Pooley for a quick chat and debrief on the Australia trip. _
+_After wowing the crowd last month in Sydney, _[_Rave Reviewz_](https://magazine.ravereviewz.net)_ caught up with DJ and production wizard, Ian Pooley for a quick chat and debrief on the Australia trip. _
 
 **RR: Hey Ian! You were in Sydney last month and played at [SLYFOX](https://www.facebook.com/slyfoxenmore/) and [S.A.S.H](https://www.facebook.com/sashsundays/) - two very different settings. How did you find them?**
 
@@ -66,6 +66,3 @@ Ian: A new album!
 <br><br>
 
 **RR: We'll let you get back in the studio. Thanks for the chat!**
-
-Ian: Thank you [Rave Reviewz](https://magazine.ravereviewz.net/)!
-<br><br>
