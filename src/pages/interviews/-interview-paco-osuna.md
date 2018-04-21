@@ -32,8 +32,6 @@ We've never had the opportunity to go deeper into our relationship beyond the pr
 	
 **Paco:** The biggest challenge to survive during this year was having an identity. Mindshake has been releasing records since 2006 and we have experienced so many different musical situations and hype - producers coming and going. And also, across the years my team has had some changes but we are still doing what we like with the support of the fans. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XcYNgjmBD54?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 **RR:**  [Club4](https://www.facebook.com/Club4.barcelona/) - which you founded, celebrated its 12th birthday at the start of the year. Looking back, how do you feel it has contributed to the development of Barcelona’s techno scene?
 	
 **Paco:** I‘ve put so much love into that project and some of the best experiences in my career as a DJ happened at Club4. So I want to believe that, it has always been my purpose. I don't know if we did it, I’ve wanted to do my best in those 12 years, but this is something that only the people and time will say in the future.
@@ -53,6 +51,8 @@ We've never had the opportunity to go deeper into our relationship beyond the pr
 **RR:**  Having toured for many years, how do you ensure you are delivering at your best every time you play?
 
 **Paco:** Because I love my job. As I said before I like to see people dancing and going crazy with the music, I love to impress them, see their reaction when I'm mixing or doing a crazy effect or drums with the machines. It's a continuous challenge and I love that feeling of butterflies in the stomach and thinking if what I am doing will sounds good or not. Watching the crowd's reaction is the best, similar to football when you score a goal hahaha...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XcYNgjmBD54?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **RR:**  And looking back through your career, can you pick a gig you've played that really stands out in your memory?
 
