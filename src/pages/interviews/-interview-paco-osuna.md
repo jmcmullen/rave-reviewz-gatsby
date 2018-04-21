@@ -14,7 +14,9 @@ featuredImage: /img/pacoosuna-01.jpg
 
 **RR:** Now you’ve known [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure) for a while - tell us about your relationship and how you got involved with PURE.
 
-**Paco:** I've know Carl Cox since I was a resident in [Amnesia Ibiza](https://www.facebook.com/amnesiaibiza/). I've always had such respect for him. It's the same respect that he always shows to you even when he turned into the legend he is today. He has always kept humble, always a nice person and is an amazing artist. We've never had the opportunity to go deeper into our relationship beyond the professional aspect, so I hope this tour brings us some time to spend together and get to know each other a little more. And about PURE, it has been such an honour to get involved with this project!
+**Paco:** I've know Carl Cox since I was a resident in [Amnesia Ibiza](https://www.facebook.com/amnesiaibiza/). I've always had such respect for him. It's the same respect that he always shows to you even when he turned into the legend he is today. He has always kept humble, always a nice person and is an amazing artist. 
+
+We've never had the opportunity to go deeper into our relationship beyond the professional aspect, so I hope this tour brings us some time to spend together and get to know each other a little more. And about PURE, it has been such an honour to get involved with this project!
 
 **RR:** Your last visit to (Sydney)[https://www.ravereviewz.net/Events-Location/Sydney] was quite a few years ago - what memories do you have from that trip?
 	
