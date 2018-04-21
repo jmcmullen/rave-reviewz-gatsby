@@ -4,8 +4,8 @@ path: /interview/ian-pooley-sydney
 title: IAN POOLEY on Sydney gigs and prized equipment
 date: 2018-04-14T00:45:19.333Z
 description: >-
-  With decades of experience under his belt, here's our chat with the German
-  DJ/Producer
+  With decades of experience under his belt, here's our chat with the revered
+  German DJ/Producer
 featuredImage: /img/ian pooley-studio.jpeg
 ---
 _After wowing the crowd last month in Sydney, we caught up with DJ and production wizard, Ian Pooley for a quick chat and debrief on the Australia trip. _
