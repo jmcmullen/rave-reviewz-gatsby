@@ -8,9 +8,9 @@ description: >-
   DJ/Producer
 featuredImage: /img/ian pooley-studio.jpeg
 ---
-_After wowing the crowd last month in Sydney, we caught up with DJ and production wizard, **Ian Pooley** for a quick chat and debrief on the Australia trip. _
+_After wowing the crowd last month in Sydney, we caught up with DJ and production wizard, Ian Pooley for a quick chat and debrief on the Australia trip. _
 
-**RR: Hey Ian! You were in Sydney last month and played at **[**SLYFOX**](https://www.facebook.com/slyfoxenmore/)** and **[**S.A.S.H**](https://www.facebook.com/sashsundays/)**\- two very different settings. How did you find them?**
+**RR: Hey Ian! You were in Sydney last month and played at [SLYFOX](https://www.facebook.com/slyfoxenmore/) and [S.A.S.H](https://www.facebook.com/sashsundays/) - two very different settings. How did you find them?**
 
 Ian: I’ve played SASH a few times. SASH by day is a lot of fun - really energetic and fun crowd. This time it started raining heavily in the middle of my set. It was crazy ! We had to move the booth , set up umbrellas and wipe the CDJs all while I was playing. The crowd was phenomenal, they went crazy hahaha! I played SLYFOX for the first time and it was very nice. The venue is more intimate and you are really close to the crowd - I like that. The sound system is great too! 
 <br><br>
@@ -20,7 +20,7 @@ Ian: I’ve played SASH a few times. SASH by day is a lot of fun - really energe
 Ian: Very nice. I played [Something Else](https://ravereviewz.net.au/interview/alex-dimitr%C3%B6ff-something-else) at Burdekin first and the SASH by day and by night. Really cool!
 <br><br>
 
-**RR: You run 2 successful labels, **[**Pooledmusic**](https://www.facebook.com/Pooledmusic)** and Montage - focusing on house and techno, respectively. What are the challenges you face in managing the two?**
+**RR: You run 2 successful labels, [Pooledmusic](https://www.facebook.com/Pooledmusic) and Montage - focusing on house and techno, respectively. What are the challenges you face in managing the two?**
 
 Ian: I’d say finding new talent , people who haven’t released much previously and who relate to my own sound. [Indira Paganotto](https://www.facebook.com/IndiraPaganotto/) is a perfect example for that. Her tracks always sound that they could’ve been produced by me.
 <br><br>
@@ -55,7 +55,7 @@ Ian: People ask me that a lot and I have to say that I definitely cannot pick on
 Ian: [Trikk](https://www.facebook.com/musictrikk/), [Black Loops](https://www.facebook.com/blackloopsitaly/), [Dan Beaumont](https://www.facebook.com/danbeaumont.london/), [Mathias Schober](https://www.facebook.com/mathiasschober.showb/) & [Wajeed](https://www.facebook.com/waajeedmusic/).
 <br><br>
 
-**RR: We really like your photography blog, **[**Weekend views**](http://weekendviews.tumblr.com/)**, in which you take pictures from the view of your hotel room. What gave you the idea? ...Can we expect a photo from your Sydney visit??**
+**RR: We really like your photography blog, [Weekend views](http://weekendviews.tumblr.com/), in which you take pictures from the view of your hotel room. What gave you the idea? ...Can we expect a photo from your Sydney visit??**
 
 Ian: Ohhh I need to update that! I started it in the 90s with a classic film camera, can’t remember how i got the idea. Then i forgot it for a while and now i’m back onto it.
 <br><br>
@@ -65,7 +65,7 @@ Ian: Ohhh I need to update that! I started it in the 90s with a classic film cam
 Ian: A new album!
 <br><br>
 
-**RR: We'll let you get back in the studio. Thanks for the chat! **
+**RR: We'll let you get back in the studio. Thanks for the chat!**
 
 Ian: Thank you [Rave Reviewz](https://magazine.ravereviewz.net/)!
 <br><br>
