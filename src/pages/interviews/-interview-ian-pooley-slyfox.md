@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interview/ian-pooley
+path: /interview/ian-pooley-sydney
 title: IAN POOLEY on Sydney gigs and prized equipment
 date: 2018-04-14T00:45:19.333Z
 description: >-
