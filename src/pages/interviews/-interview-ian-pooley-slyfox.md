@@ -31,6 +31,7 @@ Ian: The Akai MPC 3000 is the heart of my studio, it controls all my synthesizer
 <br><br>
 
 ![null](/img/ian-pooley.jpg)
+<br>
 
 **RR: You’ve released many tracks and remixes over the years - do you have a personal favourite?**
 
