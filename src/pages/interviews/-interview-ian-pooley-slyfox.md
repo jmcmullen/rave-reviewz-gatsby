@@ -62,7 +62,10 @@ Ian: Ohhh I need to update that! I started it in the 90s with a classic film cam
 
 **RR: Finally - what else do you have in the pipeline this year?**
 
-**Ian: A new album!**
+Ian: A new album!
 <br><br>
 
-RR: Ian - thank you.
+**RR: We'll let you get back in the studio. Thanks for the chat! **
+
+Ian: Thank you [Rave Reviewz](https://magazine.ravereviewz.net/)!
+<br><br>
