@@ -30,7 +30,7 @@ export default class ReviewsPage extends React.Component {
         />
         <div className="container">
           <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Reviews</h1>
+            <h1 className="has-text-weight-bold is-size-2">Latest Features</h1>
           </div>
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'review-post')
