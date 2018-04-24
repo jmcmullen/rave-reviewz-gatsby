@@ -29,6 +29,8 @@ featuredImage: /img/_w7a2800.jpg
 
 **MP:** I get excited about both equally, I think they go hand in hand. Imagine the joy of finishing a track that you think is good and then testing it out in front of an audience and see how it works. I love producing and doing studio work and I love traveling and playing gigs all over the world, I couldn't choose between these two.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRfCxqdnygE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 **RR:** We really admired [Hermannstadt Collective](https://www.facebook.com/HermannstadtCollective/) and your collaborations with [Jay Bliss](https://www.facebook.com/jaybliss.ro/). Are there any plans to continue this project?
 
 **MP:** Hermannstadt Collective was born when Jay and I used to live together sharing the same apartment. We used to do a lot of music together back then. After he moved to Bucharest and got a job there it was more difficult for us to find time for the project. We don't have any certain plans to revive this but anything is possible.
