@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview-paco-osuna-love-making-people-dance
-title: PACO OSUNA on making people dance
+title: PACO OSUNA on his love for making people dance
 date: 2018-04-24T06:37:55.418Z
 description: Our chat with Spanish powerhouse Paco Osuna ahead of PURE
 featuredImage: /img/pacoosuna-01-color.jpg
