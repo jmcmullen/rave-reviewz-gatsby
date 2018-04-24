@@ -1,0 +1,50 @@
+---
+templateKey: interview-post
+path: /interview/mihai-popoviciu
+title: MIHAI POPOVICIU on....
+date: 2018-04-26T02:02:38+10:00
+description: >-
+  Our chat with Romanian legend [Mihai
+  Popoviciu](https://www.facebook.com/mihaipopoviciu1/) in the midst of his
+  Australian tour.......
+featuredImage: /img/_w7a2800.jpg
+---
+**RR:** Hey Mihai! It's been a while since you last played a gig in Australia. What can we expect from your upcoming sets?
+
+**MP:** Hey guys! Thank you for this interview! Last time I was in Australia was two years ago. I was looking forward to being back here because I have a great time every time I come. There is a lot of new music from myself and others that I will play during my stay here.
+
+**RR:** OK going back to the very beginning - what inspired you to pursue a career in DJing and who were your early influences?
+
+**MP:** I  fell in love with electronic music at a young age (I was around 14) and back then I was mostly listening to some kinds of German rave, techno and trance. Later I discovered Detroit Techno and that is when I started to dream about the possibility of earning a living from music. My heroes were the big Detroit Techno acts but also icons like [Laurent Garnier](https://www.facebook.com/laurentgarnierofficial/) and [Sven Väth](https://www.facebook.com/SvenVaethOfficial/).
+
+**MP:** Now [Cyclic Records](https://www.facebook.com/cyclicrecords/) has grown rapidly since 2012 - what have been the biggest challenges and highlights of running your own label?
+
+**RR:** Yes, time runs so fast…I can't believe six years have passed already since I started the label. I do everything by myself at Cyclic Records from listening to demos to posting on social media. I have learnt a lot about managing a label and I think one of the most important things about it is to create a certain signature sound of the label - an identity.
+
+**RR:** And as a label boss, can you tell us what you look for when signing new talent?
+
+**MP:** I listen to every demo that I get at Cyclic and if I find it interesting I reply. Basically I am looking for two things in a track: first of all I have to like it and second it must be suitable for the dance floor and DJ friendly. I don't care about anything else, it doesn't matter if you are a well established artist or a newcomer.
+
+**RR:** What would you say you get more enjoyment out of - music production or DJing?
+
+**MP:** I get excited about both equally, I think they go hand in hand. Imagine the joy of finishing a track that you think is good and then testing it out in front of an audience and see how it works. I love producing and doing studio work and I love traveling and playing gigs all over the world, I couldn't choose between these two.
+
+**RR:** We really admired [Hermannstadt Collective](https://www.facebook.com/HermannstadtCollective/) and your collaborations with [Jay Bliss](https://www.facebook.com/jaybliss.ro/). Are there any plans to continue this project?
+
+**MP:** Hermannstadt Collective was born when Jay and I used to live together sharing the same apartment. We used to do a lot of music together back then. After he moved to Bucharest and got a job there it was more difficult for us to find time for the project. We don't have any certain plans to revive this but anything is possible.
+
+**RR:** DJing has taken you all over the world. What has been your most memorable set to date? 
+
+**MP:** This is a hard question, I have so many great memories from different places! I was in South America for a small tour earlier this month so I have fresh memories from there. I love playing in Buenos Aires, the crowd is amazing there! From Australia I have lovely memories from Chi Wow Wah Festival or from [S.A.S.H](https://www.facebook.com/sashsundays/). or [Breakfast Club](https://www.facebook.com/TheBreakfastClubMelbourne/) in Melbourne! I am looking forward to be back at these places! 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/427352541&color=%23000000&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+**RR:** You held your first music production masterclass in Buenos Aires recently. How did that go? 
+
+**MP:** Yes, that was a very nice experience! I was a bit nervous about it in the beginning because I didn't know how it would go but it all worked just fine in the end. To be honest I was a bit afraid that what I would "teach" them would not be anything new for them but I was happy to find out that the feedback after the class was very positive. It looks like there is always something new to learn!
+
+**RR:** Finally, what else is in the pipeline for you this year? 
+
+**MP:** I have done a lot of remixes lately. Some of them are out already, some others will follow soon. I will also have two releases on Still Hot and True Sounds Music coming out in the next months. When it comes to gigs, this summer looks pretty busy already with a lot of festivals in the calendar in Germany, Holland, Sweden, Romania, Poland.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/432810945&color=%23000000&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
