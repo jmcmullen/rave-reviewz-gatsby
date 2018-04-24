@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/mihai-popoviciu
 title: MIHAI POPOVICIU on....
-date: 2018-04-26T02:02:38+10:00
+date: 2018-04-25T16:02:38.000Z
 description: >-
   Our chat with Romanian legend [Mihai
   Popoviciu](https://www.facebook.com/mihaipopoviciu1/) in the midst of his
@@ -17,9 +17,9 @@ featuredImage: /img/_w7a2800.jpg
 
 **MP:** I  fell in love with electronic music at a young age (I was around 14) and back then I was mostly listening to some kinds of German rave, techno and trance. Later I discovered Detroit Techno and that is when I started to dream about the possibility of earning a living from music. My heroes were the big Detroit Techno acts but also icons like [Laurent Garnier](https://www.facebook.com/laurentgarnierofficial/) and [Sven Väth](https://www.facebook.com/SvenVaethOfficial/).
 
-**MP:** Now [Cyclic Records](https://www.facebook.com/cyclicrecords/) has grown rapidly since 2012 - what have been the biggest challenges and highlights of running your own label?
+**RR:** Now [Cyclic Records](https://www.facebook.com/cyclicrecords/) has grown rapidly since 2012 - what have been the biggest challenges and highlights of running your own label?
 
-**RR:** Yes, time runs so fast…I can't believe six years have passed already since I started the label. I do everything by myself at Cyclic Records from listening to demos to posting on social media. I have learnt a lot about managing a label and I think one of the most important things about it is to create a certain signature sound of the label - an identity.
+**MP:** Yes, time runs so fast…I can't believe six years have passed already since I started the label. I do everything by myself at Cyclic Records from listening to demos to posting on social media. I have learnt a lot about managing a label and I think one of the most important things about it is to create a certain signature sound of the label - an identity.
 
 **RR:** And as a label boss, can you tell us what you look for when signing new talent?
 
