@@ -4,7 +4,7 @@ path: /interview/hoj-return-to-rio
 title: Hoj @ Return to Rio
 date: 2017-11-30T05:25:56.000Z
 description: >-
-  Read our chat with How about good times at Return to Rio, Burning Man and
+  Read our chat with Hoj about good times at Return to Rio, Burning Man and
   more.
 featuredImage: /img/hoj.jpg
 ---
