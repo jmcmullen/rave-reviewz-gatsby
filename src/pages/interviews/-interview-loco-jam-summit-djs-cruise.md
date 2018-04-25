@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/loco-jam-summit-djs-cruise
 title: Loco & Jam @ Summit DJs Cruise
-date: 2018-02-15T15:04:10.000Z
+date: 2018-02-15T02:04:10+11:00
 description: >-
   We managed to track down Lloyd AKA Loco to find out what techno tag-team Loco
   & Jam have in store for this Saturday's boat party.
