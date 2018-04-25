@@ -9,7 +9,7 @@ description: >-
   Australian tour.......
 featuredImage: /img/_w7a2922.jpg
 ---
-Setting off his Australia trip nicely with an intimate set at SLYFOX, here's our interview with Romanian weapon and Cyclic records founder, Mihai Popoviciu
+Setting off his Australia trip nicely with an intimate set at [SLYFOX](https://www.ravereviewz.net/Event/S-A-S-H---SLYFOX---Mihai-Popoviciu-Enmore-Marrickville---NSW/160), here's our interview with Romanian weapon and Cyclic records founder, [**Mihai Popovicic**](https://www.facebook.com/mihaipopoviciu1/)...
 
 **RR: Hey Mihai! It's been a while since you last played a gig in Australia. What can we expect from your upcoming sets?**
 
@@ -49,6 +49,10 @@ Mihai**:** Yes, that was a very nice experience! I was a bit nervous about it in
 
 **RR: Finally, what else is in the pipeline for you this year? **
 
-Mihai: I have done a lot of remixes lately. Some of them are out already, some others will follow soon. I will also have two releases on Still Hot and True Sounds Music coming out in the next months. When it comes to gigs, this summer looks pretty busy already with a lot of festivals in the calendar in Germany, Holland, Sweden, Romania, Poland.
+Mihai: I have done a lot of remixes lately, including a rework of Alice Clark's 'Rocket' for [Decay Records](https://www.facebook.com/DecayRecords/). Some of them are out already, some others will follow soon. I will also have two releases on Still Hot and True Sounds Music coming out in the next months. When it comes to gigs, this summer looks pretty busy already with a lot of festivals in the calendar in Germany, Holland, Sweden, Romania, Poland.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/432810945&color=%23000000&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+**RR: Sounds great Mihai. Enjoy your time in Australia!**
+
+_Catch Mihai's final Sydney performance at S.A.S.H. Details _[_here_](https://www.ravereviewz.net/Event/S-A-S-H-by-Night---Secret-Guest-Sydney/110)
