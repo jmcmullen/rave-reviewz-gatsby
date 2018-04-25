@@ -6,7 +6,7 @@ date: 2018-04-25T16:02:38.000Z
 description: Our chat with the Romanian DJ/Producer in the midst of his Australian tour...
 featuredImage: /img/_w7a2922.jpg
 ---
-_Setting off his Australia trip nicely with an intimate set at _[_SLYFOX_](https://www.ravereviewz.net/Event/S-A-S-H---SLYFOX---Mihai-Popoviciu-Enmore-Marrickville---NSW/160)_, here's our interview with one of Eastern Europe's finest exports, _[_**Mihai Popovicic**_](https://www.facebook.com/mihaipopoviciu1/)_ about his influences, label management and his  _
+_Igniting his trip down under with an intimate set at _[_SLYFOX_](https://www.ravereviewz.net/Event/S-A-S-H---SLYFOX---Mihai-Popoviciu-Enmore-Marrickville---NSW/160)_, here's our interview with one of Eastern Europe's finest exports, _[**_Mihai Popovicic_**](https://www.facebook.com/mihaipopoviciu1/)_ about his influences, label management and his  _
 <br><br>
 
 **RR: Hey Mihai! It's been a while since you last played a gig in Australia. What can we expect from your upcoming sets?**
