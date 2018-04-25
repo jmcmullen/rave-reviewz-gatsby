@@ -6,7 +6,7 @@ date: 2018-04-25T16:02:38.000Z
 description: Our chat with the Romanian DJ/Producer in the midst of his Australian tour...
 featuredImage: /img/_w7a2922.jpg
 ---
-Setting off his Australia trip nicely with an intimate set at [SLYFOX](https://www.ravereviewz.net/Event/S-A-S-H---SLYFOX---Mihai-Popoviciu-Enmore-Marrickville---NSW/160), here's our interview with one of Eastern Europe's finest artists, [**Mihai Popovicic**](https://www.facebook.com/mihaipopoviciu1/)** about**
+_Setting off his Australia trip nicely with an intimate set at _[_SLYFOX_](https://www.ravereviewz.net/Event/S-A-S-H---SLYFOX---Mihai-Popoviciu-Enmore-Marrickville---NSW/160)_, here's our interview with one of Eastern Europe's finest exports, _[_**Mihai Popovicic**_](https://www.facebook.com/mihaipopoviciu1/)_ about his influences, label management and his  _
 <br><br>
 
 **RR: Hey Mihai! It's been a while since you last played a gig in Australia. What can we expect from your upcoming sets?**
@@ -29,7 +29,7 @@ Mihai: Yes, time runs so fast…I can't believe six years have passed already si
 Mihai: I listen to every demo that I get at Cyclic and if I find it interesting I reply. Basically I am looking for two things in a track: first of all I have to like it and second it must be suitable for the dance floor and DJ friendly. I don't care about anything else, it doesn't matter if you are a well established artist or a newcomer.
 <br><br>
 
-**RR: What would you say you get more enjoyment out of - music production or DJing?**
+**RR: That's great to hear. What would you say you get more enjoyment out of - music production or DJing?**
 
 Mihai: I get excited about both equally, I think they go hand in hand. Imagine the joy of finishing a track that you think is good and then testing it out in front of an audience and see how it works. I love producing and doing studio work and I love traveling and playing gigs all over the world, I couldn't choose between these two.
 <br><br>
@@ -53,7 +53,7 @@ Mihai: This is a hard question, I have so many great memories from different pla
 Mihai: Yes, that was a very nice experience! I was a bit nervous about it in the beginning because I didn't know how it would go but it all worked just fine in the end. To be honest I was a bit afraid that what I would "teach" them would not be anything new for them but I was happy to find out that the feedback after the class was very positive. It looks like there is always something new to learn!
 <br><br>
 
-**RR: Finally, what else is in the pipeline for you this year?**
+**RR: We're glad it went well! Finally, what else is in the pipeline for you this year?**
 
 Mihai: I have done a lot of remixes lately, including a rework of Alice Clark's 'Rocket' for [Decay Records](https://www.facebook.com/DecayRecords/). Some of them are out already, some others will follow soon. I will also have two releases on Still Hot and True Sounds Music coming out in the next months. When it comes to gigs, this summer looks pretty busy already with a lot of festivals in the calendar in Germany, Holland, Sweden, Romania, Poland.
 <br><br>
@@ -62,4 +62,4 @@ Mihai: I have done a lot of remixes lately, including a rework of Alice Clark's 
 
 **RR: Sounds great Mihai. Enjoy your time in Australia!**
 
-_Catch Mihai's final Sydney performance at S.A.S.H. Details _[_here_](https://www.ravereviewz.net/Event/S-A-S-H-by-Night---Secret-Guest-Sydney/110)
+_Catch Mihai's final Sydney performance at S.A.S.H on sunday. Details _[_here_](https://www.ravereviewz.net/Event/S-A-S-H-by-Night---Secret-Guest-Sydney/110)
