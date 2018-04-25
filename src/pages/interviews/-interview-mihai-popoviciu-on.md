@@ -7,7 +7,7 @@ description: >-
   Our chat with Romanian legend [Mihai
   Popoviciu](https://www.facebook.com/mihaipopoviciu1/) in the midst of his
   Australian tour.......
-featuredImage: /img/_w7a2800.jpg
+featuredImage: /img/_w7a2922.jpg
 ---
 **RR:** Hey Mihai! It's been a while since you last played a gig in Australia. What can we expect from your upcoming sets?
 
