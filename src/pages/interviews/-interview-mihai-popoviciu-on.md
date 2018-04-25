@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/mihai-popoviciu
-title: MIHAI POPOVICIU on....
+title: MIHAI POPOVICIU on managing his label and career
 date: 2018-04-25T16:02:38.000Z
 description: Our chat with the Romanian DJ/Producer in the midst of his Australian tour...
 featuredImage: /img/_w7a2922.jpg
