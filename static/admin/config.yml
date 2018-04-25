@@ -22,11 +22,11 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
-  - name: "reviews"
-    label: "Reviews"
-    folder: "src/pages/reviews"
+  - name: "features"
+    label: "Features"
+    folder: "src/pages/features"
     create: true
-    slug: "/review/{{slug}}"
+    slug: "/feature/{{slug}}"
     editor:
       preview: false
     fields:
@@ -37,18 +37,18 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
-  - name: "community"
-    label: "Community"
-    folder: "src/pages/community"
-    create: true
-    slug: "/community/{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Featured Image", name: "featuredImage", widget: "image"}
-      - {label: "Link", name: "link", widget: "string"}
+  # - name: "community"
+  #   label: "Community"
+  #   folder: "src/pages/community"
+  #   create: true
+  #   slug: "/community/{{slug}}"
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "community-post"}
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Featured Image", name: "featuredImage", widget: "image"}
+  #     - {label: "Link", name: "link", widget: "string"}
   - name: "podcasts"
     label: "Podcasts"
     folder: "src/pages/podcasts"
@@ -58,6 +58,7 @@ collections:
       preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "podcasts-post"}
+      - {label: "Path", name: "path", widget: "hidden", default: "external"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
       - {label: "Link", name: "link", widget: "string"}
