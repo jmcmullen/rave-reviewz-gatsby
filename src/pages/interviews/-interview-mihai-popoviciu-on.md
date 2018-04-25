@@ -3,13 +3,10 @@ templateKey: interview-post
 path: /interview/mihai-popoviciu
 title: MIHAI POPOVICIU on....
 date: 2018-04-25T16:02:38.000Z
-description: >-
-  Our chat with the Romanian DJ/Producer [Mihai
-  Popoviciu](https://www.facebook.com/mihaipopoviciu1/) in the midst of his
-  Australian tour.......
+description: Our chat with the Romanian DJ/Producer in the midst of his Australian tour...
 featuredImage: /img/_w7a2922.jpg
 ---
-Setting off his Australia trip nicely with an intimate set at [SLYFOX](https://www.ravereviewz.net/Event/S-A-S-H---SLYFOX---Mihai-Popoviciu-Enmore-Marrickville---NSW/160), here's our interview with Romanian weapon and Cyclic records founder, [**Mihai Popovicic**](https://www.facebook.com/mihaipopoviciu1/)...
+Setting off his Australia trip nicely with an intimate set at [SLYFOX](https://www.ravereviewz.net/Event/S-A-S-H---SLYFOX---Mihai-Popoviciu-Enmore-Marrickville---NSW/160), here's our interview with one of Eastern Europe's finest artists, [**Mihai Popovicic**](https://www.facebook.com/mihaipopoviciu1/)** about**
 
 **RR: Hey Mihai! It's been a while since you last played a gig in Australia. What can we expect from your upcoming sets?**
 
