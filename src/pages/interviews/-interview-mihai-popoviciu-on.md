@@ -9,6 +9,8 @@ description: >-
   Australian tour.......
 featuredImage: /img/_w7a2922.jpg
 ---
+Setting off his Australia trip with last night's set at SLYFOX, here's out chat with Romanian weapon and Cyclic redords founder, Mihai 
+
 **RR: Hey Mihai! It's been a while since you last played a gig in Australia. What can we expect from your upcoming sets?**
 
 Mihai: Hey guys! Thank you for this interview! Last time I was in Australia was two years ago. I was looking forward to being back here because I have a great time every time I come. There is a lot of new music from myself and others that I will play during my stay here.
