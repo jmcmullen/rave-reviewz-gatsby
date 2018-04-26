@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
-path: /interview/mihai-popoviciu-
-title: 'MIHAI POPOVICIU on his early influences & '
+path: /interview/mihai-popoviciu-early-influences-signature-sounds
+title: MIHAI POPOVICIU on his early influences & signature sounds
 date: 2018-04-25T16:02:38.000Z
 description: Our chat with the Romanian DJ/Producer in the thick of his Australian tour...
 featuredImage: /img/_w7a2922.jpg
