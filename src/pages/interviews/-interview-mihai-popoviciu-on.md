@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
-path: /interview/mihai-popoviciu-early-influences-signature-sounds
-title: MIHAI POPOVICIU on his early influences & signature sounds
+path: /interview/mihai-popoviciu-past-influences-future-plans
+title: MIHAI POPOVICIU on his past influences & future plans
 date: 2018-04-25T16:02:38.000Z
 description: Our chat with the Romanian DJ/Producer in the thick of his Australian tour...
 featuredImage: /img/_w7a2922.jpg
@@ -16,7 +16,7 @@ Mihai: Hey guys! Thank you for this interview! Last time I was in Australia was 
 
 **RR: OK going back to the very beginning - what inspired you to pursue a career in DJing and who were your early influences?**
 
-Mihai: I  fell in love with electronic music at a young age... I was around 14, and back then I was mostly listening to German rave, techno and trance. Later I discovered Detroit Techno and that is when I started to dream about the possibility of earning a living from music. My heroes were the big Detroit techno acts, but also icons like Laurent Garnier and Sven Väth.
+Mihai: I  fell in love with electronic music at a young age... I was around 14, and back then I was mostly listening to German rave, techno and trance. Later I discovered Detroit techno and that is when I started to dream about the possibility of earning a living from music. My heroes were the big Detroit techno acts, but also icons like Laurent Garnier and Sven Väth.
 <br><br>
 
 **RR: Now [Cyclic Records](https://www.facebook.com/cyclicrecords/) has grown rapidly since 2012 - what have been the biggest challenges and highlights of running your own label?**
@@ -31,7 +31,7 @@ Mihai: I listen to every demo that I get at Cyclic and if I find it interesting 
 
 **RR: Great to hear. What would you say you get more enjoyment out of - music production or DJing?**
 
-Mihai: I get excited about both equally, I think they go hand in hand. Imagine the joy of finishing a track that you think is good and then testing it out in front of an audience and seeing how it works. I love producing and doing studio work and I love travelling and playing gigs all over the world - I couldn't choose between these two.
+Mihai: I get excited about both equally, I think they go hand in hand. Imagine the joy of finishing a track that you think is good and then testing it out in front of an audience to see how it works. I love producing and doing studio work and I love travelling and playing gigs all over the world - I couldn't choose between these two.
 <br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QRfCxqdnygE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ Mihai: This is a hard question, I have so many great memories from different pla
 
 **RR: You held your first music production masterclass in Buenos Aires recently. How did that go?**
 
-Mihai: Yes, that was a very nice experience. I was a bit nervous about it in the beginning because I didn't know how it would go but it all worked just fine in the end. To be honest I was a bit afraid that what I would "teach" them would not be anything new for them but I was happy to find out that the feedback after the class was very positive. It looks like there is always something new to learn!
+Mihai: Yes, that was a very nice experience. I was a bit nervous about it in the beginning because I didn't know how it would go, but it all worked just fine in the end. To be honest I was a bit afraid that what I would "teach" them would not be anything new for them, but I was happy to find out that the feedback after the class was very positive. It looks like there is always something new to learn!
 <br><br>
 
 **RR: Always! Finally, what else is in the pipeline for you this year?**
