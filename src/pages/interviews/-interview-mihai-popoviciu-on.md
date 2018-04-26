@@ -1,12 +1,12 @@
 ---
 templateKey: interview-post
 path: /interview/mihai-popoviciu-past-influences-future-plans
-title: MIHAI POPOVICIU on his past influences & future plans
+title: MIHAI POPOVICIU on past influences & future plans
 date: 2018-04-25T16:02:38.000Z
 description: Our chat with the Romanian DJ/Producer in the thick of his Australian tour...
 featuredImage: /img/_w7a2922.jpg
 ---
-_After igniting his trip down under with an intimate set at [SLYFOX](https://www.ravereviewz.net/Venue/Slyfox/39), we spoke to one of Eastern Europe's finest exports, [**Mihai Popoviciu**](https://www.facebook.com/mihaipopoviciu1/)... _
+_After igniting his trip down under with an intimate set at [SLYFOX](https://www.ravereviewz.net/Venue/Slyfox/39), we spoke to one of Eastern Europe's finest exports, [**Mihai Popoviciu**](https://www.facebook.com/mihaipopoviciu1/)..._
 <br><br>
 
 **RR: Hi Mihai - it's been a while since you last played a gig in Australia. What can we expect from your upcoming set?**
