@@ -19,6 +19,8 @@ Mihai: Hey guys! Thank you for this interview! Last time I was in Australia was 
 Mihai: I  fell in love with electronic music at a young age... I was around 14, and back then I was mostly listening to German rave, techno and trance. Later I discovered Detroit techno and that is when I started to dream about the possibility of earning a living from music. My heroes were the big Detroit techno acts, but also icons like Laurent Garnier and Sven Väth.
 <br><br>
 
+![](/img/mihai-popoviciu.jpg)
+
 **RR: Now [Cyclic Records](https://www.facebook.com/cyclicrecords/) has grown rapidly since 2012 - what have been the biggest challenges and highlights of running your own label?**
 
 Mihai: Yes, time runs so fast… I can't believe six years have passed since I started the label. I do everything by myself at Cyclic Records from listening to demos to posting on social media. I have learnt a lot about managing a label and I think one of the most important things about it is to create a certain signature sound for the label - an identity.
