@@ -7,6 +7,7 @@ import FacebookProvider, { Comments } from 'react-facebook';
 import Content, { HTMLContent } from '../components/Content';
 import ShareButtonsMobile from '../components/ShareButtonsMobile';
 import ShareButtonsDesktop from '../components/ShareButtonsDesktop';
+import ContinueReading from '../components/ContinueReading';
 
 export const InterviewPostTemplate = ({
   content,
@@ -16,9 +17,17 @@ export const InterviewPostTemplate = ({
   title,
   path,
   helmet,
+  prev,
+  next,
 }) => {
   const PostContent = contentComponent || Content;
   const url = `https://magazine.ravereviewz.net/${path}`;
+
+  console.log(
+    prev.frontmatter.templateKey,
+    next.frontmatter.templateKey,
+    'stuff'
+  );
 
   return (
     <section className="section interview-post">
@@ -38,6 +47,11 @@ export const InterviewPostTemplate = ({
             <FacebookProvider className="fb-comments" appId="1994812974114706">
               <Comments href={url} width="100%" />
             </FacebookProvider>
+            {/* <ContinueReading
+              prev={prev}
+              next={next}
+              templateKey={'interview-post'}
+            /> */}
           </div>
         </div>
       </div>
@@ -45,8 +59,9 @@ export const InterviewPostTemplate = ({
   );
 };
 
-export default ({ data }) => {
+export default ({ data, pathContext }) => {
   const { markdownRemark: post } = data;
+  const { next, prev } = pathContext;
   const url = `https://magazine.ravereviewz.net/${post.frontmatter.path}`;
   const meta = [
     { name: 'description', content: post.frontmatter.description },
@@ -81,6 +96,8 @@ export default ({ data }) => {
       title={post.frontmatter.title}
       featuredImage={post.frontmatter.featuredImage}
       path={post.frontmatter.path}
+      prev={prev}
+      next={next}
     />
   );
 };

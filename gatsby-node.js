@@ -9,7 +9,6 @@ exports.onCreateNode = ({
   const { frontmatter } = node;
   if (frontmatter) {
     const { featuredImage, title } = frontmatter;
-    console.log(title);
     if (featuredImage) {
       if (featuredImage.indexOf('/img') === 0) {
         frontmatter.featuredImage = path.relative(
@@ -45,14 +44,19 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       }
     }
   `).then(result => {
+    const posts = result.data.allMarkdownRemark.edges;
+
     if (result.errors) {
       console.log(`Result = `, result);
       result.errors.forEach(e => console.error(e.toString()));
       return Promise.reject(result.errors);
     }
 
-    return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    return posts.forEach(({ node }, index) => {
       const pagePath = node.frontmatter.path;
+      const prev = index === 0 ? false : posts[index - 1].node;
+      const next = index === posts.length - 1 ? false : posts[index + 1].node;
+
       if (pagePath !== 'external') {
         createPage({
           path: pagePath,
@@ -62,6 +66,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           // additional data can be passed via context
           context: {
             path: pagePath,
+            prev,
+            next,
           },
         });
       }
