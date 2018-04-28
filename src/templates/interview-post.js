@@ -23,12 +23,6 @@ export const InterviewPostTemplate = ({
   const PostContent = contentComponent || Content;
   const url = `https://magazine.ravereviewz.net/${path}`;
 
-  console.log(
-    prev.frontmatter.templateKey,
-    next.frontmatter.templateKey,
-    'stuff'
-  );
-
   return (
     <section className="section interview-post">
       {helmet || ''}
