@@ -32,9 +32,7 @@ At the time, a friend of mine owned a t-shirt printing company and another was r
 
 **Kristen:** It’s been really fun to put music out each week and Rachel and I have spent a lot of our lives on dance floors and behind DJ booths in Australia, USA and Europe so you could say we know a few too many DJs. That's probably why it took us so long to get behind the decks ourselves because there was never a shortage of DJs around to play us music to dance to. 
 
-We only ask people once other than the occasional b2b so it’s kept it pretty special for people when I think it’s their turn. The effort that’s gone into the podcasts people do for their Let The People Dance edition has been high quality from the very start. We’ve been so impressed by what we’ve been given to put out under the Let The People Dance name!
-
-Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really special for me. My first music industry job outside of nightclubs was with Pulse Radio and Finely Tuned Agency and I remember being so inspired by Gabby… her music taste and that she was also a dancer and designer. Girl got skills! I’d put her mixes on constantly in the office until the guys finally took notice, booked, and then signed her. She’s still my favourite and such an inspiration to me.
+The effort that’s gone into the podcasts people do for their Let The People Dance edition has been high quality from the very start. Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really special for me. My first music industry job outside of nightclubs was with Pulse Radio and Finely Tuned Agency and I remember being so inspired by Gabby… her music taste and that she was also a dancer and designer. Girl got skills! I’d put her mixes on constantly in the office until the guys finally took notice, booked, and then signed her. She’s still my favourite and such an inspiration to me.
 <br><br> 
 
 **RR: So if you could get absolutely anyone to do your 200th podcast mix - who would it be?**
@@ -91,4 +89,4 @@ Challenges with any social good project is funding and finding time to organise.
 
 **RR: You have our full support here at **[**Rave Reviewz**](https://magazine.ravereviewz.net/)**. Kristen & Rachel - thank you.**
 
-_Want to know more? Check out the official Let The People Dance website _[_**here**_](www.letthepeopledance.com)
+_Want to know more? Check out the official Let The People Dance website _[**_here_**](www.letthepeopledance.com)
