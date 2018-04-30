@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/let-the-people-dance
-title: LET THE PEOPLE DANCE
+title: 'LET THE PEOPLE DANCE on helping the community and starting a movement '
 date: 2018-05-02T05:17:00.000Z
 description: '[Let The People Dance](www.letthepeopledance.com.)'
 featuredImage: /img/screen shot 2018-04-27 at 3.20.04 pm.png
@@ -12,9 +12,9 @@ _Our chat_ _with Kristen Leigh Marconi and Rachel Potter, creators of the Sydney
 
 **Kristen:** A mix of two things really… one of our best mates was dating a girl in Berlin and took a photo of her tattoo that read “Let The Children Techno”, and about the same time the lockout laws had just been passed in Sydney and there was going to be a Rally in response to it. The message of the tattoo really resonated with how a lot of us were feeling at the time and still do - we just wanted to dance. The dance floor is a place we go to catch up with friends, listen to great music, discover new music, meet new people and just dance away any stress or worries we may have. It’s an important part of our lives and brings us a lot of joy. ALL of my best friends and I met on the dance-floor!
 
-Having our dance-floors in Sydney taken away from us just didn’t make any sense to me. To me, they were always the safest, most fun and kindest place in the city. Surely the city would be better off and more peaceful with more places to dance not less. So "Let The Children Techno"… became "Let The People Dance"… As soon as I saw the words together, played around with a couple of ideas of how it could look on a shirt for the rally, I loved the name. Our logo is now that image, inspired by a record and a disco ball. Two circles together also mean unity. It’s coming together… Dancefloors are about people coming together. 
+Having our dance-floors in Sydney taken away from us just didn’t make any sense to me. To me, they were always the safest, most fun and kindest place in the city. Surely the city would be better off and more peaceful with more places to dance - not less. So "Let The Children Techno"… became "Let The People Dance"… I loved the name and thought of how it could look on a shirt for the rally. Our logo is now that image, inspired by a record and a disco ball. Two circles together also mean unity. It’s coming together… Dancefloors are about people coming together. 
 
-At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under privileged youth get a start in the creative industries at the time. So we had the tees printed and decided the profits would go to the charity and we’d collaborate and put on an electronic music workshop. So our first project began from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
+At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under privileged youth get a start in the creative industries at the time. We had the tees printed and decided the profits would go to the charity and we’d collaborate and put on an electronic music workshop. So our first project began from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
 <br><br>
 
 **RR: Quite the journey! Ok, tell us how the two of you met and what your best memory of partying together is.**
@@ -46,7 +46,7 @@ Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really 
 **Kristen:** Ok maybe by number 200 I’ll be confident enough. I’m the beginner out of us at mixing music together. I’m loving learning though. Music has been such a love of my life…wish I’d started sooner.
 <br><br> 
 
-**RR: We tune in regularly to your weekly radio show on Bondi radio too, what has that experience been like?**
+**RR: We tune in regularly to your weekly radio show on **[**Bondi Radio**](https://www.facebook.com/BondiRadio/)** too, what has that experience been like?**
 
 **Kirsten:** It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard.
 <br><br> 
@@ -63,7 +63,7 @@ Also need to shout out to a good friend who’d like to remain nameless who len
 
 **RR: We know you run some amazing music programs and workshops for young people. What have been the most challenging and rewarding aspects of those?**
 
-We would love to hold more of these. It was so rewarding hearing the feedback of how they loved it. It was a way for us to share what we love and show a different side to the scene. Showing the creative side, the back of house organisation side and career options to teens who may be interested. Everything from DJing, producing, PR, marketing and promotion, festival organising, film, and photography - there's so many different facets to the electronic music industry and opportunities for work and creative expression. That's what wanted to showcase so Electronic Music Conference and I-Manifest teaming up with us was an incredible opportunity.
+**Kristen: **We would love to hold more of these. It was so rewarding hearing the feedback of how they loved it. It was a way for us to share what we love and show a different side to the scene. Showing the creative side, the back of house organisation side and career options to teens who may be interested. Everything from DJing, producing, PR, marketing and promotion, festival organising, film, and photography - there's so many different facets to the electronic music industry and opportunities for work and creative expression. That's what wanted to showcase so Electronic Music Conference and I-Manifest teaming up with us was an incredible opportunity.
 
 !\[](/img/business of music microschool - third floor.png)
 <br>
@@ -71,14 +71,14 @@ We would love to hold more of these. It was so rewarding hearing the feedback of
 Challenges with any social good project is funding and finding time to organise. Anything where you're trying to give something quality to people who won’t be paying for it is really, really challenging as there’s a reason most events and workshops cost what they do for attendees… there’s a lot of work and costs that go into them. We found out in our early trial and error that there’s a fine line between events making money and costing you money. So adding in the desire to make extra money for social good is something most event budgets don’t even have room for. I was quite naive about this going in and agreeing to the 10K goal of the workshop costs and then making it happen as I wasn’t going to let I-Manifest or our first supporters or the kids down. We had to get creative with making it happen so we did a crowd fund, planned events with friends' brands including S.A.S.H., sold t-shirts, did a charity dinner in a nightclub and were the first to play music in the newly opened [Goodbar](https://www.facebook.com/goodbarsydney/), an art auction and more…
 <br><br>
 
-**RR: You also host fundraiser parties, such as last year's 'Dance for Freedom'. What was the motivation behind that event?**
+**RR: Wow! You also host fundraiser parties, such as last year's 'Dance for Freedom'. What was the motivation behind that event?**
 
-**Kristen:** I’m so inspired by social enterprises and the idea of business for social good. When we did the first round of tees the second thing we did was team up with I-Manifest and put some of the profits towards our workshop goal, Dance for Freedom. We teamed up with our good friends that ran Electric Gardens Festival and Pulse Radio for a pop-up live stream event and we got to pick the venue. I’d heard of the beautiful space called Freedom Hub and the work they were doing to help women and girls out of slavery situations in Australia. They help those women rebuild their lives, have their own freedom and to recover from the fears that come with being trapped and sometimes abused learning skills they need to gain employment and feel safe again. The work they’re doing there is amazing and saving lives. It really is the most stunning space too and I love turning spaces that you wouldn’t expect into parties and dance floors. The space looked great. Rachel had made these incredible dancing girl mannequins with CDs covering them that made them look like disco balls that fitted in the space so well. Having Kate Monroe and Girl Friday headline the livestream event was pretty special too. Such a fun night.
+**Kristen:** I’m so inspired by social enterprises and the idea of business for social good. When we did the first round of tees the second thing we did was team up with I-Manifest and put some of the profits towards our workshop goal, Dance for Freedom. We teamed up with our good friends that ran Electric Gardens Festival and Pulse Radio for a pop-up live stream event and we got to pick the venue. I’d heard of the beautiful space called Freedom Hub and the work they were doing to help women and girls out of slavery situations in Australia. They help those women rebuild their lives, have their own freedom and to recover from the fears that come with being trapped and sometimes abused - learning skills they need to gain employment and feel safe again. The work they’re doing there is amazing and saving lives. It really is the most stunning space too and I love turning spaces that you wouldn’t expect into parties and dance floors. Rachel had made these incredible dancing girl mannequins with CDs covering them that made them look like disco balls that fitted in the space so well. Having Kate Monroe and Girl Friday headline the livestream event was pretty special too. Such a fun night.
 <br><br> 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309916234&color=%230a0a0a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-**RR: It was a fantastic event. Now if you had to describe each other in 3 words, what would you say??**
+**RR: It was a fantastic event. Now if you had to describe each other in 3 words, what would you say?**
 
 **Both:** Can we have 5 words and a sentence and a video?? "The one on the hill”.
 
@@ -89,6 +89,6 @@ Challenges with any social good project is funding and finding time to organise.
 
 **Kristen:** It’s organically grown to be a creative agency for social good. It’s a name we bring to projects we want to support and bring to life. The podcasts will continue weekly as we’ve got so many other artists that inspire us and we want to dance to. I’m on a mission to get our clothing on more people on more dance floors and partake in more social good and music education projects. We’re potentially going to take part in producing an event series we want to bring to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) soon and Rachel is starting to tour some of her favourite artists to Sydney and Melbourne which is pretty exciting. Everything we do is about bringing people together as a community, sharing music, positivity and paying it forward in ways that make people dance.
 
-**RR: You've got our full support here at **[**Rave Reviewz**](https://magazine.ravereviewz.net/)**. Kristen & Rachel - thank you.**
+**RR: You have our full support here at **[**Rave Reviewz**](https://magazine.ravereviewz.net/)**. Kristen & Rachel - thank you.**
 
-_Want to know more? Check out the official Let The People Dance website _[**_here_**](www.letthepeopledance.com)
+_Want to know more? Check out the official Let The People Dance website _[_**here**_](www.letthepeopledance.com)
