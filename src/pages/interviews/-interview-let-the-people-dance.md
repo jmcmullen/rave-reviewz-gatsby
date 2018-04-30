@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/let-the-people-dance
-title: LET THE PEOPLE DANCE on starting a movement and helping the community
+title: LET THE PEOPLE DANCE on starting a movement and supporting the community
 date: 2018-05-02T05:17:00.000Z
 description: >-
   Our interview with the duo behind the empowering movement inspired by dance
