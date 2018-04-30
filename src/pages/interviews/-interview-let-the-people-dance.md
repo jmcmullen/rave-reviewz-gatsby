@@ -1,22 +1,20 @@
 ---
 templateKey: interview-post
 path: /interview/let-the-people-dance
-title: LET THE PEOPLE DANCE on starting a movement and supporting the community
+title: LET THE PEOPLE DANCE on starting a movement
 date: 2018-05-02T05:17:00.000Z
-description: >-
-  Our interview with the duo behind the empowering movement inspired by dance
-  music.
+description: 'Our interview with the duo behind the inspiring, socially conscious brand '
 featuredImage: /img/screen shot 2018-04-27 at 3.20.04 pm.png
 ---
-_Our chat_ _with Kristen Leigh Marconi and Rachel Potter, creators of the Sydney based movement - **Let The People Dance **about their milestone 100th podcast, mentorship program and influence on the dance music community._
+_Our chat with Kristen Leigh Marconi and Rachel Potter, creators of the Sydney based movement - **Let The People Dance **about their milestone 100th podcast, mentorship program and influence on the dance music community._
 
 **RR: Kristen, Rachel - great to chat. Let The People Dance is an established brand in Sydney's underground scene. What inspired the movement? ...And the groovy name??**
 
-**Kristen:** A mix of two things really… one of our best mates was dating a girl in Berlin and took a photo of her tattoo that read “Let The Children Techno”, and about the same time the lockout laws had just been passed in Sydney and there was going to be a Rally in response to it. The message of the tattoo really resonated with how a lot of us were feeling at the time and still do - we just wanted to dance. The dance floor is a place we go to catch up with friends, listen to great music, discover new music, meet new people and just dance away any stress or worries we may have. It’s an important part of our lives and brings us a lot of joy. ALL of my best friends and I met on the dance-floor!
+**Kristen:** A mix of two things really… one of our best mates was dating a girl in Berlin and took a photo of her tattoo that read “Let The Children Techno”, and about the same time the lockout laws had just been passed in Sydney and there was going to be a rally in response to it. The message of the tattoo really resonated with how a lot of us were feeling at the time and still do - we just wanted to dance. The dance floor is a place we go to catch up with friends, listen to great music, discover new music, meet new people and just dance away any stress or worries we may have. ALL of my best friends and I met on the dance-floor!
 
-Having our dance-floors in Sydney taken away from us just didn’t make any sense to me. To me, they were always the safest, most fun and kindest place in the city. Surely the city would be better off and more peaceful with more places to dance - not less. So "Let The Children Techno"… became "Let The People Dance"… I loved the name and thought of how it could look on a shirt for the rally. Our logo is now that image, inspired by a record and a disco ball. Two circles together also mean unity. It’s coming together… Dancefloors are about people coming together. 
+So "Let The Children Techno"… became "Let The People Dance"… I loved the name and thought of how it could look on a shirt for the rally. Our logo is now that image, inspired by a record and a disco ball. Two circles together also mean unity - dancefloors are about people coming together. 
 
-At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under privileged youth get a start in the creative industries. We had the tees printed and decided the profits would go to the charity and we’d collaborate and put on an electronic music workshop. So our first project began from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
+At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under-privileged youth get a start in the creative industries. We had the tees printed and decided the profits would go to the charity and we’d put on an electronic music workshop with them. So our first project began from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
 <br><br>
 
 **RR: Quite the journey! Ok, tell us how the two of you met and what your best memory of partying together is.**
@@ -30,7 +28,7 @@ At the time, a friend of mine owned a t-shirt printing company and another was r
 
 **RR: Congratulations on recently celebrating the release of your [100th podcast](https://soundcloud.com/let-the-people-dance)! Can you tell us what you look for when choosing artists for the series and what your favourite mixes have been?**
 
-**Rachel:** You cannot compare music to pick favourites. Each genre has its own unique sound... it's not about comparing music... it's about giving people the chance to show their talent... it's about making people smile.
+**Rachel:** You cannot compare music to pick favourites. Each genre has its own unique sound... it's about giving people the chance to show their talent and making people smile.
 
 **Kristen:** It’s been really fun to put music out each week and Rachel and I have spent a lot of our lives on dance floors and behind DJ booths in Australia, USA and Europe so you could say we know a few too many DJs. That's probably why it took us so long to get behind the decks ourselves because there was never a shortage of DJs around to play us music to dance to. 
 
@@ -45,12 +43,12 @@ Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really 
 
 **Rachel:** Hahaha or what about us? Let’s do number 200 together if Carl’s busy. I’d love to do a mix with Kristen. 
 
-**Kristen:** Ok maybe by number 200 I’ll be confident enough. I’m the beginner out of us at mixing music together. I’m loving learning though. Music has been such a love of my life…wish I’d started sooner.
+**Kristen:** Ok maybe by number 200 I’ll be confident enough! 
 <br><br> 
 
 **RR: We tune in regularly to your weekly radio show on **[**Bondi Radio**](https://www.facebook.com/BondiRadio/)** too, what has that experience been like?**
 
-**Kirsten:** It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard.
+**Kirsten:** It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard!
 <br><br> 
 
 !\[](/img/ltpd radio .png)
@@ -60,7 +58,7 @@ Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really 
 
 **Kristen:** Thanks so much. Hopefully more soon too. We still get so excited when friends send us pics of people wearing them. Finding a supplier and the styles involved a lot of trial and error and resulted in many tears when we realised our first round had the labels coming off in the wash… not a great look for an early stage business. Shout out to our amazing friend Damo Perry who helped us in the production process. I had some styles in mind and how I wanted the print to be, look and feel like on, and he really brought it to life. 
 
-Also need to shout out to a good friend who’d like to remain nameless who lent us the $ for the latest range of tees so we couldn’t have done any of what the brand has done in the last year without that. Eternally grateful.  The current range look so great and wash well too. So happy with them. We’d love to see them alongside other brands in stores. We’re currently just online and wanted to create a streetwear brand for dance music lovers.
+Also need to shout out to a good friend who’d like to remain nameless who lent us the $ for the latest range of tees so we couldn’t have done any of what the brand has done in the last year without that. Eternally grateful.  The current range look great and wash well too. So happy with them. We’d love to see them alongside other brands in stores. We’re currently just online and wanted to create a streetwear brand for dance music lovers.
 <br><br> 
 
 **RR: We know you run some amazing music programs and workshops for young people. What have been the most challenging and rewarding aspects of those?**
