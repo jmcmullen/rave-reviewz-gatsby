@@ -3,7 +3,9 @@ templateKey: interview-post
 path: /interview/let-the-people-dance
 title: LET THE PEOPLE DANCE on starting a movement and helping the community
 date: 2018-05-02T05:17:00.000Z
-description: '[Let The People Dance](www.letthepeopledance.com.)'
+description: >-
+  Our interview with the duo behind the empowering movement inspired by dance
+  music.
 featuredImage: /img/screen shot 2018-04-27 at 3.20.04 pm.png
 ---
 _Our chat_ _with Kristen Leigh Marconi and Rachel Potter, creators of the Sydney based movement - **Let The People Dance **about their milestone 100th podcast, mentorship program and influence on the dance music community._
