@@ -16,7 +16,7 @@ _Our chat_ _with Kristen Leigh Marconi and Rachel Potter, creators of the Sydney
 
 Having our dance-floors in Sydney taken away from us just didn’t make any sense to me. To me, they were always the safest, most fun and kindest place in the city. Surely the city would be better off and more peaceful with more places to dance - not less. So "Let The Children Techno"… became "Let The People Dance"… I loved the name and thought of how it could look on a shirt for the rally. Our logo is now that image, inspired by a record and a disco ball. Two circles together also mean unity. It’s coming together… Dancefloors are about people coming together. 
 
-At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under privileged youth get a start in the creative industries at the time. We had the tees printed and decided the profits would go to the charity and we’d collaborate and put on an electronic music workshop. So our first project began from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
+At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under privileged youth get a start in the creative industries. We had the tees printed and decided the profits would go to the charity and we’d collaborate and put on an electronic music workshop. So our first project began from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
 <br><br>
 
 **RR: Quite the journey! Ok, tell us how the two of you met and what your best memory of partying together is.**
