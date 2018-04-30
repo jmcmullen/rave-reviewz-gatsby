@@ -6,20 +6,18 @@ date: 2018-05-02T05:17:00.000Z
 description: '[Let The People Dance](www.letthepeopledance.com.)'
 featuredImage: /img/screen shot 2018-04-27 at 3.20.04 pm.png
 ---
-_Our chat with Kristen Leigh Marconi and Rachel Potter_
+_Our chat_ _with Kristen Leigh Marconi and Rachel Potter, creators of the Sydney based movement - **Let The People Dance **about their milestone 100th podcast, mentorship program and influence on the dance music community._
 
 **RR: Kristen, Rachel - great to chat. Let The People Dance is an established brand in Sydney's underground scene. What inspired the movement? ...And the groovy name??**
 
-**Kristen:** A mix of two things really… one of our best mates was dating a girl in Berlin and took a photo of her tattoo that read “Let The Children Techno”, and about the same time the lock out laws had just been passed in Sydney and there was going to be a Rally in response to it. The message of the tattoo really resonated with how a lot of us were feeling at the time and still do - we just wanted to dance. The dance floor is a place we go to catch up with friends, listen to great music, discover new music, meet new people and just dance away any stress or worries we may have. It’s an important part of our lives and brings us a lot of joy. ALL of my best friends and I met on the dance-floor!
+**Kristen:** A mix of two things really… one of our best mates was dating a girl in Berlin and took a photo of her tattoo that read “Let The Children Techno”, and about the same time the lockout laws had just been passed in Sydney and there was going to be a Rally in response to it. The message of the tattoo really resonated with how a lot of us were feeling at the time and still do - we just wanted to dance. The dance floor is a place we go to catch up with friends, listen to great music, discover new music, meet new people and just dance away any stress or worries we may have. It’s an important part of our lives and brings us a lot of joy. ALL of my best friends and I met on the dance-floor!
 
-Having our dance-floors in Sydney taken away from us just didn’t make any sense to me. To me, they were always the safest, most fun and kindest place in the city. Surely the city would be better off and more peaceful with more places to dance not less. So "Let The Children Techno"… became "Let The People Dance"… 
+Having our dance-floors in Sydney taken away from us just didn’t make any sense to me. To me, they were always the safest, most fun and kindest place in the city. Surely the city would be better off and more peaceful with more places to dance not less. So "Let The Children Techno"… became "Let The People Dance"… As soon as I saw the words together, played around with a couple of ideas of how it could look on a shirt for the rally, I loved the name. Our logo is now that image, inspired by a record and a disco ball. Two circles together also mean unity. It’s coming together… Dancefloors are about people coming together. 
 
-As soon as I saw the words together, played around with a couple of ideas of how it could look on a shirt for the rally, I loved the name. Our logo is now that image, inspired by a record and a disco ball. Two circles together also mean unity. It’s coming together… Dancefloors are about people coming together. 
-
-At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under privileged youth get a start in the creative industries at the time. So we had the tees printed and decided the profits would go to the charity and we’d collaborate and put on an electronic music workshop. So our first project begun… from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
+At the time, a friend of mine owned a t-shirt printing company and another was running a charity that helped under privileged youth get a start in the creative industries at the time. So we had the tees printed and decided the profits would go to the charity and we’d collaborate and put on an electronic music workshop. So our first project began from a photo of a tattoo to t-shirts to workshop - it all happened pretty fast.
 <br><br>
 
-**RR: Ok, now tell us how the two of you met and what your best memory of partying together is.**
+**RR: Quite the journey! Ok, tell us how the two of you met and what your best memory of partying together is.**
 
 **Rachel:** We met on the dance floor…the first time was at [S.A.S.H](https://www.facebook.com/sashsundays/?fref=mentions) but my favourite memory was at Return to Rio when I showed Kristen how to DJ. That was when we connected more.
 
@@ -36,7 +34,7 @@ At the time, a friend of mine owned a t-shirt printing company and another was r
 
 We only ask people once other than the occasional b2b so it’s kept it pretty special for people when I think it’s their turn. The effort that’s gone into the podcasts people do for their Let The People Dance edition has been high quality from the very start. We’ve been so impressed by what we’ve been given to put out under the Let The People Dance name!
 
-Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really special for me. My first music industry job outside of nightclubs was with Pulse Radio and Finely Tuned Agency and I remember being so inspired by Gabby…her music taste and that she was also a dancer and designer. Girl got skills! I’d put her mixes on constantly in the office until the guys finally took notice, booked, and then signed her. She’s still my favourite and such an inspiration to me.
+Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really special for me. My first music industry job outside of nightclubs was with Pulse Radio and Finely Tuned Agency and I remember being so inspired by Gabby… her music taste and that she was also a dancer and designer. Girl got skills! I’d put her mixes on constantly in the office until the guys finally took notice, booked, and then signed her. She’s still my favourite and such an inspiration to me.
 <br><br> 
 
 **RR: So if you could get absolutely anyone to do your 200th podcast mix - who would it be?**
@@ -56,11 +54,11 @@ Having [Gabby](https://www.facebook.com/iamgabbymusic/) do our 100th was really 
 !\[](/img/ltpd radio .png)
 <br>
 
-**RR: We've seen your cool apparel worn by people all over the globe and shared on your Instagram account. Tell us the process you went through when designing the tees.**
+**RR: Thanks! We've seen your cool apparel worn by people all over the globe and shared on your Instagram account. Tell us the process you went through when designing the tees.**
 
 **Kristen:** Thanks so much. Hopefully more soon too. We still get so excited when friends send us pics of people wearing them. Finding a supplier and the styles involved a lot of trial and error and resulted in many tears when we realised our first round had the labels coming off in the wash… not a great look for an early stage business. Shout out to our amazing friend Damo Perry who helped us in the production process. I had some styles in mind and how I wanted the print to be, look and feel like on, and he really brought it to life. 
 
-Also need to shout out to a good friend who’d like to remain nameless who leant us the $ for the latest range of tees so we couldn’t have done any of what the brand has done in the last year without that. Eternally grateful.  The current range look so great and wash well too. So happy with them. We’d love to see them alongside other brands in stores. We’re currently just online at [www.letthepeopledance.com](https://www.letthepeopledance.com/). We wanted to create a streetwear brand for dance music lovers.
+Also need to shout out to a good friend who’d like to remain nameless who lent us the $ for the latest range of tees so we couldn’t have done any of what the brand has done in the last year without that. Eternally grateful.  The current range look so great and wash well too. So happy with them. We’d love to see them alongside other brands in stores. We’re currently just online and wanted to create a streetwear brand for dance music lovers.
 <br><br> 
 
 **RR: We know you run some amazing music programs and workshops for young people. What have been the most challenging and rewarding aspects of those?**
@@ -80,14 +78,17 @@ Challenges with any social good project is funding and finding time to organise.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309916234&color=%230a0a0a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-**RR: Now if you had to describe each other in 3 words, what would you say??**
+**RR: It was a fantastic event. Now if you had to describe each other in 3 words, what would you say??**
 
 **Both:** Can we have 5 words and a sentence and a video?? "The one on the hill”.
 
 **Kristen:** [This video](https://youtu.be/RXMnDG3QzxE) on how to start a movement pretty much describes that … without Rachel I’d be the crazy girl dancing on the hill… with her believing in me and the project it became us and a real thing… we want everyone everywhere dancing!!
 <br><br>
 
-**RR: Finally - what do you have planned next for Let the People Dance? And where would you like to see it in the future?**
+**RR: We love that video! Finally - what do you have planned next for Let the People Dance? And where would you like to see it in the future?**
 
 **Kristen:** It’s organically grown to be a creative agency for social good. It’s a name we bring to projects we want to support and bring to life. The podcasts will continue weekly as we’ve got so many other artists that inspire us and we want to dance to. I’m on a mission to get our clothing on more people on more dance floors and partake in more social good and music education projects. We’re potentially going to take part in producing an event series we want to bring to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) soon and Rachel is starting to tour some of her favourite artists to Sydney and Melbourne which is pretty exciting. Everything we do is about bringing people together as a community, sharing music, positivity and paying it forward in ways that make people dance.
-<br><br>
+
+**RR: You've got our full support here at **[**Rave Reviewz**](https://magazine.ravereviewz.net/)**. Kristen & Rachel - thank you.**
+
+_Want to know more? Check out the official Let The People Dance website _[**_here_**](www.letthepeopledance.com)
