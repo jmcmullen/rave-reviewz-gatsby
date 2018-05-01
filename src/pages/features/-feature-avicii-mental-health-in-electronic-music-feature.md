@@ -4,11 +4,11 @@ path: /avicii-mental-health-electronic-music-feature
 title: 'Avicii & mental health in electronic music: Feature'
 date: 2018-05-01T09:00:00.000Z
 description: >-
-  Following Avicii's sad death, resident psychiatrist Kamran Ahmed discusses
-  mental health in the electronic music industry
+  Following Avicii's death, resident psychiatrist Kamran Ahmed discusses mental
+  health in the electronic music industry
 featuredImage: /img/avicii.png
 ---
-_Following the sad death of EDM superstar Avicii, [Rave Reviewz](https://magazine.ravereviewz.net)' resident psychiatrist Kamran Ahmed gives an account of the mental health challenges in the electronic music industry..._
+_Following the tragic death of EDM superstar Avicii, [Rave Reviewz](https://magazine.ravereviewz.net)' resident psychiatrist Kamran Ahmed gives an account of the mental health challenges in the electronic music industry..._
 
 The sudden and premature death of EDM superstar Avicii has sent shock waves around the world, and the news that the cause [appears to be suicide](https://www.rollingstone.com/music/news/avicii-died-from-apparent-suicide-w519578) is sadder still. Tim Bergling accomplished a great deal in his short career, including worldwide No 1 hits and Grammy nominations. Although his productions were unashamedly commercial which divided opinion, his music undeniably resonated with millions around the world. 
 <br><br>
