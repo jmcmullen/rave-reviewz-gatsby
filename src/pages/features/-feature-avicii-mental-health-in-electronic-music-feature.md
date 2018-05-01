@@ -41,7 +41,7 @@ Nu-disco artist [Aeroplane](https://magazine.ravereviewz.net/interview/aeroplane
 
 ![](/img/aeroplane.jpg)
 
-Some also explained how they deal with the pressures of their lifestyle - house music producer and DJ \[Atish](https://magazine.ravereviewz.net/interview/atish-the-rio-rooftop) \_(pictured below)\_ was making adjustments to try and cope with the toll of touring like ‘staying sober at most gigs, heavily exercising both at home and on the road, and booking shorter tours with longer breaks in-between’. While Cox explained that to cope he ‘pulls himself away from it’ and engages in activities like camping, fishing and drag-racing.
+Some also explained how they deal with the pressures of their lifestyle - house music producer and DJ [Atish](https://magazine.ravereviewz.net/interview/atish-the-rio-rooftop) _(pictured below)_ was making adjustments to try and cope with the toll of touring like ‘staying sober at most gigs, heavily exercising both at home and on the road, and booking shorter tours with longer breaks in-between’. While Cox explained that to cope he ‘pulls himself away from it’ and engages in activities like camping, fishing and drag-racing.
 
 ![](/img/atish.jpg)
 
