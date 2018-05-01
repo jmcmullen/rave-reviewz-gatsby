@@ -6,7 +6,7 @@ date: 2018-05-01T09:00:00.000Z
 description: >-
   Following Avicii's death, resident psychiatrist Kamran Ahmed discusses mental
   health in the electronic music industry
-featuredImage: /img/avicii.png
+featuredImage: /img/avicii2.png
 ---
 _Following the tragic death of EDM superstar Avicii, [Rave Reviewz](https://magazine.ravereviewz.net)' resident psychiatrist Kamran Ahmed gives an account of the mental health challenges in the electronic music industry..._
 
