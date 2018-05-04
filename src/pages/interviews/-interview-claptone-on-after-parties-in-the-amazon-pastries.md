@@ -38,7 +38,7 @@ Claptone: The mask has been with me for centuries, any recollections of life bef
 
 **RR: There are obvious parallels between you and the artist Banksy - as well as the anonymity, he is taking a more underground art form to the masses. Firstly are you a fan of his work, and secondly - do you feel it is important to balance credibility with popularity?**
 
-Claptone: [Banksy](http://www.banksy.co.uk) is obviously a great artist and someone that will be remembered for many years to come. I am a fan of most of his work, his Ballon Girl piece is a timeless beauty. Journalists, like yourself, love to speak about a dichotomy between “credibility” and popularity, like it is some over-arching, inner-struggle that every artist must break through and conquer. When in reality, it is quite simple - most artists just want to make the art that they enjoy themselves... and if others enjoy it as well, that is a massive bonus. 
+Claptone: [Banksy](http://www.banksy.co.uk) is obviously a great artist and someone that will be remembered for many years to come. I am a fan of most of his work, his Balloon Girl piece is a timeless beauty. Journalists, like yourself, love to speak about a dichotomy between “credibility” and popularity, like it is some over-arching, inner-struggle that every artist must break through and conquer. When in reality, it is quite simple - most artists just want to make the art that they enjoy themselves... and if others enjoy it as well, that is a massive bonus. 
 <br><br>
 **RR: The dance music world has been shaken by the death of [Avicii](http://www.avicii.com), and many say relentless touring schedules and certain aspects of the DJ lifestyle (such as alcohol) contributed to his death. As someone who faces similar pressures, how do you look after your own wellbeing?**
 
@@ -48,7 +48,7 @@ Claptone: Tragic moments like these should make you realise and appreciate the s
 
 **RR: Ok, if we asked you to pick one set you’ve played that really stands out in your memory, which would you choose?**
 
-Claptone: After-parties deep in the Amazonia, curating my own stage at Tomorrowland, a twelve-hour marathon on Christmas Island, an all night long 8 hour set at London’s [Fabric](https://www.fabriclondon.com), a close call somewhere on the border of North Korea, my very first 'The Masquerade' in Ibiza at Amnesia's main room... I have had many incredible moments DJing - some real some made up, it would be too hard to choose only one.
+Claptone: After-parties deep in the Amazonia, curating my own stage at Tomorrowland, a twelve-hour marathon on Christmas Island, an all night long 8 hour set at London’s [Fabric](https://www.fabriclondon.com), a close call somewhere on the border of North Korea, my very first 'The Masquerade' in Ibiza at Amnesia's main room... I have had many incredible moments DJing - some real, some made up... it would be too hard to choose only one.
 <br><br>
 **RR: And if you hadn’t been a DJ and producer, what would you have done with your life?**
 
