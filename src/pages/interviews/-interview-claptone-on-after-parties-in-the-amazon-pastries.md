@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview-claptone-after-parties-Amazon-pastries
-title: Claptone on after-parties in the Amazon & pastries
+title: Claptone on Amazonian after-parties & pastries
 date: 2018-05-04T04:12:52.856Z
 description: >-
   We caught up with the masked enigma ahead of his Masquerade tour hitting
@@ -60,4 +60,4 @@ Claptone: I humbly hope to continue working with inspiring artists, like those f
 <br><br>
 **RR: Sounds good! Thanks for the chat.**
 
-_Catch Claptone touring The Masquerade all over Australia - details [here](https://www.facebook.com/themasqueradebyclaptone/)._
+_Catch Claptone touring The Masquerade worldwide - details [here](https://www.facebook.com/themasqueradebyclaptone/)._
