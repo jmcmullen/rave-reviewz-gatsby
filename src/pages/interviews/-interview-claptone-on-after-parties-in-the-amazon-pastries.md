@@ -3,12 +3,14 @@ templateKey: interview-post
 path: /interview-claptone-after-parties-Amazon-pastries
 title: Claptone on after-parties in the Amazon & pastries
 date: 2018-05-04T04:12:52.856Z
-description: We caught up with the masked enigma ahead of his Masquerade tour hitting town
+description: >-
+  We caught up with the masked enigma ahead of his Masquerade tour hitting
+  Australia
 featuredImage: /img/claptone-1.jpg
 ---
 _The mysterious masked magician gave us the low-down on his new album, Banksy, baking and more..._
 
-**RR: [Claptone](http://claptone.com) - great to chat. We’re looking forward to The Masquerade here in Sydney, it looks quite the sensory experience. Can you describe what you have in store for us?**
+**RR: [Claptone](http://claptone.com) - great to chat. We’re looking forward to The Masquerade here in Australia, it looks quite the sensory experience. Can you describe what you have in store for us?**
 
 Claptone: A spell-binding supersonic land of desire and wonder. 
 
@@ -20,7 +22,7 @@ Claptone: When it comes to writing music, I tend to let myself be guided by the 
 <br><br>
 **RR: How is it different to your first offering - Charmer? And what, if anything, have you learnt about yourself through making this album?**
 
-Claptone: Charmer and Fantast pair quite well together, both providing brief moments to gaze beyond my golden mask. While working on 'Fantast‘ I have been so in tune with the elements and this made me feel my animalistic side even more. So the album is more vulnerable and wild - at the same time I felt more freedom to follow my instincts and dream up visions and versions of reality.
+Claptone: Charmer and Fantast pair quite well together, both providing brief moments to gaze beyond my golden mask. While working on 'Fantast' I have been so in tune with the elements and this made me feel my animalistic side even more. So the album is more vulnerable and wild - at the same time I felt more freedom to follow my instincts and dream up visions and versions of reality.
 <br><br>
 **RR: We’re digging the most recent release off it - Under The Moon, which has a soulful, melancholy flavour to it. Can you tell us what inspired the track and the creative process you went through making it?**
 
@@ -30,7 +32,7 @@ Claptone: Under the Moon is one of my favourites on the album, how I love Nathan
 <br><br>
 **RR: Nice! Now the masks you wear must bring you a sense of freedom as they conceal your identity… but they have now pretty much become your identity. So do you ever feel trapped by them, since you can’t really perform without them?**
 
-Claptone: The mask has been with me for centuries, any recollections of life before it have seemingly faded away into obscurity. Seeing fans and friends dawning their own golden masks at my concerts around the globe is quite awesome. Some things in life are timeless - orange sunsets, a great cup of coffee, long walks on the beach... I personally will never grow tired of the endless, golden ocean of masks out on the dance floor.  
+Claptone: The mask has been with me for centuries, any recollections of life before it have seemingly faded away into obscurity. Seeing fans and friends donning their own golden masks at my concerts around the globe is quite awesome. Some things in life are timeless - orange sunsets, a great cup of coffee, long walks on the beach... I personally will never grow tired of the endless, golden ocean of masks out on the dance floor.  
 
 ![null](/img/claptone-3.jpg)
 
@@ -40,22 +42,22 @@ Claptone: [Banksy](http://www.banksy.co.uk) is obviously a great artist and some
 <br><br>
 **RR: The dance music world has been shaken by the death of [Avicii](http://www.avicii.com), and many say relentless touring schedules and certain aspects of the DJ lifestyle (such as alcohol) contributed to his death. As someone who faces similar pressures, how do you look after your own wellbeing?**
 
-Claptone: Tragic moments like these should make you realize and appreciate the simple and beautiful things in DJ life that often get overlooked and buried under a massive touring and PR schedule. In the end there is pressure comparable to that of upper management when you are part of the machine and at a certain level in your career. It’s all about balance... take time off, create a good work environment and work with a reliable and well structured team.   
+Claptone: Tragic moments like these should make you realise and appreciate the simple and beautiful things in DJ life that often get overlooked and buried under a massive touring and PR schedule. In the end there is pressure comparable to that of upper management when you are part of the machine and at a certain level in your career. It’s all about balance... take time off, create a good work environment and work with a reliable and well structured team.   
 
 ![null](/img/claptone-2.png)
 
 **RR: Ok, if we asked you to pick one set you’ve played that really stands out in your memory, which would you choose?**
 
-Claptone: After-parties deep in the Amazonia, curating my own stage at Tomorrowland, a twelve-hour marathon on Christmas Island, an all night long 8 hour set at London’s [Fabric](https://www.fabriclondon.com), a close call somewhere on the border of North Korea, my very first The Masquerade in Ibiza at Amnesia's main room... I have had many incredible moments DJing - some real some made up, it would be too hard to choose only one.
+Claptone: After-parties deep in the Amazonia, curating my own stage at Tomorrowland, a twelve-hour marathon on Christmas Island, an all night long 8 hour set at London’s [Fabric](https://www.fabriclondon.com), a close call somewhere on the border of North Korea, my very first 'The Masquerade' in Ibiza at Amnesia's main moom... I have had many incredible moments DJing - some real some made up, it would be too hard to choose only one.
 <br><br>
 **RR: And if you hadn’t been a DJ and producer, what would you have done with your life?**
 
-Claptone: I have many passions besides music, the most recent of which are making pastries and baking. Sicilian cannolis, classic New York cheesecakes, kouign-amann, kabocha squash pie, tart au citron, the list goes on! I suppose that at some point I will set up shop high in the alps, serving up my favourites to kind townspeople with a sweet-tooth. Visiting the sauna is one of my other passions, see you there... 
+Claptone: I have many passions besides music, the most recent of which is making pastries and baking. Sicilian cannolis, classic New York cheesecakes, kouign-amann, kabocha squash pie, tart au citron, the list goes on! I suppose that at some point I will set up shop high in the alps, serving up my favourites to kind townspeople with a sweet-tooth. Visiting the sauna is one of my other passions, see you there... 
 <br><br>
 **RR: Finally, what do you hope to achieve most in your career?**
 
 Claptone: I humbly hope to continue working with inspiring artists, like those featured on Fantast and sharing my songs with you.
 <br><br>
-**RR: Sounds good! Thanks for the chat, catch you tonight.**
+**RR: Sounds good! Thanks for the chat.**
 
-_Catch Claptone at the Roundhouse tonight - tickets available [here](http://premier.ticketek.com.au/shows/show.aspx?sh=CLAPTONE18)._
+_Catch Claptone touring the Masquerade all over Australia - details [here](https://www.facebook.com/themasqueradebyclaptone/)._
