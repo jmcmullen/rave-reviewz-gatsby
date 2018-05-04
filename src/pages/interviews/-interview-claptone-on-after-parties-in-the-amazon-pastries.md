@@ -60,4 +60,4 @@ Claptone: I humbly hope to continue working with inspiring artists, like those f
 <br><br>
 **RR: Sounds good! Thanks for the chat.**
 
-_Catch Claptone touring The Masquerade all over Australia - details [here](https://www.facebook.com/themasqueradebyclaptone/)._
+_Catch Claptone touring The Masquerade worldwide - details [here](https://www.facebook.com/themasqueradebyclaptone/)._
