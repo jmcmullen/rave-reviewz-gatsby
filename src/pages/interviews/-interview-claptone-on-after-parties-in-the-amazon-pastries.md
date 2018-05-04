@@ -48,7 +48,7 @@ Claptone: Tragic moments like these should make you realise and appreciate the s
 
 **RR: Ok, if we asked you to pick one set you’ve played that really stands out in your memory, which would you choose?**
 
-Claptone: After-parties deep in the Amazonia, curating my own stage at Tomorrowland, a twelve-hour marathon on Christmas Island, an all night long 8 hour set at London’s [Fabric](https://www.fabriclondon.com), a close call somewhere on the border of North Korea, my very first 'The Masquerade' in Ibiza at Amnesia's main moom... I have had many incredible moments DJing - some real some made up, it would be too hard to choose only one.
+Claptone: After-parties deep in the Amazonia, curating my own stage at Tomorrowland, a twelve-hour marathon on Christmas Island, an all night long 8 hour set at London’s [Fabric](https://www.fabriclondon.com), a close call somewhere on the border of North Korea, my very first 'The Masquerade' in Ibiza at Amnesia's main room... I have had many incredible moments DJing - some real some made up, it would be too hard to choose only one.
 <br><br>
 **RR: And if you hadn’t been a DJ and producer, what would you have done with your life?**
 
