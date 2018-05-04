@@ -56,6 +56,6 @@ Claptone: I have many passions besides music, the most recent of which are makin
 
 Claptone: I humbly hope to continue working with inspiring artists, like those featured on Fantast and sharing my songs with you.
 <br><br>
-**RR: Sounds good. Thanks for the chat, catch you tonight!**
+**RR: Sounds good! Thanks for the chat, catch you tonight.**
 
 _Catch Claptone at the Roundhouse tonight - tickets available [here](http://premier.ticketek.com.au/shows/show.aspx?sh=CLAPTONE18)._
