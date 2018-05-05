@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview-claptone-after-parties-Amazon-pastries
-title: Claptone on Amazonian after-parties & pastries
+title: Claptone on Amazonian after-parties & anonymity
 date: 2018-05-04T04:12:52.856Z
 description: >-
   We caught up with the masked enigma ahead of his Masquerade tour hitting
