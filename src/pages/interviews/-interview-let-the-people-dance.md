@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/let-the-people-dance
 title: LET THE PEOPLE DANCE on starting a movement
-date: 2018-05-02T05:17:00.000Z
+date: 2018-05-09T15:17:00+10:00
 description: >-
   Our interview with the duo behind Sydney's socially-conscious electronic music
   brand 
