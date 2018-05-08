@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/let-the-people-dance
 title: LET THE PEOPLE DANCE on starting a movement
-date: 2018-05-09T15:17:00+10:00
+date: 2018-05-09T05:17:00.000Z
 description: >-
   Our interview with the duo behind Sydney's socially-conscious electronic music
   brand 
@@ -40,10 +40,11 @@ Rachel: Hahaha or what about us? Let’s do number 200 together if Carl’s busy
 
 **RR: We tune in regularly to your weekly radio show on [Bondi Radio](https://www.facebook.com/BondiRadio/) too, what has that experience been like?**
 
-**Kirsten: It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard!
+Kirsten: It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard!
 <br><br> 
 
-![](/img/ltpd radio.png)
+!\[](/img/ltpd bondi radio.png)
+<br>
 
 **RR: Thanks! We've seen your cool apparel worn by people all over the globe and shared on your Instagram account. Tell us the process you went through when designing the tees.**
 
@@ -54,7 +55,9 @@ Kristen: Thanks so much, we still get so excited when friends send us pics of pe
 
 Kristen: We would love to hold more of those, it was so rewarding hearing the feedback of how they loved it. It was a way for us to share what we love and show a different side to the scene. Showing the creative side, the back of house organisation side and career options to teens who may be interested. Everything from DJing, producing, PR, marketing and promotion, festival organising, film, and photography - there's so many different facets to the electronic music industry and opportunities for work and creative expression. That's what we wanted to showcase so Electronic Music Conference and I-Manifest teaming up with us to do it was an incredible opportunity.
 
-!\[](/img/business of music microschool - third floor.png)
+![](/img/business of music microschool - third floor.png)
+
+
 <br>
 
 Anything where you're trying to give something quality to people who won’t be paying for it is really, really challenging as there’s a lot of work and costs that go into the events and workshops. I was quite naive about this going in and agreeing to the 10K goal of the workshop costs, but I wasn’t going to let I-Manifest or our first supporters or the kids down! We had to get creative to make it happen so we did a crowd fund, planned events with friends' brands including S.A.S.H., sold t-shirts, did a charity dinner in a nightclub, an art auction and more…
@@ -74,7 +77,7 @@ Kristen: Well, [this video](https://youtu.be/RXMnDG3QzxE) on how to start a mov
 
 **RR: Haha great vid! Finally - what do you have planned next for Let the People Dance? And where would you like to see it in the future?**
 
-**Kristen:** It’s organically grown to be a creative agency for social good. The podcasts will continue weekly as we’ve got so many other artists that inspire us and we want to dance to. I’m on a mission to get our clothing on more people on more dance floors and partake in more social good and music education projects. We’re also potentially going to take part in producing an event series we want to bring to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) soon and Rachel is starting to bring some of her favourite artists to Sydney and Melbourne, which is pretty exciting. Everything we do is about bringing people together as a community, sharing music, positivity and paying it forward in ways that make people dance.
+Kristen: It’s organically grown to be a creative agency for social good. The podcasts will continue weekly as we’ve got so many other artists that inspire us and we want to dance to. I’m on a mission to get our clothing on more people on more dance floors and partake in more social good and music education projects. We’re also potentially going to take part in producing an event series we want to bring to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) soon and Rachel is starting to bring some of her favourite artists to Sydney and Melbourne, which is pretty exciting. Everything we do is about bringing people together as a community, sharing music, positivity and paying it forward in ways that make people dance.
 
 **RR: Well, you have our full support here at [Rave Reviewz](https://magazine.ravereviewz.net/). Kristen, Rachel - thank you.**
 
