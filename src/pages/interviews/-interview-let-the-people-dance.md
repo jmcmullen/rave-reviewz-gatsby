@@ -41,10 +41,8 @@ Rachel: Hahaha or what about us? Let’s do number 200 together if Carl’s busy
 **RR: We tune in regularly to your weekly radio show on [Bondi Radio](https://www.facebook.com/BondiRadio/) too, what has that experience been like?**
 
 Kirsten: It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard!
-<br><br> 
 
-![](/img/ltpd-bondi-radio.png)
-
+![null](/img/ltpd-bondi-radio.png)
 
 <br>
 
@@ -57,7 +55,7 @@ Kristen: Thanks so much, we still get so excited when friends send us pics of pe
 
 Kristen: We would love to hold more of those, it was so rewarding hearing the feedback of how they loved it. It was a way for us to share what we love and show a different side to the scene. Showing the creative side, the back of house organisation side and career options to teens who may be interested. Everything from DJing, producing, PR, marketing and promotion, festival organising, film, and photography - there's so many different facets to the electronic music industry and opportunities for work and creative expression. That's what we wanted to showcase so Electronic Music Conference and I-Manifest teaming up with us to do it was an incredible opportunity.
 
-![](/img/ltpd-business-school.png)
+![null](/img/ltpd-business-school.png)
 
 <br>
 
