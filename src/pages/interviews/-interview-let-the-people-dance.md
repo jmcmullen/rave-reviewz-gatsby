@@ -65,17 +65,17 @@ Anything where you're trying to give something quality to people who won’t be 
 Kristen: I’m so inspired by social enterprises and the idea of business for social good. When we did the first round of tees the second thing we did was team up with I-Manifest and put some of the profits towards our workshop goal, Dance for Freedom. We teamed up with our good friends that ran Electric Gardens Festival and Pulse Radio for a pop-up live stream event and we got to pick the venue. I’d heard of the beautiful space called Freedom Hub and the work they were doing to help women and girls out of slavery situations in Australia. They help those women rebuild their lives, have their own freedom and to recover from the fears that come with being trapped and sometimes abused - learning skills they need to gain employment and feel safe again. The work they’re doing there is amazing and saving lives. It really is the most stunning space too and I love turning spaces that you wouldn’t expect into dance floors. Rachel had made these incredible dancing girl mannequins with CDs covering them that made them look like disco balls that fitted in the space so well. Having Kate Monroe and Girl Friday headline the livestream event was pretty special too... such a fun night.
 <br><br> 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/279645080&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
 **RR: Now if you had to describe each other in 3 words, what would you say?**
 
-Kristen: Well, [this video](https://youtu.be/RXMnDG3QzxE) on how to start a movement pretty much describes us... without Rachel I’d be the crazy girl dancing on the hill - with her believing in me and the project it became a real thing. We want everyone everywhere dancing!
+Kristen: Well, the TED talk on how to start a movement pretty much describes us... without Rachel I’d be the crazy girl dancing on the hill - with her believing in me and the project it became a real thing. We want everyone everywhere dancing!
 <br><br>
 
 **RR: Haha great vid! Finally - what do you have planned next for Let the People Dance? And where would you like to see it in the future?**
 
 Kristen: It’s organically grown to be a creative agency for social good. The podcasts will continue weekly as we’ve got so many other artists that inspire us and we want to dance to. I’m on a mission to get our clothing on more people on more dance floors and partake in more social good and music education projects. We’re also potentially going to take part in producing an event series we want to bring to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) soon and Rachel is starting to bring some of her favourite artists to Sydney and Melbourne, which is pretty exciting. Everything we do is about bringing people together as a community, sharing music, positivity and paying it forward in ways that make people dance.
 <br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RXMnDG3QzxE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **RR: Well, you have our full support here at [Rave Reviewz](https://magazine.ravereviewz.net/). Kristen, Rachel - thank you.**
 
