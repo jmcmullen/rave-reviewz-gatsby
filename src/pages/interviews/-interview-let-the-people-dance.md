@@ -39,7 +39,7 @@ Rachel: Hahaha or what about us? Let’s do number 200 together if Carl’s busy
 
 **RR: We tune in regularly to your weekly radio show on [Bondi Radio](https://www.facebook.com/BondiRadio/) too, what has that experience been like?**
 
-Kirsten: It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard!
+Kristen: It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard!
 
 ![null](/img/ltpd-bondi-radio.png)
 
@@ -59,7 +59,7 @@ Anything where you're trying to give something quality to people who won’t be 
 
 **RR: Nice! You also host fundraiser parties, such as last year's 'Dance for Freedom'. What was the motivation behind that event?**
 
-Kristen: I’m so inspired by social enterprises and the idea of business for social good. When we did the first round of tees the second thing we did was team up with I-Manifest and put some of the profits towards our workshop goal, Dance for Freedom. We teamed up with our good friends that ran Electric Gardens Festival and Pulse Radio for a pop-up live stream event and we got to pick the venue. I’d heard of the beautiful space called Freedom Hub and the work they were doing to help women and girls out of slavery situations in Australia. They help those women rebuild their lives, have their own freedom and to recover from the fears that come with being trapped and sometimes abused - learning skills they need to gain employment and feel safe again. 
+Kristen: I’m so inspired by social enterprises and the idea of business for social good. When we did the first round of tees the second thing we did was team up with I-Manifest and put some of the profits towards our workshop goal. With 'Dance for Freedom' we teamed up with our good friends that ran Electric Gardens Festival and Pulse Radio for a pop-up live stream event and we got to pick the venue. I’d heard of the beautiful space called Freedom Hub and the work they were doing to help women and girls out of slavery situations in Australia. They help those women rebuild their lives, have their own freedom and to recover from the fears that come with being trapped and sometimes abused - learning skills they need to gain employment and feel safe again. 
 
 The work they’re doing there is amazing and saving lives. It really is the most stunning space too and I love turning spaces that you wouldn’t expect into dance floors. Rachel had made these incredible dancing girl mannequins with CDs covering them that made them look like disco balls that fitted in the space so well. Having Kate Monroe and Girl Friday headline the livestream event was pretty special too... such a fun night.
 <br> 
