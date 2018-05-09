@@ -46,7 +46,7 @@ Kirsten: It’s been really fun for us and we're really grateful for the opportu
 **RR: Thanks! We've seen your cool apparel worn by people all over the globe and shared on your Instagram account. Tell us the process you went through when designing the tees.**
 
 Kristen: Thanks so much, we still get so excited when friends send us pics of people wearing them. The logo is inspired by a record and a disco ball - two circles together also mean unity. It’s coming together, dance floors are about people coming together. Finding a supplier and the styles involved a lot of trial and error and resulted in many tears when we realised our first round had the labels coming off in the wash - not a great look for an early stage business. Shout out to our amazing friend Damo Perry who helped us in the production process, I had some styles in mind and he really brought it to life. Also need to shout out to a good friend who’d like to remain nameless who lent us the money for the latest range of tees... eternally grateful!
-<br>
+<br><br>
 
 **RR: We know you run some amazing music programmes and workshops for young people. What have been the most challenging and rewarding aspects of those?**
 
@@ -62,7 +62,7 @@ Anything where you're trying to give something quality to people who won’t be 
 Kristen: I’m so inspired by social enterprises and the idea of business for social good. When we did the first round of tees the second thing we did was team up with I-Manifest and put some of the profits towards our workshop goal, Dance for Freedom. We teamed up with our good friends that ran Electric Gardens Festival and Pulse Radio for a pop-up live stream event and we got to pick the venue. I’d heard of the beautiful space called Freedom Hub and the work they were doing to help women and girls out of slavery situations in Australia. They help those women rebuild their lives, have their own freedom and to recover from the fears that come with being trapped and sometimes abused - learning skills they need to gain employment and feel safe again. 
 
 The work they’re doing there is amazing and saving lives. It really is the most stunning space too and I love turning spaces that you wouldn’t expect into dance floors. Rachel had made these incredible dancing girl mannequins with CDs covering them that made them look like disco balls that fitted in the space so well. Having Kate Monroe and Girl Friday headline the livestream event was pretty special too... such a fun night.
-<br><br> 
+<br> 
 
 **RR: Now if you had to describe each other in 3 words, what would you say?**
 
