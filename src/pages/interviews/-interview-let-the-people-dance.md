@@ -6,7 +6,7 @@ date: 2018-05-03T05:17:00.000Z
 description: >-
   Our interview with the duo behind Sydney's socially-conscious electronic music
   brand 
-featuredImage: /img/screen shot 2018-04-27 at 3.20.04 pm.png
+featuredImage: /img/let-the-people-dance.png
 ---
 _Kristen Leigh Marconi and Rachel Potter, creators of **Let The People Dance** spoke to us about their milestone 100th podcast and all the amazing things they get up to..._
 
