@@ -4,11 +4,11 @@ path: /interview/kerry-wallace
 title: 'Kerry Wallace: S*A*S*H'
 date: 2017-11-18T05:50:58.000Z
 description: >-
-  With more scoops than a tub of Ben & Jerry's, here's our exclusive with
-  S.A.S.H founder, Kerry Wallace...
+  In the world of Sydney house techno, they don't come bigger than Kerry
+  Wallace. Here's our exclusive with the S.A.S.H founder...
 featuredImage: /img/kerry-wallace-shot.jpg
 ---
-In the world of Sydney house & techno, they don’t come bigger than [**Kerry Wallace** ](https://www.facebook.com/Kerry-Wallace-170152376404195/)- DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of Sydney’s most revered nightlife institutions, S\*A\*S*H. [Rave Reviewz'](https://magazine.ravereviewz.net/) Sean McDonald caught up with the man responsible for more Mondays taken off than anyone in history...
+[Rave Reviewz'](https://magazine.ravereviewz.net/) Sean McDonald caught up with [**Kerry Wallace**](https://www.facebook.com/Kerry-Wallace-170152376404195/)** **- DJ, part-owner of Inner West vibes-den SLYFOX, pioneer of one of Sydney’s most revered nightlife institutions, S\*A\*S*H and the man responsible for more Mondays taken off than anyone in history... Read on!
 
 **RR: Kerry, great to see you. Let’s dive straight into our favourite Sunday sesh – how did [S.A.S.H](https://www.facebook.com/sashsundays/) begin? **
 
@@ -34,7 +34,7 @@ Kerry: I’ve always said that a good party starts with a good group of friends.
 
 Kerry: Well, in London before S.A.S.H was created, my mate and I were trying to think of a name for a party on a Sunday after Egg and the old TV show M\*A\*S\*H was on. It’s got the stars in-between, and one of us said “what about S\*A\*S\*H?” And that was it, no real reason. I don’t even remember which one of us said it but that’s how it was born!
 
-**RR: Haha that’s brilliant! This Sunday, you have Germany’s [Tim Engelhardt](https://www.facebook.com/tim.engelhardt.artist/)** at Greenwood and local Sydney duo, Monkey Tennis at Home. Do you have any personal favourite DJs who you would like to bring over to play?**
+**RR: Haha that’s brilliant! This Sunday, you have Germany’s [Tim Engelhardt](https://www.facebook.com/tim.engelhardt.artist/)** at Greenwood and local Sydney duo, Monkey Tennis at Home. Do you have any personal favourite DJs who you would like to bring over to play?\*\*
 
 Kerry: Yes - [Steve Bug](https://www.facebook.com/stevebug/). He looks likely to be coming over pretty soon. [Dyed Soundorom](https://www.facebook.com/DyedSoundoromMusic/) too. I’m playing with him at [Circoloco](https://www.facebook.com/circolocoaustralia/) in January because [Apollonia](https://www.facebook.com/ApolloniaMusic/) are coming over, but I’d love to bring him back by himself because to me he’s right up there for me. 
 
