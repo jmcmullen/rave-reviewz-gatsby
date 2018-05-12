@@ -4,13 +4,13 @@ path: /interview/kerry-wallace
 title: 'Kerry Wallace: S*A*S*H'
 date: 2017-11-18T05:50:58.000Z
 description: >-
-  In the world of Sydney house techno, they don't come bigger than Kerry
-  Wallace. Here's our exclusive with the S.A.S.H founder...
+  Our interview with the man responsible for more Mondays taken off than anyone
+  in history..
 featuredImage: /img/kerry-wallace-shot.jpg
 ---
-[Rave Reviewz'](https://magazine.ravereviewz.net/) Sean McDonald caught up with [**Kerry Wallace**](https://www.facebook.com/Kerry-Wallace-170152376404195/)** **- DJ, part-owner of Inner West vibes-den SLYFOX, pioneer of one of Sydney’s most revered nightlife institutions, S\*A\*S*H and the man responsible for more Mondays taken off than anyone in history... Read on!
+In the world of Sydney house & techno, they don’t come bigger than [**Kerry Wallace** ](https://www.facebook.com/Kerry-Wallace-170152376404195/)- DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of Sydney’s most revered nightlife institutions, S\*A\*S*H. Here's his exclusive chat with [Rave Reviewz'](https://magazine.ravereviewz.net/) Sean McDonald...
 
-**RR: Kerry, great to see you. Let’s dive straight into our favourite Sunday sesh – how did [S.A.S.H](https://www.facebook.com/sashsundays/) begin? **
+**RR: Kerry, great to see you. Let’s dive straight into our favourite Sunday sesh – how did [S.A.S.H](https://www.facebook.com/sashsundays/) begin?**
 
 Kerry: It actually started in London. I moved to England when I was about 22 and lived there for 5 years. I ran a party called Pulp Sessions at [Egg](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.egglondon.co.uk%2F&h=ATO5HUgfK6ue5T3lj7fLlSN_eo9QS2CZCzrPrhbAXPpFqkbr5LDMBP-olE9un0lReZWW0xadm5xoCKpkxWiBKD2IV9Kk43NwwCxPtS7uXjeh7NKjTk89EVo3) which used to shut at midday on Sunday, then everyone would carry-on partying at the Chapel bar, which we ran for a couple of years under the S.A.S.H banner. That was S.A.S.H back in the day!
 
@@ -34,7 +34,7 @@ Kerry: I’ve always said that a good party starts with a good group of friends.
 
 Kerry: Well, in London before S.A.S.H was created, my mate and I were trying to think of a name for a party on a Sunday after Egg and the old TV show M\*A\*S\*H was on. It’s got the stars in-between, and one of us said “what about S\*A\*S\*H?” And that was it, no real reason. I don’t even remember which one of us said it but that’s how it was born!
 
-**RR: Haha that’s brilliant! This Sunday, you have Germany’s [Tim Engelhardt](https://www.facebook.com/tim.engelhardt.artist/)** at Greenwood and local Sydney duo, Monkey Tennis at Home. Do you have any personal favourite DJs who you would like to bring over to play?\*\*
+**RR: Haha that’s brilliant! This Sunday, you have Germany’s [Tim Engelhardt](https://www.facebook.com/tim.engelhardt.artist/)** **at Greenwood and local Sydney duo, Monkey Tennis at Home. Do you have any personal favourite DJs who you would like to bring over to play?\*\***
 
 Kerry: Yes - [Steve Bug](https://www.facebook.com/stevebug/). He looks likely to be coming over pretty soon. [Dyed Soundorom](https://www.facebook.com/DyedSoundoromMusic/) too. I’m playing with him at [Circoloco](https://www.facebook.com/circolocoaustralia/) in January because [Apollonia](https://www.facebook.com/ApolloniaMusic/) are coming over, but I’d love to bring him back by himself because to me he’s right up there for me. 
 
