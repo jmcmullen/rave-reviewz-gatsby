@@ -27,22 +27,22 @@ Wade: The title of the track is a tribute to the Mexican club called 'Hardpop' l
 
 **RR:** **The EP also features the funky 'Boyz n the Hood' and a Camelphat remix of the track. What was the concept behind that one?**
 
-Wade: It's more an trap house track. One friend of mine made some vocals and I realised could be good with a tech house groove. Very happy to have the remix of one of the hottest guys in game, Camelphat.
+Wade: It's more an trap house track. One friend of mine made some vocals and I realised could be good with a tech house groove. Very happy to have Camelphat do the remix - one of the hottest duos in the game.
 <br> 
 
 **RR: You've released on many other labels including Suara, Relief, Moan Recordings and Lost Records. Having seen these creative environments operate, what do you think are the key ingredients to the success of a label?**
 
-Wade: It's important to create a style in the label with few artists. I love all labels which I worked for, all of them are like a family for me.
+Wade: It's important to create a style in the label with few artists. I love all the labels I have worked for and all of them are like a family to me.
 <br> 
 
 **RR: For all the DJs and producers starting out - tell us how you stay motivated and continually push yourself to excel as an artist?**
 
-Wade: Nowadays there are too many artists in game, and it's difficult to be original with each track, so it's important to keep strong with your style, work a lot in the studio to try to be the best and never lose your humility.
+Wade: Nowadays there are so many artists and it's difficult to be original with each track. It's important to keep strong with your style, work a lot in the studio to try to be the best and never lose your humility.
 <br> 
 
 **RR:** **Now we hear you have quite the record collection. What are your thoughts on the ongoing vinyl vs digital debate? Do you have a preference?**
 
-Wade: I released some vinyl tracks, but nowdays is more easy to work in digital, most of the djs work with wav/mp3 files (tracktor or rekordbox) so I will keep playing with digital.
+Wade: I released some vinyl tracks, but nowadays is more easy to work in digital, most of the djs work with wav/mp3 files (tracktor or rekordbox) so I will keep playing with digital.
 <br>  
 
 **RR: Now - you will have heard about the unfortunate events in Georgia where the police raided nightclubs recently and in Sydney, we have the Lockout Laws which continue to damage our nightlife. It seems as though club culture is under attack in many places in the world - why do you think that is? And what do you think we should be doing about it?**
