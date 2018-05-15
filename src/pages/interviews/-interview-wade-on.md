@@ -15,32 +15,32 @@ Wade: I'm really happy to be back in Sydney. First time on the boat cruise was a
 
 **RR: Great to hear! We gather you grew up in a small town in Spain where flamenco was the dominant style of music. Did that influence you? And how would you describe your sound in your own words?**
 
-Wade:** **Yes, it's a little town where there is a lot of flamenco in the street. That helped me to understand the importance of rhythm in my tracks. The grooves in all my music is very influenced by this along with my passion for hip-hop.
+Wade: Yes, it's a little town where there is a lot of flamenco in the street. That helped me to understand the importance of rhythm in my tracks. The grooves in all my music is very influenced by this along with my passion for hip-hop.
 <br> 
 
 **RR: We're looking forward to your new EP 'Hardpop' coming out on the 18th of May. Can you talk us through the production process for the title track?**
 
-Wade:** **The title of the track is a tribute to the Mexican club called 'Hardpop' located in Ciudad Juarez. The first time I played there was one of the best gigs of my career, so this track is to say thank you to everyone who supported me there. 
+Wade: The title of the track is a tribute to the Mexican club called 'Hardpop' located in Ciudad Juarez. The first time I played there was one of the best gigs of my career, so this track is to say thank you to everyone who supported me there. 
 <br> 
 
 **RR:** **The EP also features the funky 'Boyz n the Hood' and a Camelphat remix of the track. What was the concept behind that one?**
 
-Wade:** **It's more an trap house track. One friend of mine made some vocals and I realised could be good with a tech house groove. Very happy to have the remix of one of the hottest guys in game, Camelphat.
+Wade: It's more an trap house track. One friend of mine made some vocals and I realised could be good with a tech house groove. Very happy to have the remix of one of the hottest guys in game, Camelphat.
 <br> 
 
 RR: **You've released on many other labels including Suara, Relief, Moan Recordings and Lost Records. Having seen these creative environments operate, what do you think are the key ingredients to the success of a label?**
 
-Wade:** **It's important to create a style in the label with few artists. I love all labels which I worked for, all of them are like a family for me.
+Wade: It's important to create a style in the label with few artists. I love all labels which I worked for, all of them are like a family for me.
 <br> 
 
 RR: **For all the DJs and producers starting out - tell us how you stay motivated and continually push yourself to excel as an artist?**
 
-Wade:** **Nowadays there are too many artists in game, and it's difficult to be original with each track, so it's important to keep strong with your style, work a lot in the studio to try to be the best and never lose your humility.
+Wade: Nowadays there are too many artists in game, and it's difficult to be original with each track, so it's important to keep strong with your style, work a lot in the studio to try to be the best and never lose your humility.
 <br> 
 
 RR: **Now we hear you have quite the record collection. What are your thoughts on the ongoing vinyl vs digital debate? Do you have a preference?**
 
-Wade:** **I released some vinyl tracks, but nowdays is more easy to work in digital, most of the djs work with wav/mp3 files (tracktor or rekordbox) so I will keep playing with digital.
+Wade: I released some vinyl tracks, but nowdays is more easy to work in digital, most of the djs work with wav/mp3 files (tracktor or rekordbox) so I will keep playing with digital.
 <br>  
 
 RR: **Now - you will have heard about the unfortunate events in Georgia where the police raided nightclubs recently and in Sydney, we have the Lockout Laws which continue to damage our nightlife. It seems as though club culture is under attack in many places in the world - why do you think that is? And what do you think we should be doing about it?**
@@ -50,7 +50,7 @@ Wade: It's a shame how the police could be in some places. We are free to do wha
 
 RR: **Ok, looking back over your career, what is the most memorable set you've ever played? **
 
-Wade:** **It was my all night long in Hardpop (Juarez, Mexico) last december 2017. Only I can say is, wow! By far the best event and one of the dopest club in the world.
+Wade: It was my all night long in Hardpop (Juarez, Mexico) last december 2017. Only I can say is, wow! By far the best event and one of the dopest club in the world.
 <br> 
 
 RR: **And finally, what do you have planned for the rest of the year?**
@@ -60,6 +60,6 @@ Wade: I will have a busy European summer, playing around the world, but more in 
 
 RR: **Thanks for the chat Wade!**
 
-Wade:** **Thanks for the interview and I hope to have a great Australian tour.
+Wade: Thanks for the interview and I hope to have a great Australian tour.
 
 _Catch Wade at WeLove #147 on Friday. Details here_
