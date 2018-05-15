@@ -10,20 +10,20 @@ Before unleashing his sound at Welove's #147 party, we sat down with the Spanish
 
 **RR: **[**Wade**](https://www.facebook.com/wade.sound.spain/)**, welcome back to Sydney. You were here a couple of years ago for the VIVID boat cruise, what memories do you have of that trip? And what do you have planned for us as at the Burdekin this weekend?  **
 
-Wade: I'm really happy to be back in Sydney. First time in the boat cruise was awesome, I felt like I was in an ibiza boat party! The promoters were verg good persons as well.
+Wade: I'm really happy to be back in Sydney. First time on the boat cruise was awesome, I felt like I was in an Ibiza boat party! The promoters were very good people as well/
 <br> 
 
-RR: **We gather you grew up in a small town in Spain where flamenco was the dominant style of music. Did that influence you? And how would you describe your sound in your own words?**
+**RR: Great to hear! We gather you grew up in a small town in Spain where flamenco was the dominant style of music. Did that influence you? And how would you describe your sound in your own words?**
 
-Wade:** **Yes, it's a little town where there are a lot of flamenco in the street. That helped me to understand the important of the rhythm in my tracks, the groove in all my stuffs are very influenced for this, also for my hip hop passion.
+Wade:** **Yes, it's a little town where there is a lot of flamenco in the street. That helped me to understand the importance of rhythm in my tracks. The grooves in all my music is very influenced by this along with my passion for hip-hop.
 <br> 
 
-RR: **We're looking forward to your new EP 'Hardpop' coming out on the 18th of May. Can you talk us through the production process for the title track?**
+**RR: We're looking forward to your new EP 'Hardpop' coming out on the 18th of May. Can you talk us through the production process for the title track?**
 
-Wade:** **The title of the track is a tribute to the mexican club called 'Hardpop' located in Ciudad Juarez. The first time I played there was one of the best of my career, so I wanted to say thanks to everyone who support me there with a track.
+Wade:** **The title of the track is a tribute to the Mexican club called 'Hardpop' located in Ciudad Juarez. The first time I played there was one of the best gigs of my career, so this track is to say thank you to everyone who supported me there. 
 <br> 
 
-RR: **The EP also features the funky 'Boyz n the Hood' and a Camelphat remix of the track. What was the concept behind that one?**
+**RR:** **The EP also features the funky 'Boyz n the Hood' and a Camelphat remix of the track. What was the concept behind that one?**
 
 Wade:** **It's more an trap house track. One friend of mine made some vocals and I realised could be good with a tech house groove. Very happy to have the remix of one of the hottest guys in game, Camelphat.
 <br> 
