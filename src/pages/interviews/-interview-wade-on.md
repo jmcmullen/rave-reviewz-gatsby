@@ -42,17 +42,17 @@ Wade: Nowadays there are so many artists and it's difficult to be original with 
 
 **RR:** **Now we hear you have quite the record collection. What are your thoughts on the ongoing vinyl vs digital debate? Do you have a preference?**
 
-Wade: I released some vinyl tracks, but it's much easier to work in digital. Most of the DJs work with wav & mp3 files and tracktor or rekordbox so I will stick with digital for now. 
+Wade: I released some vinyl tracks, but it's much easier to work in digital. Most DJs work with wav & mp3 files and Tracktor or Rekordbox - so I will stick with digital for now. 
 <br>  
 
 **RR: Now - you will have heard about the unfortunate events in Georgia where the police raided nightclubs recently and in Sydney, we have the Lockout Laws which continue to damage our nightlife. It seems as though club culture is under attack in many places in the world - why do you think that is? And what do you think we should be doing about it?**
 
-Wade: It's a shame how the police could invade those place. We are free to do whatever we want and no-one should close nightclubs without good reason. We can't do anything about it, just be joined and try our best to keep the club culture around the world.
+Wade: It's a shame how the police could raid those places. We are free to do whatever we want and no-one should close nightclubs without good reason. We can't do anything about it other than join together and try our best to keep the club culture alive around the world.
 <br> 
 
 **RR: Ok, looking back over your career, what is the most memorable set you've ever played? **
 
-Wade: It was my all night long in Hardpop (Juarez, Mexico) last december 2017. Only I can say is, wow! By far the best event and one of the dopest club in the world.
+Wade: It was my all night long in Hardpop (Juarez, Mexico) last December 2017. Only thing I can say is wow! By far the best event and one of the dopest clubs in the world.
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8FfHL0s_uVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
