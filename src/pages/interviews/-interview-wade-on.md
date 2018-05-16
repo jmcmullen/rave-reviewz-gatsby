@@ -4,7 +4,7 @@ path: /interview/wade-club-culture
 title: WADE on keeping club culture alive
 date: 2018-05-15T22:16:41.277Z
 description: 'Our chat with Spanish groovemaster, Wade'
-featuredImage: /img/wade 1.jpg
+featuredImage: /img/wade-1.jpg
 ---
 _Before his performance at this Friday's [WeLove event](https://www.ravereviewz.net/Event/WeLove-148-Wade-Fernando-Mesa-Darlinghurst/264) at the [Burdekin](https://www.ravereviewz.net/Venue/Burdekin-Hotel/27), we caught up with the in-demand Spanish producer about his upcoming EP, recent events in Georgia and more..._
 <br><br>
