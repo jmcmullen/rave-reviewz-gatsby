@@ -10,7 +10,7 @@ _Before Friday's WeLove party, we linked up with the Spanish producer to discuss
 
 **RR: **[**Wade**](https://www.facebook.com/wade.sound.spain/)**, welcome back to Sydney. You were here a couple of years ago for the VIVID boat cruise, what memories do you have of that trip? And what do you have planned for us as at the Burdekin this weekend?  **
 
-Wade: I'm really happy to be back in Sydney. First time was an awesome boat cruise where I felt like I was in an Ibiza boat party! The promoters were very good people as well.
+Wade: I'm really happy to be back in Sydney. First time was for an awesome boat cruise where I felt like I was on an Ibiza boat party! The promoters were very good people as well.
 <br> 
 
 **RR: Great to hear! We gather you grew up in a small town in Spain where flamenco was the dominant style of music. Did that influence you? And how would you describe your sound in your own words?**
@@ -52,7 +52,7 @@ Wade: I have released some vinyl tracks, but it's much easier to work digitally.
 Wade: It's a shame how the police could raid those places. We are free to do whatever we want and no-one should close nightclubs without good reason. We can't do anything about it other than join together and try our best to keep the club culture alive around the world.
 <br> 
 
-**RR: Ok, looking back over your career, what is the most memorable set you've ever played? **
+**RR: We're with you on that. Ok, looking back over your career, what is the most memorable set you've ever played? **
 
 Wade: It would be my all night long set in Hardpop in Juarez, Mexico last December. Only thing I can say is wow! By far the best event of my career and one of the dopest clubs in the world.
 <br>
