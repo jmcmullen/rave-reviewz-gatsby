@@ -6,7 +6,7 @@ date: 2018-05-15T22:16:41.277Z
 description: TBC
 featuredImage: /img/wade 1.jpg
 ---
-_Before Friday's WeLove party, we linked up with the Spanish producer to discuss his upcoming EP, groovy sound and more..._
+_Before Friday's _[_WeLove_](https://www.facebook.com/welovesydneyunderground/)_ party, we linked up with the Spanish producer to discuss his upcoming EP, groovy sound and more..._
 
 **RR: **[**Wade**](https://www.facebook.com/wade.sound.spain/)**, welcome back to Sydney. You were here a couple of years ago for the VIVID boat cruise, what memories do you have of that trip? And what do you have planned for us as at the Burdekin this weekend?  **
 
