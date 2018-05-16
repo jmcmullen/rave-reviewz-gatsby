@@ -70,4 +70,4 @@ Wade: I will be playing around the world but have a busy European summer ahead -
 Wade: Thanks for the interview, I hope to have a great Australian tour.
 <br><br>
 
-_Catch Wade at WeLove #147 on Friday. Details and tickets [here](https://www.ravereviewz.net/Event/WeLove-148-Wade-Fernando-Mesa-Darlinghurst/264)_
+_Catch Wade at WeLove #148 on Friday. Details and tickets [here](https://www.ravereviewz.net/Event/WeLove-148-Wade-Fernando-Mesa-Darlinghurst/264)_
