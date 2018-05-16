@@ -1,12 +1,12 @@
 ---
 templateKey: interview-post
 path: /interview/wade
-title: WADE on club culture and finding his style
+title: WADE on club culture and flamenco sound
 date: 2018-05-15T22:16:41.277Z
 description: TBC
 featuredImage: /img/wade 1.jpg
 ---
-_Before joining up with WeLove for Friday's party, we sat down with the Spanish producer to discuss his upcoming EP, groovy sound and more..._
+_Before joining up with WeLove on Friday, we sat down with the Spanish producer to discuss his upcoming EP, groovy sound and more..._
 
 **RR: **[**Wade**](https://www.facebook.com/wade.sound.spain/)**, welcome back to Sydney. You were here a couple of years ago for the VIVID boat cruise, what memories do you have of that trip? And what do you have planned for us as at the Burdekin this weekend?  **
 
