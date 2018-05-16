@@ -8,7 +8,7 @@ featuredImage: /img/wade 1.jpg
 ---
 _Before his performance at this Friday's [WeLove event](https://www.ravereviewz.net/Event/WeLove-148-Wade-Fernando-Mesa-Darlinghurst/264) at the [Burdekin](https://www.ravereviewz.net/Venue/Burdekin-Hotel/27), we caught up with the in-demand Spanish producer about his upcoming EP and more..._
 
-**RR: [Wade](https://www.facebook.com/wade.sound.spain/), welcome back to Sydney. You were here a couple of years ago for the VIVID boat cruise, what memories do you have of that trip?**
+**RR: Wade, welcome back to Sydney. You were here a couple of years ago for the VIVID boat cruise, what memories do you have of that trip?**
 
 Wade: I'm really happy to be back in Sydney. The first time was for that awesome boat cruise where I felt like I was on an Ibiza boat party! The promoters ([Summit DJs](https://www.ravereviewz.net/Promoter/Summit-DJs/239) - ed) were very good people as well.
 <br> 
