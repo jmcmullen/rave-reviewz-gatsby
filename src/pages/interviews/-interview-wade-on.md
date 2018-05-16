@@ -40,6 +40,8 @@ Wade: It's important for the label to create a style and work with the artists o
 Wade: Nowadays there are so many artists and it's difficult to be original with each track. It's important to keep strong with your style, work a lot in the studio to try to be the best and never lose your humility.
 <br> 
 
+![](/img/wade 4.jpg)
+
 **RR:** **Now we hear you have quite the record collection. What are your thoughts on the ongoing vinyl vs digital debate? Do you have a preference?**
 
 Wade: I released some vinyl tracks, but it's much easier to work digitally. Most DJs work with wav & mp3 files and Traktor or Rekordbox soI will stick with digital for now. 
