@@ -47,7 +47,7 @@ Wade: Nowadays there are so many artists and it's difficult to be original with 
 Wade: I have released some vinyl tracks, but it's much easier to work digitally. Most DJs work with wav and mp3 files, Traktor or Rekordbox... so I will stick with digital for now. 
 <br>  
 
-**RR: Now - you will have heard about the unfortunate events in Georgia where the police raided nightclubs recently and in Sydney, we have the Lockout Laws which continue to damage our nightlife. It seems as though club culture is under attack in many places in the world - why do you think that is? And what do you think we should be doing about it?**
+**RR: Now - you will have heard about the unfortunate events in Georgia where the police raided nightclubs recently and in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney), we have the Lockout Laws which continue to damage our nightlife. It seems as though club culture is under attack in many places in the world - why do you think that is? And what do you think we should be doing about it?**
 
 Wade: It's a shame how the police raided those places. We are free to do whatever we want and no one should close nightclubs without good reason. We must join together and try our best to keep club culture alive around the world.
 <br> 
