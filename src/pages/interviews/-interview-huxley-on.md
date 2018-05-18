@@ -20,14 +20,14 @@ Huxley: Well basically the label, HotBoi Records, was started by a very good fri
 
 <iframe src="https://embed.beatport.com/?id=10372797&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
  
-**RR: You also did a lethal house rework of Brett Gould's 'Late Night' on the [7Wallace](https://www.facebook.com/7Wallace/) imprint... can you talk us through the process you went through for that one?**
+\*\*RR: You also did a lethal house rework of Brett Gould's 'Late Night' on the \\[7Wallace](https://www.facebook.com/7Wallace/) imprint... can you talk us through the process you went through for that one?\*\*
 
 Huxley: I’ve been a fan of Brett for a long time. We’d been chatting a bit online then met at The Egg a few months ago. It seemed natural for me to do this for him and with the added bonus that it was on Luther, which is Idris Elba’s record label. Because of the vocal, I wanted to keep the vibe angled a bit more around a classic house sound. Housey stabs, a punchy bassline and bouncy drums… I’m happy with the outcome for sure. 
 <br>
 
 <iframe src="https://embed.beatport.com/?id=10391382&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
  
-**RR: Your label [No Ideas Original](https://www.facebook.com/NIOLabel/) releases music from a broad range of styles spanning the house & techno spectrum, whereas many labels prefer to stick to a more defined signature sound. What are your thoughts on the two approaches? And what drew you to the former?**
+\*\*RR: Your label \\[No Ideas Original](https://www.facebook.com/NIOLabel/) releases music from a broad range of styles spanning the house & techno spectrum, whereas many labels prefer to stick to a more defined signature sound. What are your thoughts on the two approaches? And what drew you to the former?\*\*
 
 Huxley: You have to do what’s right for you - each person or label is different and there’s no doubt that there are pluses and minuses for both. I didn’t really consciously pick one, I just signed the music I wanted to and that took me down the more varied path. My tastes are always all over the place. In some ways I’m sure it would be easier to digest sometimes if it was all more definable, but I just get really bored of the same thing again and again. 
 <br><br>
@@ -68,6 +68,6 @@ Huxley: It’s really healthy in the States at the moment, it’s definitely com
 Huxley: Lots and lots of stuff! The first is an EP with my friend, Skapes, on Solardo’s Sola. After that there’s loads I can’t talk about but it’s all very exciting!
 <br><br>
 
-*RR: Sounds it! Great to chat mate, thank you.**
+\*RR: Sounds it! Great to chat mate, thank you.\**
 
 _Catch Huxley in action at Chinese Laundry tomorrow, details and tickets [here](https://www.ravereviewz.net/Event/LNDRY-Afters-ft-Huxley-Bambounou-Sydney/220)_
