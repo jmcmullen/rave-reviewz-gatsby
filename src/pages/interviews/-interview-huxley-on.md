@@ -27,7 +27,7 @@ Huxley: I’ve been a fan of Brett for a long time. We’d been chatting a bit o
 
 <iframe src="https://embed.beatport.com/?id=10391382&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
  
-**RR: Your label [No Idea's Original](https://www.facebook.com/NIOLabel/) releases music from a broad range of styles spanning the house & techno spectrum, whereas many labels prefer to stick to a more defined signature sound. What are your thoughts on the two approaches? And what drew you to the former?**
+**RR: Your label [No Ideas Original](https://www.facebook.com/NIOLabel/) releases music from a broad range of styles spanning the house & techno spectrum, whereas many labels prefer to stick to a more defined signature sound. What are your thoughts on the two approaches? And what drew you to the former?**
 
 Huxley: You have to do what’s right for you - each person or label is different and there’s no doubt that there are pluses and minuses for both. I didn’t really consciously pick one, I just signed the music I wanted to and that took me down the more varied path. My tastes are always all over the place. In some ways I’m sure it would be easier to digest sometimes if it was all more definable, but I just get really bored of the same thing again and again. 
 <br><br>
@@ -51,7 +51,7 @@ Finding your own voice in anything creative is one of the most important things 
 Huxley: [Avicii’s story](https://magazine.ravereviewz.net/avicii-mental-health-electronic-music) was a very, very sad one. I actually watched the documentary a few weeks before his untimely death and you could tell he was in such a dark place when he decided to quit touring. It’s a shame to see that he was still so damaged that he couldn’t enjoy his retirement. I think the nature of the game is not good for mental health, as you mention there are many pitfalls for someone doing it full-time, but you just have to find a way to make it work for you. That isn’t as easy as it sounds though... and it’s always different for different people. For a long time I was definitely drinking too much to help with my performance anxiety and boredom and whilst traveling alone it can be very segregating. 
 <br>
 
-![](/img/huxley-2-hyte.jpg)
+![null](/img/huxley-2-hyte.jpg)
 
 **RR: Thanks for the insight Huxley. Now of all the sets you've played around the world, which one really stands out in your memory?**
 
@@ -69,6 +69,5 @@ Huxley: Lots and lots of stuff! The first is an EP with my friend, Skapes, on So
 <br><br>
 
 *RR: Sounds it! Great to chat mate, thank you.**
-
 
 _Catch Huxley in action at Chinese Laundry tomorrow, details and tickets [here](https://www.ravereviewz.net/Event/LNDRY-Afters-ft-Huxley-Bambounou-Sydney/220)_
