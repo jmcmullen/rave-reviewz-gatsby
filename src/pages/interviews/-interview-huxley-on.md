@@ -6,9 +6,9 @@ date: 2018-05-18T03:11:43.000Z
 description: 'Our interview with the versatile UK maestro, Huxley'
 featuredImage: /img/huxley-press-shot.jpg
 ---
-Ahead of his [headline set](https://www.ravereviewz.net/Event/LNDRY-Afters-ft-Huxley-Bambounou-Sydney/220) at Chinese Laundry, we caught up with Huxley for a chat about his recent releases, mental health and the state of tech house...
+_Ahead of his [headline set](https://www.ravereviewz.net/Event/LNDRY-Afters-ft-Huxley-Bambounou-Sydney/220) at Chinese Laundry, we caught up with Huxley for a chat about his recent releases, mental health and the state of tech house..._
 
-**RR: Hey Michael - welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)! The last time we saw you play was  last year at [Chinese Laundry](https://www.ravereviewz.net/Promoter/LNDRY/226), where you'll be performing again. What can we expect from you this time around?**
+**RR: Hey Michael - welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)! The last time we saw you play was last year at [Chinese Laundry](https://www.ravereviewz.net/Promoter/LNDRY/226), where you'll be performing again. What can we expect from you this time around?**
 
 Huxley: Good vibes and a wide range of styles. I like to mix it up and not keep things too linear. I’ve got loads of new music to play too so expect some exclusives! I love playing in the Laundry, the vibe in both rooms is amazing.
 
