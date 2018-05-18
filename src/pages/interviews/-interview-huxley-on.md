@@ -68,6 +68,6 @@ Huxley: It’s really healthy in the States at the moment, it’s definitely com
 Huxley: Lots and lots of stuff! The first is an EP with my friend, Skapes, on Solardo’s Sola. After that there’s loads I can’t talk about but it’s all very exciting!
 <br><br>
 
-*RR: Sounds it! Great to chat mate, thank you.**
+**RR: Sounds it! Great to chat mate, thank you.**
 
 _Catch Huxley in action at Chinese Laundry tomorrow, details and tickets [here](https://www.ravereviewz.net/Event/LNDRY-Afters-ft-Huxley-Bambounou-Sydney/220)_
