@@ -20,7 +20,7 @@ Huxley: Well basically the label, HotBoi Records, was started by a very good fri
 
 <iframe src="https://embed.beatport.com/?id=10372797&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-**RR: You also did a lethal house rework of Brett Gould's 'Late Night' on the **[**7Wallace**](https://www.facebook.com/7Wallace/)** imprint... can you talk us through the process you went through for that one?**
+**RR: You also did a lethal house rework of Brett Gould's 'Late Night' on the **[7Wallace](https://www.facebook.com/7Wallace/) imprint... can you talk us through the process you went through for that one?**
 
 Huxley: I’ve been a fan of Brett for a long time. We’d been chatting a bit online then met at The Egg a few months ago. It seemed natural for me to do this for him and with the added bonus that it was on Luther, which is Idris Elba’s record label. Because of the vocal, I wanted to keep the vibe angled a bit more around a classic house sound. Housey stabs, a punchy bassline and bouncy drums… I’m happy with the outcome for sure. 
 <br>
