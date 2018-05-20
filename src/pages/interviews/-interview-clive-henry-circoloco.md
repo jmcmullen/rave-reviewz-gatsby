@@ -6,7 +6,7 @@ date: 2018-01-03T03:41:03.000Z
 description: For a proper musical education read out our interview with DJ Clive.
 featuredImage: /img/clive-henry.jpg
 ---
-With the summer heating up and [Electric Gardens festival](https://www.facebook.com/electricgardensfestival/) just around the corner, we caught up with Circoloco resident [Clive Henry](https://www.facebook.com/clivehenrymusic/) in the run up to the main event...
+_With the summer heating up and [Electric Gardens festival](https://www.facebook.com/electricgardensfestival/) just around the corner, we caught up with Circoloco resident [Clive Henry](https://www.facebook.com/clivehenrymusic/) in the run up to the main event..._
 
 **RR:** Clive, great to chat. We're hyped to see you play at Electric Gardens festival in a few weeks. What can we expect from your set?
 
