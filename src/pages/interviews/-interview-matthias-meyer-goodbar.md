@@ -8,7 +8,7 @@ description: >-
   with world class DJ and Watergate resident Matthias Meyer.
 featuredImage: /img/matthias-meyer.jpg
 ---
-It’s been a hell of a year for German DJ/producer [Matthias Meyer](https://www.facebook.com/matthiasmeyermusic/) - and we were lucky to have him showcase his infectious brand of house in Sydney recently. We caught the Watergate favourite relaxing in Bali after his hectic Australian tour to discuss his music and adventures Down Under…
+_It’s been a hell of a year for German DJ/producer [Matthias Meyer](https://www.facebook.com/matthiasmeyermusic/) - and we were lucky to have him showcase his infectious brand of house in Sydney recently. We caught the Watergate favourite relaxing in Bali after his hectic Australian tour to discuss his music and adventures Down Under…_
 
 **RR:** Hi Matthias. You've just completed a whirlwind 5 gig tour in Australia. How was it?
 
