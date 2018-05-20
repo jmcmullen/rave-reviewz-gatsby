@@ -6,7 +6,7 @@ date: 2017-12-13T04:44:50.000Z
 description: 'Here''s our chat with Spectrum founder, Eden Worthington. '
 featuredImage: /img/eden-worthington.jpg
 ---
-_Ahead of the massive Cristoph gig this weekend, we talked to Eden Worthington – the architect of one of Sydney’s most reputable weekly parties… _[_Spektrum_](https://www.facebook.com/spektrumau/)_._
+_Ahead of the massive Cristoph gig this weekend, we talked to Eden Worthington – the architect of one of Sydney’s most reputable weekly parties… [Spektrum](https://www.facebook.com/spektrumau/)._
 
 **RR:** Spektrum has been tearing up Sydney’s house and techno scene since its conception last year. How did it all start?
 
