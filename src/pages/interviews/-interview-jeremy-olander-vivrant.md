@@ -60,4 +60,4 @@ _Recognised for his technical artistry and endearing releases, [Jeremy Olander](
 
 **RR:** Great film! See you in a few weeks!
 
-_Watch Jeremy in action on the _Rio](https://www.facebook.com/ReturnToRio/) Hangout stage at Electric Gardens on Jan 27th._
+_Watch Jeremy in action on the Rio](https://www.facebook.com/ReturnToRio/) Hangout stage at Electric Gardens on Jan 27th._
