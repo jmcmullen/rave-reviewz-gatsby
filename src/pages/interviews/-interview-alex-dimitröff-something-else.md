@@ -6,9 +6,9 @@ date: 2017-12-15T04:28:33.000Z
 description: >-
   Here's our chat with Alex Dimitröff, one of the funkiest fellas in the Sydney
   house & techno scene. 
-featuredImage: /img/alex-dimitroff.jpg
+featuredImage: /img/alex-dimitroff-crop.jpg
 ---
-For years, [Something Else](https://www.facebook.com/SomethingElseSyd/) have been putting on some of the finest parties Sydney’s underground scene has to offer. We met up with the brand’s personal Jesus - Alex Dimitröff for a chat...
+_For years, [Something Else](https://www.facebook.com/SomethingElseSyd/) have been putting on some of the finest parties Sydney’s underground scene has to offer. We met up with the brand’s personal Jesus - Alex Dimitröff for a chat..._
 
 **RR:** Alex - Your [Something Else](https://www.facebook.com/SomethingElseSyd/) parties have become a firm favourite for the city’s house and techno heads. Can you tell us how it all began?
 
