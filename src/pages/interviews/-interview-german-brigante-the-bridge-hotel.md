@@ -3,12 +3,12 @@ templateKey: interview-post
 path: /interview/german-brigante-bridge-hotel
 title: ' German Brigante @ The Bridge Hotel'
 date: 2018-02-23T13:17:59.000Z
-description: >
-  German by name, Spanish by nationality and super-talented by all accounts -
-  German Brigante takes to the stage at the Bridge Hotel tonight. Here’s our
-  chat with the Manitox bossman and Dirtybird regular...
+description: >-
+  We dropped in on German Brigante for a chat about his successful career and
+  trip to Australia...
 featuredImage: /img/german-brigante.jpg
 ---
+_German by name, Spanish by nationality and super-talented by all accounts - **German Brigante** takes to the stage at the Bridge Hotel tonight. Here’s our chat with the Manitox bossman and Dirtybird regular..._
 
 **RR:** German - thanks for joining us! We're hyped about your upcoming gig at the Bridge. What can we expect from your set?
 
@@ -52,4 +52,4 @@ featuredImage: /img/german-brigante.jpg
 
 **RR:** Great stuff. Catch you tonight!
 
-Catch German Brigante at the [Eclipse Music Events](https://www.facebook.com/eclipsemusiceventsaus/) kick on tonight.
+_Catch German Brigante at the [Eclipse Music Events](https://www.facebook.com/eclipsemusiceventsaus/) kick on tonight._
