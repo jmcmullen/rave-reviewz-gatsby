@@ -8,9 +8,9 @@ description: >-
   read our interview with front man and resident DJ Nick.
 featuredImage: /img/nick-reverse.jpg
 ---
-Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves...
+_Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves..._
 
-**RR: **Hey Nick, happy new year! We saw you and your team smash it on New Year’s Day at [Space Ibiza on Tour](https://www.facebook.com/events/163826680868206/). How was the experience of hosting your own stage?
+**RR:** Hey Nick, happy new year! We saw you and your team smash it on New Year’s Day at [Space Ibiza on Tour](https://www.facebook.com/events/163826680868206/). How was the experience of hosting your own stage?
 
 **Nick:** Space Ibiza was just amazing this year, we had the pleasure of taking over the Chapel with [Nakadia](https://www.facebook.com/djnakadia/) closing and such amazing local support... the dancefloor was on fire the whole time!
 
@@ -28,7 +28,7 @@ Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up wi
 
 **RR:** And if you could bring down anyone for a WeLove party, who would you choose?
 
-Nick: There are so many good artists. We’re working on a few… let's keep it a secret for the moment haha.
+**Nick:** There are so many good artists. We’re working on a few… let's keep it a secret for the moment haha.
 
 **RR:** Fair enough! Let’s talk about your own music career – how did you get into DJing? 
 
@@ -46,10 +46,10 @@ Nick: There are so many good artists. We’re working on a few… let's keep it 
 
 **Nick:** You guys should definitely check out our next release from Javi Bora, which is out very soon!
 
-**RR: **Will do… and finally, what’s your new year’s resolution??
+**RR:** Will do… and finally, what’s your new year’s resolution??
 
 **Nick:** We have a big vision for WeLove in 2018 with many surprises and collaborations… we had a great start to the year at Space Ibiza plus our first takeover at The Bridge Hotel. This year is going to be unreal…
 
 **RR:** Look forward to seeing it all take shape. Thanks for the chat mate!
 
-You can catch Javi Bora destroying the Burdekin at WeLove this Friday, more info [here](https://www.facebook.com/events/379405932506439/).
+_You can catch Javi Bora destroying the Burdekin at WeLove this Friday, more info [here](https://www.facebook.com/events/379405932506439/)._
