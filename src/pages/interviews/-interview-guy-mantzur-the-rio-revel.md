@@ -4,11 +4,12 @@ path: /interview/guy-mantzur-rio-revel
 title: Guy Mantzur @ The Rio Revel
 date: 2018-02-06T07:09:35.000Z
 description: >-
-  One of the most recognised names in dance music, Guy Mantzur joined us for a
-  chat about his golden career and Saturday’s party with the Return to Rio
-  family. 
+  Our chat with the Plattenbank records boss before his gig alongside Hernan
+  Cattaneo...
 featuredImage: /img/guy-mantzur.jpg
 ---
+_One of the most recognised names in dance music, **Guy Mantzur** joined us for a chat about his golden career and Saturday’s party with the Return to Rio family._
+
 **RR:** Hey Guy! Everybody is excited to see you at the Rio Revel gig - can you give us an insight into what to expect from your 3 hour set?
 
 **Guy:** Hey, I must be honest I am super excited to be coming back to Sydney. The last time I played there was one of the year’s most memorable sets. I’m planning to combine lots of new music from myself and from my label, as well as tracks I love at the moment. Playing for 3 hours really gives you the freedom to turn your set into a journey, so it’s a different experience for me and for the people too.
@@ -25,7 +26,7 @@ featuredImage: /img/guy-mantzur.jpg
 
 **Guy:** Tel Aviv and Israel in general have a really amazing blend of musicians. It originally started from Trance and then developed into House, Techno and Progressive. The local producers are super interesting and over the years they have all been able to create a unique sound that today people call the sound of Tel Aviv. Growing up here among these people makes a big difference and gave me a lot of inspiration and knowledge as a producer and musician, and helped me develop my own sound.  
 
-**RR: **Can you describe what else inspires you when making music?
+**RR:** Can you describe what else inspires you when making music?
 
 **Guy:** I can be inspired by almost everything... it can be a place I have travelled to, people I have met, a film I have seen or something I have read. Sometimes listening to other DJs play at a club can open the gates to a new world of inspiration. When I feel a lack of inspiration I go to a really special place near my old hometown. This place is in front of the huge blue sea and the air there is always fresh. I stare at this big blue ocean for a while and it always fills my soul and mind with new ideas. I have been doing it for years and it always works like magic, so I am grateful I have this special personal spot of mine.
 
