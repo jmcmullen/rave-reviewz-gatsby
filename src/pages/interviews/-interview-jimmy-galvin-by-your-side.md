@@ -3,11 +3,12 @@ templateKey: interview-post
 path: /interview/jimmy-galvin-by-your-side
 title: 'Jimmy Galvin: By Your Side'
 date: 2018-02-13T13:55:45.000Z
-description: >
-  We spoke to brand boss Jimmy Galvin before their sunset cruise this Saturday
-  with the talented Francesca Lombardo. 
+description: |
+  Our D&M chat with By Your's Side smooth operator...
 featuredImage: /img/jimmy-galvin.jpg
 ---
+_We spoke to brand boss **Jimmy Galvin** before their sunset cruise this Saturday with the talented Francesca Lombardo. _
+
 **RR:** Jimmy! Good to chat - we’re hyped for the Francesca Lombardo boat party this weekend. What do you think we can expect from her set?
 
 **Jimmy:** Thanks for having me. I think you can expect her to put a tasteful and professional show on. Anyone that’s ever watched and listened to Francesca play walks away from her sets feeling fulfilled and appreciative. In terms of her selections? I really can’t say, she’s such a versatile deejay - which makes this Saturday’s cruise so exciting.
