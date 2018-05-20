@@ -8,7 +8,6 @@ description: >-
   friendship with a certain Mr Sven Vath.
 featuredImage: /img/nakadia.jpg
 ---
-
 On her return to Thailand after a stunning Australian debut, we spoke to the talented [Nakadia](https://www.facebook.com/djnakadia/) about her global success, work ethic and friendship with a certain Mr Sven Vath...
 
 **RR:** Nakadia, great to chat to you! You played some epic gigs in Sydney recently – for [WeLove](https://www.facebook.com/welovesydneyunderground) at the Burdekin and then [Space Ibiza](https://www.facebook.com/SpaceIbizainAustralia/) at the Greenwood. How was the experience for you?
@@ -27,7 +26,7 @@ On her return to Thailand after a stunning Australian debut, we spoke to the tal
 
 **Nakadia:** In 2013 I played my first gig at [Sankeys Ibiza](https://www.facebook.com/SankeysIbiza/) and I managed to make the room go crazy. The next day was ANTS at [Ushuaia](https://www.facebook.com/ushuaiaibiza/) and a friend tried to get me in for free. We were waiting at the gate when the manager passed by and immediately recognised me as “the girl that rocked Sankeys”! Before I knew it, he’s taking me to meet Yann, the founder of Ushuaia and ANTS and I’m invited on the spot to join the ANTS family. Definitely one of the best moments of my career! The first gig they gave me was to check me out but the second night I played at peak time - for 8000 people, and live streamed on [Ibiza Sonica](https://www.facebook.com/ibizasonicaradio/). I still have goosebumps when I think of it! Unfortunately in 2016, ANTS changed and went for a full UK-booking concept. Since then I moved to the Zoo project where I am very happy. This year I will play 5 nights for the Zoo Project but I will also join [Elrow](https://www.facebook.com/elrowofficial/), which has become the biggest event in Ibiza - sold out every week, so I am super excited about that.
 
-[fb:1530904220326334]
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwelovesydneyunderground%2Fvideos%2F1530904220326334%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **RR:** So does your name Nakadia have a particular meaning?
 
