@@ -8,7 +8,7 @@ description: >-
   read our interview with front man and resident DJ Nick.
 featuredImage: /img/nick-reverse.jpg
 ---
-_Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves..._
+Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves...
 
 **RR:** Hey Nick, happy new year! We saw you and your team smash it on New Year’s Day at [Space Ibiza on Tour](https://www.facebook.com/events/163826680868206/). How was the experience of hosting your own stage?
 
@@ -28,7 +28,7 @@ _Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up w
 
 **RR:** And if you could bring down anyone for a WeLove party, who would you choose?
 
-**Nick:** There are so many good artists. We’re working on a few… let's keep it a secret for the moment haha.
+Nick: There are so many good artists. We’re working on a few… let's keep it a secret for the moment haha.
 
 **RR:** Fair enough! Let’s talk about your own music career – how did you get into DJing? 
 
@@ -52,4 +52,4 @@ _Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up w
 
 **RR:** Look forward to seeing it all take shape. Thanks for the chat mate!
 
-_You can catch Javi Bora destroying the Burdekin at WeLove this Friday, more info [here](https://www.facebook.com/events/379405932506439/)._
+You can catch Javi Bora destroying the Burdekin at WeLove this Friday, more info [here](https://www.facebook.com/events/379405932506439/).
