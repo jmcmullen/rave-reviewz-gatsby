@@ -8,7 +8,7 @@ description: >-
   Festival, here's our chat with the legendary Jeremy Olander.
 featuredImage: /img/jeremy-olander.jpg
 ---
-_Recognised for his technical artistry and endearing releases, _[_Jeremy Olander_](https://www.facebook.com/jeremyolander/)_ is a pre-eminent force on the progressive house stage. We talk to the _[_Vivrant_](https://www.facebook.com/vivrantmusic/)_ label boss, as he prepares for his performance at _[_Electric Gardens Festival_](https://www.facebook.com/electricgardensfestival/)_._
+_Recognised for his technical artistry and endearing releases, [Jeremy Olander](https://www.facebook.com/jeremyolander/) is a pre-eminent force on the progressive house stage. We talk to the [Vivran_](https://www.facebook.com/vivrantmusic/) label boss, as he prepares for his performance at [Electric Gardens Festival](https://www.facebook.com/electricgardensfestival/)._
 
 **RR:** Jeremy, great to chat to you! We're super excited that you'll be joining us for Electric Gardens festival. You've played the festival before – how was the experience last time?
 
