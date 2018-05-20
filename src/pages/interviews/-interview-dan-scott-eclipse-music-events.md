@@ -8,7 +8,7 @@ description: >-
   prepare for a big night with James Zabiela!
 featuredImage: /img/dan-scott.jpg
 ---
-_Since joining forces in 2015, Dan Bayton and Scott Rotton have brought a multitude of memorable parties to Sydney. We sat down with the co-founders of _[_Eclipse Music Events_](https://www.facebook.com/eclipsemusiceventsaus/)_, as they prepare for a big night on Saturday..._
+_Since joining forces in 2015, Dan Bayton and Scott Rotton have brought a multitude of memorable parties to Sydney. We sat down with the co-founders of [Eclipse Music Events](https://www.facebook.com/eclipsemusiceventsaus/), as they prepare for a big night on Saturday..._
 
 **RR:** Hey guys - you’re hosting an absolute titan this weekend at Manning Bar - [James Zabiela](https://www.facebook.com/jameszabiela/)! What kind of set do you think he will deliver?
 
