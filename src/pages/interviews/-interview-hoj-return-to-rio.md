@@ -2,13 +2,13 @@
 templateKey: interview-post
 path: /interview/hoj-return-to-rio
 title: Hoj @ Return to Rio
-date: 11/30/2017 4:25 PM
+date: '11/30/2017 4:25 PM'
 description: >-
   Read our chat with Hoj about good times at Return to Rio, Burning Man and
   more.
 featuredImage: /img/hoj.jpg
 ---
-Shortly after his departure from sunny Sydney, we caught up with master musicologist [Hoj](https://www.facebook.com/hoj/) for his thoughts on Return to Rio and the lowdown on his past and future shenanigans...  
+_Shortly after his departure from sunny Sydney, we caught up with master musicologist [Hoj](https://www.facebook.com/hoj/) for his thoughts on Return to Rio and the lowdown on his past and future shenanigans..._
 
 **RR:** Great to talk to you [Hoj](https://www.facebook.com/hoj/). First things first - how do we correctly pronounce your name?? 
 
