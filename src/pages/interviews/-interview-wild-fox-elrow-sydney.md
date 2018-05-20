@@ -8,8 +8,7 @@ description: >-
   direction her Compass is pointing her in ... 
 featuredImage: /img/wild-fox.jpg
 ---
-
-After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallace aka [Wild Fox](https://www.facebook.com/wildfoxdj/) to discuss her music and the direction her [Compass](https://www.facebook.com/compasseventssydney/) is pointing her in...
+_After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallace aka [Wild Fox](https://www.facebook.com/wildfoxdj/) to discuss her music and the direction her [Compass](https://www.facebook.com/compasseventssydney/) is pointing her in..._
 
 **RR:** Thanks for chatting with us Wild Fox. Congratulations on your performance at [Elrow](https://www.facebook.com/elrowofficial/)! How was the experience of playing at such an awesome party?
 
@@ -51,6 +50,6 @@ After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallac
 
 **Wild Fox:** Coming up with international headliners, I have a day party with [Alex Stein](https://www.facebook.com/events/142549763077933/), [Tell No Tales](https://www.facebook.com/events/198978780663183/) and [Marco Polo with Miguel Campbell](https://www.facebook.com/events/1517566008299205/). You can check out all my gigs listed in the event section of my [facebook](https://www.facebook.com/wildfoxdj).
 
-**RR: **Sweet! Thanks for the chat!
+**RR:** Sweet! Thanks for the chat!
 
 You can revisit Wild Fox’s set from Elrow [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mixcloud.com%2F_WildFox%2Felrow-sydney-wild-fox-live-mix%2F&h=ATNiG6EoNCaW_xEAvPb4kgB83HqnPtCUS7cXC7lAC4qrNwfoVDqM14mbJMuFAps2zCgW_Kytxs0hxuE3TdVFtGqteQF_nmCuh7zzKoqg1uXMHDFwpJypuEmU)
