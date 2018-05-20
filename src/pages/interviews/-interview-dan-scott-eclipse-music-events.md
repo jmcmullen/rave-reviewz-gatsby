@@ -4,18 +4,17 @@ path: interview/dan-scott-eclipse-music-events
 title: 'Dan & Scott: Eclipse Music Events'
 date: 2018-01-29T13:00:00.000Z
 description: >-
-  We sat down with the co-founders of Eclipse Music Events, as they prepare for
-  a big night on Saturday.
+  We grabbed a chat with the co-founders of Eclipse Music Events, as they
+  prepare for a big night with James Zabiela!
 featuredImage: /img/dan-scott.jpg
 ---
-
-Since joining forces in 2015, Dan Bayton and Scott Rotton have brought a multitude of memorable parties to Sydney. We sat down with the co-founders of [Eclipse Music Events](https://www.facebook.com/eclipsemusiceventsaus/), as they prepare for a big night on Saturday...
+_Since joining forces in 2015, Dan Bayton and Scott Rotton have brought a multitude of memorable parties to Sydney. We sat down with the co-founders of _[_Eclipse Music Events_](https://www.facebook.com/eclipsemusiceventsaus/)_, as they prepare for a big night on Saturday..._
 
 **RR:** Hey guys - you’re hosting an absolute titan this weekend at Manning Bar - [James Zabiela](https://www.facebook.com/jameszabiela/)! What kind of set do you think he will deliver?
 
 **Dan:** Thanks for having us. Yeah it's the big one this weekend and we can't wait! James is such a versatile act which is what makes him so interesting. We can expect to hear a lot of techno mixed with some electronica, and no doubt he will slip a trademark DnB rhythm in there. It's also about the visual aspect of James' set - his energy on stage is mesmerising.
 
-[fb:1973649156234444]
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Feclipsemusiceventsaus%2Fvideos%2F1973649156234444%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **RR:** OK, let's go back to the beginning - how did you start Eclipse Music Events?
 
@@ -29,7 +28,7 @@ Since joining forces in 2015, Dan Bayton and Scott Rotton have brought a multitu
 
 **Dan:** We absolutely love the Sea & Sax parties! The entire concept is all about the house and the "Ibiza vibe". We introduced a live bongo recently, which was unbelievable. Our first Sea & Sax party with a tiny 90 capacity boat was one of the best days of my life so we thought we would do another. It sold out in 45 minutes so we booked a boat 3 times the size which also sold out. We now have 13 sold out Harbour Cruises with 100% record - we can’t believe it! Our next one is yet to be released but don't worry... it's all booked in and we won't let you down!
 
-[fb:1755128684753160]
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Feclipsemusiceventsaus%2Fvideos%2F1755128684753160%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **RR:** We were big followers of your weekly [Kompression sessions](https://www.facebook.com/kompressionsessions/), where you'd showcase local talent - will the show be returning anytime soon?
 
@@ -62,5 +61,3 @@ Since joining forces in 2015, Dan Bayton and Scott Rotton have brought a multitu
 **Scott:** February is a big one. As soon as Zabiela is out the way, we are releasing another event with an international headliner and 14 local legends. We can't tell you who it is but he fits our sound perfectly and it's at The Bridge Hotel in Rozelle for a mammoth 15 hour session after [Tell No Tales](https://www.facebook.com/tellnotalesau/). February 24th - save the date!
 
 **RR:** Saved! See you guys on Saturday.
-
-Grab your tickets to see James Zabiela at Manning Bar here.
