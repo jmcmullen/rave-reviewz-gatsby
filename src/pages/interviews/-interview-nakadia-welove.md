@@ -8,7 +8,7 @@ description: >-
   friendship with a certain Mr Sven Vath.
 featuredImage: /img/nakadia.jpg
 ---
-On her return to Thailand after a stunning Australian debut, we spoke to the talented [Nakadia](https://www.facebook.com/djnakadia/) about her global success, work ethic and friendship with a certain Mr Sven Vath...
+_On her return to Thailand after a stunning Australian debut, we spoke to the talented [Nakadia](https://www.facebook.com/djnakadia/) about her global success, work ethic and friendship with a certain Mr Sven Vath..._
 
 **RR:** Nakadia, great to chat to you! You played some epic gigs in Sydney recently – for [WeLove](https://www.facebook.com/welovesydneyunderground) at the Burdekin and then [Space Ibiza](https://www.facebook.com/SpaceIbizainAustralia/) at the Greenwood. How was the experience for you?
 
