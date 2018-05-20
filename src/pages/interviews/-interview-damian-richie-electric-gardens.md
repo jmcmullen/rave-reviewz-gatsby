@@ -9,7 +9,7 @@ description: >-
   for the full story…
 featuredImage: /img/damiangelle-2.jpg
 ---
-_With the countdown to [Electric Gardens Festival](https://www.facebook.com/electricgardensfestival/) firmly under way and a monster line up to look forward to, we sat down with festival director **Damian Gelle** for the full story…_
+_With the countdown to [Electric Gardens Festival](https://www.facebook.com/electricgardensfestival/) firmly under way and a monster lineup to look forward to, _[_Rave Reviewz_](https://magazine.ravereviewz.net)_' Kamran Ahmed sat down with festival director **Damian Gelle** for the full story…_
 
 **RR:** First of all, congrats on the 2018 line-up. You’ve got some massive acts coming down, who are you looking forward to seeing the most?
 
