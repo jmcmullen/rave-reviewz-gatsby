@@ -8,8 +8,7 @@ description: >-
   second home.
 featuredImage: /img/javi-bora.jpg
 ---
-
-After adorning the NYD bill at the Greenwood Hotel’s Space Ibiza for the 5th time, [Javi Bora](https://www.facebook.com/javiboramusic/) tore his way through Australia and New Zealand this month. We spoke to the maestro about his trip and why he considers Australia his second home...
+_After adorning the NYD bill at the Greenwood Hotel’s Space Ibiza for the 5th time, [Javi Bora](https://www.facebook.com/javiboramusic/) tore his way through Australia and New Zealand this month. We spoke to the maestro about his trip and why he considers Australia his second home..._
 
 **RR:** Javi! You’ve just come off a non-stop NZ and Australian tour – how did it all go?
 
@@ -23,7 +22,7 @@ After adorning the NYD bill at the Greenwood Hotel’s Space Ibiza for the 5th t
 
 **Javi:** I think the promoters and people can answer that, haha!
 
-[fb:10156151019487474]
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbeattvofficial%2Fvideos%2F10156151019487474%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **RR:** Would it be fair to say that you’ve adopted Australia as your second home? How do you like the music scene here?
 
