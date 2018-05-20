@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/supernova-we-love
 title: Supernova @ WeLove
-date: 2018-02-16T00:38:40+11:00
+date: 2018-02-15T13:38:40.000Z
 description: >
   We had a chat with the Italian duo and stalwarts on the European underground
   scene for over a decade, Supernova in preparation for tonight’s WeLove party
@@ -32,7 +32,7 @@ _Under the moniker of [**Supernova**](https://www.facebook.com/supernovaitaly/),
 
 Supernova: There are so many good artists out there, but we have been quite lucky to collaborate with or remix many house legends from Frankie Knuckles to [DJ Pierre](https://www.facebook.com/DJPIERREACID/) and [Kerri Chandler](https://www.facebook.com/KerriChandlerOfficial/). We are now working on a collaboration with Gene Farris for our next single soon on Lapsus Music and Doc Martin.
 
-**RR: **You’ve played at many festivals and venues around the world – is there a set which really stands out in your memory?
+**RR:** You’ve played at many festivals and venues around the world – is there a set which really stands out in your memory?
 
 **Supernova:** One of the best is [Elrow](https://www.facebook.com/elrowofficial/) for sure. We’ve played for them since the very beginning around 7 years ago in Barcelona and every time we play it’s outstanding. We also loved playing in South America recently and have just experienced the [5 Senses Festival](https://www.facebook.com/5SensesFest/) in Koh Phangan and we have to say it was a great surprise!
 
@@ -50,6 +50,6 @@ Supernova: There are so many good artists out there, but we have been quite luck
 
 **Supernova:** We receive thousands of demos a week and of course it’s always difficult to have the time to check them all, but we try. It’s really important for any artist that aims to release on a specific label to keep sending demos and reminders, but at the same time if you don't get a reply, check other labels... if your music is good, someone will release it!
 
-**RR: **Sound advice! Thanks for the chat.
+**RR:** Sound advice! Thanks for the chat.
 
 _Catch Supernova at _[_WeLove #135_](https://www.facebook.com/events/349213912212877/)_ tonight at the Burdekin._
