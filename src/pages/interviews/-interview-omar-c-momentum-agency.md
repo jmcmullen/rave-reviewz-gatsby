@@ -3,12 +3,10 @@ templateKey: interview-post
 path: /interview/omar-c-momentum-agency
 title: 'Omar C: Momentum Agency'
 date: 2018-02-08T07:33:42.000Z
-description: >-
-  Before tomorrow’s event with Eric Volta, we sat down with the founder of
-  Momentum Agency, Omar C - the man bringing his European artistic touch to
-  Sydney’s party scene.
+description: Read our interview with Momentum Agency's head honcho and founder..
 featuredImage: /img/omar-c.jpg
 ---
+_Before tomorrow’s event with Eric Volta, we sat down with the founder of Momentum Agency, **Omar C** - the man bringing his European artistic touch to Sydney’s party scene._
 
 **RR:** Omar, we’re really looking forward to the Eric Volta gig. What do you think we can expect from his set?
 
@@ -53,5 +51,3 @@ staying clean and not compromising the environment. When the party stopped, a te
 **Omar:** It’s a secret haha... but good, exciting events!
 
 **RR:** Wicked! Thanks for the chat Omar.
-
-Get your tickets to Eric Volta at Goodbar here
