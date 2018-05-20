@@ -8,7 +8,7 @@ description: >-
   Festival, here's our chat with the legendary Jeremy Olander.
 featuredImage: /img/jeremy-olander.jpg
 ---
-Recognised for his technical artistry and endearing releases, J[eremy Olander](https://www.facebook.com/jeremyolander/) is a pre-eminent force on the progressive house stage. We talk to the [Vivrant](https://www.facebook.com/vivrantmusic/) label boss, as he prepares for his performance at [Electric Gardens Festival](https://www.facebook.com/electricgardensfestival/).
+_Recognised for his technical artistry and endearing releases, _[_Jeremy Olander_](https://www.facebook.com/jeremyolander/)_ is a pre-eminent force on the progressive house stage. We talk to the _[_Vivrant_](https://www.facebook.com/vivrantmusic/)_ label boss, as he prepares for his performance at _[_Electric Gardens Festival_](https://www.facebook.com/electricgardensfestival/)_._
 
 **RR:** Jeremy, great to chat to you! We're super excited that you'll be joining us for Electric Gardens festival. You've played the festival before – how was the experience last time?
 
@@ -28,7 +28,9 @@ Recognised for his technical artistry and endearing releases, J[eremy Olander](h
 
 **RR:** You’ll have to make the most of the Australian summer! Now, your recent debut on [Anjunadeep](https://www.facebook.com/anjunadeep), 'Crossed' is on heavy rotation at Rave Reviewz HQ. How did the collaboration come together?
 
-**Jeremy:** Glad you like it! I’ve been a fan of what they’ve been putting out in recent years. I think they’ve established themselves as a very interesting label with a good mix between deep house and old school progressive, so it’s definitely a fit with some of the stuff I do that’s more on the melodic tip. [Crossed](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fcrossed-original-mix%2F9949116&h=ATMgQ09FiY6LOv0mY2x4xP4IMVL0JeqImzBov6Qw8LkVEFRiTOLc-NcxCAgj53aB1wmP6EKf9audBt4jVCqhfRd4-14qTlLB_YtYRraQLvsjAZdUG5WRl8uv) has this smooth melody that builds very nicely, and [Araoz](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Faraoz-original-mix%2F9949117&h=ATOzevb6Co7IJMcN4U0JOevz_hE9xGGh97pmNbFg3fbq3IWdZ47ACuZEnVQwlTNnzSJ_gNKs3Rk8JoE8n1mwQrAAfHeUuU-J9BXWbyM-yzlwq4wc-sqEQVjX) is a bit more energetic, and it felt really good to finally debut on a label like Anjuna.
+**Jeremy:** Glad you like it! I’ve been a fan of what they’ve been putting out in recent years. I think they’ve established themselves as a very interesting label with a good mix between deep house and old school progressive, so it’s definitely a fit with some of the stuff I do that’s more on the melodic tip. [Crossed](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fcrossed-original-mix%2F9949116&h=ATMgQ09FiY6LOv0mY2x4xP4IMVL0JeqImzBov6Qw8LkVEFRiTOLc-NcxCAgj53aB1wmP6EKf9audBt4jVCqhfRd4-14qTlLB_YtYRraQLvsjAZdUG5WRl8uv) has this smooth melody that builds very nicely, and Araoz is a bit more energetic, and it felt really good to finally debut on a label like Anjuna.
+
+<iframe src="https://embed.beatport.com/?id=9949117&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 **RR:** You also operate under the techno moniker of Dhillon. Can you tell us the story behind it and how the creative process varies from producing progressive house?
 
@@ -38,7 +40,7 @@ Recognised for his technical artistry and endearing releases, J[eremy Olander](h
 
 **Jeremy:** Thank you very much! Of course. We just had [André Hommen](https://www.facebook.com/andrehommen)’s amazing EP [Abakus](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Frelease%2Fabakus-ep%2F2172666&h=ATMVrUTIJkXDprdfbuc8WregkKClj2EdZ_P1i-Ax08UtleB-RCxzczeuY1lDMpLAUIy5h7Tamtd3CHnqKcZnYV4ZBrHnGXBy1mqSvo4h4DVa_PCXofklGxkJ) in December. First thing in 2018 is a remix EP with [Marino Canal](https://www.facebook.com/MarinoCanal/), [Ejeca](https://www.facebook.com/Ejeca/) and [King Unique](https://www.facebook.com/KingUnique/). [Khen](https://www.facebook.com/khenmusicofficial/) is working on a follow-up EP and I’m working on my next EP too. Then we also have our fifth Vivrant show in Stockholm in February, so a lot of stuff going on.
 
-**RR: **A lot to look forward to! OK... of all the tracks you've made, which is your favourite?
+**RR:** A lot to look forward to! OK... of all the tracks you've made, which is your favourite?
 
 **Jeremy:** Impossible to pick one! They all have a special place for me and usually represent what I was feeling and going through at a certain time of my life. One that I really enjoy playing out at the moment is [Galheera](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fgalheera-original-mix%2F9804084&h=ATMyzTvgd7oEspKm-xk2uJTFWGLRr_Ua4DXX-9HGoile9M6sPfadpm7u8LStGrTD4QtIfA4m9GRVkGKFerW8K8BAax8jYEWRTKcStzcVVofKEPwd8bsi57n4) though.
 
@@ -58,4 +60,4 @@ Recognised for his technical artistry and endearing releases, J[eremy Olander](h
 
 **RR:** Great film! See you in a few weeks!
 
-Watch Jeremy in action on the [Rio](https://www.facebook.com/ReturnToRio/) Hangout stage at Electric Gardens on Jan 27th.
+_Watch Jeremy in action on the _[_Rio_](https://www.facebook.com/ReturnToRio/)_ Hangout stage at Electric Gardens on Jan 27th._
