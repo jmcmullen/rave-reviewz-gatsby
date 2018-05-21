@@ -28,9 +28,9 @@ A lot of DJs and producers lives and careers are cut short from substance abuse 
 
 Hosting my own favourite producer DJ - Denniz Cruz, would have had to been right up there alongside Laurent Garnier jumping up to go B2B with Pan-Pot at our 1st anniversary. The feeling of organising a whole event and everything leading up to it to is a priceless and a constant highlight. You get to stand back and watch hundreds of people absolutely loving life.
 
-There's also a financial struggle because running events is a massive challenge - people don’t see this stuff. And a lot of the consumers would rather spend $300 on a shit bag of rack for the party instead of buying a ticket.
+There's also a financial struggle because running events is a massive challenge - people don’t see this stuff and a lot of the consumers would rather spend $300 on a shit bag of rack for the party instead of buying a ticket.
 
-Not having much opportunity to regularly attend local events and network which is half the battle. Prepare yourself to lose money. At the end of the day you started all of this because you fuckin love it. Not because you’re going to make millions.
+Not having much opportunity to regularly attend local events and network is also half the battle. You need to prepare yourself to lose money because at the end of the day you started all of this because you fucking love it. Not because you’re going to make millions.
 
 We heard you have been playing at a number of these secret warehouse parties? How are these going? And when is the next one?
 
