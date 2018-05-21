@@ -8,7 +8,7 @@ description: >-
   growing brands - In Deep We Trust 
 featuredImage: /img/ludovic-2.jpeg
 ---
-[_In Deep We Trust Collective_](https://www.ravereviewz.net/Promoter/IDWT-Collective/222)_ are a growing force in the _[_Sydney_](https://www.ravereviewz.net/Events-Location/Sydney)_ scene, with a proven track record in events and a clothing label to match. We spoke to founder Ludovic about their latest venture - Collective Records, ahead of their label _[_launch party_](https://bit.ly/2JSYqvb)_._
+_[In Deep We Trust Collective](https://www.ravereviewz.net/Promoter/IDWT-Collective/222)_ are a growing force in the [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) scene, with a proven track record in events and a clothing label to match. We spoke to founder Ludovic about their latest venture - Collective Records, ahead of their label [launch party](https://bit.ly/2JSYqvb)._
 <br><br> 
 
 **RR: [Ludovic](https://www.facebook.com/KaoLudo/), good to chat. We're looking forward to the launch of your record label Collective Records tonight. Talk us through the journey you've been through to get it to this point.** 
@@ -71,6 +71,6 @@ Ludovic: Yeah I’ve got a fair bit on here... originally this was a young and s
 Ludovic: Good question! I look at myself and IDWT as the force that is literally going to keep the house and electronic music scene alive and at the same time keep it sustainable for the years to come. We all have our place in keeping this industry and beautiful movement alive. Promoting safe partying, great quality music and teaching the generations about running sustainable nights, businesses and brands for the future. My dreams are to be playing my music on a global scale, running my events on a global scale, releasing music to the masses internationally and being a key pillar for the music scene. Never forgetting where I came from and why I do it because I absolutely love music. I want to keep running events that blow people away and continue to remove stigmas and inhibition in our societies. Creating safe places for people to come as they are far from judgement, a place where people feel the love and feel welcomed. All of these things are going to be on the horizon with enough hard work... I won't stop till my heart stops.
 <br><br> 
 
-**RR: We wish you every success mate... all the best with the label.**
+**RR: We wish you every success mate, all the best with the label.**
 
-_Get down to tonight's release party for Collective Records. Details [here](https://bit.ly/2JSYqvb)_.
+_Get down to tonight's release party for Collective Records. Details [here](https://bit.ly/2JSYqvb)._
