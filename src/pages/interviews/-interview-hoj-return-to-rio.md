@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/hoj-return-to-rio
 title: Hoj @ Return to Rio
-date: '11/30/2017 4:25 PM'
+date: 2017-12-01T00:00:00+11:00
 description: >-
   Read our chat with Hoj about good times at Return to Rio, Burning Man and
   more.
