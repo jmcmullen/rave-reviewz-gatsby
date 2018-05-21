@@ -6,22 +6,24 @@ date: 2018-05-21T05:47:58.270Z
 description: >-
   Our deeply personal chat with Ludovic, the man behind one of Sydney's fastest
   growing brands - In Deep We Trust 
-featuredImage: /img/ludovic.jpg
+featuredImage: /img/ludovic-2.jpeg
 ---
-_In Deep We Trust Collective are a growing force in the Sydney scene, with a proven track record in events and a clothing label to match. We spoke to them about their latest venture - Collective Records ahead of the label launch party._
+_[In Deep We Trust Collective](https://www.ravereviewz.net/Promoter/IDWT-Collective/222)_ are a growing force in the [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) scene, with a proven track record in events and a clothing label to match. We spoke to founder Ludovic about their latest venture - Collective Records, ahead of their label [launch party](https://bit.ly/2JSYqvb)._
 <br><br> 
 
 **RR: [Ludovic](https://www.facebook.com/KaoLudo/), good to chat. We're looking forward to the launch of your record label Collective Records tonight. Talk us through the journey you've been through to get it to this point.** 
 
-Ludovic: After years of building other people’s brands, I finally had enough knowledge and years of playing under my belt where I felt comfortable enough to start creating my own. Franky Tapia gave me a shot and on the 25th of February 2017, In Deep We Trust Collective was born at Chinese Laundry. He has been a huge driver for me in my career forever grounding me when I get too carried away and providing priceless lessons about what the world of music is really like.
+Ludovic: After years of building other people’s brands, I finally had enough knowledge and years of playing under my belt where I felt comfortable enough to start creating my own. Franky Tapia gave me a shot and on the 25th of February 2017, In Deep We Trust Collective was born at [Chinese Laundry](https://www.ravereviewz.net/Venue/Chinese-Laundry/34). He has been a huge driver for me in my career forever grounding me when I get too carried away and providing priceless lessons about what the world of music is really like.
 
 I was studying full time and working 3 jobs to keep the dream alive and I finally got to a point where I was producing better than ever. I had experienced how difficult it was to get your music recognised by labels, you are literally sending tracks to labels and they aren’t even being opened. I had met Chris Arnott 6 months before, he pushed me musically like no-one had before and gave me honest, straight-up no bullshit feedback on my production which empowered me to smash on with it and before long my producing was better than ever. He has enormous amounts of experience under his belt and one day said, “why don’t we just start our own record label?" - so that’s what we did! 
 <br><br> 
 
 **RR: So what kind of artistic environment are you hoping to create with the label? And how would you describe its music policy?**
 
-Ludovic: It ranges from your deep/minimal tech to your more percussive tech house tracks with deeper basslines. So much talent goes unnoticed and slips through the cracks in the underground music scene and we want to do them justice. I wanted to create an approachable label that supports our local Australian talent from offering them feedback to releasing their music and throwing a proper release party. Kerry Wallace has given me the opportunity to run these at his beloved SLYFOX in Enmore and the lineup will consist of everyone on the remix pack, the artist who made the release, and some local supports. It's an opportunity for people to discover new talent and to sign up to all of our promos if they wish. I'd love to have amazing international talent onboard too, but we'll never forget where we came from.
+Ludovic: It ranges from your deep/minimal tech to your more percussive tech house tracks with deeper basslines. So much talent goes unnoticed and slips through the cracks in the underground music scene and we want to do them justice. I wanted to create an approachable label that supports our local Australian talent from offering them feedback to releasing their music and throwing a proper release party. Kerry Wallace has given me the opportunity to run these at his beloved [SLYFOX](https://www.ravereviewz.net/Venue/Slyfox/39) in Enmore and the lineup will consist of everyone on the remix pack, the artist who made the release, and some local supports. It's an opportunity for people to discover new talent and to sign up to all of our promos if they wish. I'd love to have amazing international talent onboard too, but we'll never forget where we came from.
 <br><br> 
+
+![](/img/idwt-collective.jpg)
 
 **RR: We like the sound of that. [In Deep We Trust Collective](https://www.facebook.com/Idwtcollective/) celebrated its first anniversary a few months ago. What have been the biggest highlights and challenges you've experienced with it so far?**
 
@@ -36,7 +38,7 @@ Ludovic: Yeah that shit has been an eye-opening experience. Such a good environm
 
 **RR: Sounds mad! Next month sees the second instalment of your event 'Cure', taking place on the inner city rooftop of the Rook. What do you have in store for us?**
 
-Ludovic: The last ‘Cure’ we held was awesome. You can expect an open-air rooftop, deep/minimal, tech house and techno tunes from 2pm till 10pm right in the heart of the city... with cool visuals and a weapon lineup. I genuinely throw parties I love to attend. Lineup includes some IDWT lads Daleh, Doctavio and myself... Compass Events' Nine One and Wild Fox, Social Bewegung leader Jermaine Jones and WeLove founder Nick Reverse. Such a beautiful thing to be able to play regularly with a number of these talented guys.
+Ludovic: The last ‘Cure’ we held was awesome. You can expect an open-air rooftop, deep/minimal, tech house and techno tunes from 2pm till 10pm right in the heart of the city... with cool visuals and a weapon lineup. I genuinely throw parties I love to attend. Lineup includes some IDWT lads Daleh, Doctavio and myself... Compass Events' Nine One and Wild Fox, [Social Bewegung](https://www.ravereviewz.net/Promoter/social-bewegung/98) leader Jermaine Jones and WeLove founder Nick Reverse. Such a beautiful thing to be able to play regularly with a number of these talented guys.
 <br><br> 
 
 **RR: We're big on mental health at [Rave Reviewz](https://magazine.ravereviewz.net/), so we were pleased to hear that the event will also be supporting the mental health charity, [Beyondblue](https://www.beyondblue.org.au/). Are mental health issues particularly important to you?**
@@ -48,9 +50,9 @@ The lives and careers of lots of DJs and producers are cut short from substance 
 
 **RR: Thanks for your honesty Ludovic. Now, IDWT also has its own [clothing line](https://www.indeepwetrustcollective.com/). What was the inspiration behind that? And who does the funky designs?**
 
-Ludovic: Funny that... the merchandise started when I was making my own shirt to play in to get brand awareness. The shirts were so unique that some people started asking me where they could get them to show support. I put up a Facebook post and before I knew it I had 140 orders in a week... I was not ready for that! I didn't have a single clue what I was doing - just keen as mustard, using the notes app on my phone to keep a track of it all and working with my mates in their backyard to make these shirts was crazy. That helped kicked things off for them and now they have their own company called Sydney Branding and Signage, which is awesome. Then I honestly was tired of going shopping and never finding anything decent or everything was so expensive to buy. So I was like, “fuck it I'm going to make my own”. We came together with a range of different artists which is why all of the designs have substance to them with an important messages such as “ignite the flame”... meaning make your dreams happen, explore ideas and ignite _your_ own flame.
+Ludovic: Funny that... the merchandise started when I was making my own shirt to play in to get brand awareness. The shirts were so unique that some people started asking me where they could get them to show support. I put up a Facebook post and before I knew it I had 140 orders in a week... I was not ready for that! I didn't have a single clue what I was doing - just keen as mustard, using the notes app on my phone to keep a track of it all and working with my mates in their backyard to make these shirts. That helped kicked things off for them and now they have their own company called Sydney Branding and Signage, which is awesome. Then I honestly was tired of going shopping and never finding anything decent or everything was so expensive to buy. So I was like... fuck it I'm going to make my own! We came together with a range of different artists which is why all of the designs have substance to them with an important messages such as “ignite the flame”... meaning make your dreams happen, explore ideas and ignite _your_ own flame.
 
-![null](/img/idwt-collective.jpg)
+![](/img/ludovic.jpg)
 
 **RR: Turning to your own career... tell us who your early musical influences were and how you first got into DJing.**
 
@@ -69,6 +71,6 @@ Ludovic: Yeah I’ve got a fair bit on here... originally this was a young and s
 Ludovic: Good question! I look at myself and IDWT as the force that is literally going to keep the house and electronic music scene alive and at the same time keep it sustainable for the years to come. We all have our place in keeping this industry and beautiful movement alive. Promoting safe partying, great quality music and teaching the generations about running sustainable nights, businesses and brands for the future. My dreams are to be playing my music on a global scale, running my events on a global scale, releasing music to the masses internationally and being a key pillar for the music scene. Never forgetting where I came from and why I do it because I absolutely love music. I want to keep running events that blow people away and continue to remove stigmas and inhibition in our societies. Creating safe places for people to come as they are far from judgement, a place where people feel the love and feel welcomed. All of these things are going to be on the horizon with enough hard work... I won't stop till my heart stops.
 <br><br> 
 
-**RR: We wish you every success mate... all the best with the label.**
+**RR: We wish you every success mate, all the best with the label.**
 
-_Get down to tonight's release party for Collective Records. Details [here](https://bit.ly/2JSYqvb)_
+_Get down to tonight's launch party for Collective Records. Details [here](https://bit.ly/2JSYqvb)._
