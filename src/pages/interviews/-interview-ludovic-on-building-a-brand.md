@@ -52,7 +52,7 @@ The lives and careers of lots of DJs and producers are cut short from substance 
 
 <br><br> 
 
-**RR: We really appreciate your honesty Ludovic. Now, IDWT also has its own clothing line. What was the inspiration behind that? And who does the funky designs?**
+**RR: We really appreciate your honesty Ludovic. Now, IDWT also has its own **[**clothing line**](https://www.indeepwetrustcollective.com/)**. What was the inspiration behind that? And who does the funky designs?**
 
 Ludovic: Funny that. The merchandise started when I was making my own shirt to play in to get brand awareness. The shirts were so unique that some people started asking me where they could get them to show support. I put up a Facebook post and before I knew it I had 140 orders in a week. I was not ready for that and didn't have a single clue about what I was doing! Just keen as mustard, using the notes app on my phone to keep a track of it all and working with my mates in their backyard to make these shirts was crazy. That helped kicked things off for them and now they have their own company called Sydney Branding and Signage which is awesome! Then I honestly was tired of going shopping and never finding anything decent or everything was so expensive to buy. So I was like, “fuck it I'm going to make my own”. We came together with a range of different artists which is why all of the designs have substance to it with an important messages such as “ignite the flame”... meaning make your dreams happen, explore ideas and ignite _your_ own flame.
 
