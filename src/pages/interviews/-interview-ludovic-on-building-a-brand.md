@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/ludovic/
-title: Ludovic on building a brand
+title: LUDOVIC on establishing a brand
 date: 2018-05-21T05:47:58.270Z
 description: TBC
 featuredImage: /img/ludovic.jpg
@@ -12,27 +12,25 @@ Ludovic: After years of playing everyone else’s game, building other people’
 
 I was studying full time and working 3 jobs to keep the dream alive… Having experienced how difficult it is to get your music recognised by labels I contacted my friend, Chris Arnott. He pushed me musically like no one had before and gave me honest feedback on my productions very honest - no sugar coating. It had a grasp on me and empowered me to smash on with it and before long my producing was better than ever. He has enormous amounts of experience under his belt and one day said, “why don’t we just start our own record label?" - so that’s what we did! 
 
-<br><br>
-
 **RR: So what kind of artistic environment are you hoping to create with the label? And how would you describe its music policy?**
 
-Ludovic:** **It ranges from your deep/minimal tech to your more percussive tech house tracks with deeper basslines. So much talent goes unnoticed and slips through the cracks in the underground music scene and we want to do them justice. I wanted to create an approachable label that supports our local Australian talent from offering them feedback to releasing their music and throwing a proper release party. Kerry Wallace has given me the opportunity to run these at his beloved SlyFox in Enmore and the lineup will consist of everyone on the remix pack, the artist who made the release, and some local supports. It's an opportunity for people to discover new talent and to sign up to all of our promos if they wish. I'd love to have amazing international talent onboard too, but we'll never forget where we came from.
+Ludovic: It ranges from your deep/minimal tech to your more percussive tech house tracks with deeper basslines. So much talent goes unnoticed and slips through the cracks in the underground music scene and we want to do them justice. I wanted to create an approachable label that supports our local Australian talent from offering them feedback to releasing their music and throwing a proper release party. Kerry Wallace has given me the opportunity to run these at his beloved SLYFOX in Enmore and the lineup will consist of everyone on the remix pack, the artist who made the release, and some local supports. It's an opportunity for people to discover new talent and to sign up to all of our promos if they wish. I'd love to have amazing international talent onboard too, but we'll never forget where we came from.
 
 **RR: Your brand In Deep We Trust Collective celebrated its first anniversary a few months ago. What have been the biggest highlights and challenges you've experienced with it so far?**
 
 Ludovic: Hosting my own favourite producer DJ - Denniz Cruz, would have had to been right up there alongside Laurent Garnier jumping up to go B2B with Pan-Pot at our 1st anniversary. The feeling of organising a whole event and everything leading up to it to is a priceless and a constant highlight. You get to stand back and watch hundreds of people absolutely loving life.
 
-There's also a financial struggle because running events is a massive challenge - people don’t see this stuff and a lot of the consumers would rather spend $300 on a shit bag of rack for the party instead of buying a ticket. Not having much opportunity to regularly attend local events and network is also half the battle. You need to prepare yourself to lose money because at the end of the day you started all of this because you fucking love it. Not because you’re going to make millions.
+There's also a financial struggle because running events is a massive challenge - people don’t see this stuff and a lot of the consumers would rather spend $300 on a shit bag of rack for the party instead of buying a ticket. Not having much opportunity to regularly attend local events and network is also half the battle. You need to prepare yourself to lose money because at the end of the day you started all of this because you fucking love it... not because you’re going to make millions.
 
 **RR: We heard you have been playing at a number of these secret warehouse parties? How are these going? And when is the next one?**
 
-Ludovic:** **Yeah that shit has been an eye-opening experience. Such a good environment and everyone is responsible for themselves and there are no mobile phones - crazy! Literally forcing people into human interaction. It's also a bit concerning because you have to sign a waver and you have no idea where you are going and you’ve basically put your trust into these complete strangers to pick you up in buses with blacked out windows to take you there and not kill you haha. But fuck it’s a good time. The places they have been having them are mind-blowing. I'm playing at another one on the 9th of June.
+Ludovic: Yeah that shit has been an eye-opening experience. Such a good environment and everyone is responsible for themselves and there are no mobile phones - crazy! Literally forcing people into human interaction. It's also a bit concerning because you have to sign a waver and you have no idea where you are going and you’ve basically put your trust into these complete strangers to pick you up in buses with blacked out windows to take you there and not kill you haha. But fuck it’s a good time. The places they have been having them are mind-blowing. I'm playing at another one on the 9th of June.
 
 **RR:** **Next month sees the second installment of 'Cure', taking place on the inner city rooftop of the Rook. What do you have in store for us?**
 
 The last ‘Cure’ we held was awesome. You can expect an open-air rooftop, deep/minimal, tech house and techno tunes from 2pm till 10pm right in the heart of the city - cool visuals and a weapon lineup. I genuinely throw parties I love to attend. Lineup includies some IDWT lads Daleh, Doctavio and myself, Compass Events' Nine One and Wild Fox, Social Bewegung leader Jermaine Jones and WeLove founder Nick Reverse. Such a beautiful thing to be able to play regularly with a number of these talented guys.
 
-**RR: We're big on mental health at Rave Reviewz, so we were pleased to hear that you'll be supporting the mental health charity, Beyond Blue with the 'Cure' event. Are mental health issues particularly important to you?**
+**RR: We're big on mental health at Rave Reviewz, so we were pleased to hear that the event will also be supporting the mental health charity, **[**beyondblue**](https://www.beyondblue.org.au/)**. Are mental health issues particularly important to you?**
 
 Ludovic: I know many who have faced mental issues and are still living it, day in and out. I personally never experienced a home life that didn’t have an alarming amount of domestic and family violence present. Experiencing trauma throughout my whole childhood, paired with a pretty large case of ADHD. My chances of living a fulfilled life were slim and I was experiencing ongoing homelessness throughout all of this, never knowing what was “wrong” with me or seeking any help with these traumas. 
 
