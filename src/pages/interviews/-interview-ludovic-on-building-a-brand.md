@@ -73,4 +73,4 @@ Ludovic: Good question! I look at myself and IDWT as the force that is literally
 
 **RR: We wish you every success mate, all the best with the label.**
 
-_Get down to tonight's release party for Collective Records. Details [here](https://bit.ly/2JSYqvb)._
+_Get down to tonight's launch party for Collective Records. Details [here](https://bit.ly/2JSYqvb)._
