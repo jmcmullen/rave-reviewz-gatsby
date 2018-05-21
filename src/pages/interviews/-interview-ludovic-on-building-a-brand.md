@@ -8,7 +8,7 @@ description: >-
   growing collectives...
 featuredImage: /img/ludovic.jpg
 ---
-_With his unique name and passion for music, here's our interview with the In Deep We Trust Collective frontman - before tonight's milestone party..._
+_With his unique name and sound, here's our interview with the In Deep We Trust Collective frontman - before tonight's milestone party..._
 
 <br><br> 
 
