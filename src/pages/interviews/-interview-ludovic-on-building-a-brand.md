@@ -8,7 +8,7 @@ description: >-
   growing brands - In Deep We Trust 
 featuredImage: /img/ludovic.jpg
 ---
-_In Deep We Trust Collective are a growing force in the Sydney scene, with a proven track record in events and a clothing label to match. We spoke to them about their latest venture - Collective Records ahead of the label launch party_
+_In Deep We Trust Collective are a growing force in the Sydney scene, with a proven track record in events and a clothing label to match. We spoke to them about their latest venture - Collective Records ahead of the label launch party._
 <br><br> 
 
 **RR: [Ludovic](https://www.facebook.com/KaoLudo/), good to chat. We're looking forward to the launch of your record label Collective Records tonight. Talk us through the journey you've been through to get it to this point.** 
@@ -34,7 +34,7 @@ Ludovic: Hosting my favourite producer DJ - Denniz Cruz, would have had to been 
 Ludovic: Yeah that shit has been an eye-opening experience. Such a good environment and everyone is responsible for themselves and there are no mobile phones - crazy! Literally forcing people into human interaction. It's also a bit concerning because you have to sign a waiver and you have no idea where you are going... and you’ve basically put your trust in these complete strangers, to pick you up in buses with blacked out windows, to take you there and not kill you haha. But fuck, it’s a good time... the places they have been having them are mind-blowing. I'm playing at another one on the 9th of June.
 <br><br> 
 
-**RR:** Sounds mad! Next month sees the second instalment of your event 'Cure', taking place on the inner city rooftop of the Rook. What do you have in store for us?**
+**RR: Sounds mad! Next month sees the second instalment of your event 'Cure', taking place on the inner city rooftop of the Rook. What do you have in store for us?**
 
 Ludovic: The last ‘Cure’ we held was awesome. You can expect an open-air rooftop, deep/minimal, tech house and techno tunes from 2pm till 10pm right in the heart of the city... with cool visuals and a weapon lineup. I genuinely throw parties I love to attend. Lineup includes some IDWT lads Daleh, Doctavio and myself... Compass Events' Nine One and Wild Fox, Social Bewegung leader Jermaine Jones and WeLove founder Nick Reverse. Such a beautiful thing to be able to play regularly with a number of these talented guys.
 <br><br> 
@@ -71,4 +71,4 @@ Ludovic: Good question! I look at myself and IDWT as the force that is literally
 
 **RR: We wish you every success mate... all the best with the label.**
 
-_Get down to tonight's release party for Collective Records. Details[here](https://bit.ly/2JSYqvb)
+_Get down to tonight's release party for Collective Records. Details [here](https://bit.ly/2JSYqvb)_
