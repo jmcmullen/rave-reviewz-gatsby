@@ -4,3 +4,13 @@
 [build.environment]
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
+[[redirects]]
+  from = "/events"
+  to = "/events/sydney"
+[[redirects]]
+  from = "/events/sydney"
+  to = "/events/sydney"
+[[redirects]]
+  from = "/events/sydney/*"
+  to = "https://www.ravereviewz.net/Events-Location/Sydney/:splat"
+  status = 200

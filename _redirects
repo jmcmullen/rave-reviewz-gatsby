@@ -1,4 +1,0 @@
-/reviews/* /features/:splat 301
-/reviews /features 301
-/events /events/sydney 302
-/events/sydney/* https://www.ravereviewz.net/Events-Location/Sydney/:splat 200
