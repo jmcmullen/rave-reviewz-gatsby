@@ -9,8 +9,9 @@
   to = "/events/sydney"
 [[redirects]]
   from = "/events/sydney"
-  to = "/events/sydney"
+  to = "/events/sydney/"
 [[redirects]]
   from = "/events/sydney/*"
   to = "https://www.ravereviewz.net/Events-Location/Sydney/:splat"
   status = 200
+  force = true
