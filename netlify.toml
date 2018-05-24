@@ -6,9 +6,6 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
   from = "/events"
-  to = "/events/sydney"
-[[redirects]]
-  from = "/events/sydney"
   to = "/events/sydney/"
 [[redirects]]
   from = "/events/sydney/*"
