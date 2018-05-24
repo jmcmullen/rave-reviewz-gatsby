@@ -4,7 +4,7 @@ path: /interview/DJ-W!ld
 title: DJ W!ld on the art of music
 date: 2018-05-24T03:52:22.109Z
 description: 'Our chat with the funky Frenchman, DJ W!ld '
-featuredImage: /img/main-dj-w!ld.jpeg
+featuredImage: /img/dj-wild-new.jpg
 ---
 _Ahead of the monster Subsonic launch party, we caught up with multi-talented DJ W!ld about his music, painting, fashion and more..._
 
