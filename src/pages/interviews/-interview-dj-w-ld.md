@@ -29,7 +29,7 @@ DJ W!ld: Yes of course, I always steered clear of this "movement" that didn’t 
 DJ W!ld: Sven has been influential for many reasons... he’s a show-man, his longevity in the business, all that he brings to our movement. He’s Papa Sven haha! Musically, I had different influences.
 <br><br>
 
-**RR: Your upcoming release on your [Dailycid Music](https://www.facebook.com/DailycidMusic/) imprint - 006, features tracks from Liam Geddes, Stk Ensemble, Nima Gorji, Kevin Cook and yourself. How did you decide on this selection of producers? Would you say there's a theme that connects the tracks?
+**RR: Your upcoming release on your [Dailycid Music](https://www.facebook.com/DailycidMusic/) imprint - 006, features tracks from Liam Geddes, Stk Ensemble, Nima Gorji, Kevin Cook and yourself. How did you decide on this selection of producers? Would you say there's a theme that connects the tracks?**
 
 DJ W!ld: I wanted to have various artists with 4 tracks that are really different but also fit together. It's difficult to explain, it's only my point of view, no theme in particular. I'm always scouting new talent and mixing with friends and other artists I follow - just good underground music. 
 
