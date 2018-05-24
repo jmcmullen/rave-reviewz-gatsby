@@ -52,7 +52,7 @@ DJ W!ld: I don’t find much time to totally relax but everything I‘m doing is
 
 ![null](/img/take-a-trip.jpg)
 
-**RR:  So of all the sets you've played over the years, which one stands out in your memory the most?** 
+**RR: So of all the sets you've played over the years, which one stands out in your memory the most?** 
 
 DJ W!ld: It's really difficult to name only one for many different reasons. Maybe my first gig ever at Twilo in New York  at 20 years old, or my first performance at DC10 Ibiza. Most of the time it's just several factors aligning together such as an amazing crowd, top club and good sound system. 
 <br><br>
