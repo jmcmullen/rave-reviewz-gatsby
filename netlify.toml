@@ -6,9 +6,9 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
   from = "/events"
-  to = "/events/sydney/"
+  to = "/Events-Location/Sydney/"
 [[redirects]]
-  from = "/events/sydney/*"
-  to = "https://www.ravereviewz.net/Events-Location/Sydney/:splat"
+  from = "/Events-Location/Sydney/*"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Events-Location/Sydney/:splat"
   status = 200
   force = true
