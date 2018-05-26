@@ -8,7 +8,7 @@ description: >-
   our insightful chat with the Finnish artist...
 featuredImage: /img/yotto.jpg
 ---
-_Fresh off the release of his acclaimed EP North, the Finnish DJ/Producer made his Australian debut on Friday night in Sydney, with a passionate 2-hour set at Jam Gallery, courtesy of Bootz ‘N’ Catz. [Rave Reviewz'](https://magazine.ravereviewz.net) Sean McDonald caught up with the Deep house hitmaker afterwards to discuss his career, recent release and upcoming projects._
+_Fresh off the release of his acclaimed EP North, the Finnish DJ/Producer made his Australian debut on Friday night in Sydney, with a passionate 2-hour set at Jam Gallery. [Rave Reviewz'](https://magazine.ravereviewz.net) Sean McDonald caught up with the Deep house hitmaker afterwards to discuss his career, recent release and upcoming projects._
 <br><br>
 
 **RR: Yotto, welcome to Australia. That was a fantastic set. You’ve played all over the world, how did this gig compare to other places?**
