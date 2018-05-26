@@ -4,11 +4,12 @@ path: /interview/tyson-koh
 title: 'Tyson Koh: Keep Sydney Open'
 date: 2017-10-19T03:53:10.000Z
 description: >-
-  Stoked at the news that Keep Sydney Open is considering running for state
-  parliament, we caught up with Tyson Koh, manager of the campaign and FBI radio
-  DJ, ahead of their event this weekend - Meet me in Darlo.
+  We caught up with the man behind Keep Sydney Open, following the huge news
+  that they're considering starting a political party.
 featuredImage: /img/tyson-koh.jpg
 ---
+Stoked at the news that Keep Sydney Open is considering running for state parliament, we caught up with Tyson Koh, manager of the campaign and FBI radio DJ, ahead of their event this weekend - Meet me in Darlo.
+
 **RR: Tyson, good to speak to you. We’re delighted that [Keep Sydney Open](https://www.facebook.com/KeepSydneyOpen/) is considering running for parliament. What’s the plan?**
 
 Tyson: Yes, we’re considering registering as a political party! We want more of a seat at the table. Nightlife is important, we want people to be proud of their city and we think this might be the most effective way to change things. We also want to use nightlife as a pathway into other important issues that our supporters care about, so we’re asking if we should start a party. We need 750 registered members, so let’s see what happens!
