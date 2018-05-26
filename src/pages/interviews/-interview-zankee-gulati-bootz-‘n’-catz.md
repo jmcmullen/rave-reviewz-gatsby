@@ -6,7 +6,7 @@ date: 2017-10-10T14:50:48.000Z
 description: Read our interview with the local DJ/Producer and Bootz 'N' Catz co-owner...
 featuredImage: /img/zankee-gulati.jpg
 ---
-_We sat down with the Bootz ‘N’ Catz co-owner for a quick chat about [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)_’s underground music scene and his upcoming gig with Finnish DJ/Producer, [Yotto](https://magazine.ravereviewz.net/interview/yotto)…_
+_We sat down with the Bootz ‘N’ Catz co-owner for a quick chat about [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)’s underground music scene and his upcoming gig with Finnish DJ/Producer, [Yotto](https://magazine.ravereviewz.net/interview/yotto…_
 <br><br>
 
 **RR: Zankee, you’ve been doing parties in Sydney for a while now. Talk us through your journey as a promoter.**
@@ -29,7 +29,7 @@ Zankee: Haha it was his concept! Lane 8 wanted to take everyone back to the old 
 Zankee: Well, I’ve been here for 2 years. It was a struggle at first, but I’ve just signed an EP with Particles Records, which is one of my favourite labels. If you’re a newcomer to Sydney, I would say just be patient. If you know your sound and you feel good about what you’re doing, then keep networking and people will recognise you. There are good promoters in this city, it’s not about who you know. People are always searching for fresh talent.
 <br><br>
 
-![](/img/zankee-gulati-welove.jpg)
+![null](/img/zankee-gulati-welove.jpg)
 
 **RR: Congrats on the EP, we’ll make sure to check it out. How would you describe your own music style?**
 
