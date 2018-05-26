@@ -3,10 +3,8 @@ templateKey: interview-post
 path: /interview/ben-nott-blueprint
 title: 'Ben Nott: Blueprint'
 date: 2017-10-03T14:39:38.000Z
-description: >-
-  We caught up with Blueprint boss Ben Nott for a chat about all things ravey
-  ahead of their boat cruise this Saturday...
-featuredImage: /img/ben-nott.jpg
+description: Check out our interview with Ben Nott about all things techno...
+featuredImage: /img/ben-nott2.jpg
 ---
 _We caught up with Blueprint boss Ben Nott for a chat about all things ravey ahead of their boat cruise this Saturday..._
 <br><br>
@@ -33,12 +31,14 @@ Ben: It’s going really well at the moment. I’ve been going down to Melbourne
 
 **RR: Sweet. What was the most memorable set you’ve played in the past year?**
 
-Ben:** **Hmm… probably Sash terrace. They gave me a 3hr set on my birthday. It was intense!
+Ben: Hmm… probably Sash terrace. They gave me a 3hr set on my birthday. It was intense!
 
 **RR: I bet! Haha. There has been much talk of the damage government policies are doing to Sydney’s nightlife. How do you think the Sydney house & tech scene has evolved in recent years?**
 
 Ben: Things had gotten really bad but they’ve picked up a lot in the past year. Now there are loads of people doing good parties which makes it competitive, but it’s good for the scene. People are taking bigger risks which means better parties.
 <br><br>
+
+![](/img/ben-nott.jpg)
 
 **RR: Now, Emanuel Satie is playing at your boat party this weekend. He’s dropped some sick tracks, Come As You Are is our favourite. What do you think we can expect from his set?**
 
