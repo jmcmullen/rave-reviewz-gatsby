@@ -6,7 +6,7 @@ date: 2017-10-10T14:50:48.000Z
 description: Read our interview with the local DJ/Producer and Bootz 'N' Catz co-owner...
 featuredImage: /img/zankee-gulati.jpg
 ---
-_We sat down with the Bootz ‘N’ Catz co-owner for a quick chat about _[_Sydney_](https://www.ravereviewz.net/Events-Location/Sydney)_’s underground music scene and his upcoming gig with Finnish DJ/Producer, _[_Yotto_](https://magazine.ravereviewz.net/interview/yotto)_…_
+_We sat down with the Bootz ‘N’ Catz co-owner for a quick chat about [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)_’s underground music scene and his upcoming gig with Finnish DJ/Producer, [Yotto](https://magazine.ravereviewz.net/interview/yotto)…_
 <br><br>
 
 **RR: Zankee, you’ve been doing parties in Sydney for a while now. Talk us through your journey as a promoter.**
