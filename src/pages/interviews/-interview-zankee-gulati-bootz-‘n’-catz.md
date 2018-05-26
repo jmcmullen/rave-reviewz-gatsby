@@ -6,7 +6,7 @@ date: 2017-10-10T14:50:48.000Z
 description: Read our interview with the local DJ/Producer and Bootz 'N' Catz co-owner...
 featuredImage: /img/zankee-gulati.jpg
 ---
-_We sat down with the Bootz ‘N’ Catz co-owner for a quick chat about [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)’s underground music scene and his upcoming gig with Finnish DJ/Producer, [Yotto](https://magazine.ravereviewz.net/interview/yotto)…_
+_We sat down with the Bootz ‘N’ Catz co-owner for a quick chat about [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)’s underground music scene and his upcoming gig with Finnish DJ/Producer, [Yotto](https://magazine.ravereviewz.net/interview/yotto…_
 <br><br>
 
 **RR: Zankee, you’ve been doing parties in Sydney for a while now. Talk us through your journey as a promoter.**
@@ -21,7 +21,7 @@ Zankee: We had a phenomenal response to the Max Graham party, then we did Vintag
 
 **RR: We were there for your Lane 8 gig – “It never happened”. Phones were banned from being used. Where did that idea come from??**
 
-Zankee: Haha it was his concept! [Lane 8](https://www.facebook.com/lane8music/) wanted to take everyone back to the old days, where everyone is in it together, in the moment. The gig went on for 6, maybe 7 hours and only 2 people took out their phones. Everyone was in it.
+Zankee: Haha it was his concept! Lane 8 wanted to take everyone back to the old days, where everyone is in it together, in the moment. The gig went on for 6, maybe 7 hours and only 2 people took out their phones. Everyone was in it.
 <br><br>
 
 **RR: It was definitely a memorable night. How is your own DJing going? Any advice for people trying to break into the scene?**
