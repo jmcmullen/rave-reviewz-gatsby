@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/ben-nott-blueprint
 title: 'Ben Nott: Blueprint'
 date: 2017-10-03T14:39:38.000Z
-description: Check out our interview with Ben Nott about all things techno...
+description: Our interview with Blueprint's head honcho - Ben Nott
 featuredImage: /img/ben-nott2.jpg
 ---
 _We caught up with Blueprint boss Ben Nott for a chat about all things ravey ahead of their boat cruise this Saturday..._
