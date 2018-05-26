@@ -53,6 +53,7 @@ Yotto: Actually not all of it because I travel all the time, but I’ve seen the
 **RR: So, what else are you currently working on?**
 
 Yotto: Well, I have another EP coming out before the end of the year on Green and I have a tonne of music lying around and I need to figure out what to do with it!
+<br><br>
 
 **RR: Ok, what’s the deep house/progressive scene like in Finland?**
 
