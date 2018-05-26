@@ -14,16 +14,15 @@ _Fresh off the release of his acclaimed EP North, the Finnish DJ/Producer made h
 **RR: Yotto, welcome to Australia. That was a fantastic set. You’ve played all over the world, how did this gig compare to other places?**
 
 Yotto: It was very intimate, which is honestly my favourite way to play. I always love it when you have a low ceiling and when the booth is close to the dancefloor; you can actually connect with the crowd. And I could definitely feel that they were here for my music tonight - when I opened with my own record 'Off the Grid' the reaction was just amazing. I’m super happy about this being my [Sydney ](https://www.ravereviewz.net/Events-Location/Sydney)debut.
-<br><br>
 
 ![null](/img/yotto-sydney.jpg)
 
-**RR: We are too mate. Bootz ‘N’ Catz have built a reputation for hosting events featuring deep/progressive house legends, including some of your label mates. Tell us how you got involved with **[**Anjunadeep**](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.anjunadeep.com%2F&h=ATMsg7-YlXooj2UiNvslpFnXa-tE3LOK3YU1uL63N0XqBGaYNSEQIW4iJVqOWVYTFzB0qYGJehHuWqoJJVc62e-UsQf8uAzLPGAhjeJ2cbCl1_mh1kpN8CYVulUR1Aqt3ROPd6t5)**.**
+**RR: We are too mate. Bootz ‘N’ Catz have built a reputation for hosting events featuring deep/progressive house legends, including some of your label mates. Tell us how you got involved with [Anjunadeep](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.anjunadeep.com%2F&h=ATMsg7-YlXooj2UiNvslpFnXa-tE3LOK3YU1uL63N0XqBGaYNSEQIW4iJVqOWVYTFzB0qYGJehHuWqoJJVc62e-UsQf8uAzLPGAhjeJ2cbCl1_mh1kpN8CYVulUR1Aqt3ROPd6t5).**
 
 Yotto: Well, I made a remix for Pierce Fulton, who I’ve been internet friends with for ages then [ABGT](https://www.facebook.com/abgrouptherapy/) played it on their radio show and asked me for a mix. I had all this unsigned music lying around, so I made a mixtape of all my own music and instead of putting it out, they signed all the music from it. It was more like an accident!
 <br><br>
 
-**RR: A happy accident! On their Facebook event page, **[**Bootz ‘N’ Catz**](https://magazine.ravereviewz.net/interview/zankee-gulati-bootz-n-catz)** ran a poll for people to vote on their favourite Yotto track/remix. Which one do you think got the most votes?**
+**RR: A happy accident! On their Facebook event page, [Bootz ‘N’ Catz](https://magazine.ravereviewz.net/interview/zankee-gulati-bootz-n-catz) ran a poll for people to vote on their favourite Yotto track/remix. Which one do you think got the most votes?**
 
 Yotto: Hmm…not sure. It could have been Marisa or Aviate, which I forgot to play actually! Or the Above & Beyond and Rufus remixes?
 <br><br>
@@ -60,7 +59,7 @@ Yotto: Well, I have another EP coming out before the end of the year on Green an
 Yotto: It’s really hard actually. Finland has a great club scene, but we have more of a German underground influence, more Berghain than what goes down in America, for example. We have DJs like Dixon, Black Madonna and [Marcel Dettmann](https://www.facebook.com/marceldettmannofficial/) as big influences on one side and then the EDM peak on the other side, but the stuff in-between, where I think I belong does not really exist. But I’m working on it!
 <br><br>
 
-**RR: Well as you’ve seen tonight, there’s a big Anjunadeep community over here in Australia. Any chance of you putting in a word with **[**James Grant**](https://www.facebook.com/jamesanjunadeep/)** and getting the whole team over for an Australian tour??**
+**RR: Well as you’ve seen tonight, there’s a big Anjunadeep community over here in Australia. Any chance of you putting in a word with [James Grant](https://www.facebook.com/jamesanjunadeep/) and getting the whole team over for an Australian tour??**
 
 Yotto: Haha I’ll put a good word in. We’re all doing our own things at the moment but they always ask how some of my gigs have been. I’ll let them know this was great, so let’s see… maybe we’ll all be over soon.
 <br><br>
