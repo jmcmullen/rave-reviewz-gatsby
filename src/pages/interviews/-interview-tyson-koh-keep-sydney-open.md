@@ -8,7 +8,7 @@ description: >-
   that they're considering starting a political party.
 featuredImage: /img/tyson-koh.jpg
 ---
-Stoked at the news that Keep Sydney Open is considering running for state parliament, we caught up with Tyson Koh, manager of the campaign and FBI radio DJ, ahead of their event this weekend - Meet me in Darlo.
+_Stoked at the news that Keep Sydney Open is considering running for state parliament, we caught up with Tyson Koh, manager of the campaign and FBI radio DJ, ahead of their event this weekend - Meet me in Darlo._
 
 **RR: Tyson, good to speak to you. We’re delighted that [Keep Sydney Open](https://www.facebook.com/KeepSydneyOpen/) is considering running for parliament. What’s the plan?**
 
