@@ -32,6 +32,7 @@ Ben: It’s going really well at the moment. I’ve been going down to Melbourne
 **RR: Sweet. What was the most memorable set you’ve played in the past year?**
 
 Ben: Hmm… probably Sash terrace. They gave me a 3hr set on my birthday. It was intense!
+<br><br>
 
 **RR: I bet! Haha. There has been much talk of the damage government policies are doing to Sydney’s nightlife. How do you think the Sydney house & tech scene has evolved in recent years?**
 
