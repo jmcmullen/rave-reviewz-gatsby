@@ -9,7 +9,7 @@ featuredImage: /img/ben-nott2.jpg
 _We caught up with the Blueprint boss for a chat about all things ravey ahead of their boat cruise this Saturday..._
 <br><br>
 
-**RR: So Ben, **[**Blueprint**](https://www.facebook.com/blueprintentsydney/)** has built a reputation as one of the most consistent house & techno parties in Sydney. Tell us how it started.**
+**RR: So Ben, [Blueprint](https://www.facebook.com/blueprintentsydney/) has built a reputation as one of the most consistent house & techno parties in Sydney. Tell us how it started.**
 
 Ben: Well I used to help put on raves in the UK, then was doing parties in the States. When I came to Sydney I didn’t really plan to do the same, but one day we decided to do a warehouse party in Marrickville. That was the first Blueprint gig 3 years ago and we’ve done about 100 events since! We now have a really good core of residents at our events which is cool – Aaiste, Lawrence Daffurn, Andy Ef.
 <br><br>
