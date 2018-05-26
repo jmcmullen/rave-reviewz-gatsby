@@ -14,7 +14,7 @@ featuredImage: /img/tyson-koh.jpg
 Tyson: Yes, we’re considering registering as a political party! We want more of a seat at the table. Nightlife is important, we want people to be proud of their city and we think this might be the most effective way to change things. We also want to use nightlife as a pathway into other important issues that our supporters care about, so we’re asking if we should start a party. We need 750 registered members, so let’s see what happens!
 <br><br> 
 
-**RR: Well, we think it’s a great idea. A political party that supports actual parties? You can definitely count us in! The Keep Sydney Open campaign has really captured the hearts of those after a decent night out in **[Sydney](https://www.ravereviewz.net/Events-Location/Sydney). How did it all start?**
+**RR: Well, we think it’s a great idea. A political party that supports actual parties? You can definitely count us in! The Keep Sydney Open campaign has really captured the hearts of those after a decent night out in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). How did it all start?**
 
 Tyson: The campaign actually started a couple of months before the Lockout laws were passed in Feb 2014, but when they came in to effect people lost morale and accepted the outcome, so the campaign was pretty much dormant.  Six months in I was becoming increasingly angry at the damage being done to Sydney’s nightlife so I decided to take it over, re-brand it and develop a new strategy. It started as a side project but has taken over my life!
 <br><br>
@@ -22,7 +22,8 @@ Tyson: The campaign actually started a couple of months before the Lockout laws 
 **RR: I bet haha. Do you think the campaign has made progress?**
 
 Tyson: There has been lots of positive change due to the campaign - in attitudes and legislation. We helped the government realise that live music venues, including those with DJs, offer a unique type of entertainment in the city which led to an extension of the lockout time 1.30am to 2am. Plus small bars can now serve spirits without mixers after midnight and the ‘three strikes’ regime – which previously could mean a loss of license for venues for a few mistakes – has been relaxed. So there has been progress, but ultimately the Lockout laws are still around, which gets frustrating when you see Sydney’s venues and reputation suffering.
-<br><br> 
+
+![](/img/keep-sydney-open-rally.jpg)
 
 **RR: How should the industry tackle this incredibly damaging problem?**
 
