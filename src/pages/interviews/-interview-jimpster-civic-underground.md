@@ -29,7 +29,8 @@ Jamie: The original idea was that Jimpster would be the moniker for my more ecle
 **RR: Nice! You co-founded two very successful labels - [Freerange Records](https://www.facebook.com/FreerangeRecords/) and [Delusions of Grandeur.](https://www.facebook.com/Delusions-of-Grandeur-337255673024451/) What have been the biggest challenges along the way in those journeys?**
 
 Jamie: Many many challenges! Probably the biggest being distribution companies going bust on us on more than one occasion. This would have put most labels out of business but we managed to weather the storm - by managing things carefully and not putting all our (Freerange) eggs in one basket we stayed afloat. It’s sometimes hard to keep things fresh and relevant after 23 years but we keep our ear to the ground and work hard to dig for new, upcoming artists as well as introducing more established names via remixes... so we like to think we still know which direction things are heading in and keep trying to push forward without bandwagon-jumping.
-<br><br>
+
+![](/img/dj-city.jpg)
 
 **RR: Now, rumour has it that you've done somewhere in the region of 100 remixes! Talk us through your creative and technical process when remixing a track.**
 
@@ -68,3 +69,5 @@ Jamie: I’ve just finished a new Jimpster EP which has three original tracks pl
 **RR: Great stuff Jamie. See you on Saturday!**
 
 _Get your tickets to see Jimpster at the Civic underground [here](https://www.ravereviewz.net/Event/Social-Bewegung-Ft-Jimpster-3HR-Set-Sydney/50)_
+
+_Check out _[_DJ City_](https://djcity.com.au/)_ for all your DJ equipment and studio gear_
