@@ -70,4 +70,4 @@ Jamie: I’ve just finished a new Jimpster EP which has three original tracks pl
 
 _Get your tickets to see Jimpster at the Civic underground [here](https://www.ravereviewz.net/Event/Social-Bewegung-Ft-Jimpster-3HR-Set-Sydney/50)_
 
-_Check out _[_DJ City_](https://djcity.com.au/)_ for all your DJ equipment and studio gear._
+_Check out [DJ City](https://djcity.com.au/) for all your DJ equipment and studio gear._
