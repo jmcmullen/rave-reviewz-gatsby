@@ -11,3 +11,7 @@
   from = "/Events-Location/Sydney/*"
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
+[[redirects]]
+  from = "/Event/*"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  status = 200
