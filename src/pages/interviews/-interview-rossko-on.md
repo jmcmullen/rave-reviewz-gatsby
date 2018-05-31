@@ -3,30 +3,30 @@ templateKey: interview-post
 path: /interview/rossko
 title: 'ROSSKO on '
 date: 2018-05-31T01:37:17.230Z
-description: TBC
+description: 'Rossko on the '
 featuredImage: /img/rossko.jpg
 ---
-_We caught with up the manlike**Rossko**_
+_We caught with up the manlike Rossko _
 
-**Rossko, good to chat. You’re lined up to play at SLYFOX and S.A.S.H next week. What do you have planned for us with the two sets? **
+**Rossko - you’re lined up to play at SLYFOX and S.A.S.H next week. What do you have planned for us with the two sets?**
 
-Rossko: It's my 3rd time back to Australia and the response has been great. I’ll be playing the sunrise set in the Glass terrace at S.A.S.H - it’s the Queen's birthday, so they are open 24 hours. I’ve played in that room twice, once by myself and a crazy b2b2b with Enzo & Seb all night long, the vibe can get electric in there. I always try to connect with the people on the day but for sure it will be full of energy on a slick techno tip and when the sun comes up I’ll keep it more grooving, more housey and of course a little bit trippier for that after-party vibe.
+Rossko: It's my 3rd time back to Australia and the response has been great. I’ll be playing the sunrise set in the glass terrace at S.A.S.H - it’s the Queen's birthday, so they're open 24 hours. I’ve played in that room twice, once by myself and a crazy b2b2b with Enzo Siragusa & Seb Zito all night long, the vibe can get electric in there. I always try to connect with the people on the day but for sure it will be full of energy on a slick techno tip and when the sun comes up I’ll keep it more grooving, more housey and of course a little bit trippier for that after-party vibe.
 
 It will be my 1st time at SLYFOX but I heard it's dark & sweaty so I’ll bring some of that London & Berlin spirit with me. Some 'heads down, hands up' moments.
 <br><br>
 
-**We like the sound of that!** **Now you're part of the original FUSE crew - which is a legendary Sunday day party. What do you think it is that makes Sunday raving so popular?**
+**Sounds sick! Now you're part of the original FUSE crew - which is a legendary Sunday day party, much like SASH. What do you think it is that makes Sunday raving so popular?**
 
-Rossko: I found in London Sundays were much more cosmopolitan, more relaxed, more vibes, even the characters you met are more wild. I guess every major city is the same. The attitude to the party is different, you can feel it from the promoter, to the DJ, to the music, even the dance floor atmosphere. I have always noticed small communities are always born, you go see like-minded friends week in, week out who are really into the music just like you. I guess sharing the same passion and being updated with the new music keeps the spirit alive. I've seen it at FUSE many times over the last 10 years... communities come and go like a revolving door and it's like a birthplace where people become inspired and go off and start their own party, become a DJ etc. 
+Rossko: I found in London Sundays were much more cosmopolitan, more relaxed, more vibes, even the characters you met are more wild. I guess every major city is the same. The attitude to the party is different, you can feel it from the promoter, to the DJ, to the music, even the dance floor atmosphere. I have often noticed small communities being born, you go see like-minded friends week in, week out who are really into the music just like you. I guess sharing the same passion and being updated with the new music keeps the spirit alive. 
 
-I have met some of my best friends on the dance floor. In fact, it's where I met all the FUSE crew before we got together, in many Sunday after parties in London like Public Life and T-Bar for example. Long live Sundays.
+I've seen it at FUSE many times over the last 10 years - it's like a birthplace where people become inspired and go off and start their own party, or become a DJ etc. I have met some of my best friends on the dance floor. In fact, it's where I met all the FUSE crew before we got together, at Sunday after parties in London like Public Life and T-Bar for example. Long live Sundays!
 <br><br>
 
 **How would you describe the journey from those early days of FUSE up until the present day where the brand and label are globally recognised? And what are the most important lessons you've learnt along the way?**
 
-Rossko: It's been an amazing one. Hard to put in words really. I’ve learnt so much along the way. Not just about music but about myself and life. The more I understand life the more I understand music - I guess it's kind of encoded in there somewhere. Enzo has been incredible with all of us and it’s his vision and guidance that brings us to where we are today. We were just a bunch of clubbers from the dance floor who loved their music and follow their passion. 
+Rossko: It's been an amazing one. Hard to put in words really. I’ve learnt so much along the way - not just about music but about myself and life. The more I understand life the more I understand music - I guess it's kind of encoded in there somewhere. Enzo has been incredible with all of us and it’s his vision and guidance that brings us to where we are today. We were just a bunch of clubbers from the dance floor who loved the music and follow their passion. 
 
-Musically I’ve learned so much to play what you feel, don’t think too much and stop to watch what everyone else is doing. Of course be inspired but be as original as possible - it’s your personality that defines your music and everyone is unique in there own way. When the fun stops. Stop!
+Musically I’ve learnt to play what you feel, don’t think too much and stop to watch what everyone else is doing. Of course be inspired but be as original as possible - it’s your personality that defines your music and everyone is unique in their own way. And when the fun stops, stop!
 <br><br>
 
 **You're also heavily involved with the A&R of the INFUSE label. Can you tell us what you look for when scouting out new talent?**
