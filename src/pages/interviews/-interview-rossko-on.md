@@ -1,11 +1,13 @@
 ---
 templateKey: interview-post
 path: /interview/rossko
-title: ROSSKO on
+title: 'ROSSKO on '
 date: 2018-05-31T01:37:17.230Z
 description: TBC
 featuredImage: /img/rossko.jpg
 ---
+_We caught with up the manlike**Rossko**_
+
 **Rossko, good to chat. You’re lined up to play at SLYFOX and S.A.S.H next week. What do you have planned for us with the two sets? **
 
 Rossko: It's my 3rd time back to Australia and the response has been great. I’ll be playing the sunrise set in the Glass terrace at S.A.S.H - it’s the Queen's birthday, so they are open 24 hours. I’ve played in that room twice, once by myself and a crazy b2b2b with Enzo & Seb all night long, the vibe can get electric in there. I always try to connect with the people on the day but for sure it will be full of energy on a slick techno tip and when the sun comes up I’ll keep it more grooving, more housey and of course a little bit trippier for that after-party vibe.
@@ -49,6 +51,8 @@ Thats a tough one. My Cerca Trova parties were pretty legendary. Once we had a p
 Playing the Cave Rave parties in Ibiza for Bushwacka's Full Moon parties were insane, especially that moment as the sun was rising but also in the cave watching the moon set around 6am. Truly upside down inside out moments.
 More recently closing Amnesia b2b with Archie, I would say it has to be my proudest moment. For all the hard work we have put in individually and collectively it was truly amazing.
 <br><br> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BkrS4yAgNj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **And what else have you got locked in for the rest of year? Any big plans?**
 
