@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interviews/shallocin
+path: /interview/shallocin
 title: Shall Ocin @ Civic Underground
 date: 2018-05-31T12:22:23.415Z
 description: >-
