@@ -22,7 +22,7 @@ Shall Ocin: Australia seems like a paradise for me... Its flora, fauna, the geog
 Shall Ocin: The original idea was that Paneoh would be a bit more progressive and Shall Ocin a bit more funky, but over time it was just easier for me to release everything under Shall Ocin. Lately I've been making some really different stuff that I might release as Paneoh in the near future, who knows...
 <br><br>
 
-**RR:  A lot of your music has an industrial, almost sci-fi sound. Where do you think this influence comes from?**
+**RR: A lot of your music has an industrial, almost sci-fi sound. Where do you think this influence comes from?**
 
 Shall Ocin: More than an artist or a genre, I think that my main influence is the concept of the fusion of different styles and vibes. Consequently, I think that mixing the elements of the future and the past is what brings about my ideas.
 
