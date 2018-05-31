@@ -44,7 +44,7 @@ Shall Ocin: We are long-time friends and we know each other very well, so things
 
 **RR: Your wife is also a producer - is there a bit of healthy competition between you? Any plans for a collaboration soon??**
 
-Shall Ocin: I'm lucky we don't have to compete, because she's very talented. 😉I'm sure we'll work together at some moment in the future, but there are no concrete plans so far.
+Shall Ocin: I'm lucky we don't have to compete, because she's very talented. 😉I'm sure we'll work together on something in the future, but there are no concrete plans so far.
 
 **RR: Touring and producing can take its toll on a person over time and can impact your creativity. Where do you keep finding inspiration for new music?**
 
