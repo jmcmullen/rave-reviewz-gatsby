@@ -14,7 +14,7 @@ _Shall Ocin, real name Nicolas Abalos, has come a long way from his early days p
 
 **RR: Hi Nicolas, thanks for taking the time to chat. This will be your first trip down under - what image do you have of Australia in your mind? And what do you have you planned for the visit?**
 
-Shall Ocin: Australia seems like a paradise for me... Its flora, fauna, the geography... It's my first time in the country, and I usually stay just one day in each city, but this time I have more than a week to enjoy Melbourne and Sydney, so i'm glad i'm able to spend the time to learn about the country's culture and its roots.
+Shall Ocin: Australia seems like a paradise for me... its flora, fauna, the geography. It's my first time in the country, and I usually stay just one day in each city, but this time I have more than a week to enjoy Melbourne and Sydney, so I'm glad I'm able to spend the time to learn about the country's culture and its roots.
 <br><br>
 
 **RR: You released a number of tracks under your former alias, Paneoh, before transitioning to Shall Ocin. What’s the meaning behind the two names? And why the change?**
@@ -65,5 +65,5 @@ Shall Ocin: This is one of the most difficult questions that people make... I ha
 
 **RR: Finally, what else do you have coming up this year?**
 
-Shall Ocin: I am finishing a remix for Christian Smith, a Rework, a new EP for Clash Lion and some other secret projects that I can't talk about now. 🙂
+Shall Ocin: I am finishing a remix for Christian Smith, a Rework, a new EP for Clash Lion and some other secret projects that I can't talk about now! Haha
 <br><br>
