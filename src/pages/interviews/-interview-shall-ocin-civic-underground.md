@@ -38,7 +38,7 @@ Shall Ocin: We met in a festival in Colombia back in January, and we both wanted
 
 **RR: Last year saw you launch the label, **[**Clash Lion**](https://soundcloud.com/clashlion)** with TERR and Daniel Watts. Can you describe the experience so far? What do you look for when selecting music to release on it?**
 
-Shall Ocin: Running a label requires a lot of work and you can't relax too much, but it has been an incredible experience. We don't have a specific genre we look to release, we're very open to different stuff... We're three people with very different backgrounds and styles, so we always have to find a common ground to work on, and I think that this is what makes the whole thing special.
+Shall Ocin: Running a label requires a lot of work and you can't relax too much, but it has been an incredible experience. We don't have a specific genre we look to release, we're very open to different stuff - we're three people with very different backgrounds and styles, so we always have to find a common ground to work on, and I think that this is what makes the whole thing special.
 <br><br>
 
 **RR: You have a close relationship with Maceo Plex having worked on tracks together like the remix of The Magic and played numerous B2Bs. Can you describe your creative dynamic and personal relationship for us?**
@@ -50,7 +50,7 @@ Shall Ocin: We are long-time friends and we know each other very well, so things
 
 **RR: Your wife is also a producer - is there a bit of healthy competition between you? Any plans for a collaboration soon??**
 
-Shall Ocin: I'm lucky we don't have to compete, because she's very talented. 😉I'm sure we'll work together on something in the future, but there are no concrete plans so far.
+Shall Ocin: I'm lucky we don't have to compete, because she's very talented. I'm sure we'll work together on something in the future, but there are no concrete plans so far.
 <br><br>
 
 **RR: Touring and producing can take its toll on a person over time and can impact your creativity. Where do you keep finding inspiration for new music?**
