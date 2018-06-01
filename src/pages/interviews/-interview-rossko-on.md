@@ -9,7 +9,7 @@ featuredImage: /img/rosskomain.jpg
 _We caught with up the man like Rossko as he kicks off his Sydney performances this weekend to discuss Sunday raving, warehouse parties, grime music and more..._
 <br><br>
 
-**RR: Rossko - you’re lined up to play at [SLYFOX](http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Venue/Slyfox/39) and **[**S.A.S.H**](https://bit.ly/2J4srMs)** next week. What do you have planned for us with the two sets?**
+**RR: Rossko - you’re lined up to play at [SLYFOX](http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Venue/Slyfox/39) and [S.A.S.H](https://bit.ly/2J4srMs) next week. What do you have planned for us with the two sets?**
 
 Rossko: It's my third time back to Australia and the response has been great. I’ll be playing the sunrise set in the glass terrace at [S.A.S.H](http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Promoter/S-A-S-H/152) - it’s the Queen's birthday, so they're open 24 hours. I’ve played in that room twice, once by myself and a crazy b2b2b with Enzo Siragusa & Seb Zito all night long... the vibe can get electric in there. I always try to connect with the people on the day but for sure it will be full of energy on a slick techno tip and when the sun comes up I’ll keep it more grooving, more housey and of course a little bit trippier for that after-party vibe.
 
