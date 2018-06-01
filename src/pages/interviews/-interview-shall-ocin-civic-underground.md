@@ -59,7 +59,7 @@ Shall Ocin: This is one of the most difficult questions that people ask... I hav
 
 **RR: Fair enough. Finally, what else do you have coming up this year?**
 
-Shall Ocin: I am finishing a remix for Christian Smith, a new EP for Clash Lion and some other secret projects that I can't talk about now haha!
+Shall Ocin: I am finishing a remix for Christian Smith, a new EP for Clash Lion and some other secret projects that I can't talk about now haha.
 <br><br>
 
 **RR: Thanks for the chat, see you at the Civic!**
