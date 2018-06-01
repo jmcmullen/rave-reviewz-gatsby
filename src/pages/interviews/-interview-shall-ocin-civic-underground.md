@@ -6,7 +6,7 @@ date: 2018-05-31T12:22:23.415Z
 description: 'Our chat with Argentinian techno talent, Shall Ocin'
 featuredImage: /img/shallocinmain.jpg
 ---
-_Shall Ocin, AKA Nicolas Abalos, has come a long way from his early days playing gigs in his hometown of Cordoba, Argentina. Since falling in love with DJing and techno in the late 90s, he has built up a strong catalogue of original productions and remixes leading to recognition from heavyweights in the game, including Maceo Plex. RR got a chance to speak with Nicolas ahead of his [club tour down under](https://www.ravereviewz.net/Event/Zoo-Events-w-Shall-Ocin-Tutti-Sydney/202)_ and find out more about the man himself, his music and what we can expect..._
+_Shall Ocin, AKA Nicolas Abalos, has come a long way from his early days playing gigs in his hometown of Cordoba, Argentina. Since falling in love with DJing and techno in the late 90s, he has built up a strong catalogue of original productions and remixes leading to recognition from heavyweights in the game, including Maceo Plex. RR got a chance to speak with Nicolas ahead of his [club tour down under](https://www.ravereviewz.net/Event/Zoo-Events-w-Shall-Ocin-Tutti-Sydney/202) and find out more about the man himself, his music and what we can expect..._
 <br><br>
 
 **RR: Nicolas, this will be your first trip down under - what image do you have of Australia in your mind? And what do you have you planned for the visit?**
@@ -65,4 +65,4 @@ Shall Ocin: I am finishing a remix for Christian Smith, a new EP for Clash Lion 
 **RR: Thanks for the chat, see you at the Civic!**
 <br><br>
 
-Catch Shall Ocin at the [Civic Underground](https://www.ravereviewz.net/Venue/Civic-Underground/35) tonight, details [here](https://www.ravereviewz.net/Event/Zoo-Events-w-Shall-Ocin-Tutti-Sydney/202).
+_Catch Shall Ocin at the [Civic Underground](https://www.ravereviewz.net/Venue/Civic-Underground/35) tonight, details [here](https://www.ravereviewz.net/Event/Zoo-Events-w-Shall-Ocin-Tutti-Sydney/202)._
