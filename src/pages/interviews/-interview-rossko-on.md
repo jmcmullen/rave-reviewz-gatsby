@@ -4,7 +4,7 @@ path: /interview/rossko
 title: ROSSKO on how to throw a warehouse party
 date: 2018-05-31T01:37:17.230Z
 description: 'Lessons in life and music from original FUSE founding member, ROSSKO'
-featuredImage: /img/rossko.jpg
+featuredImage: /img/rosskomain.jpg
 ---
 _We caught with up the manlike Rossko as he kicks off his Sydney performances this weekend to discuss Sunday raving, warehouse parties, grime music and more..._
 <br><br>
