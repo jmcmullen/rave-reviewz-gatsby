@@ -82,4 +82,4 @@ For me, the D Double E & DJ TUBBY set (below - RR) defines grime. It's almost ha
 **RR: Cool, thanks for the chat Rossko. Looking forward to seeing you in action.**
 <br><br>
 
-_Catch Rossko at SLYFOX this Saturday (details [here](http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Event/Foxlife-Rossko-Enmore-Marrickville---NSW/286)) and SASH next weekend (details _[_here_](https://bit.ly/2J4srMs)_)._
+_Catch Rossko at SLYFOX this Saturday (details [here](http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Event/Foxlife-Rossko-Enmore-Marrickville---NSW/286)) and SASH next weekend (details [here](https://bit.ly/2J4srMs))._
