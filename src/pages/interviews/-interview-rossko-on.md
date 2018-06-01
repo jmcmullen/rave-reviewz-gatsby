@@ -6,7 +6,7 @@ date: 2018-05-31T01:37:17.230Z
 description: 'Lessons in life and music from original FUSE founding member, ROSSKO'
 featuredImage: /img/rosskomain.jpg
 ---
-_We caught with up the manlike Rossko as he kicks off his Sydney performances this weekend to discuss Sunday raving, warehouse parties, grime music and more..._
+_We caught with up the man like Rossko as he kicks off his Sydney performances this weekend to discuss Sunday raving, warehouse parties, grime music and more..._
 <br><br>
 
 **RR: Rossko - you’re lined up to play at [SLYFOX](http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Venue/Slyfox/39) and S.A.S.H next week. What do you have planned for us with the two sets?**
