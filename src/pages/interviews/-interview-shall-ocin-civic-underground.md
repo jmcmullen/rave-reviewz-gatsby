@@ -11,7 +11,7 @@ _Shall Ocin, AKA Nicolas Abalos, has come a long way from his early days playing
 
 **RR: Nicolas, this will be your first trip down under - what image do you have of Australia in your mind? And what do you have you planned for the visit?**
 
-Shall Ocin: Australia seems like a paradise for me... its flora, fauna, the geography. It's my first time in the country, and I usually stay just one day in each city, but this time I have more than a week to enjoy Melbourne and [Sydney](https://www.ravereviewz.net/Events-Location/Sydney), so I'm glad I'm able to spend the time learning about the country's culture and its roots.
+Shall Ocin: Australia seems like a paradise for me... its flora, fauna, the geography. It's my first time in the country, and I usually stay just one day in each city, but this time I have more than a week to enjoy Melbourne and [Sydney,](https://www.ravereviewz.net/Events-Location/Sydney) so I'm glad I'm able to spend the time learning about the country's culture and its roots.
 <br><br>
 
 **RR: You released a number of tracks under your former alias, Paneoh, before transitioning to Shall Ocin. What’s the meaning behind the two names? And why the change?**
