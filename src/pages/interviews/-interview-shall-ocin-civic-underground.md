@@ -6,12 +6,12 @@ date: 2018-05-31T12:22:23.415Z
 description: 'Our chat with Argentinian techno talent, Shall Ocin'
 featuredImage: /img/shallocinmain.jpg
 ---
-_Shall Ocin, AKA Nicolas Abalos, has come a long way from his early days playing gigs in his hometown of Cordoba, Argentina. Since falling in love with DJing and techno in the late 90s, he has built up a strong catalogue of original productions and remixes leading to recognition from heavyweights in the game, including Maceo Plex. RR got a chance to speak with Nicolas ahead of his [club tour down under](https://www.ravereviewz.net/Event/Zoo-Events-w-Shall-Ocin-Tutti-Sydney/202) and find out more about the man himself, his music and what we can expect..._
+_Shall Ocin, AKA Nicolas Abalos, has come a long way from his early days playing gigs in his hometown of Cordoba, Argentina. Since falling in love with DJing and techno in the late 90s, he has built up a strong catalogue of original productions and remixes leading to recognition from heavyweights in the game, including Maceo Plex. _[_RR_](https://ravereviewz.net.au/)_ got a chance to speak with Nicolas ahead of his [club tour down under](https://www.ravereviewz.net/Event/Zoo-Events-w-Shall-Ocin-Tutti-Sydney/202) and find out more about the man himself, his music and what we can expect..._
 <br><br>
 
 **RR: Nicolas, this will be your first trip down under - what image do you have of Australia in your mind? And what do you have you planned for the visit?**
 
-Shall Ocin: Australia seems like a paradise for me... its flora, fauna, the geography. It's my first time in the country, and I usually stay just one day in each city, but this time I have more than a week to enjoy Melbourne and Sydney, so I'm glad I'm able to spend the time learning about the country's culture and its roots.
+Shall Ocin: Australia seems like a paradise for me... its flora, fauna, the geography. It's my first time in the country, and I usually stay just one day in each city, but this time I have more than a week to enjoy Melbourne and [Sydney](https://www.ravereviewz.net/Events-Location/Sydney), so I'm glad I'm able to spend the time learning about the country's culture and its roots.
 <br><br>
 
 **RR: You released a number of tracks under your former alias, Paneoh, before transitioning to Shall Ocin. What’s the meaning behind the two names? And why the change?**
