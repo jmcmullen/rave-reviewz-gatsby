@@ -39,7 +39,7 @@ Ben: Hmm… probably [S.A.S.H](https://www.facebook.com/sashsundays/) terrace. T
 Ben: Things had gotten really bad but they’ve picked up a lot in the past year. Now there are loads of people doing good parties which makes it competitive, but it’s good for the scene. People are taking bigger risks which means better parties.
 <br><br>
 
-![](/img/ben-nott.jpg)
+![null](/img/ben-nott.jpg)
 
 **RR: Now, [Emanuel Satie](https://magazine.ravereviewz.net/interview/emanuel-satie-blueprint-cruise) is playing at your boat party this weekend. He’s dropped some sick tracks, Come As You Are is our favourite. What do you think we can expect from his set?**
 
