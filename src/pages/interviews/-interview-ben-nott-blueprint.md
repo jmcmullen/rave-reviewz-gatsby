@@ -51,6 +51,6 @@ Ben: We think his style suits our parties really well, so it should be loads of 
 Ben: We’ve got our Harbourlife afterparty at Manning Bar on the 18th of November with [Oxia](https://www.facebook.com/OXIA.official/) playing, can’t wait to hear him drop Domino. We’ve also got our Halloween party and a collaboration with Sash in the pipeline.
 <br><br>
 
-**RR: Looking forward to it. Lastly, and most importantly… Sven Vath or **[**Carl Cox**](https://magazine.ravereviewz.net/interview/carl-cox-pure)**??**
+**RR: Looking forward to it. Lastly, and most importantly… Sven Vath or [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure)??**
 
 Ben: Has to be Sven!
