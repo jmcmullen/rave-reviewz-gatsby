@@ -6,7 +6,7 @@ date: 2017-10-03T14:39:38.000Z
 description: Our exclusive interview with the seasoned DJ and Blueprint founder
 featuredImage: /img/ben-nott-dj.jpg
 ---
-[_Rave Reviewz'](https://ravereviewz.net.au/) Kamran Ahmed caught up with the Blueprint boss for a chat about all things ravey, ahead of their boat cruise this Saturday..._
+_[Rave Reviewz'](https://ravereviewz.net.au/) Kamran Ahmed caught up with the Blueprint boss for a chat about all things ravey, ahead of their boat cruise this Saturday..._
 <br><br>
 
 **RR: So Ben, [Blueprint](https://www.facebook.com/blueprintentsydney/) has built a reputation as one of the most consistent house & techno parties in Sydney. Tell us how it started.**
