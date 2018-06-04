@@ -54,3 +54,6 @@ Ben: We’ve got our Harbourlife afterparty at Manning Bar on the 18th of Novemb
 **RR: Looking forward to it. Lastly, and most importantly… Sven Vath or [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure)??**
 
 Ben: Has to be Sven!
+<br><br>
+
+**RR: Cheers for the chat Ben.**
