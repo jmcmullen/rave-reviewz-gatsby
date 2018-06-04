@@ -6,7 +6,7 @@ date: 2017-10-03T14:39:38.000Z
 description: Our exclusive interview with the seasoned DJ and Blueprint founder
 featuredImage: /img/ben-nott-dj.jpg
 ---
-[_Rave Reviewz'](https://ravereviewz.net.au/) Kamran Ahmed caught up with the Blueprint boss for a chat about all things ravey, ahead of their boat cruise this Saturday..._
+[Rave Reviewz'](https://ravereviewz.net.au/) Kamran Ahmed caught up with the Blueprint boss for a chat about all things ravey, ahead of their boat cruise this Saturday...
 <br><br>
 
 **RR: So Ben, [Blueprint](https://www.facebook.com/blueprintentsydney/) has built a reputation as one of the most consistent house & techno parties in Sydney. Tell us how it started.**
@@ -54,3 +54,6 @@ Ben: We’ve got our Harbourlife afterparty at Manning Bar on the 18th of Novemb
 **RR: Looking forward to it. Lastly, and most importantly… Sven Vath or [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure)??**
 
 Ben: Has to be Sven!
+<br><br>
+
+**RR: Cheers for the chat Ben.**
