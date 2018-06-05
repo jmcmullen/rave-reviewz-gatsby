@@ -10,7 +10,7 @@ exports.onCreateNode = ({
   if (frontmatter) {
     const { featuredImage, title } = frontmatter;
     if (featuredImage) {
-      if (featuredImage.indexOf('/img') === 0) {
+      if (featuredImage.indexOf('/images') === 0) {
         frontmatter.featuredImage = path.relative(
           path.dirname(node.fileAbsolutePath),
           path.join(__dirname, '/static/', featuredImage)

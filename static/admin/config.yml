@@ -3,8 +3,8 @@ backend:
   branch: master
 
 publish_mode: editorial_workflow
-media_folder: static/img
-public_folder: /img
+media_folder: static/images
+public_folder: /images
 
 collections:
   - name: "interviews"
