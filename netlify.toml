@@ -61,3 +61,13 @@
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
   force = true
+[[redirects]]
+  from = "/umbraco/*"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/jquery-2.1.4.min.js"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/jquery-2.1.4.min.js"
+  status = 200
+  force = true
