@@ -8,12 +8,7 @@
   from = "/events"
   to = "/Events-Location/Sydney/"
 [[redirects]]
-  from = "/Events-Location/Sydney"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
-  status = 200
-  force = true
-[[redirects]]
-  from = "/Events-Keyword/*"
+  from = "/Events-Location/*"
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
   force = true
@@ -23,22 +18,22 @@
   status = 200
   force = true
 [[redirects]]
-  from = "/PromotorList"
+  from = "/PromotorList/*"
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
   force = true
 [[redirects]]
-  from = "/VenueList"
+  from = "/VenueList/*"
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
   force = true
 [[redirects]]
-  from = "/promotorvenue-faqs"
+  from = "/promotorvenue-faqs/*"
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
   force = true
 [[redirects]]
-  from = "/what-the-faq"
+  from = "/what-the-faq/*"
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
   force = true
