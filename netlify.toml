@@ -23,7 +23,7 @@
   force = true
 [[redirects]]
   from = "/Event/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Event/:splat"
   status = 200
   force = true
 [[redirects]]
@@ -33,27 +33,27 @@
   force = true
 [[redirects]]
   from = "/VenueList/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/VenueList"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/VenueList/:splat"
   status = 200
   force = true
 [[redirects]]
   from = "/promotorvenue-faqs/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/promotorvenue-faqs/:splat"
   status = 200
   force = true
 [[redirects]]
   from = "/what-the-faq/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/what-the-faq/:splat"
   status = 200
   force = true
 [[redirects]]
   from = "/css/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/css/:splat"
   status = 200
   force = true
 [[redirects]]
   from = "/scripts/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/scripts/:splat"
   status = 200
   force = true
 [[redirects]]
