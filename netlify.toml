@@ -63,7 +63,7 @@
   force = true
 [[redirects]]
   from = "/umbraco/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/umbraco/:splat"
   status = 200
   force = true
 [[redirects]]
