@@ -7,7 +7,7 @@ description: >
   We had a chat with the Italian duo and stalwarts on the European underground
   scene for over a decade, Supernova in preparation for tonight’s WeLove party
   with Simone Liberali.
-featuredImage: "/img/supernova.jpg"
+featuredImage: "/images/supernova.jpg"
 ---
 
 _Under the moniker of [**Supernova**](https://www.facebook.com/supernovaitaly/), Emiliano Nencioni and Giacomo Godi have been stalwarts on the European underground scene for over a decade. We had a chat with the Italian duo in preparation for tonight’s WeLove party with Simone Liberali..._

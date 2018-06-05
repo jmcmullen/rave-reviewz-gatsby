@@ -7,7 +7,7 @@ description: >-
   We caught the two Melbourne producers GMJ & Matter AKA Gavin Martin & Matty
   Doyle in the run up to their eagerly awaited live performance at Forbidden
   TØNË this Friday... 
-featuredImage: /img/gmj-and-matter.jpg
+featuredImage: /images/gmj-and-matter.jpg
 ---
 
 _Individually and collaboratively, [GMJ](https://www.facebook.com/gmjmusic/) & [Matter](https://www.facebook.com/matterlive/) AKA Gavin Martin & Matty Doyle have played a huge part in the development of Australian progressive house. We caught the two Melbourne producers in the run up to their eagerly awaited live performance at [Forbidden TØNË](https://www.facebook.com/forbiddentone/) this Friday..._
@@ -28,7 +28,7 @@ _Individually and collaboratively, [GMJ](https://www.facebook.com/gmjmusic/) & [
 
 **Matty:** Thanks for that! It’s a very special tune for us both. The [Anjunadeep](https://www.facebook.com/anjunadeep/) team contacted me at the time, looking for original music to release so I sent through ‘Earthless’ as we were working on that and they loved it! The inspiration for that tune was quite surreal as the main melody came to me during a deep meditation experience. I sent that to Gavin and the rest is history.
 
-![GMJ & Matter LIVE @ Dragon Dreaming Festival 2017     IMAGE Choose an image ALT TEXT](/img/dragon-dreaming-festival-2017.jpg)
+![GMJ & Matter LIVE @ Dragon Dreaming Festival 2017     IMAGE Choose an image ALT TEXT](/images/dragon-dreaming-festival-2017.jpg)
 
 **RR** Awesome. There was also the superb 2-parter _‘[Compiled & Mixed 025](https://www.beatport.com/release/gmj-and-matter/2159002)’_ last year. What was the concept behind it?
 

@@ -6,7 +6,7 @@ date: 2017-12-01T00:00:00+11:00
 description: >-
   Read our chat with Hoj about good times at Return to Rio, Burning Man and
   more.
-featuredImage: /img/hoj.jpg
+featuredImage: /images/hoj.jpg
 ---
 _Shortly after his departure from sunny Sydney, we caught up with master musicologist [Hoj](https://www.facebook.com/hoj/) for his thoughts on Return to Rio and the lowdown on his past and future shenanigans..._
 

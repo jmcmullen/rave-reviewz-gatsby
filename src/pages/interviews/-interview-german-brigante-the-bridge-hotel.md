@@ -6,7 +6,7 @@ date: 2018-02-23T13:17:59.000Z
 description: >-
   We dropped in on German Brigante for a chat about his successful career and
   trip to Australia...
-featuredImage: /img/german-brigante.jpg
+featuredImage: /images/german-brigante.jpg
 ---
 _German by name, Spanish by nationality and super-talented by all accounts - **German Brigante** takes to the stage at the Bridge Hotel tonight. Here’s our chat with the Manitox bossman and Dirtybird regular..._
 

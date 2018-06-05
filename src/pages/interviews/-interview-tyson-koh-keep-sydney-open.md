@@ -6,7 +6,7 @@ date: 2017-10-19T03:53:10.000Z
 description: >-
   We caught up with the man behind Keep Sydney Open, following the huge news
   that they're considering starting a political party.
-featuredImage: /img/tyson-koh.jpg
+featuredImage: /images/tyson-koh.jpg
 ---
 _Stoked at the news that Keep Sydney Open is considering running for state parliament, we caught up with Tyson Koh, manager of the campaign and FBI radio DJ, ahead of their event this weekend - Meet me in Darlo._
 
@@ -24,7 +24,7 @@ Tyson: The campaign actually started a couple of months before the Lockout laws 
 
 Tyson: There has been lots of positive change due to the campaign - in attitudes and legislation. We helped the government realise that live music venues, including those with DJs, offer a unique type of entertainment in the city which led to an extension of the lockout time 1.30am to 2am. Plus small bars can now serve spirits without mixers after midnight and the ‘three strikes’ regime – which previously could mean a loss of license for venues for a few mistakes – has been relaxed. So there has been progress, but ultimately the Lockout laws are still around, which gets frustrating when you see Sydney’s venues and reputation suffering.
 
-![](/img/keep-sydney-open-rally.jpg)
+![](/images/keep-sydney-open-rally.jpg)
 
 **RR: How should the industry tackle this incredibly damaging problem?**
 

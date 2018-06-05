@@ -7,7 +7,7 @@ description: >
   Before his highly anticipated sunset session at The Rio Rooftop this Friday,
   we caught up with sonic curator and connect 4 enthusiast Atish, to discuss his
   fast-paced career and side projects. Read on!
-featuredImage: /img/atish.jpg
+featuredImage: /images/atish.jpg
 ---
 _Before his highly anticipated sunset session at [The Rio Rooftop](https://www.facebook.com/events/493902811009824/) this Friday, we caught up with sonic curator and [connect 4](https://www.youtube.com/watch?v=xuZK5MDLpxw) enthusiast **[Atish](https://www.facebook.com/atishmusic/)**, to discuss his fast-paced career and side projects. Read on!_
 

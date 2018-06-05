@@ -4,7 +4,7 @@ path: /interview-paco-osuna-love-making-people-dance
 title: PACO OSUNA on making people dance
 date: 2018-04-24T06:37:55.418Z
 description: Our chat with Spanish powerhouse Paco Osuna ahead of PURE
-featuredImage: /img/pacoosuna-01-color.jpg
+featuredImage: /images/pacoosuna-01-color.jpg
 ---
 
 _In anticipation of [**PURE**](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138) this weekend, we caught up with Spanish powerhouse and Mindshake label boss, [**Paco Osuna**](https://www.facebook.com/PacoOsunaOfficial/) about his recent tracks, the epic Resistance Miami B2B2B and his fear of snakes and spiders..._

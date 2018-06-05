@@ -24,7 +24,7 @@ export default ({ prev, next, templateKey }) => {
 
 export const query = graphql`
   query GatsbyImageSampleQuery {
-    file(relativePath: { eq: "/img/babylon.jpg" }) {
+    file(relativePath: { eq: "/images/babylon.jpg" }) {
       childImageSharp {
         resolutions(width: 125, height: 125) {
           src

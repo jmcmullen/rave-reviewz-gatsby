@@ -6,7 +6,7 @@ date: 2018-01-05T03:29:14.000Z
 description: >-
   We all love WeLove sydney! Read our interview with frontman and resident DJ
   Nick.
-featuredImage: /img/nick-reverse.jpg
+featuredImage: /images/nick-reverse.jpg
 ---
 Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves...
 

@@ -5,7 +5,7 @@ title: 'Jimmy Galvin: By Your Side'
 date: 2018-02-13T13:55:45.000Z
 description: |
   Our D&M chat with By Your's Side smooth operator...
-featuredImage: /img/jimmy-galvin.jpg
+featuredImage: /images/jimmy-galvin.jpg
 ---
 _We spoke to brand boss **Jimmy Galvin** before their sunset cruise this Saturday with the talented Francesca Lombardo. _
 
@@ -37,7 +37,7 @@ _We spoke to brand boss **Jimmy Galvin** before their sunset cruise this Saturda
 
 **Jimmy:** In October last year I played for Dragonfruit at a club called Capulet in Brisbane... I still smile now thinking of that set, everyone was certainly on the same page that night. It was also really special to warm up for HNQO for all his sets in Australia & Bali when he toured out here. He’s a good friend and one of the most talented guys I know, so that was pretty cool. I’m also massively pumped to play just before Francesca Lombardo this weekend on our cruise, I’ve adored her music for years & years.
 
-![A snapshot from Jimmy's memorable set in Brisbane](/img/jimmy-galvin-melbourne-set.jpg)
+![A snapshot from Jimmy's memorable set in Brisbane](/images/jimmy-galvin-melbourne-set.jpg)
 
 **RR:** We really liked your guest mix on FBI radio, what was the creative process for it?
 

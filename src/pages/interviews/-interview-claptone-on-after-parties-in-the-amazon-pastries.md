@@ -6,7 +6,7 @@ date: 2018-05-04T04:12:52.856Z
 description: >-
   We caught up with the masked enigma ahead of his Masquerade tour hitting
   Australia
-featuredImage: /img/claptone-1.jpg
+featuredImage: /images/claptone-1.jpg
 ---
 _The mysterious masked magician gave us the low-down on his new album, Banksy, baking and more..._
 
@@ -34,7 +34,7 @@ Claptone: Under the Moon is one of my favourites on the album, how I love Nathan
 
 Claptone: The mask has been with me for centuries, any recollections of life before it have seemingly faded away into obscurity. Seeing fans and friends donning their own golden masks at my concerts around the globe is quite awesome. Some things in life are timeless - orange sunsets, a great cup of coffee, long walks on the beach... I personally will never grow tired of the endless, golden ocean of masks out on the dance floor.  
 
-![null](/img/claptone-3.jpg)
+![null](/images/claptone-3.jpg)
 
 **RR: There are obvious parallels between you and the artist Banksy - as well as the anonymity, he is taking a more underground art form to the masses. Firstly are you a fan of his work, and secondly - do you feel it is important to balance credibility with popularity?**
 
@@ -44,7 +44,7 @@ Claptone: [Banksy](http://www.banksy.co.uk) is obviously a great artist and some
 
 Claptone: Tragic moments like these should make you realise and appreciate the simple and beautiful things in DJ life that often get overlooked and buried under a massive touring and PR schedule. In the end there is pressure comparable to that of upper management when you are part of the machine and at a certain level in your career. It’s all about balance... take time off, create a good work environment and work with a reliable and well structured team.   
 
-![null](/img/claptone-2.png)
+![null](/images/claptone-2.png)
 
 **RR: Ok, if we asked you to pick one set you’ve played that really stands out in your memory, which would you choose?**
 

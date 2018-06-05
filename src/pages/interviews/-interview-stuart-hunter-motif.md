@@ -4,7 +4,7 @@ path: /interview/stuart-hunter
 title: 'Stuart Hunter: Motif'
 date: 2017-10-25T06:36:58.000Z
 description: 'A chat with the Motif co-founder, before their massive 1st birthday party...'
-featuredImage: /img/stuart-hunter.jpg
+featuredImage: /images/stuart-hunter.jpg
 ---
 _Ahead of their 1st birthday celebration at the Civic this Friday, featuring progressive powerhouse Khen, we caught up with **Stuart Hunter** of Sydney-based events crew Motif for a chat._
 

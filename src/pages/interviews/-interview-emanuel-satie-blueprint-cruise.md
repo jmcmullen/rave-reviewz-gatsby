@@ -4,7 +4,7 @@ path: /interview/emanuel-satie-blueprint-cruise
 title: Emanuel Satie @ Blueprint Cruise
 date: 2017-10-08T14:45:31.000Z
 description: Our hilarious interview with Emanuel Satie during the Blueprint Cruise
-featuredImage: /img/emmanuel-satie2.jpg
+featuredImage: /images/emmanuel-satie2.jpg
 ---
 _Before a blinding set on the Blueprint Cruise, we caught up with the event's headliner and all-round nice guy..._
 <br><br>
@@ -19,7 +19,7 @@ Emanuel: Thanks man. I love Sydney, it has a chilled out surfer vibe but it’s 
 Emanuel: I love it man, everybody loves a boat party right? When I arrived I saw a bunch of pirates in the queue and I thought it’s gonna be messy!
 <br><br>
 
-![null](/img/emanuel-satie.jpg)
+![null](/images/emanuel-satie.jpg)
 
 **RR: Sounds about right! You’re headlining today, how would you describe your style?**
 

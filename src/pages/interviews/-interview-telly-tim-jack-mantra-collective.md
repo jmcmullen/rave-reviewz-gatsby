@@ -7,7 +7,7 @@ description: >-
   To celebrate the launch of their vinyl-only label, we caught up with
   forward-thinking trio Mantra Collective to discuss their new venture, launch
   party and more... 
-featuredImage: /img/mantra- collective.jpg
+featuredImage: /images/mantra- collective.jpg
 ---
 _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.facebook.com/MantraCollective/) have curated some of the finest underground parties in Sydney and are now gearing up for the launch of their record label. We dropped in on founders Telly, Tim and Jack for a chat before this weekend’s milestone party…_
 
@@ -31,7 +31,7 @@ _Since exploding onto the scene in 2012, [**Mantra Collective**](https://www.fac
 
 **Mantra Collective:** Last year’s ‘Reconstructed’ party with the [Bare Essentials](https://www.facebook.com/bareessentialssydney/) team stands out as the crown jewel in our history. It was probably our most ambitious and creative project… a proper 900 person rave in a carpark with 2 of the world’s leading underground acts - [Barac ](https://www.facebook.com/baracmusic/)and [East End Dubs](https://www.facebook.com/EastEndDubs/). It was ambitious in terms of location and line-up, and we also enlisted the very best Sydney has to offer in terms of Funktion-One Sound and a world class lighting system. There was also an unexpected heatwave! So we had to use all our combined experience to pull together an impromptu cooling system to keep the crowd cool and happy…
 
-![Party-mantra-collective](/img/mantra-collective-party.jpg)
+![Party-mantra-collective](/images/mantra-collective-party.jpg)
 
 📸 [Gui Jorge Photography](https://www.facebook.com/guijorgeweddingphotography/)
 

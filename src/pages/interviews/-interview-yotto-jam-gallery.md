@@ -6,7 +6,7 @@ date: 2017-10-16T03:40:47.000Z
 description: >-
   With major releases on both Anjunadeep and Joris Voorn's Green imprint, here's
   our insightful chat with the Finnish artist...
-featuredImage: /img/yotto.jpg
+featuredImage: /images/yotto.jpg
 ---
 _Fresh off the release of his acclaimed EP North, the Finnish DJ/Producer made his Australian debut on Friday night in Sydney, with a passionate 2-hour set at Jam Gallery. [Rave Reviewz'](https://magazine.ravereviewz.net) Sean McDonald caught up with the Deep house hitmaker afterwards to discuss his career, recent release and upcoming projects._
 <br><br>
@@ -15,7 +15,7 @@ _Fresh off the release of his acclaimed EP North, the Finnish DJ/Producer made h
 
 Yotto: It was very intimate, which is honestly my favourite way to play. I always love it when you have a low ceiling and when the booth is close to the dancefloor; you can actually connect with the crowd. And I could definitely feel that they were here for my music tonight - when I opened with my own record 'Off the Grid' the reaction was just amazing. I’m super happy about this being my [Sydney ](https://www.ravereviewz.net/Events-Location/Sydney)debut.
 
-![null](/img/yotto-sydney.jpg)
+![null](/images/yotto-sydney.jpg)
 
 **RR: We are too mate. Bootz ‘N’ Catz have built a reputation for hosting events featuring deep/progressive house legends, including some of your label mates. Tell us how you got involved with [Anjunadeep](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.anjunadeep.com%2F&h=ATMsg7-YlXooj2UiNvslpFnXa-tE3LOK3YU1uL63N0XqBGaYNSEQIW4iJVqOWVYTFzB0qYGJehHuWqoJJVc62e-UsQf8uAzLPGAhjeJ2cbCl1_mh1kpN8CYVulUR1Aqt3ROPd6t5).**
 

@@ -7,7 +7,7 @@ description: >-
   We caught up with the legendary Darren Emerson ahead of his recent Global
   Underground gig at the Greenwood Hotel for a drink and chat about his career,
   record label and upcoming releases.
-featuredImage: /img/darren-emerson-crop.jpg
+featuredImage: /images/darren-emerson-crop.jpg
 ---
 _Shortly after his touchdown in Sydney for the [Global Underground](https://www.facebook.com/events/1563659050364245/) 20 year anniversary gig, we caught up with legendary DJ / producer and top bloke [**Darren Emerson**](https://www.facebook.com/DarrenEmersonMusic/) in the lead up to the main event..._
 

@@ -6,7 +6,7 @@ date: 2017-10-30T06:30:38.000Z
 description: >-
   Before the marvellous madness of Return to Rio, we got an exclusive lowdown
   from the festival's curator and bossman...
-featuredImage: /img/ricky-cooper.jpg
+featuredImage: /images/ricky-cooper.jpg
 ---
 _With the countdown to the magical weekender that is [**Return to Rio**](https://www.facebook.com/ReturnToRio/) entering its final stages, we dropped in on festival director & chief dream-weaver **Ricky Cooper** for a catch-up…_
 

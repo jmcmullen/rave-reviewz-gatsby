@@ -4,7 +4,7 @@ path: /interview/mihai-popoviciu-past-influences-future-plans
 title: MIHAI POPOVICIU on past influences & future plans
 date: 2018-04-25T16:02:38.000Z
 description: Our chat with the Romanian DJ/Producer in the thick of his Australian tour...
-featuredImage: /img/_w7a2922.jpg
+featuredImage: /images/_w7a2922.jpg
 ---
 _After igniting his trip down under with an intimate set at [SLYFOX](https://www.ravereviewz.net/Venue/Slyfox/39), we spoke to one of Eastern Europe's finest exports, [**Mihai Popoviciu**](https://www.facebook.com/mihaipopoviciu1/)..._
 <br><br>
@@ -19,7 +19,7 @@ Mihai: Hey guys! Thank you for this interview! Last time I was in Australia was 
 Mihai: I  fell in love with electronic music at a young age... I was around 14, and back then I was mostly listening to German rave, techno and trance. Later I discovered Detroit techno and that is when I started to dream about the possibility of earning a living from music. My heroes were the big Detroit techno acts, but also icons like Laurent Garnier and Sven Väth.
 <br><br>
 
-![](/img/mihai-popoviciu.jpg)
+![](/images/mihai-popoviciu.jpg)
 
 **RR: Now [Cyclic Records](https://www.facebook.com/cyclicrecords/) has grown rapidly since 2012 - what have been the biggest challenges and highlights of running your own label?**
 

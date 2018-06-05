@@ -4,7 +4,7 @@ path: /interview/wade-club-culture
 title: WADE on keeping club culture alive
 date: 2018-05-15T22:16:41.277Z
 description: 'Our chat with Spanish groovemaster, Wade'
-featuredImage: /img/wade-1.jpg
+featuredImage: /images/wade-1.jpg
 ---
 _Before his performance at this Friday's [WeLove event](https://www.ravereviewz.net/Event/WeLove-148-Wade-Fernando-Mesa-Darlinghurst/264) at the [Burdekin](https://www.ravereviewz.net/Venue/Burdekin-Hotel/27), we caught up with the in-demand Spanish producer about his upcoming EP, recent events in Georgia and more..._
 <br><br>
@@ -41,7 +41,7 @@ Wade: It's important for the label to create a style and work with the artists o
 Wade: Nowadays there are so many artists and it's difficult to be original with each track. It's important to stay true to your style, work a lot in the studio to try to be the best and never lose your humility.
 <br><br> 
 
-![](/img/wade-4.jpg)
+![](/images/wade-4.jpg)
 
 **RR: Now we hear you have quite the record collection. What are your thoughts on the ongoing vinyl vs digital debate? Do you have a preference?**
 

@@ -52,8 +52,8 @@
   status = 200
   force = true
 [[redirects]]
-  from = "/img/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/img/:splat"
+  from = "/images/*"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/images/:splat"
   status = 200
   force = true
 [[redirects]]

@@ -9,7 +9,7 @@ description: >-
   David James have built a reputation for high quality events with a solid music
   policy. Here’s our chat with founding member Alex, on fighting for the
   CAUSE...
-featuredImage: /img/alex-ludlow.jpg
+featuredImage: /images/alex-ludlow.jpg
 ---
 **RR:** Alex, thanks for joining us. [CAUSE](https://www.facebook.com/CauseSydney/) is definitely making waves on the Sydney house & tech scene. How did it all start? 
 

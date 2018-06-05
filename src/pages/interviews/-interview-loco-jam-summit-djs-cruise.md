@@ -6,7 +6,7 @@ date: 2018-02-15T00:00:00+11:00
 description: >-
   We managed to track down Lloyd AKA Loco to find out what techno tag-team Loco
   & Jam have in store for this Saturday's boat party.
-featuredImage: /img/loco-jam.jpg
+featuredImage: /images/loco-jam.jpg
 ---
 _Some of you may remember a certain Vivid boat cruise last year featuring techno tag-team [Loco & Jam](https://www.facebook.com/locoandjam/), which pretty much set the bar for boat parties that followed. Well, the boys are back in Sydney for another round! We managed to track down **Lloyd AKA Loco** to find out what they have in store..._
 

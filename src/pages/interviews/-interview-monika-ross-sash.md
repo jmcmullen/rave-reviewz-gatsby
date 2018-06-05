@@ -7,7 +7,7 @@ description: >-
   Forging an impressive path in both Australia and Europe, Monika Ross has a
   stellar reputation in the game. We spoke to the highly sought-after DJ and
   producer before Sunday’s landmark 500th party at S.A.S.H...
-featuredImage: /img/monika-ross.jpg
+featuredImage: /images/monika-ross.jpg
 ---
 _Forging an impressive path in both Australia and Europe, [Monika Ross](https://www.facebook.com/miss.monika.ross/) has a stellar reputation in the game. We spoke to the highly sought-after DJ and producer before Sunday’s landmark 500th party at S.A.S.H..._
 

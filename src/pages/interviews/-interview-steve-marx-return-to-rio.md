@@ -6,7 +6,7 @@ date: 2017-11-07T06:27:04.000Z
 description: >-
   Top selector Steve Marx from his Return to Rio debut. Read on for quality
   tales from behind the decks!
-featuredImage: /img/steve-marx.jpg
+featuredImage: /images/steve-marx.jpg
 ---
 _Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with [**Steve Marx**](https://www.facebook.com/SteveMarxOfficial/) – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival debrief…_
 

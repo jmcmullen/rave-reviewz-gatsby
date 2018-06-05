@@ -6,7 +6,7 @@ date: 2018-01-24T22:27:02.000Z
 description: >-
   We caught up with Jessie Wallace aka Wild Fox to discuss her music and the
   direction her Compass is pointing her in ... 
-featuredImage: /img/wild-fox.jpg
+featuredImage: /images/wild-fox.jpg
 ---
 _After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallace aka [Wild Fox](https://www.facebook.com/wildfoxdj/) to discuss her music and the direction her [Compass](https://www.facebook.com/compasseventssydney/) is pointing her in..._
 

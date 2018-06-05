@@ -7,7 +7,7 @@ description: >-
   The atmosphere in Sydney reached fever pitch as Electric Gardens Festival
   rolled in to town last weekend, boasting a cast of heavy-hitters from across
   the dance music spectrum. 
-featuredImage: /img/electric-gardens.jpg
+featuredImage: /images/electric-gardens.jpg
 ---
 
 Following successful runs from the previous two years, the hotly anticipated event had a lot to live up to, and fortunately - did not disappoint.
@@ -22,7 +22,7 @@ As the day progressed, we spent much of the day at the [Circoloco arena](https:/
 
 But it was the penultimate Circoloco set of the night that took the prize for best of the fest. [Nicole Moudaber](https://www.facebook.com/officialnicolemoudaber) gave a mind-blowing performance – sunglasses on, stomping around the stage, with her curly locks bouncing and bats flying in the skies behind her – the visual spectacle matched the dark and powerful beats. She unleashed weapon after weapon, including [Miguel Bastida’s ‘Acid Brand’](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Facid-brand-original-mix%2F9726337&h=ATPLsgX4Kqj13zTVPSmuhvxnQ4XqC6KX8Evilyx9hAZyHJXO_BPW39HhEOigfS9n_c9nq2HsmyXs-6-WwwupojMg8coFsY_M8B20KAHmDYwTjt05tBFzuEEu6A-7gSPrqzV39n_D) and her own killer collaboration with [Carl Cox](https://www.facebook.com/carlcox247/) – ‘See you Next Tuesday’ which resonated particularly with the Sydney crowd. Spellbinding stuff from the MOOD records label boss.
 
-![Nicole Moudaber takes control on the Circoloco stage](/img/nicole-moudaber.jpg)
+![Nicole Moudaber takes control on the Circoloco stage](/images/nicole-moudaber.jpg)
 
 Special mentions are owed to [Henry Saiz](https://www.facebook.com/HenrySaizOfficial/), who came good with a class set featuring remixes of ‘Trigonometry’ by [Sasha](https://www.facebook.com/sasha/) and even made ‘Love on the Brain’ by Rihanna work a treat. And the masters [Jeremy Olander](https://www.facebook.com/jeremyolander/) and Dubfire delivered the goods as expected – with the crowd losing their shit when Dubfire dropped his revered remix [Radio Slave’s ‘Grindhouse’. ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fgrindhouse-dubfire-terror-planet-remix%2F804648%3Fgclid%3DEAIaIQobChMIydu9oe2F2QIVBspkCh3jagqMEAAYASAAEgKa9fD_BwE&h=ATPG4aPgdvgAnY6JfJsQywOcxuK9X1xreQ85y_tbumQuvhmnWBLGOW4wYnwzLINgOmLCneCqFo7-xuaBrFPIkAfDIieZKeZZ72h6Y1hlFpqIq--5_CKJU_D0V6mC1LwCLm2ethtI)
 

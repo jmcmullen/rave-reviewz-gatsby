@@ -6,7 +6,7 @@ date: 2018-02-06T07:09:35.000Z
 description: >-
   Our chat with the Plattenbank records boss before his gig alongside Hernan
   Cattaneo...
-featuredImage: /img/guy-mantzur.jpg
+featuredImage: /images/guy-mantzur.jpg
 ---
 _One of the most recognised names in dance music, **Guy Mantzur** joined us for a chat about his golden career and Saturday’s party with the Return to Rio family._
 

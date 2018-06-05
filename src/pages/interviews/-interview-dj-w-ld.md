@@ -4,7 +4,7 @@ path: /interview/DJ-W!ld
 title: DJ W!ld on the art of music
 date: 2018-05-24T03:52:22.109Z
 description: 'Our chat with the funky Frenchman, DJ W!ld '
-featuredImage: /img/dj-w!ld-final.jpg
+featuredImage: /images/dj-w!ld-final.jpg
 ---
 _Ahead of the monster Subsonic launch party, we caught up with multi-talented DJ W!ld about his music, painting, fashion and more..._
 
@@ -22,7 +22,7 @@ DJ W!ld: Yes I’m into graffiti and still do it in my free time. My favourite�
 
 DJ W!ld: Yes of course, I always steered clear of this "movement" that didn’t actually represent what the real French Touch was about.
 
-![null](/img/dj-w!ld-circo-loco.jpeg)
+![null](/images/dj-w!ld-circo-loco.jpeg)
 
 **RR: You were a resident at DC10's Circoloco (pictured above - RR), which led to Sven Väth inviting you into the Cocoon family. Has he been an influential figure for you and your music?**
 
@@ -50,7 +50,7 @@ DJ W!ld: Yes of course fashion has got lots of talented artists, same as in the 
 
 DJ W!ld: I don’t find much time to totally relax but everything I‘m doing is by passion so I give a lot of energy to it, then to relax I make a lot of music, paint (below - RR) or design jewellery and stuff. 
 
-![null](/img/take-a-trip.jpg)
+![null](/images/take-a-trip.jpg)
 
 **RR: So of all the sets you've played over the years, which one stands out in your memory the most?** 
 
