@@ -17,3 +17,18 @@
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
   status = 200
   force = true
+[[redirects]]
+  from = "/css/*"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/scripts/*"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/Content/*"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  status = 200
+  force = true
