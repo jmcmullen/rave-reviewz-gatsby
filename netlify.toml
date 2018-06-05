@@ -5,11 +5,20 @@
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
+  from = "https://magazine.ravereviewz.net/*"
+  to = "https://www.ravereviewz.net/:splat"
+[[redirects]]
+  from = "https://www.ravereviewz.net.au/*"
+  to = "https://www.ravereviewz.net/:splat"
+[[redirects]]
+  from = "https://ravereviewz.net/*"
+  to = "https://www.ravereviewz.net/:splat"
+[[redirects]]
   from = "/events"
   to = "/Events-Location/Sydney/"
 [[redirects]]
   from = "/Events-Location/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Events-Location/:splat"
   status = 200
   force = true
 [[redirects]]
@@ -19,12 +28,12 @@
   force = true
 [[redirects]]
   from = "/PromotorList/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/PromotorList/:splat"
   status = 200
   force = true
 [[redirects]]
   from = "/VenueList/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
+  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/VenueList"
   status = 200
   force = true
 [[redirects]]
