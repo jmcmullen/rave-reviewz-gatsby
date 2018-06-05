@@ -17,11 +17,6 @@
   from = "/events"
   to = "/Events-Location/Sydney/"
 [[redirects]]
-  from = "/*"
-  to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/:splat"
-  status = 200
-  force = true
-[[redirects]]
   from = "/Events-Location/*"
   to = "http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Events-Location/:splat"
   status = 200
