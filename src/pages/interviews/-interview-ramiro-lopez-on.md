@@ -3,12 +3,12 @@ templateKey: interview-post
 path: /interview/ramiro-lopez
 title: RAMIRO LOPEZ on the best job in the world
 date: 2018-06-06T02:37:56.081Z
-description: TBC
+description: 'Our chat with the Spanish techno sensation '
 featuredImage: /img/ramiro-lopez.jpg
 ---
-_Our chat with the versatile Spanish-born Producer as he prepares for a double header of parties during Sydney's VIVID light festival._
+_We caught up with the versatile Spanish-born DJ/Producer, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
 
-**RR: Hey Ramiro, we're looking forward to seeing you play at the Spektrum x Vivid Music event at Burdekin Hotel. We gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
+**RR: Hey Ramiro, we're looking forward to seeing you play on the Summit DJs Boat Cruise and Spektrum x Vivid Music event at Burdekin Hotel. We gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
 
 It’s actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and specially from Sydney. I wanna take advantage of my time here, even though it will be very short. Visiting some beautiful places, trying some local tasty food and of course making the people coming to the parties have an unforgettable time.
 <br><br>
@@ -18,7 +18,7 @@ It’s actually my first time ever in Australia and I’m really excited! I’ve
 Odd Recordings is pretty new. We launched the label at the beginning of 2017 and we are honestly amazed at how it is doing. There so many quality labels out there and even if you are doing a good job, it is difficult to get the attention of the scene. We are releasing only music we believe in and love to play and it seems many people share our taste, so we are happy about it.
 <br><br>
 
-**RR: You're both doing a great job. Odd Recordings has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
+**RR: You're both doing a great job. **[**Odd Recordings**](http://www.oddrecordings.in/)** has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
 
 The idea with the series is to release something strong, “especial” as the Spanish word means, giving all the attention to one single track. Looking for those tracks that make the difference whenever you are playing them.
 
