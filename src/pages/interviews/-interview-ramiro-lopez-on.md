@@ -18,7 +18,7 @@ It’s actually my first time ever in Australia and I’m really excited! I’ve
 Odd Recordings is pretty new. We launched the label at the beginning of 2017 and we are honestly amazed at how it is doing. There so many quality labels out there and even if you are doing a good job, it is difficult to get the attention of the scene. We are releasing only music we believe in and love to play and it seems many people share our taste, so we are happy about it.
 <br><br>
 
-**RR: Odd Recordings has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
+**RR: You and Arjun are doing a great job. Odd Recordings has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
 
 The idea with the series is to release something strong, “especial” as the Spanish word means, giving all the attention to one single track. Looking for those tracks that make the difference whenever you are playing them.
 
@@ -63,6 +63,6 @@ Be always humble and treat everyone with respect and be grateful with the people
 Keep working on Odd recordings to make it better and better, work on another Drumcode record, visit lot of exciting places, make the people dance all around the world, and basically enjoy the best job in the world to me.
 <br><br>
 
-**RR: Love it! All the best on the boat party Ramiro**
+**RR: Love it. Enjoy your time in Sydney. **
 
 _Catch Ramiro on the _[_Summit DJs' VIVID cruise_](https://bit.ly/2FT0lxe)_ and at the _[_Spektrum party_](https://bit.ly/2keiPQF)_ on Saturday.  _
