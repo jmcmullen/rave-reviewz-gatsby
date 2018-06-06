@@ -1,12 +1,12 @@
 ---
 templateKey: interview-post
 path: /interview/ramiro-lopez
-title: 'RAMIRO LOPEZ on '
+title: RAMIRO LOPEZ on having the best job in the world
 date: 2018-06-06T02:37:56.081Z
 description: TBC
 featuredImage: /img/ramiro-lopez.jpg
 ---
-_Our chat with the Spanish-born Producer as he prepares for a double header of parties for Sydney's VIVID light festival._
+_Our chat with the versatile Spanish-born Producer as he prepares for a double header of parties during Sydney's VIVID light festival._
 
 **RR: Hey Ramiro, we're looking forward to seeing you play at the Spektrum x Vivid Music event at Burdekin Hotel. We gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
 
@@ -18,7 +18,7 @@ It’s actually my first time ever in Australia and I’m really excited! I’ve
 Odd Recordings is pretty new. We launched the label at the beginning of 2017 and we are honestly amazed at how it is doing. There so many quality labels out there and even if you are doing a good job, it is difficult to get the attention of the scene. We are releasing only music we believe in and love to play and it seems many people share our taste, so we are happy about it.
 <br><br>
 
-**RR: You and Arjun are doing a great job. Odd Recordings has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
+**RR: You're both doing a great job. Odd Recordings has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
 
 The idea with the series is to release something strong, “especial” as the Spanish word means, giving all the attention to one single track. Looking for those tracks that make the difference whenever you are playing them.
 
@@ -31,7 +31,7 @@ Drumcode has been my goal for many years. I love the label and deeply admire Ada
 
 **RR: Your remix for Moby with Coyu was an amazing piece of music and a great opportunity for you, no doubt. Can you tell us how it come about?**
 
-This came mainly because of the collaboration I made with Coyu  - ‘Y.E.A.H.'. The track was pretty successful and turned out to be one of Moby’s favourite ones back in the day. He posted about it on his socials and I was in shock when I found out) After this, his manager contacted ours to ask for the remix and of course we accepted.
+This came mainly because of the collaboration I made with Coyu  - ‘Y.E.A.H.'. The track was pretty successful and turned out to be one of Moby’s favourite ones back in the day. He posted about it on his socials and I was in shock when I found out. After this, his manager contacted ours to ask for the remix and of course we accepted.
 
 bed.beatport.com/?id=5703526&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
@@ -42,7 +42,7 @@ I like pretty much every music style if it's quality. I love listening to jazz a
 
 **RR: That's really interesting. What steps do you take to ensure that you as an artist and your sound are constantly evolving?**
 
-I’m always listening what other artists are doing, not only the ones close to my style. Trying hard to go one step further every time I’m starting a track and making something different. It's also important to be open to learn.
+I’m always listening what other artists are doing, not only the ones close to my style. Trying hard to go one step further every time I’m starting a track and making something different. It's also important to be open to learning new things.
 <br><br>
 
 **RR: You've come a long way since your first official gig ever in 1999 in a club called Timba in the Spanish city of Toledo. Besides that one are there any other clubs that have a special place in your heart? And what would you say is the most memorable set you’ve played over the years?**
