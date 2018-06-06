@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/ramiro-lopez
-title: RAMIRO LOPEZ on having the best job in the world
+title: RAMIRO LOPEZ on the best job in the world
 date: 2018-06-06T02:37:56.081Z
 description: TBC
 featuredImage: /img/ramiro-lopez.jpg
