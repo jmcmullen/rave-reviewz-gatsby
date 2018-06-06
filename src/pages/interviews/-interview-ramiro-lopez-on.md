@@ -3,12 +3,14 @@ templateKey: interview-post
 path: /interview/ramiro-lopez
 title: RAMIRO LOPEZ on the best job in the world
 date: 2018-06-06T02:37:56.081Z
-description: 'Our chat with the Spanish techno sensation '
+description: >-
+  A look into the Spanish techno sensation's numerous inspirations and evolving
+  sound.
 featuredImage: /img/ramiro-lopez.jpg
 ---
 _We caught up with the versatile Spanish-born DJ/Producer, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
 
-**RR: Hey Ramiro, we're looking forward to seeing you play on the Summit DJs Boat Cruise and Spektrum x Vivid Music event at Burdekin Hotel. We gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
+**RR: Hey Ramiro, we're looking forward to seeing you rock the Summit DJs Boat Cruise and Spektrum event at the Burdekin Hotel. We gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
 
 It’s actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and specially from Sydney. I wanna take advantage of my time here, even though it will be very short. Visiting some beautiful places, trying some local tasty food and of course making the people coming to the parties have an unforgettable time.
 <br><br>
@@ -65,4 +67,4 @@ Keep working on Odd recordings to make it better and better, work on another Dru
 
 **RR: Love it. Enjoy your time in Sydney. **
 
-_Catch Ramiro on the _[_Summit DJs' VIVID cruise_](https://bit.ly/2FT0lxe)_ and at the _[_Spektrum party_](https://bit.ly/2keiPQF)_ on Saturday.  _
+_Catch Ramiro on Saturday at the _[_Summit DJs' VIVID cruise_](https://bit.ly/2FT0lxe)_ and _[_Spektrum party_](https://bit.ly/2keiPQF)_._
