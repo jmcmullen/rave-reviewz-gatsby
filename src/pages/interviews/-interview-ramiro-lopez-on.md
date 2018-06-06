@@ -6,9 +6,9 @@ date: 2018-06-06T02:37:56.081Z
 description: TBC
 featuredImage: /img/ramiro-lopez.jpg
 ---
-Our chat with the Spanish-born Producer about   as he prepares for a double header of parties for Sydney's VIVID light festival.
+_Our chat with the Spanish-born Producer as he prepares for a double header of parties for Sydney's VIVID light festival._
 
-**RR: Hey Ramiro, we're looking forward to seeing you play at the Spektrum x Vivid Music event at Burdekin Hotel. We gather this is your first time playing in Sydney… what do you have planned for the visit?**
+**RR: Hey Ramiro, we're looking forward to seeing you play at the Spektrum x Vivid Music event at Burdekin Hotel. We gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
 
 It’s actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and specially from Sydney. I wanna take advantage of my time here, even though it will be very short. Visiting some beautiful places, trying some local tasty food and of course making the people coming to the parties have an unforgettable time.
 <br><br>
@@ -20,8 +20,9 @@ Odd Recordings is pretty new. We launched the label at the beginning of 2017 and
 
 **RR: Odd Recordings has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
 
-The idea with these series is to release something strong, “especial” as the Spanish word means, giving all the attention to one single track. Looking for those tracks that make the difference whenever you are playing them.
-<br><br>
+The idea with the series is to release something strong, “especial” as the Spanish word means, giving all the attention to one single track. Looking for those tracks that make the difference whenever you are playing them.
+
+<iframe src="https://embed.beatport.com/?id=10279577&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 **RR: Rewinding back a bit, you released your first solo EP 'Pretending' on Adam Beyer's legendary Drumcode label in 2015. What impact do you think this had on your career?**
 
@@ -64,4 +65,4 @@ Keep working on Odd recordings to make it better and better, work on another Dru
 
 **RR: Love it! All the best on the boat party Ramiro**
 
-_Catch Ramiro playing on the _[_Summit DJs' VIVID cruise_](https://bit.ly/2FT0lxe)_ and at the _[_Spektrum party_](https://bit.ly/2keiPQF)_ on Saturday.  _
+_Catch Ramiro on the _[_Summit DJs' VIVID cruise_](https://bit.ly/2FT0lxe)_ and at the _[_Spektrum party_](https://bit.ly/2keiPQF)_ on Saturday.  _
