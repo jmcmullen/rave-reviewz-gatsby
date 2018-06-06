@@ -26,7 +26,7 @@ The idea with the series is to release something strong, “especial” as the S
 
 <iframe src="https://embed.beatport.com/?id=10279577&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-**RR: Rewinding back a bit, you released your first solo EP 'Pretending' on Adam Beyer's legendary Drumcode label in 2015. What impact do you think this had on your career?**
+**RR: Rewinding back a bit, you released your first solo EP 'Pretending' on Adam Beyer's legendary **[**Drumcode**](https://www.facebook.com/drumcoderecords/)** label in 2015. What impact do you think this had on your career?**
 
 Drumcode has been my goal for many years. I love the label and deeply admire Adam. I feel so proud to have been released there. It's one of the best labels in the world and very well known. Signing music on it means you´ll reach many new people and it follows on from there. It has been a very important step for sure.
 <br><br>
