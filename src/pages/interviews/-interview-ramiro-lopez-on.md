@@ -6,6 +6,8 @@ date: 2018-06-06T02:37:56.081Z
 description: TBC
 featuredImage: /img/ramiro-lopez.jpg
 ---
+Our chat with the Spanish-born Producer about   as he prepares for a double header of parties for Sydney's VIVID light festival.
+
 **RR: Hey Ramiro, we're looking forward to seeing you play at the Spektrum x Vivid Music event at Burdekin Hotel. We gather this is your first time playing in Sydney… what do you have planned for the visit?**
 
 It’s actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and specially from Sydney. I wanna take advantage of my time here, even though it will be very short. Visiting some beautiful places, trying some local tasty food and of course making the people coming to the parties have an unforgettable time.
@@ -13,7 +15,7 @@ It’s actually my first time ever in Australia and I’m really excited! I’ve
 
 **RR: Now, you launched your own label, 'Odd Recordings' with Arjun Vagale in 2017, which is described as an "Indo-Spanish cross-pollinized record label bringing you futuristic music with an emphasis on the raw side of techno". Can you tell us about the birth of the imprint? What challenges have you faced since its conception?**
 
-Odd Rec is pretty new. We launched the label at the beginning of 2017 and honestly we are amazed about how it is going on. There so many quality labels out there and even if you are doing a good job, it is difficult to get the attention of the scene. We are releasing only music we believe in and love to play and it seems many people share our taste, so we are happy about it.
+Odd Recordings is pretty new. We launched the label at the beginning of 2017 and we are honestly amazed at how it is doing. There so many quality labels out there and even if you are doing a good job, it is difficult to get the attention of the scene. We are releasing only music we believe in and love to play and it seems many people share our taste, so we are happy about it.
 <br><br>
 
 **RR: Odd Recordings has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
@@ -37,7 +39,7 @@ bed.beatport.com/?id=5703526&type=track" width="100%" height="162" frameborder="
 I like pretty much every music style if it's quality. I love listening to jazz and bossa nova in the background whenever I’m cooking for example. Inspiration comes from everywhere: a movie, television, a song in the radio while you are at the gym... I have my phone full of voice notes.
 <br><br>
 
-**RR: What steps do you take to ensure that you as an artist and your sound are constantly evolving?**
+**RR: That's really interesting. What steps do you take to ensure that you as an artist and your sound are constantly evolving?**
 
 I’m always listening what other artists are doing, not only the ones close to my style. Trying hard to go one step further every time I’m starting a track and making something different. It's also important to be open to learn.
 <br><br>
@@ -46,7 +48,7 @@ I’m always listening what other artists are doing, not only the ones close to 
 
 I spent more than 4 years at Family Club, the most famous club in the area where I live. I learnt a lot during that period. Florida 135 is also one that I also love, magic place for techno. Can’t wait to go back there. Playing at Space Ibiza just one year before it disappeared was also a dream come true.
 
-Regarding the set ,it’s hard to remember just one. Last Saturday at Fabrik on the Carl Cox Party for example was one for the books.
+Regarding the set, it’s hard to remember just one. Last Saturday at Fabrik on the Carl Cox Party for example was one for the books.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Framirolopezdj%2Fvideos%2F2208391732510642%2F&show_text=0&width=560" width="560" height="316" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
@@ -60,6 +62,6 @@ Be always humble and treat everyone with respect and be grateful with the people
 Keep working on Odd recordings to make it better and better, work on another Drumcode record, visit lot of exciting places, make the people dance all around the world, and basically enjoy the best job in the world to me.
 <br><br>
 
-**RR: Love it! All the best on the boat party Ramiro. **
+**RR: Love it! All the best on the boat party Ramiro**
 
-**Details**
+_Catch Ramiro playing on the _[_Summit DJs' VIVID cruise_](https://bit.ly/2FT0lxe)_ and at the _[_Spektrum party_](https://bit.ly/2keiPQF)_ on Saturday.  _
