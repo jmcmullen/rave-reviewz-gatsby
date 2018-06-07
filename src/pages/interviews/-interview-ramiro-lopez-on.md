@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/ramiro-lopez
 title: RAMIRO LOPEZ on the best job in the world
 date: 2018-06-06T02:37:56.081Z
-description: A look into the Spaniard's inspirations and evolving sound.
+description: A look into the Spaniard's inspirations and evolving sound...
 featuredImage: /img/ramiro-lopez.jpg
 ---
 _We caught up with the Spanish techno sensation, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
