@@ -31,9 +31,9 @@ Drumcode has been my goal for many years. I love the label and deeply admire Ada
 
 **RR: Your remix for Moby with Coyu was an amazing piece of music and a great opportunity for you, no doubt. Can you tell us how it come about?**
 
-This came mainly because of the collaboration I made with Coyu  - ‘Y.E.A.H.'. The track was pretty successful and turned out to be one of Moby’s favourite ones back in the day. He posted about it on his socials and I was in shock when I found out. After this, his manager contacted ours to ask for the remix and of course we accepted.
+This came mainly because of the collaboration I made with Coyu - ‘Y.E.A.H.' The track was pretty successful and turned out to be one of Moby’s favourites back in the day. He posted about it on his socials and I was in shock when I found out. After this, his manager contacted ours to ask for the remix and of course we accepted.
 
-bed.beatport.com/?id=5703526&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
+<iframe src="https://embed.beatport.com/?id=5703526&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 **RR: Your music style is hard to categorise - containing a mix of house, techno, groove and even RnB… where do you draw your influences from, especially when you're in the studio?**
 
@@ -44,6 +44,8 @@ I like pretty much every music style if it's quality. I love listening to jazz a
 
 I’m always listening what other artists are doing, not only the ones close to my style. Trying hard to go one step further every time I’m starting a track and making something different. It's also important to be open to learning new things.
 <br><br>
+
+![](/img/ramiro-lopez-argentina.jpg)
 
 **RR: You've come a long way since your first official gig ever in 1999 in a club called Timba in the Spanish city of Toledo. Besides that one are there any other clubs that have a special place in your heart? And what would you say is the most memorable set you’ve played over the years?**
 
