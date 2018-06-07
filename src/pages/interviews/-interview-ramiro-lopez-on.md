@@ -6,7 +6,7 @@ date: 2018-06-06T02:37:56.081Z
 description: A look into the Spaniard's inspirations and evolving sound...
 featuredImage: /img/ramiro-lopez.jpg
 ---
-_We intercepted the Spanish techno sensation, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
+As _he prepares for a double header of parties during Sydney's VIVID light festival, we intercepted the Spanish techno sensation to discuss his past, present and future..._
 
 **RR: Hey Ramiro, we gather this is your first time playing in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)… what do you have planned for the visit?**
 
