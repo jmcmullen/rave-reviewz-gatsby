@@ -67,4 +67,4 @@ Ramiro: Keep working on Odd recordings to make it better and better, work on ano
 
 **RR: Love it. Enjoy your time in Sydney.**
 
-_Catch Ramiro on Saturday at the [Summit DJs' boat cruise](https://bit.ly/2FT0lxe) and [Spektrum party]((https://bit.ly/2keiPQF))._
+_Join Ramiro on Saturday at the [Summit DJs' boat cruise](https://bit.ly/2FT0lxe) and [Spektrum party]((https://bit.ly/2keiPQF))._
