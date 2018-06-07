@@ -3,12 +3,10 @@ templateKey: interview-post
 path: /interview/ramiro-lopez
 title: RAMIRO LOPEZ on the best job in the world
 date: 2018-06-06T02:37:56.081Z
-description: >-
-  A look into the Spanish techno sensation's numerous inspirations and evolving
-  sound.
+description: A look into the Spaniard's inspirations and evolving sound.
 featuredImage: /img/ramiro-lopez.jpg
 ---
-_We caught up with the Spanish-born DJ/Producer, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
+_We caught up with the Spanish techno sensation, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
 
 **RR: Hey Ramiro, we gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
 
