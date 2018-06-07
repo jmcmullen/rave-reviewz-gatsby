@@ -6,7 +6,7 @@ date: 2018-06-06T02:37:56.081Z
 description: A look into the Spaniard's inspirations and evolving sound...
 featuredImage: /img/ramiro-lopez.jpg
 ---
-_We caught up with the Spanish techno sensation, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
+_We intercepted the Spanish techno sensation, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
 
 **RR: Hey Ramiro, we gather this is your first time playing in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)… what do you have planned for the visit?**
 
@@ -67,4 +67,4 @@ Ramiro: Keep working on Odd recordings to make it better and better, work on ano
 
 **RR: Love it. Enjoy your time in Sydney.**
 
-_Catch Ramiro on Saturday at the [_Summit DJs' boat cruise_](https://bit.ly/2FT0lxe) and _[_Spektrum party_]((https://bit.ly/2keiPQF))_._
+_Catch Ramiro on Saturday at the [Summit DJs' boat cruise](https://bit.ly/2FT0lxe) and [Spektrum party]((https://bit.ly/2keiPQF))._
