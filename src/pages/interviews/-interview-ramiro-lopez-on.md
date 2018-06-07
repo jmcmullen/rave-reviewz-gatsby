@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/ramiro-lopez
-title: RAMIRO LOPEZ on going one step further
+title: RAMIRO LOPEZ on going one step further OR on the best job in the world
 date: 2018-06-06T02:37:56.081Z
 description: A look into the Spaniard's inspirations and evolving sound...
 featuredImage: /img/ramiro-lopez.jpg
