@@ -45,7 +45,7 @@ Ramiro: I like pretty much every music style if it's quality. I love listening t
 I’m always listening what other artists are doing, not only the ones close to my style. Trying hard to go one step further every time I’m starting a track and making something different. It's also important to be open to learning new things.
 <br><br>
 
-![](/img/ramiro-lopez-argentina.jpg)
+![null](/img/ramiro-lopez-argentina.jpg)
 
 **RR: You've come a long way since your first official gig ever in 1999 in a club called Timba in the Spanish city of Toledo. Besides that one are there any other clubs that have a special place in your heart? And what would you say is the most memorable set you’ve played over the years?**
 
@@ -67,4 +67,4 @@ Ramiro: Keep working on Odd recordings to make it better and better, work on ano
 
 **RR: Love it. Enjoy your time in Sydney.**
 
-_Catch Ramiro on Saturday at the [Summit DJs' boat cruise](https://bit.ly/2FT0lxe) and [Spektrum party_](https://bit.ly/2keiPQF)._
+_Catch Ramiro on Saturday at the [_Summit DJs' boat cruise_](https://bit.ly/2FT0lxe) and _[_Spektrum party_]((https://bit.ly/2keiPQF))_._
