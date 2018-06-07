@@ -10,7 +10,7 @@ featuredImage: /img/ramiro-lopez.jpg
 ---
 _We caught up with the Spanish-born DJ/Producer, as he prepares for a double header of parties during Sydney's VIVID light festival on Saturday._
 
-**RR: Hey Ramiro, we're looking forward to seeing you rock the Summit DJs Boat Cruise and Spektrum event at the Burdekin Hotel. We gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
+**RR: Hey Ramiro, we gather this is your first time playing in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**… what do you have planned for the visit?**
 
 It is actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and specially from Sydney. I wanna take advantage of my time here, even though it will be very short. Visiting some beautiful places, trying some local tasty food and of course making the people coming to the parties have an unforgettable time.
 <br><br>
