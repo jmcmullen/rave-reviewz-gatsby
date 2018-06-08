@@ -6,9 +6,9 @@ date: 2018-06-06T02:37:56.081Z
 description: Our examination of the Spaniard's inspirations and evolving sound...
 featuredImage: /img/ramiro-lopez-main.jpg
 ---
-As _he prepares for a double header of parties during Sydney's VIVID light festival, we intercepted the Spanish techno sensation to discuss his past, present and future..._
+_As he prepares for a double header of parties during Sydney's VIVID light festival, we intercepted the Spanish techno sensation to discuss his past, present and future..._
 
-**RR: Ramiro, welcome to [**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney). We gather this is your first time playing here… what do you have planned for the visit?**
+**RR: Ramiro, welcome to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). We gather this is your first time playing here… what do you have planned for the visit?**
 
 Ramiro: It is actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and specially Sydney. I want to take advantage of my time here, even though it will be very short... visit some beautiful places, try some local tasty food and of course make the people who come to the parties have an unforgettable time.
 <br><br>
@@ -18,7 +18,7 @@ Ramiro: It is actually my first time ever in Australia and I’m really excited!
 Ramiro: Odd Recordings is pretty new. We launched the label at the beginning of 2017 and we are honestly amazed at how it is doing. There are so many quality labels out there and even if you are doing a good job, it is difficult to get the attention of the scene. We are releasing only music we believe in and love to play and it seems many people share our taste, so we are happy about that.
 <br><br>
 
-**RR: [Odd Recordings](http://www.oddrecordings.in/) has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it? **
+**RR: [Odd Recordings](http://www.oddrecordings.in/) has started a new series called 'Especial' releasing just one track at a time, including your energetic offering 'Tight'. What is the philosophy behind the series? And what do you look for in a track to feature it?**
 
 Ramiro: The idea with the series is to release something strong, “especial” - or special as the Spanish word means, giving all the attention to one single track. We look for those tracks that make the difference whenever you play them.
 
