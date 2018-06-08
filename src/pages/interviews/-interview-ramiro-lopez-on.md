@@ -31,7 +31,7 @@ Ramiro: Drumcode had been my goal for many years - I love the label and deeply a
 
 **RR: Your remix for Moby with Coyu was an amazing piece of music and a great opportunity for you, no doubt. Can you tell us how it come about?**
 
-Ramiro: This came mainly because of the track I collaborated with Coyu on - ‘Y.E.A.H.', which was pretty successful and turned out to be one of Moby’s favourites back in the day. He posted about it on his socials and I was in shock when I found out. After this, his manager contacted ours to ask for the remix and of course we accepted.
+Ramiro: This came mainly because of the track I collaborated with Coyu on ‘Y.E.A.H.', which was pretty successful and turned out to be one of Moby’s favourites back in the day. He posted about it on his socials and I was in shock when I found out. After this, his manager contacted ours to ask for the remix and of course we accepted.
 
 <iframe src="https://embed.beatport.com/?id=5703526&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
