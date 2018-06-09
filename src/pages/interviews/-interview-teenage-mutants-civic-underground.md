@@ -6,7 +6,7 @@ date: 2018-03-12T10:00:00.000Z
 description: >-
   Our interview with the dynamic techno duo, before their hotly-anticipated
   Social Bewegung gig on Saturday.
-featuredImage: /images/teenage - mutants.jpg
+featuredImage: /images/teenage-mutants.jpg
 ---
 _A pair of ninjas behind the decks, Christian and Paco AKA [**Teenage Mutants**](https://www.facebook.com/teenagemutants/) have been igniting dancefloors around the world. Here’s our chat with the Stil Vor Talent duo, as they prepare for Saturday’s [Social Bewegung](https://www.facebook.com/socialbewegung/) event._
 
