@@ -10,7 +10,7 @@ _As he prepares for a double header of parties during Sydney's VIVID light festi
 
 **RR: Ramiro, welcome to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). We gather this is your first time playing here… what do you have planned for the visit?**
 
-Ramiro: It is actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and specially Sydney. I want to take advantage of my time here, even though it will be very short... visit some beautiful places, try some local tasty food and of course make the people who come to the parties have an unforgettable time.
+Ramiro: It is actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and especially Sydney. I want to take advantage of my time here, even though it will be very short... visit some beautiful places, try some local tasty food and of course make the people who come to the parties have an unforgettable time.
 <br><br>
 
 **RR: You launched your own label, 'Odd Recordings' with Arjun Vagale in 2017, which is described as an "Indo-Spanish cross-pollinated record label bringing you futuristic music with an emphasis on the raw side of techno". Can you tell us about the birth of the imprint? What challenges have you faced since its conception?**
