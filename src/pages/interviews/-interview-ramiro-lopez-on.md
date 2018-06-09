@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/ramiro-lopez
 title: RAMIRO LOPEZ on the best job in the world
-date: 2018-06-08T02:37:56.000Z
+date: 2018-06-08T12:37:56+10:00
 description: Our examination of the Spaniard's inspirations and evolving sound...
 featuredImage: /img/ramiro-lopez-main.jpg
 ---
