@@ -9,7 +9,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
     { name: 'Kamran', img: require('../images/kamran.jpg'), role: 'Director' },
     { name: 'Sean', img: require('../images/sean.jpg'), role: 'Editor' },
     { name: 'Jay', img: require('../images/jay.jpg'), role: 'Algorithms' },
-    { name: 'Thomas', img: require('../images/thomas.jpg'), role: 'Field Agent' },
+    // { name: 'Thomas', img: require('../images/thomas.jpg'), role: 'Field Agent' },
     { name: 'Magdalena', img: require('../images/mag.jpg'), role: 'Journo' },
     { name: 'Nick', img: require('../images/nick.jpg'), role: 'Graphics' },
   ];
