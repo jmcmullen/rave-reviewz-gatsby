@@ -6,7 +6,7 @@ date: 2017-10-23T04:02:33.000Z
 description: >-
   One of the most influential DJs on Australia's underground circuit ... here's
   our candid chat with the local master!
-featuredImage: /images/robbie-lowe.jpg
+featuredImage: /img/robbie-lowe.jpg
 ---
 _If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be [Robbie Lowe](https://www.facebook.com/robbielowemusic/). We caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the Meet me in Darlo event._
 

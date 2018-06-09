@@ -48,20 +48,21 @@ export const ReviewPostTemplate = ({
 export default ({ data }) => {
   const { markdownRemark: post } = data;
   const url = `https://magazine.ravereviewz.net/${post.frontmatter.path}`;
+  const image = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.sizes[0] : '';
   const meta = [
     { name: 'description', content: post.frontmatter.description },
     { property: 'og:type', content: 'article' },
     { property: 'og:url', content: url },
     {
       property: 'og:image',
-      content: post.frontmatter.featuredImage.childImageSharp.sizes[0],
+      content: image,
     },
     { property: 'og:title', content: post.frontmatter.title },
     { property: 'og:description', content: post.frontmatter.description },
     { name: 'twitter:card', content: 'summary' },
     {
       name: 'twitter:image:src',
-      content: post.frontmatter.featuredImage.childImageSharp.sizes[0],
+      content: image,
     },
     { name: 'twitter:title', content: post.frontmatter.title },
     { name: 'twitter:description', content: post.frontmatter.description },

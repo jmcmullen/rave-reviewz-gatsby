@@ -6,7 +6,7 @@ date: 2018-03-24T04:10:37.000Z
 description: >-
   Read our interview with the Italian weapon before his Australian debut at next
   month's PURE 
-featuredImage: /images/fabio-neural.jpg
+featuredImage: /img/fabio-neural.jpg
 ---
 _With the countdown to his Australian debut firmly under way, mixmaster Fabio Neural joined us for a chat about his friendship with Carl Cox, the challenges he's faced and his passion for music..._
 <br><br>
@@ -21,7 +21,7 @@ Fabio: Hi [Rave Reviewz](https://magazine.ravereviewz.net/)! I can't wait to per
 Fabio: Yes, of course - since the first time he asked me for some demos for his label [Intec](https://www.facebook.com/IntecDigital/). I always work on making something that he would probably play, not focusing on one genre but keeping my mind free as he does in his sets. As you know Carl can play techno, house or even funky... it is so important to be open-minded, as music changes everyday.
 <br><br>
 
-![null](/images/fabio-neural-2.jpg)
+![null](/img/fabio-neural-2.jpg)
 <br>
 
 **RR: We gather this will be your first time in Australia – what have you got planned for your visit? Will you get any downtime to explore?**

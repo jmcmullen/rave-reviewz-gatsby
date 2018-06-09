@@ -6,7 +6,7 @@ date: 2018-05-21T05:47:58.270Z
 description: >-
   Our deeply personal chat with Ludovic, the man behind one of Sydney's fastest
   growing brands - In Deep We Trust 
-featuredImage: /images/ludovic-2.jpeg
+featuredImage: /img/ludovic-2.jpeg
 ---
 _[In Deep We Trust Collective](https://www.ravereviewz.net/Promoter/IDWT-Collective/222) are a growing force in the [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) scene, with a proven track record in events and a clothing line to match. We spoke to founder Ludovic about their latest venture - Collective Records, ahead of their label's [launch party](https://www.ravereviewz.net/Event/Collective-Recordings-Release-Party-Enmore-Marrickville---NSW/224)._
 <br><br> 
@@ -23,7 +23,7 @@ So I was studying full time and working 3 jobs to keep the dream alive and I fin
 Ludovic: It ranges from your deep/minimal tech to your more percussive tech house tracks with deeper basslines. So much talent goes unnoticed and slips through the cracks in the underground music scene and we want to do them justice. I wanted to create an approachable label that supports our local Australian talent from offering them feedback, to releasing their music and throwing a proper release party. Kerry Wallace has given me the opportunity to run these at his beloved [SLYFOX](https://www.ravereviewz.net/Venue/Slyfox/39) in Enmore and the lineup will consist of everyone on the remix pack, the artist who made the release, and some local supports. It's an opportunity for people to discover new talent and to sign up to all of our promos if they wish. I'd love to have amazing international talent onboard too, but we'll never forget where we came from.
 <br><br> 
 
-![null](/images/idwt-collective.jpg)
+![null](/img/idwt-collective.jpg)
 
 **RR: We like the sound of that. In Deep We Trust Collective celebrated its first anniversary a few months ago. What have been the biggest highlights and challenges you've experienced with it so far?**
 
@@ -52,7 +52,7 @@ The lives and careers of lots of DJs and producers are cut short from substance 
 
 Ludovic: Funny that... the merchandise started when I was making my own shirt to play in to get brand awareness. The shirts were so unique that some people started asking me where they could get them to show support. I put up a Facebook post and before I knew it I had 140 orders in a week... I was not ready for that! I didn't have a single clue what I was doing - just keen as mustard, using the notes app on my phone to keep a track of it all and working with my mates in their backyard to make these shirts. That helped kick things off for them and now they have their own company called Sydney Branding and Signage, which is awesome. Then I honestly was tired of going shopping and never finding anything decent or everything was so expensive to buy, so I was like... fuck it I'm going to make my own! We came together with a range of different artists which is why all of the designs have substance to them with important messages such as “ignite the flame”... meaning make your dreams happen, explore ideas and ignite _your_ own flame.
 
-![null](/images/ludovic.jpg)
+![null](/img/ludovic.jpg)
 
 **RR: Turning to your own career... tell us who your early musical influences were and how you first got into DJing.**
 

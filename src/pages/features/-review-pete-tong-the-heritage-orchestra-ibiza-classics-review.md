@@ -7,7 +7,7 @@ description: >
   A joyous celebration of dance music graced Sydney last week, as Pete Tong and
   The Heritage Orchestra treated the Qudos Arena to an uplifting performance of
   Ibiza classics. 
-featuredImage: /images/pete-tong-ibiza-classics.jpg
+featuredImage: /img/pete-tong-ibiza-classics.jpg
 ---
 
 Annie Bass set the scene for an evening of quality music as she warmed up the crowd with mellow house jams and upbeat hits, ranging from Crackazat’s What You’re Feeling to Alyss’ Tsier.

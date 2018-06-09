@@ -4,7 +4,7 @@ path: /interview/huxley
 title: 'HUXLEY on the nature of the game '
 date: 2018-05-18T03:11:43.000Z
 description: 'Our interview with the versatile UK maestro, Huxley'
-featuredImage: /images/huxley-press-shot.jpg
+featuredImage: /img/huxley-press-shot.jpg
 ---
 _Ahead of his [headline set](https://www.ravereviewz.net/Event/LNDRY-Afters-ft-Huxley-Bambounou-Sydney/220) at Chinese Laundry, we caught up with Huxley for a chat about his recent releases, mental health and the state of tech house..._
 
@@ -37,7 +37,7 @@ Huxley: You have to do what’s right for you - each person or label is differen
 Huxley: It’s influenced me a lot! From the swinging beats through to the stabs and vocals I use in my records. I go through stages of playing it or not, but my best memories of the UKG scene are actually away from the big events, as when I first got into it I was too young to go to any. Two of my friends and I use to run our own parties when we were 15/16 in the place we grew up. That’s my favourite memory of it for sure. 
 <br>
 
-![null](/images/huxley-1.jpg)
+![null](/img/huxley-1.jpg)
 
 **RR: You once said in an interview that you were "bored with the typical deep house sound". Tech house has been getting a lot of stick recently for heading in a commercial direction. Do you think that's a fair criticism?**
 
@@ -51,7 +51,7 @@ Finding your own voice in anything creative is one of the most important things 
 Huxley: [Avicii’s story](https://magazine.ravereviewz.net/avicii-mental-health-electronic-music) was a very, very sad one. I actually watched the documentary a few weeks before his untimely death and you could tell he was in such a dark place when he decided to quit touring. It’s a shame to see that he was still so damaged that he couldn’t enjoy his retirement. I think the nature of the game is not good for mental health, as you mention there are many pitfalls for someone doing it full-time, but you just have to find a way to make it work for you. That isn’t as easy as it sounds though... and it’s always different for different people. For a long time I was definitely drinking too much to help with my performance anxiety and boredom and whilst traveling alone it can be very segregating. 
 <br>
 
-![null](/images/huxley-2-hyte.jpg)
+![null](/img/huxley-2-hyte.jpg)
 
 **RR: Thanks for the insight Huxley. Now of all the sets you've played around the world, which one really stands out in your memory?**
 

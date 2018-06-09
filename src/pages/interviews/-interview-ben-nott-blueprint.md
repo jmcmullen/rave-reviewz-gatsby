@@ -4,7 +4,7 @@ path: /interview/ben-nott-blueprint
 title: 'Ben Nott: Blueprint'
 date: 2017-10-03T14:39:38.000Z
 description: Our exclusive interview with the seasoned DJ and Blueprint founder
-featuredImage: /images/ben-nott-dj.jpg
+featuredImage: /img/ben-nott-dj.jpg
 ---
 _[Rave Reviewz'](https://ravereviewz.net.au/) Kamran Ahmed caught up with the Blueprint boss for a chat about all things ravey, ahead of their boat cruise this Saturday..._
 <br><br>
@@ -39,7 +39,7 @@ Ben: Hmm… probably [S.A.S.H](https://www.facebook.com/sashsundays/) terrace. T
 Ben: Things had gotten really bad but they’ve picked up a lot in the past year. Now there are loads of people doing good parties which makes it competitive, but it’s good for the scene. People are taking bigger risks which means better parties.
 <br><br>
 
-![null](/images/ben-nott.jpg)
+![null](/img/ben-nott.jpg)
 
 **RR: Now, [Emanuel Satie](https://magazine.ravereviewz.net/interview/emanuel-satie-blueprint-cruise) is playing at your boat party this weekend. He’s dropped some sick tracks, Come As You Are is our favourite. What do you think we can expect from his set?**
 

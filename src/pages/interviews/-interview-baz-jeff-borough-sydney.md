@@ -6,7 +6,7 @@ date: 2018-04-11T09:45:53.880Z
 description: >-
   A new rooftop party - Borough, makes its Sydney debut this weekend. We caught
   up with founders Baz & Jeff to get the lowdown.
-featuredImage: /images/baz-jeff-borough.jpg
+featuredImage: /img/baz-jeff-borough.jpg
 ---
 _As they gear up for the launch of their brand new rooftop party - **[Borough](https://www.facebook.com/boroughsydney/)**, we caught up with **Anthony ‘Baz’ Barrett** and **Jeff Barrass** for a chat about Sydney nightlife and their maddest party escapades..._
 

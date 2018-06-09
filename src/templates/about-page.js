@@ -6,12 +6,12 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   const people = [
-    { name: 'Kamran', img: require('../images/kamran.jpg'), role: 'Director' },
-    { name: 'Sean', img: require('../images/sean.jpg'), role: 'Editor' },
-    { name: 'Jay', img: require('../images/jay.jpg'), role: 'Algorithms' },
-    // { name: 'Thomas', img: require('../images/thomas.jpg'), role: 'Field Agent' },
-    { name: 'Magdalena', img: require('../images/mag.jpg'), role: 'Journo' },
-    { name: 'Nick', img: require('../images/nick.jpg'), role: 'Graphics' },
+    { name: 'Kamran', img: require('../img/kamran.jpg'), role: 'Director' },
+    { name: 'Sean', img: require('../img/sean.jpg'), role: 'Editor' },
+    { name: 'Jay', img: require('../img/jay.jpg'), role: 'Web Dev' },
+    // { name: 'Thomas', img: require('../img/thomas.jpg'), role: 'Field Agent' },
+    { name: 'Magdalena', img: require('../img/mag.jpg'), role: 'Journo' },
+    { name: 'Nick', img: require('../img/nick.jpg'), role: 'Graphics' },
   ];
 
   return (

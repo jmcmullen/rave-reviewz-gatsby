@@ -12,9 +12,9 @@ import {
   bubbles,
 } from 'react-icons-kit/icomoon';
 
-import background from '../images/header-bg.jpg';
-import logo from '../images/rave-reviewz-logo.png';
-import menuIcon from '../images/menu-icon.svg';
+import background from '../img/header-bg.jpg';
+import logo from '../img/rave-reviewz-logo.png';
+import menuIcon from '../img/menu-icon.svg';
 
 class Navbar extends Component {
   constructor(props) {

@@ -6,7 +6,7 @@ date: 2018-03-14T20:52:22.530Z
 description: >-
   Our exclusive chat with the Belgian Nu-disco inferno before Saturday’s
   Rotarydisco party! 
-featuredImage: /images/aeroplane.jpg
+featuredImage: /img/aeroplane.jpg
 ---
 _We caught up with Nu-disco supremo Vito de Luca AKA [**Aeroplane**](https://www.facebook.com/aeroplanemusiclove) as he prepares for take off at the [Rotarydisco](https://www.facebook.com/RotarydiscoSydney/) boogie this Saturday..._
 

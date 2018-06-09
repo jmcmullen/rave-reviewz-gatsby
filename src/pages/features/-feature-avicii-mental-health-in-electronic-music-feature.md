@@ -6,7 +6,7 @@ date: 2018-05-01T09:00:00.000Z
 description: >-
   Following the tragic news of Avicii's death by suicide, resident psychiatrist
   Kamran Ahmed discusses mental health in the electronic music industry
-featuredImage: /images/avicii2.png
+featuredImage: /img/avicii2.png
 ---
 _Following the tragic death of EDM superstar Avicii, [Rave Reviewz](https://magazine.ravereviewz.net)' resident psychiatrist Kamran Ahmed gives an account of the mental health challenges in the electronic music industry..._
 
@@ -35,15 +35,15 @@ Here at [Rave Reviewz](https://magazine.ravereviewz.net), during interviews we h
 
 In our recent conversation, [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure) reflected on the various emotional and physical strains he faces - the intensity of touring schedules, the contrast between the euphoria of the show followed by the loneliness of the hotel room, being away from friends and family and not being able to spend enough time with his mother before she passed away. 
 
-![null](/images/carl-cox.jpg)
+![null](/img/carl-cox.jpg)
 
 Nu-disco artist [Aeroplane](https://magazine.ravereviewz.net/interview/aeroplane-hudson-ballroom) _(pictured below)_ mused ‘once you become successful and start touring a lot and making a career out of it, your health goes out the window pretty quickly. It’s very fun for a few years but if you want to be serious about it you need to make changes and re-calibrate or it’s going to eat you alive.’ His words all the more powerful following the loss of young Tim Bergling.
 
-![null](/images/aeroplane.jpg)
+![null](/img/aeroplane.jpg)
 
 Some also explained how they deal with the pressures of their lifestyle - house music producer and DJ [Atish](https://magazine.ravereviewz.net/interview/atish-the-rio-rooftop) _(pictured below)_ was making adjustments to try and cope with the toll of touring like ‘staying sober at most gigs, heavily exercising both at home and on the road, and booking shorter tours with longer breaks in-between’. While Cox explained that to cope he ‘pulls himself away from it’ and engages in activities like camping, fishing and drag-racing.
 
-![null](/images/atish.jpg)
+![null](/img/atish.jpg)
 
 Reassuring to hear that these more experienced DJs have an awareness of the issues and employ constructive coping mechanisms, but they are more likely to be in a position to call their own shots. What about the young artists who struggle with the spotlight and turn to drugs and alcohol to help them through it all? And those just starting out who are battling to earn a living?
 <br><br>

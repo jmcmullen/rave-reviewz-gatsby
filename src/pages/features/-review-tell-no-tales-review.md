@@ -8,7 +8,7 @@ description: >-
   2018 and the party has grown in to the Greenwood Hotel, bringing with it
   another golden selection of top-flight internationals playing across 4 stages,
   with talented local support.
-featuredImage: /images/tell-no-tales.jpg
+featuredImage: /img/tell-no-tales.jpg
 ---
 
 Two years ago we witnessed the inauguration of [Tell No Tales](https://www.facebook.com/tellnotalesau/) - a gem of a boutique festival held at the Royal Randwick Racecourse, featuring house and techno royalty such as Ricardo Villalobos, Audion and Nastia. Fast forward to 2018 and the party has grown in to the Greenwood Hotel, bringing with it another golden selection of top-flight internationals playing across 4 stages, with talented local support.

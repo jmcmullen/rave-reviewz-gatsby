@@ -9,14 +9,14 @@ description: >-
   and a solid inaugural event to follow up on, expectations were high amongst
   the thousands of ravers making their way to the Northern Grampians for the
   weekend. 
-featuredImage: /images/babylon.jpg
+featuredImage: /img/babylon.jpg
 ---
 
 The much awaited second edition of Babylon festival finally came around the other week - with a line up of highly respected underground electronic artists and a solid inaugural event to follow up on, expectations were high amongst the thousands of ravers making their way to the Northern Grampians for the weekend.
 
 After getting through the obligatory ticket and car inspections on the Friday, the majority of attendees started to settle in towards the evening. Those who were lucky enough to get to the Bloc stage earlier in the day were treated to an intelligent live set from the Italian trio, [Agents of Time](https://www.facebook.com/AgentsOfTime/). Working with machine-like precision and synergy, they created an other-worldly atmosphere at the stage with their sophisticated use of analog instruments.
 
-![](/images/babylon_.jpg)
+![](/img/babylon_.jpg)
 
 The master [Laurent Garnier](https://www.facebook.com/laurentgarnierofficial/) was up next; perfectly situated between up and coming techno forces to deliver a 3 hour masterclass. The iconic Frenchman went in heavy right from the start, his selection ranging from recently released tracks like ‘[Cerchio’ by Fideles](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Frelease%2Fcerchio%2F2193994&h=ATMqOOK0xP84MZt5Pbl_W_yfIdc3BZQr06FPADMvtPfZctwnNuzF9L5G2vYPfLLZfSVODHOuPn2npqBoEF8M1EW4ZWY1OnOtAf8t7ErbTZQwT0GxX1b9yJstd4eTobSl7Fc3oDkj), to Oxia’s ‘Domino’ which sent the crowd in to a frenzy. He provided an emotional experience for all before the night grew heavier in beats and intensity - with [SHDW & Obscure Shape](https://www.facebook.com/SHDWOBSCURESHAPE/), then later Dax J who closed proceedings. A satisfying opening day by all accounts.
 

@@ -6,7 +6,7 @@ date: 2018-04-03T07:00:00.000Z
 description: >-
   Our 50th interview - a wide-ranging, personal chat with Carl Cox, one of the
   greatest house and techno DJs of our time ahead of PURE. 
-featuredImage: /images/carl-cox.jpg
+featuredImage: /img/carl-cox.jpg
 ---
 _For our 50th interview, [Rave Reviewz'](https://magazine.ravereviewz.net) Kamran Ahmed had a wide-ranging, personal chat with the legendary Carl Cox ahead of [PURE](https://www.ravereviewz.net/Event/Pure-Sydney-18-Moore-Park/138)..._
 
@@ -42,7 +42,7 @@ Carl: Haha well I can’t exactly say it, but apparently it’s used as a term o
 
 Carl: Basically I’ve built my new studio here in Australia, in Melbourne and I’m really excited to make more new music and to get behind some more new remixes. I’ve just done a remix for Monkey Safari, the track is called Energy. I’ve done a remix for Alex Mind, called Lost. I’ve just put out a new version of Chip E’s Time to Jack, which I’m really proud of… oh and a new remix for Moby, Feel so real.
 
-![null](/images/carl-cox-timewarp.jpg)
+![null](/img/carl-cox-timewarp.jpg)
 
 **RR: So when you’re producing, where do you find inspiration? A lot of producers, especially when starting out can hit that mental roadblock -  where do you get your ideas?**
 

@@ -6,7 +6,7 @@ date: 2017-11-18T05:50:58.000Z
 description: >-
   Our interview with the man responsible for more Mondays taken off than anyone
   in history..
-featuredImage: /images/kerry-wallace-shot.jpg
+featuredImage: /img/kerry-wallace-shot.jpg
 ---
 _In the world of Sydney house & techno, they don’t come bigger than Kerry Wallace - DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)_’s most revered nightlife institutions, S\*A\*S*H. Here's his exclusive chat with [Rave Reviewz'](https://magazine.ravereviewz.net/)_ Sean McDonald..._
 <br><br>

@@ -4,7 +4,7 @@ path: /interview/clive-henry
 title: Clive Henry @ Circoloco
 date: 2018-01-03T03:41:03.000Z
 description: For a proper musical education read out our interview with DJ Clive.
-featuredImage: /images/clive-henry.jpg
+featuredImage: /img/clive-henry.jpg
 ---
 _With the summer heating up and [Electric Gardens festival](https://www.facebook.com/electricgardensfestival/) just around the corner, we caught up with Circoloco resident [Clive Henry](https://www.facebook.com/clivehenrymusic/) in the run up to the main event..._
 

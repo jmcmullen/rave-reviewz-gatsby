@@ -6,7 +6,7 @@ date: 2018-01-16T23:45:15.000Z
 description: >-
   Our interview with Norti Vikings co-founder before the return of their
   infamous Sea Raid parties...
-featuredImage: /images/mark-cutajar.jpg
+featuredImage: /img/mark-cutajar.jpg
 ---
 _With the [Norti Vikings](https://www.facebook.com/nortivikings/) preparing to set sail for their latest Sea Raid this weekend, we caught up with one of the captains of the ship Mark to discuss his strategy for this musical voyage..._
 

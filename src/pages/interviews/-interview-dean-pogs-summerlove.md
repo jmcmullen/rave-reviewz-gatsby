@@ -6,7 +6,7 @@ date: 2018-04-13T00:53:45.821Z
 description: >-
   Our chat with Dean Pogs of Summerlove ahead of Project S - 'the craziest and
   most ridiculous house party that Sydney has ever seen’...
-featuredImage: /images/dean-pogs.jpg
+featuredImage: /img/dean-pogs.jpg
 ---
 _As we close in on Saturday’s hotly anticipated ‘Project S’ mansion party, we sat down with [Summerlove](https://www.facebook.com/worldsummerlove/) co-founder and DJ, **Dean Pogs** to discuss their unique events and supporting Sydney’s local talent…_
 
@@ -26,7 +26,7 @@ _As we close in on Saturday’s hotly anticipated ‘Project S’ mansion party,
 
 **Dean:** Haha it always makes me laugh… we were sitting in our living room in the summer of 2014, we got bored of sitting around, so we said “let’s create a free Facebook event, invite a shitload of people to a secret location, send out a treasure map, get a cheap ass boat and hook up some speakers and DJ decks to the back of it”. The next thing we knew, there were over 1000 people at Gibson’s Beach near Watsons Bay, dancing in the water and on the sand. We had two police SWAT boats tied up on either side of us, the police were flirting with the girls in bikinis dancing on the back of our boat - it was brilliant!
 
-![The police showing that summerlove!](/images/boat-party.jpg)
+![The police showing that summerlove!](/img/boat-party.jpg)
 
 **RR:** Sounds it haha. Your sold out collaboration with [Blueprint](https://www.facebook.com/blueprintentsydney/) for the Boxing day party at Watsons Bay Hotel was mad! What do you think made it so successful?
 

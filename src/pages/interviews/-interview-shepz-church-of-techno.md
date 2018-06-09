@@ -6,7 +6,7 @@ date: 2017-11-14T05:59:12.000Z
 description: >-
   Ahead of The Techno Bug event, we caught up with Church of Techno Sydney's
   high priest Shoaib Shepz Mughal AKA Shepz for a special sermon...
-featuredImage: /images/shepz-church-of-techno.jpg
+featuredImage: /img/shepz-church-of-techno.jpg
 ---
 _[**Shepz**](https://www.facebook.com/Shepz-156972351076686/) has been doing proper techno in Sydney for a good while and those familiar with his Church of Techno parties will know exactly how they go off. We caught up with the high priest for a special sermon..._
 

@@ -6,7 +6,7 @@ date: 2018-05-03T05:17:00.000Z
 description: >-
   Our interview with the duo behind Sydney's socially-conscious electronic music
   brand 
-featuredImage: /images/let-the-people-dance.png
+featuredImage: /img/let-the-people-dance.png
 ---
 _Kristen Leigh Marconi and Rachel Potter, creators of **Let The People Dance** spoke to us about their milestone 100th podcast and all the amazing things they get up to..._
 
@@ -41,7 +41,7 @@ Rachel: Hahaha or what about us? Let’s do number 200 together if Carl’s busy
 
 Kristen: It’s been really fun for us and we're really grateful for the opportunity to have our own show. It’s been a way to share Monday afternoons with some talented friends. We love inviting guests on our show and it being right on Bondi Beach is just stunning! Rach and I then get to learn from some of our favourite DJs and get some practice on the decks. Glad you guys have now joined the family too. Welcome aboard!
 
-![null](/images/ltpd-bondi-radio.png)
+![null](/img/ltpd-bondi-radio.png)
 
 **RR: Thanks! We've seen your cool apparel worn by people all over the globe and shared on your Instagram account. Tell us the process you went through when designing the tees.**
 
@@ -52,7 +52,7 @@ Kristen: Thanks so much, we still get so excited when friends send us pics of pe
 
 Kristen: We would love to hold more of those, it was so rewarding hearing the feedback of how they loved it. It was a way for us to share what we love and show a different side to the scene. Showing the creative side, the back of house organisation side and career options to teens who may be interested. Everything from DJing, producing, PR, marketing and promotion, festival organising, film, and photography - there's so many different facets to the electronic music industry and opportunities for work and creative expression. That's what we wanted to showcase so Electronic Music Conference and I-Manifest teaming up with us to do it was an incredible opportunity.
 
-![null](/images/ltpd-business-school.png)
+![null](/img/ltpd-business-school.png)
 
 Anything where you're trying to give something quality to people who won’t be paying for it is really, really challenging as there’s a lot of work and costs that go into the events and workshops. I was quite naive about this going in and agreeing to the 10K goal of the workshop costs, but I wasn’t going to let I-Manifest or our first supporters or the kids down! We had to get creative to make it happen so we did a crowd fund, planned events with friends' brands including S.A.S.H., sold t-shirts, did a charity dinner in a nightclub, an art auction and more…
 <br><br>

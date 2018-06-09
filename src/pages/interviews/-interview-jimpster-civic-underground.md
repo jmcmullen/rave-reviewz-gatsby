@@ -4,7 +4,7 @@ path: interview/jimpster-remixing-alter-egos-defected
 title: 'JIMPSTER on his remixes, alter-egos & labels'
 date: 2018-04-19T03:59:40.000Z
 description: Our interview with Jimpster ahead of his gig at the Civic Underground
-featuredImage: /images/jimpsterzigzag1(2).jpg
+featuredImage: /img/jimpsterzigzag1(2).jpg
 ---
 _With 2 successful labels and a stellar discography to his name, Jamie Odell AKA Jimpster remains one of the hardest working artists on today's dance scene. Here's our chat with the man of multiple talents before Saturday's [Social Bewegung](https://www.ravereviewz.net/Promoter/social-bewegung/98) event._
 <br><br>
@@ -30,7 +30,7 @@ Jamie: The original idea was that Jimpster would be the moniker for my more ecle
 
 Jamie: Many many challenges! Probably the biggest being distribution companies going bust on us on more than one occasion. This would have put most labels out of business but we managed to weather the storm - by managing things carefully and not putting all our (Freerange) eggs in one basket we stayed afloat. It’s sometimes hard to keep things fresh and relevant after 23 years but we keep our ear to the ground and work hard to dig for new, upcoming artists as well as introducing more established names via remixes... so we like to think we still know which direction things are heading in and keep trying to push forward without bandwagon-jumping.
 
-![null](/images/dj-city.jpg)
+![null](/img/dj-city.jpg)
 
 **RR: Now, rumour has it that you've done somewhere in the region of 100 remixes! Talk us through your creative and technical process when remixing a track.**
 
@@ -53,7 +53,7 @@ Jamie: There’s a lot of amazing emerging talent in house music at the moment. 
 
 Jamie: Try to find your own sound and niche. There are millions of producers out there so it’s important to work out what you offer that is different from the next one. This applies to both production and DJing and is fairly obvious, but I think these days many people see DJing and production as a way to earn a living, as opposed to coming into it through a passion for music. Sometimes it seems people are just copying whatever the latest big sound is to try and get the same level of success and often the lack of authenticity can be heard instantly.
 
-![null](/images/jimpsterzigzag5-min.jpg)
+![null](/img/jimpsterzigzag5-min.jpg)
 <br>
 
 **RR: Now, if we asked you to pick a favourite set from across your extensive career, which one springs to mind?**

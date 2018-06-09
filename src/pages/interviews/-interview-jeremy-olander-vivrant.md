@@ -6,7 +6,7 @@ date: 2018-01-09T00:49:31.000Z
 description: >-
   With the countdown to his highly anticipated performance at Electric Gardens
   Festival, here's our chat with the legendary Jeremy Olander.
-featuredImage: /images/jeremy-olander.jpg
+featuredImage: /img/jeremy-olander.jpg
 ---
 _Recognised for his technical artistry and endearing releases, [Jeremy Olander](https://www.facebook.com/jeremyolander/) is a pre-eminent force on the progressive house stage. We talk to the [Vivrant](https://www.facebook.com/vivrantmusic/) label boss, as he prepares for his performance at [Electric Gardens Festival](https://www.facebook.com/electricgardensfestival/)._
 
@@ -44,7 +44,7 @@ _Recognised for his technical artistry and endearing releases, [Jeremy Olander](
 
 **Jeremy:** Impossible to pick one! They all have a special place for me and usually represent what I was feeling and going through at a certain time of my life. One that I really enjoy playing out at the moment is [Galheera](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fgalheera-original-mix%2F9804084&h=ATMyzTvgd7oEspKm-xk2uJTFWGLRr_Ua4DXX-9HGoile9M6sPfadpm7u8LStGrTD4QtIfA4m9GRVkGKFerW8K8BAax8jYEWRTKcStzcVVofKEPwd8bsi57n4) though.
 
-![null](/images/26240756_568113143539706_3482597045067097714_o.jpg)
+![null](/img/26240756_568113143539706_3482597045067097714_o.jpg)
 
 **RR:** And of all the sets you've played, can you pick one for us that really stands out in your memory?
 

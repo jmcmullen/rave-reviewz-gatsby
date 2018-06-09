@@ -4,7 +4,7 @@ path: /interview/kiko-chippo-hotel
 title: 'Kiko @ Chippo Hotel '
 date: 2018-03-31T03:50:50.177Z
 description: Our chat with the prolific producer and DJ before his Easter Sunday party...
-featuredImage: /images/kiko-crop.jpg
+featuredImage: /img/kiko-crop.jpg
 ---
 _A key figure in France's dance music scene since the 90s, **Kiko** has an astounding back catalogue of music. We grabbed a quick chat with the Frenchman before he headlines sunday's [Zoo Events](https://www.facebook.com/z00project/) party._
 

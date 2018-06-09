@@ -4,7 +4,7 @@ path: /interview/rossko
 title: ROSSKO on how to throw a warehouse party
 date: 2018-05-31T01:37:17.230Z
 description: 'Lessons in life and music from original FUSE founding member, ROSSKO'
-featuredImage: /images/rosskomain.jpg
+featuredImage: /img/rosskomain.jpg
 ---
 _We caught with up the man like Rossko as he kicks off his Sydney performances this weekend to discuss Sunday raving, warehouse parties, grime music and more..._
 <br><br>
@@ -22,7 +22,7 @@ Rossko: In London, I found Sundays were much more cosmopolitan, more relaxed, wi
 
 I've seen it at Fuse many times over the last 10 years - it's like a birthplace where people become inspired and go off and start their own party or become a DJ. I met some of my best friends on the dance floor. In fact, it's where I met all the Fuse crew before we got together, at Sunday after-parties in London like Public Life and T-Bar for example. Long live Sundays!
 
-![null](/images/rossko3.jpg)
+![null](/img/rossko3.jpg)
 
 **RR: How would you describe the journey from those early days of Fuse up until the present day where the brand and label are globally recognised? And what are the most important lessons you've learnt along the way?**
 
@@ -37,7 +37,7 @@ Rossko: A lot of Infuse artists have come from connecting at the gigs we've play
 
 The music is road tested by the residents, if we play them and it’s moving the crowd, then we know these are the records other people will want to buy. There will always be one track which you can’t help but fit in to all your sets, it's that good! For me I look out for personality, groove and understanding of the dance floor inside the track. There are so many different styles on the label but I think that is what connects them all.
 
-![null](/images/rossko2.jpeg)
+![null](/img/rossko2.jpeg)
 
 **RR: Since the lockout laws were introduced in 2014, [Sydney](http://ravereviewz-286156834.ap-southeast-2.elb.amazonaws.com/Events-Location/Sydney) has seen an increase in warehouse parties. As these were your forte during the 'Cerca Trova' warehouse party days, what advice would you give to anyone organising a secret rave?**
 

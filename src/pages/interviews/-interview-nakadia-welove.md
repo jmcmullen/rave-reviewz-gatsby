@@ -6,7 +6,7 @@ date: 2018-01-16T00:05:44.000Z
 description: >-
   We spoke to the talented Nakadia about her global success, work ethic and
   friendship with a certain Mr Sven Vath.
-featuredImage: /images/nakadia.jpg
+featuredImage: /img/nakadia.jpg
 ---
 _On her return to Thailand after a stunning Australian debut, we spoke to the talented [Nakadia](https://www.facebook.com/djnakadia/) about her global success, work ethic and friendship with a certain Mr Sven Vath..._
 
