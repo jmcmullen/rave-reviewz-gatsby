@@ -37,7 +37,7 @@ Ramiro: This came mainly because of the track I collaborated with Coyu on - ‘Y
 
 **RR: Your music style is hard to categorise - containing a mix of house, techno, groove and even RnB… where do you draw your influences from, especially when you're in the studio?**
 
-Ramiro: I like pretty much every music style if it's quality. I love listening to jazz and bossa nova in the background whenever I’m cooking for example. Inspiration comes from everywhere: a movie, television, a song in the radio while you are at the gym... I have my phone full of voice notes!
+Ramiro: I like pretty much every music style if it's quality. I love listening to jazz and bossa nova in the background whenever I’m cooking for example. Inspiration comes from everywhere: a movie, television, a song on the radio while you are at the gym... I have my phone full of voice notes!
 <br><br>
 
 **RR: Nice. What steps do you take to ensure that you as an artist and your sound are constantly evolving?**
@@ -62,7 +62,7 @@ Ramiro: Always be humble and treat everyone with respect. Be grateful to the peo
 
 **RR: Finally, what's on your horizon for the rest of 2018?**
 
-Ramiro: To keep working on Odd recordings and make it better and better. To work on another Drumcode record, visit lots of exciting places, make people dance all around the world, and basically enjoy what I think is the best job in the world!
+Ramiro: To keep working on Odd recordings to make it better and better, to work on another Drumcode record, visit lots of exciting places, make people dance all around the world, and basically enjoy what I think is the best job in the world!
 <br><br>
 
 **RR: Love it. Enjoy your time in Sydney.**
