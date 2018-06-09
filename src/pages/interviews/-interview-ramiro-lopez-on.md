@@ -8,7 +8,7 @@ featuredImage: /images/ramiro-lopez-main.jpg
 ---
 _As he prepares for a double header of parties during Sydney's VIVID light festival, we intercepted the Spanish techno sensation to discuss his past, present and future..._
 
-**RR: Ramiro, welcome to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). We gather this is your first time playing here… what do you have planned for the visit?**
+**RR: Ramiro, welcome to Sydney. We gather this is your first time playing here… what do you have planned for the visit?**
 
 Ramiro: It is actually my first time ever in Australia and I’m really excited! I’ve heard great things about the country and especially Sydney. I want to take advantage of my time here, even though it will be very short... visit some beautiful places, try some local tasty food and of course make the people who come to the parties have an unforgettable time.
 <br><br>
