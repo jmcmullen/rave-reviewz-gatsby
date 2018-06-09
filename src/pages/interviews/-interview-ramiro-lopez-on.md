@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/ramiro-lopez
 title: RAMIRO LOPEZ on the best job in the world
-date: 2018-06-08T12:37:56+10:00
+date: 2018-06-08T02:37:56.000Z
 description: Our examination of the Spaniard's inspirations and evolving sound...
 featuredImage: /images/ramiro-lopez-main.jpg
 ---
@@ -62,7 +62,7 @@ Ramiro: Always be humble and treat everyone with respect. Be grateful to the peo
 
 **RR: Finally, what's on your horizon for the rest of 2018?**
 
-Ramiro: To keep working on Odd recordings to make it better and better, to work on another Drumcode record, visit lots of exciting places, make people dance all around the world, and basically enjoy what I think is the best job in the world!
+Ramiro: To keep working on Odd recordings and make it better and better. To work on another Drumcode record, visit lots of exciting places, make people dance all around the world, and basically enjoy what I think is the best job in the world!
 <br><br>
 
 **RR: Love it. Enjoy your time in Sydney.**
