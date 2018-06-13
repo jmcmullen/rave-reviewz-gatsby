@@ -32,8 +32,10 @@ Matthias: I unfortunately didn't have any time to do anything in between. I only
 
 **RR: We caught your brilliant 3 hour set at Goodbar. You played everything from Love over entropy to Mark Evemport and **[**Guy J**](https://www.facebook.com/guyjofficial/)**. How do you choose which tracks you'll play? **
 
-Matthias:** **A friend of mine said years ago, "whatever the style of the track is, it always sounds like you". I don't exactly know what it is but maybe I have a flair for a certain key of tracks. I really like to mix tracks more harmonically. I don't care about genres, I just like to play a journey!
-<br><br>
+Matthias:\*\* \*\*A friend of mine said years ago, "whatever the style of the track is, it always sounds like you". I don't exactly know what it is but maybe I have a flair for a certain key of tracks. I really like to mix tracks more harmonically. I don't care about genres, I just like to play a journey!
+
+
+![](/img/matthias-meyer-goodbar.jpg)
 
 **RR: You’ve produced some great tracks… like the hypnotic remix of Butch’s **[**Shahrzad**](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DioEph_P3kPA&h=ATO2BtnyhmwDcABmj9MDZxwhO4AvqD0zNZ6G78Vf1G9IrvBnYOu-9CLvu9y8Pyxoe03hDb_yBlIrEO-wHqp5Pqx7JgK3yyzJHoV6Ph7QHA5pCPq_B34TLAwo)** and 'Hope' which was no.1 on Beatport's deep house charts. Of all your tracks and remixes, do you have a favourite? **
 
@@ -57,5 +59,6 @@ Matthias: There are one or two remixes coming out and I am working on a few new 
 
 **RR: Sounds like we’ve got a lot to look forward to. Come back and visit us again soon!**
 
-_Matthias Meyer & Ryan Davis’ ‘_[_Hope_](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqLoZyhzZeks&h=ATNWfNaV-HqRjWsrVCsG5X-O0KMfnk0qcBG9eAsPUzGMEEWFf4tLz2Eyt3njJbTe6pfdF90WkP20andxLn32jzDjDa5lDEy-5vZO1J9TGx38D5ni30Pz5t8K)_’ features on the new Watergate XV compilation. _\
-_Out now: _[_https://shop.water-gate.de/products/watergate-xv-limited-box-set_](https://l.facebook.com/l.php?u=https%3A%2F%2Fshop.water-gate.de%2Fproducts%2Fwatergate-xv-limited-box-set&h=ATOjtC9tYkZpQRqZNf4AUUNExQ2EtFHEDIbsBSwwzR8KlqASFyr87RQTmLOfJfJKsa70cmW-AWSPl8J4hLLWTxpC8FZMb86n-ctLZ93OYw-PFSV4LdyYIURE)
+_Matthias Meyer & Ryan Davis’ ‘_[_Hope_](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqLoZyhzZeks&h=ATNWfNaV-HqRjWsrVCsG5X-O0KMfnk0qcBG9eAsPUzGMEEWFf4tLz2Eyt3njJbTe6pfdF90WkP20andxLn32jzDjDa5lDEy-5vZO1J9TGx38D5ni30Pz5t8K)_’ features on the new Watergate XV compilation. Out now: _[_https://shop.water-gate.de/products/watergate-xv-limited-box-set_](https://l.facebook.com/l.php?u=https%3A%2F%2Fshop.water-gate.de%2Fproducts%2Fwatergate-xv-limited-box-set&h=ATOjtC9tYkZpQRqZNf4AUUNExQ2EtFHEDIbsBSwwzR8KlqASFyr87RQTmLOfJfJKsa70cmW-AWSPl8J4hLLWTxpC8FZMb86n-ctLZ93OYw-PFSV4LdyYIURE)
+
+_Photo credit: Goodbar_
