@@ -60,6 +60,6 @@ Matthias: There are one or two remixes coming out and I am working on a few new 
 
 **RR: Sounds like we’ve got a lot to look forward to. Come back and visit us again soon!**
 
-_Matthias Meyer & Ryan Davis' 'Hope'_ features on the new Watergate XV compilation. Out now: https://shop.water-gate.de/products/watergate-xv-limited-box-set_
+_Matthias Meyer & Ryan Davis' 'Hope' features on the new Watergate XV compilation. Out now: https://shop.water-gate.de/products/watergate-xv-limited-box-set_
 
 _Photo credit: Goodbar_
