@@ -31,7 +31,7 @@ Matthias: I like the Australians, they are open minded and always up for a laugh
 Matthias: I unfortunately didn't have any time to do anything in between. I only had one extra day in Brisbane to relax. Afterwards I came to Bali for a serious 2 week break without playing. Next time I will definitely stay longer! I like Australia, especially in your summertime. 
 <br><br>
 
-**RR: We caught your brilliant 3 hour set at Goodbar. You played everything from Love over entropy to Mark Evemport and **[**Guy J**](https://www.facebook.com/guyjofficial/)**. How do you choose which tracks you'll play? **
+**RR: We caught your brilliant 3 hour set at Goodbar. You played everything from Love over entropy to Mark Evemport and [Guy J](https://www.facebook.com/guyjofficial/). How do you choose which tracks you'll play?**
 
 Matthias:\*\* \*\*A friend of mine said years ago, "whatever the style of the track is, it always sounds like you". I don't exactly know what it is but maybe I have a flair for a certain key of tracks. I really like to mix tracks more harmonically. I don't care about genres, I just like to play a journey!
 
