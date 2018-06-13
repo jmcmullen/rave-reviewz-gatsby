@@ -40,6 +40,8 @@ Matthias:\*\* \*\*A friend of mine said years ago, "whatever the style of the tr
 
 Matthias: Thank you so much. Yes ‘Hope’ is definitely one of my favourites ever! I still like Tout Va Bien because it was the first track which sounded like my DJ sets back in the day and it still fits today. ‘Infinity’ is timeless, that's why I like that one too. Also ‘November Rain’... I had the idea for years and was really happy how it turned out at the end. ‘LA Strings’ is also great - it has everything I like to play in my DJ sets… it’s powerful, hypnotic, housey and has strings!
 
+<iframe src="https://embed.beatport.com/?id=9864867&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
+
 **RR: Can’t argue with any of those. You’ve played all over the world… we were particularly fond of your Boiler Room set, but is there a gig that really stands out in your memory?**
 
 Matthias: That’s a tough question because I’ve had loads of great, unforgettable gigs. I guess the most memorable gigs are the ones with a special scenery or location. Once I got booked for a wedding afterparty in Colombia. Not what you think haha! They were good friends and they had their pre-wedding at Burning Man. In the afternoon was the official big wedding with all the family members and afterwards it was just 50-100 of their closest (younger) friends with just me playing for almost 10-12 hours. That was amazing and I will never forget that. Half a year later we had a Watergate party in Croatia and the couple were celebrating their honeymoon in the area and came by... so I played the wedding and honeymoon for them. They were soooo happy and I’m also happy that I’m part of their wedding memories!
@@ -58,6 +60,6 @@ Matthias: There are one or two remixes coming out and I am working on a few new 
 
 **RR: Sounds like we’ve got a lot to look forward to. Come back and visit us again soon!**
 
-_Matthias Meyer & Ryan Davis’ ‘[Hope](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqLoZyhzZeks&h=ATNWfNaV-HqRjWsrVCsG5X-O0KMfnk0qcBG9eAsPUzGMEEWFf4tLz2Eyt3njJbTe6pfdF90WkP20andxLn32jzDjDa5lDEy-5vZO1J9TGx38D5ni30Pz5t8K)’ features on the new Watergate XV compilation. Out now: _[_https://shop.water-gate.de/products/watergate-xv-limited-box-set_](https://l.facebook.com/l.php?u=https%3A%2F%2Fshop.water-gate.de%2Fproducts%2Fwatergate-xv-limited-box-set&h=ATOjtC9tYkZpQRqZNf4AUUNExQ2EtFHEDIbsBSwwzR8KlqASFyr87RQTmLOfJfJKsa70cmW-AWSPl8J4hLLWTxpC8FZMb86n-ctLZ93OYw-PFSV4LdyYIURE)
+_Matthias Meyer & Ryan Davis’ "Hope' features on the new Watergate XV compilation. Out now: _[_https://shop.water-gate.de/products/watergate-xv-limited-box-set_](https://l.facebook.com/l.php?u=https%3A%2F%2Fshop.water-gate.de%2Fproducts%2Fwatergate-xv-limited-box-set&h=ATOjtC9tYkZpQRqZNf4AUUNExQ2EtFHEDIbsBSwwzR8KlqASFyr87RQTmLOfJfJKsa70cmW-AWSPl8J4hLLWTxpC8FZMb86n-ctLZ93OYw-PFSV4LdyYIURE)
 
 _Photo credit: Goodbar_
