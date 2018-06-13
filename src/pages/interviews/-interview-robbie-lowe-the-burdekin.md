@@ -8,7 +8,7 @@ description: >-
   our candid chat with the local master!
 featuredImage: /img/robbie-lowe.jpg
 ---
-_If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be [Robbie Lowe](https://www.facebook.com/robbielowemusic/). _[_Rave Reviewz_](https://www.ravereviewz.net/)_' Sean McDonald caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the Meet me in Darlo event._
+_If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be [Robbie Lowe](https://www.facebook.com/robbielowemusic/). Rave Reviewz' Sean McDonald caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the Meet me in Darlo event._
 
 **RR: Robbie, great set. Enter The Beehive and **[**Meet Me in Darlo**](https://www.facebook.com/events/292009331276595/)** have been a lot of fun. How involved have you been with the Keep Sydney Open movement?**
 
@@ -32,7 +32,7 @@ Robbie: Don’t put all your eggs in one basket. I’m a keen surfer – it keep
 
 Robbie: I did some great warmups for [Digweed](https://www.facebook.com/djjohndigweed/) – one at Home in 2006 and a Greenwood gig 5 years ago. I also did Tiesto warmups at the Hordern Pavilion for a crowd of 6000 people which was amazing. But the standout would have to be my 8 hour set at Spice which actually went down a week before the lockout laws. The gig was to celebrate 20 years of DJing and from start to finish I had the crowd. [James Zabiela](https://www.facebook.com/jameszabiela/) rocked up during it and tapped me on the shoulder to ask if we could play B2B which was humbling as he is one of my favourite DJs – he didn’t realise I was on a mission to play an 8 hour set. Any other night I would have said yes! 
 
-![](/img/robbie-lowe-john-digweed.jpg)
+![null](/img/robbie-lowe-john-digweed.jpg)
 
 **RR: Haha, sounds epic. Is there a DJ you haven’t supported yet but would love to? **
 
@@ -42,7 +42,7 @@ Robbie: I’m very lucky to have played alongside all my progressive house favou
 
 Robbie: I’m playing at the [Global Underground](https://www.facebook.com/events/1563659050364245) gig at the Greenwood Nov 4, which is a real honour because Global Underground is close to my heart. I’m also doing main stage sets at [Electric Gardens](https://www.facebook.com/electricgardensfestival/) and Subsonic – can’t wait for those!
 
-**RR: You mentioned your love for surfing and all of us at Rave Reviewz enjoy your hilarious cooking adventures on Instagram. Is there anything outside of DJing you would like to pursue in the future?**
+**RR: You mentioned your love for surfing and all of us at [Rave Reviewz](https://www.ravereviewz.net/) enjoy your hilarious cooking adventures on Instagram. Is there anything outside of DJing you would like to pursue in the future?**
 
 Robbie: Well, I’ve worked for everything I’ve got and I can’t say I’ve taken life too seriously – I just try and have a good time. I never had mega aspirations, I just do what I love and strive to be the best I can be. I always believed I was born to be in the entertainment industry somehow. Maybe one day I could open a restaurant/bar, DJ and be like Rocky Balboa when he runs his restaurant telling old DJ stories! Right now, I love nothing better than mixing tracks and making people dance. 
 
