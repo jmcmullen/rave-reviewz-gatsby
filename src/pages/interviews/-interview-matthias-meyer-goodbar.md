@@ -34,12 +34,11 @@ Matthias: I unfortunately didn't have any time to do anything in between. I only
 
 Matthias:\*\* \*\*A friend of mine said years ago, "whatever the style of the track is, it always sounds like you". I don't exactly know what it is but maybe I have a flair for a certain key of tracks. I really like to mix tracks more harmonically. I don't care about genres, I just like to play a journey!
 
-
-![](/img/matthias-meyer-goodbar.jpg)
+![null](/img/matthias-meyer-goodbar.jpg)
 
 **RR: You’ve produced some great tracks… like the hypnotic remix of Butch’s **[**Shahrzad**](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DioEph_P3kPA&h=ATO2BtnyhmwDcABmj9MDZxwhO4AvqD0zNZ6G78Vf1G9IrvBnYOu-9CLvu9y8Pyxoe03hDb_yBlIrEO-wHqp5Pqx7JgK3yyzJHoV6Ph7QHA5pCPq_B34TLAwo)** and 'Hope' which was no.1 on Beatport's deep house charts. Of all your tracks and remixes, do you have a favourite? **
 
-Matthias: Thank you so much. Yes ‘Hope’ is definitely one of my favourites ever! I still like Tout Va Bien because it was the first track which sounded like my DJ sets back in the day and it still fits today. ‘Infinity’ is timeless, that's why I like that one too. Also ‘November Rain’... I had the idea for years and was really happy how it turned out at the end. ‘LA Strings’ is also great - it has everything I like to play in my DJ sets… it’s powerful, hypnotic, housey and has strings!
+Matthias: Thank you so much. Yes ‘Hope’ is definitely one of my favourites ever! I still like 'Tout Va Bien' because it was the first track which sounded like my DJ sets back in the day and it still fits today. ‘Infinity’ is timeless, that's why I like that one too. Also ‘November Rain’... I had the idea for years and was really happy how it turned out at the end. ‘LA Strings’ is also great - it has everything I like to play in my DJ sets… it’s powerful, hypnotic, housey and has strings!
 
 **RR: Can’t argue with any of those. You’ve played all over the world… we were particularly fond of your Boiler Room set, but is there a gig that really stands out in your memory?**
 
