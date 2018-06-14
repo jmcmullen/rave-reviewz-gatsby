@@ -38,7 +38,7 @@ Robbie: I did some great warmups for [Digweed](https://www.facebook.com/djjohndi
 
 ![null](/img/robbie-lowe-john-digweed.jpg)
 
-**RR: Haha, sounds epic. Is there a DJ you haven’t supported yet but would love to? **
+**RR: Haha, sounds epic. Is there a DJ you haven’t supported yet but would love to?**
 
 Robbie: I’m very lucky to have played alongside all my progressive house favourites – Sasha, Digweed, Howells, Dave Seaman, [Cattaneo](https://www.facebook.com/hernancattaneo/), Kleinenberg… there are some techno DJs I like but I think there are other DJs that champion that sound that would do a better job.
 <br><br> 
