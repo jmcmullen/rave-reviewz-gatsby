@@ -10,7 +10,7 @@ featuredImage: /img/robbie-lowe.jpg
 ---
 _If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be [Robbie Lowe](https://www.facebook.com/robbielowemusic/). Rave Reviewz' Sean McDonald caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the Meet me in Darlo event._
 
-**RR: Robbie, great set. Enter The Beehive and **[**Meet Me in Darlo**](https://www.facebook.com/events/292009331276595/)** have been a lot of fun. How involved have you been with the Keep Sydney Open movement?**
+**RR: Robbie, great set. Enter The Beehive and [Meet Me in Darlo](https://www.facebook.com/events/292009331276595/) have been a lot of fun. How involved have you been with the Keep Sydney Open movement?**
 
 Robbie: I hold the flag up high for the cause – it’s in my best interests and I want to see the culture stay strong in Sydney. You’ll always find me on the frontline.
 
