@@ -8,10 +8,10 @@ description: >-
   our candid chat with the local master!
 featuredImage: /img/robbie-lowe.jpg
 ---
-_If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be [Robbie Lowe](https://www.facebook.com/robbielowemusic/). Rave Reviewz' Sean McDonald caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the Meet me in Darlo event._
+_If there’s a name that’s synonymous with Australian’s dance music scene, it would have to be [Robbie Lowe](https://www.facebook.com/robbielowemusic/). Rave Reviewz' Sean McDonald caught up with the eclectic DJ about his illustrious career after his set at Enter the Beehive; part of the 'Meet me in Darlo' event._
 <br><br>
 
-**RR: Robbie, great set. Enter The Beehive and [Meet Me in Darlo](https://www.facebook.com/events/292009331276595/) have been a lot of fun, how involved have you been with the Keep Sydney Open movement?**
+**RR: Robbie, great set. Enter The Beehive and Meet Me in Darlo have been a lot of fun, how involved have you been with the [Keep Sydney Open](https://magazine.ravereviewz.net/interview/tyson-koh) movement?**
 
 Robbie: I hold the flag up high for the cause – it’s in my best interests and I want to see the culture stay strong in Sydney. You’ll always find me on the frontline.
 <br><br>
@@ -19,7 +19,6 @@ Robbie: I hold the flag up high for the cause – it’s in my best interests an
 **RR: You’ve been DJing in Sydney a long time and must have seen a lot of change. How do you feel about the current state of the industry, particularly since the Lockout laws took effect?**
 
 Robbie: There’s no denying the lockout laws dealt a heavy blow to the industry. SPICE was my dream gig and I had residency there at the time of the lockouts, which eventually shut it down. It was a real blow because our business model was based on after hours – it turned a lot of livelihoods, whether a DJ, club, restaurant owner, etc, upside-down. But out of this huge negative came a lot of positives. It’s brought everyone closer together and created a new scene, a sort of revolution; right now, I think Sydney has never been so vibrant. There are parties everywhere, including after-hours parties again and it has set us all on a different course. The government are also starting to loosen their grip and will continue to. Nothing can stop the music!
-<br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BlwWTzUeWzI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
