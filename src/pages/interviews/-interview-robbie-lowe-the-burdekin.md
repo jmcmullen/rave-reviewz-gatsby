@@ -22,7 +22,7 @@ Robbie: There’s no denying the lockout laws dealt a heavy blow to the industry
 
 **RR: Absolutely! You’re a big part of the [By Your Side](https://www.facebook.com/ByYourSideSydney/) team, who represent many emerging DJs and producers. Do you get involved with mentoring these new talents as they navigate through the industry?**
 
-Robbie: I do! Once upon a time I was a budding DJ and Paul ‘Flex’ Taylor saw me and passed on his wisdom – I like to help the aspiring DJ's I see with passion and potential by offering advice and doing the same. By Your Side’s director, Jimmy Galvin is a very good friend of mine and his heart is in the right place. He throws parties from the heart and is doing it all for the right reasons.
+Robbie: I do! Once upon a time I was a budding DJ and Paul ‘Flex’ Taylor saw me and passed on his wisdom – I like to help the aspiring DJ's I see with passion and potential by offering advice and doing the same. By Your Side’s director, [Jimmy Galvin](https://magazine.ravereviewz.net/interview/jimmy-galvin-by-your-side) is a very good friend of mine and his heart is in the right place. He throws parties from the heart and is doing it all for the right reasons.
 
 **RR: As a veteran DJ, you’ve enjoyed many late nights and travelled around the world; do you have any tips for young DJs on their well-being and enduring a long career?**
 
@@ -30,7 +30,7 @@ Robbie: Don’t put all your eggs in one basket. I’m a keen surfer – it keep
 
 **RR: Sound advice. You’ve shared the decks and warmed up for many international superstars – is there a particular gig that stands out for you?**
 
-Robbie: I did some great warmups for [Digweed](https://www.facebook.com/djjohndigweed/) – one at Home in 2006 and a Greenwood gig 5 years ago. I also did Tiesto warmups at the Hordern Pavilion for a crowd of 6000 people which was amazing. But the standout would have to be my 8 hour set at Spice which actually went down a week before the lockout laws. The gig was to celebrate 20 years of DJing and from start to finish I had the crowd. [James Zabiela](https://www.facebook.com/jameszabiela/) rocked up during it and tapped me on the shoulder to ask if we could play B2B which was humbling as he is one of my favourite DJs – he didn’t realise I was on a mission to play an 8 hour set. Any other night I would have said yes! 
+Robbie: I did some great warmups for [Digweed](https://www.facebook.com/djjohndigweed/) – one at Home in 2006 and a Greenwood gig 5 years ago. I also did Tiesto warmups at the Hordern Pavilion for a crowd of 6000 people which was amazing. But the standout would have to be my 8 hour set at Spice which actually went down a week before the lockout laws. The gig was to celebrate 20 years of DJing and from start to finish I had the crowd. [James Zabiela](https://www.youtube.com/watch?v=DBJmAl0BeXg) rocked up during it and tapped me on the shoulder to ask if we could play B2B which was humbling as he is one of my favourite DJs – he didn’t realise I was on a mission to play an 8 hour set. Any other night I would have said yes! 
 
 ![null](/img/robbie-lowe-john-digweed.jpg)
 
