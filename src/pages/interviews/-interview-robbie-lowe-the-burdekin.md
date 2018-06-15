@@ -45,7 +45,7 @@ Robbie: I’m very lucky to have played alongside all my progressive house favou
 
 **RR: Fair enough. What can we look forward to from you in the future? Any projects in the pipeline that you can reveal?**
 
-Robbie: I’m playing at the [Global Underground](https://www.facebook.com/events/1563659050364245) gig at the Greenwood Nov 4, which is a real honour because Global Underground is close to my heart. I’m also doing main stage sets at [Electric Gardens](https://www.facebook.com/electricgardensfestival/) and Subsonic – can’t wait for those!
+Robbie: I’m playing at the [Global Underground](https://www.facebook.com/events/1563659050364245) gig at the Greenwood Nov 4, which is a real honour because Global Underground is close to my heart. I’m also doing main stage sets at [Electric Gardens](https://www.youtube.com/watch?v=g-mczXS01ow) and Subsonic – can’t wait for those!
 <br><br>
 
 **RR: You mentioned your love for surfing and all of us at [Rave Reviewz](https://www.ravereviewz.net/) enjoy your hilarious cooking adventures on Instagram. Is there anything outside of DJing you would like to pursue in the future?**
