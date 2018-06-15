@@ -54,3 +54,5 @@ Robbie: Well, I’ve worked for everything I’ve got and I can’t say I’ve t
 <br><br> 
 
 **RR: And you sure do make them dance. Thanks Robbie.**
+
+_Photo: Robbie with John Digweed @ Greenwood Hotel_
