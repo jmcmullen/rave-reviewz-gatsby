@@ -8,7 +8,7 @@ description: >-
   Nick.
 featuredImage: /img/nick-reverse.jpg
 ---
-_Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves..._
+_Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) frontman [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves..._
 <br><br>
 
 **RR: Hey Nick, happy new year! We saw you and your team smash it on New Year’s Day at [Space Ibiza on Tour](https://www.facebook.com/events/163826680868206/). How was the experience of hosting your own stage?**
