@@ -8,15 +8,15 @@ description: >-
   Nick.
 featuredImage: /img/nick-reverse.jpg
 ---
-_Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/)_ front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves..._
+_Undoubtedly one of the finest DJs doing the biz in sunny Sydney, we caught up with [WeLove](https://www.facebook.com/welovesydneyunderground/) front man [Nick Reverse](https://www.facebook.com/nickreverse/) for a chat about the brand and the things he loves..._
 <br><br>
 
-**RR: Hey Nick, happy new year! We saw you and your team smash it on New Year’s Day at **[**Space Ibiza on Tour**](https://www.facebook.com/events/163826680868206/)**. How was the experience of hosting your own stage?**
+**RR: Hey Nick, happy new year! We saw you and your team smash it on New Year’s Day at [Space Ibiza on Tour](https://www.facebook.com/events/163826680868206/). How was the experience of hosting your own stage?**
 
 Nick: Space Ibiza was just amazing this year, we had the pleasure of taking over the Chapel with [Nakadia](https://magazine.ravereviewz.net/interview/nakadia-welove) closing and such amazing local support... the dancefloor was on fire the whole time!
 <br><br>
 
-**RR: Sure was. We’re super excited that one of the Space headliners - Javi Bora, is playing at WeLove this week. What do you think we can we expect from him at the Burdekin? **
+**RR: Sure was. We’re super excited that one of the Space headliners - Javi Bora, is playing at WeLove this week. What do you think we can we expect from him at the Burdekin?**
 
 Nick: Javi always deliver the goods... his was my favourite set at Space Ibiza. I met him in 2016 and we became good friends. He’s already played three gigs for us and we’re really looking forward to having him play for us again on Friday.
 <br><br>
@@ -25,6 +25,8 @@ Nick: Javi always deliver the goods... his was my favourite set at Space Ibiza. 
 
 Nick: It started in June 2015 at the [Burdekin](https://www.facebook.com/BurdekinHotel/) as a weekly meeting for techno lovers that became a solid party. Then we had our first official afterparty for Space Ibiza on New Years Day 2016 and things took off…
 <br><br>
+
+![](/img/nick-reverse-welove.jpg)
 
 **RR: Nice. If you had to pick one of your parties that really hit the spot for you which would it be?**
 
