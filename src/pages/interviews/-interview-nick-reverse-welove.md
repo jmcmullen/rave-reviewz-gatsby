@@ -38,7 +38,7 @@ Nick:  That's a pretty hard question... I have so many good memories! Last Frida
 Nick: There are so many good artists. We’re working on a few… let's keep it a secret for the moment haha.
 <br><br>
 
-**RR: Fair enough! Let’s talk about your own music career – how did you get into DJing? **
+**RR: Fair enough! Let’s talk about your own music career – how did you get into DJing?**
 
 Nick: My dad had some turntables with heaps of funk which started my passion. At the age of 18 I started to play private parties, then clubs, and within a few years producing music became my life! I released my first EP and started to perform in Italy and Europe... then I moved to Australia when I was 25 and I think it was one of the best decisions I’ve made.
 <br><br>
