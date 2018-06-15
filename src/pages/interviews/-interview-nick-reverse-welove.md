@@ -26,6 +26,8 @@ Nick: Javi always deliver the goods... his was my favourite set at Space Ibiza. 
 Nick: It started in June 2015 at the [Burdekin](https://www.facebook.com/BurdekinHotel/) as a weekly meeting for techno lovers that became a solid party. Then we had our first official afterparty for Space Ibiza on New Years Day 2016 and things took off…
 <br><br>
 
+![](/img/nick-reverse-welove.jpg)
+
 **RR: Nice. If you had to pick one of your parties that really hit the spot for you which would it be?**
 
 Nick:  That's a pretty hard question... I have so many good memories! Last Friday with Nakadia was so great… and I’ll never forget the 5 hour set by Markantonio & [Luigi Madonna](https://www.facebook.com/ravereviewz/videos/623591744658512/)… and many others!
