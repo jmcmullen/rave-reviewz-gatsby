@@ -8,7 +8,7 @@ description: >-
   in history..
 featuredImage: /img/kerry-wallace-shot.jpg
 ---
-_In the world of Sydney house & techno, they don’t come bigger than Kerry Wallace - DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)_’s most revered nightlife institutions, S\*A\*S*H. Here's his exclusive chat with [Rave Reviewz'](https://magazine.ravereviewz.net/)_ Sean McDonald..._
+_In the world of Sydney house & techno, they don’t come bigger than Kerry Wallace - DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)’s most revered nightlife institutions, S\*A\*S*H. Here's his exclusive chat with [Rave Reviewz'](https://magazine.ravereviewz.net/)_ Sean McDonald..._
 <br><br>
 
 **RR: Kerry, great to see you. Let’s dive straight into our favourite Sunday sesh – how did [S.A.S.H](https://www.facebook.com/sashsundays/) begin?**
