@@ -21,7 +21,7 @@ Kerry: It actually started in London. I moved to England when I was about 22 and
 Kerry: They’ve all got their merits. White Horse was the beginning - that was 7 years ago this April! We still pop back there now and again for reunion parties, for old time’s sake. Then the Abercrombie had that rough and tough feel and was where we really got cemented in everyone’s heads. Flyover Bar was more of a polished venue and we had the new Funktion 1 system which was cool, but there was some rule about the glass doors to the outdoors area being shut, which ruined it eventually. Then we finally settled down at the Greenwood & Home. 
 <br><br>
 
-**RR: What do you think it is about the Terrace at Home? Many a DJ - including **[**Ben Nott**](https://ravereviewz.net.au/interview/ben-nott-blueprint)** and **[**Stuart Hunter**](https://ravereviewz.net.au/interview/stuart-hunter)**, have told us that their most memorable sets have been there.**
+**RR: What do you think it is about the Terrace at Home? Many a DJ - including [Ben Nott](https://ravereviewz.net.au/interview/ben-nott-blueprint) and [Stuart Hunter](https://ravereviewz.net.au/interview/stuart-hunter), have told us that their most memorable sets have been there.**
 
 Kerry: There’s just something about that room, with the glass all the way round. The whole venue’s not open right now, but when it is certain guests like [Enzo](https://www.facebook.com/djenzosiragusa/) from Fuse who have been there before will say, “hey just want to check I’m playing The Terrace”. He’d rather play to 200 people than 1000 in the main room because it just has its own vibe!
 <br><br>
@@ -34,7 +34,8 @@ Kerry: The closing of Abercrombie comes to mind – I played the last tune. And 
 **RR: 7 years is a long time for a party to still be going strong in Sydney. What do you put that down to?**
 
 Kerry: I’ve always said that a good party starts with a good group of friends. And then of course the other pieces of the puzzle are a good venue, a good sound system and a consistent music policy derived from who you have playing. So if you can get all 3 of them right then you’ve got it. The S.A.S.H parties were built on word of mouth - our crowd is probably 80% international people on holiday, who then go home and tell their mates to go to S.A.S.H.
-<br><br>
+
+![](/img/kerry-wallace-sash.jpg)
 
 **RR: You’ve said in previous interviews that S.A.S.H can mean whatever you want it to mean, and your event details often include tags like ‘SocksAssShoesHats’ … what is the story behind the name??**
 
@@ -54,3 +55,5 @@ Kerry: Well I’ll give you the scoop, we’re going to start a series of S.A.S.
 **RR: Exciting stuff mate! See you at S.A.S.H!**
 
 Visit [www.sash.net.au](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.sash.net.au%2F&h=ATNkPFTXMUtw7W92tUYWi_QkmPSlaIvkWDeGNiudDuQcwlLUAf6LVz_GmCDMLWOvxJXW7VV_DaMeOi9uHFZuRI47fHMJwSjsIA1vCaygJBn2vbu1Ri9c3Ie-) for details of their upcoming parties.
+
+📷 - _S.A.S.H Queen's Bday Long Weekend 2017_
