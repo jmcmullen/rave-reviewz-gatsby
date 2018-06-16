@@ -9,7 +9,8 @@ featuredImage: /img/tim-green.jpg
 **RR: It was great to have you back in Australia Tim! Your tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
 
 Tim: Yes was happy to be back! So my concept and direction was to write a film score basically. Although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as the inspiration and direction for myself. So having repeating themes and motives for different elements from the story, like a love theme for example. Or by having each song almost as if it was for a different scene in a movie etc… All of this was basically to give me a new way to write and think about how to construct an album. I wasn’t ever interested in just writing an album with 12 or so dance floor tracks for DJs that are not connected or telling much of a story. It’s been a year in the making and started thanks to Cocoon being very patient and supportive with me. For a while they wanted an album from me, but I said I needed to have a concept. So they were very patient while I came up with this concept and even before I played them anything from the album. They were nice enough to allow me total freedom! 
-<br><br>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F637945146556505%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **RR: It’s been described as a “film score for a film that doesn't exist” and the track list sounds like cues for movie scenes. Did you envisage a storyline to accompany it?**
 
@@ -59,4 +60,4 @@ Tim: I already have a didgeridoo actually! Got one from Aus in the past. Althoug
 
 **RR: Haha maybe you'll use it in a live set one day. Cheers Tim!**
 
-_'Her Future Ghost' is out now on Cocoon Recordings. Buy it [here](https://www.beatport.com/release/her-future-ghost/2269137)_ 
+_'Her Future Ghost' is out now on Cocoon Recordings. Buy it [here](https://www.beatport.com/release/her-future-ghost/2269137)_
