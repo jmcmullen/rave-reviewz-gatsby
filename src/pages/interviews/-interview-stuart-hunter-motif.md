@@ -27,7 +27,7 @@ Stuart: I really love deep, melodic tracks, especially the progressive side of h
 
 Stuart: Definitely. I’m really excited that we’re bringing him over as he’s never been to Australia before. There are some amazing DJs in that part of the world like him and Guy J. They love their progressive there too - Sasha, Digweed and Nick Warren are huge out there, all the DJs that I’m influenced by.
 
-![](/img/stuart-hunter-motif.jpg)
+![null](/img/stuart-hunter-motif.jpg)
 
 **RR: So what’s been the most memorable set you’ve played so far?**
 
