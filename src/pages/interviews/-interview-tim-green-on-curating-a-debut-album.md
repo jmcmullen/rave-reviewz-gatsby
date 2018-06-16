@@ -30,7 +30,8 @@ Tim: Well so far its more techno orientated currently, with the type of songs an
 **RR: If we asked you to pick a favourite set from throughout your career, which one jumps to mind?**
 
 Tim: I always have so much fun playing in New York for the amazing Ebb and Flow boat parties. Those are the first sets that spring to my mind. They are really good friends also, so it’s always so special to play there. I’m doing their June boat party every year. So happening again in a couple of weeks with Holmar from Thugfucker. 
-<br><br>
+
+<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x4jv2o9" allowfullscreen allow="autoplay"></iframe>
 
 **RR: Now you established Disc Over Music nearly 5 years ago - can you describe the experience of managing your own label?  Anything you would have done differently?**
 
