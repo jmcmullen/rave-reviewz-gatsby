@@ -8,7 +8,7 @@ description: >-
   in history..
 featuredImage: /img/kerry-wallace-shot.jpg
 ---
-_In the world of Sydney house & techno, they don’t come bigger than Kerry Wallace - DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)’s most revered nightlife institutions, S\*A\*S*H. Here's his exclusive chat with [Rave Reviewz'](https://magazine.ravereviewz.net/)_ Sean McDonald..._
+_In the world of Sydney house & techno, they don’t come bigger than Kerry Wallace - DJ, part-owner of Inner West vibes-den SLYFOX and pioneer of one of [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)’s most revered nightlife institutions, S\*A\*S*H. Here's his exclusive chat with [Rave Reviewz'](https://magazine.ravereviewz.net/) Sean McDonald..._
 <br><br>
 
 **RR: Kerry, great to see you. Let’s dive straight into our favourite Sunday sesh – how did [S.A.S.H](https://www.facebook.com/sashsundays/) begin?**
@@ -35,7 +35,7 @@ Kerry: The closing of Abercrombie comes to mind – I played the last tune. And 
 
 Kerry: I’ve always said that a good party starts with a good group of friends. And then of course the other pieces of the puzzle are a good venue, a good sound system and a consistent music policy derived from who you have playing. So if you can get all 3 of them right then you’ve got it. The S.A.S.H parties were built on word of mouth - our crowd is probably 80% international people on holiday, who then go home and tell their mates to go to S.A.S.H.
 
-![](/img/kerry-wallace-sash.jpg)
+![null](/img/kerry-wallace-sash.jpg)
 
 **RR: You’ve said in previous interviews that S.A.S.H can mean whatever you want it to mean, and your event details often include tags like ‘SocksAssShoesHats’ … what is the story behind the name??**
 
