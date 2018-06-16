@@ -11,7 +11,7 @@ featuredImage: /img/tim-green.jpg
 Tim: Yes was happy to be back! So my concept and direction was to write a film score basically. Although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as the inspiration and direction for myself. So having repeating themes and motives for different elements from the story, like a love theme for example. Or by having each song almost as if it was for a different scene in a movie etc… All of this was basically to give me a new way to write and think about how to construct an album. I wasn’t ever interested in just writing an album with 12 or so dance floor tracks for DJs that are not connected or telling much of a story. It’s been a year in the making and started thanks to Cocoon being very patient and supportive with me. For a while they wanted an album from me, but I said I needed to have a concept. So they were very patient while I came up with this concept and even before I played them anything from the album. They were nice enough to allow me total freedom! 
 <br><br>
 
-**RR: It’s been described as a “film score for a film that doesn't exist” and the track list sounds like cues for movie scenes. Did you envisage a storyline to accompany it? **
+**RR: It’s been described as a “film score for a film that doesn't exist” and the track list sounds like cues for movie scenes. Did you envisage a storyline to accompany it?**
 
 Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. I was seeing this story sort of unfold in my mind whilst writing the tracks, sort of then leading onto the next track or cue to a scene. 
 <br><br>
@@ -41,12 +41,13 @@ Tim: Well I’ve stopped the label now for a breather, mainly because I just don
 Tim: It’s a blur haha. But such fantastic times. It was always great because it’s near my hometown, and so many of my close friends would be there. Uusually I don’t get the chance to see them whilst travelling all the time, but this was always like a great reunion. Unfortunately no plans to revive it again as yet. Maybe one day though for sure!
 <br><br>
 
-**RR: Your rework of Tim Engelhardt’s ‘Eyes Closed’ has been well received. How did this project originate and what process did you follow when remixing the track? **
+**RR: Your rework of Tim Engelhardt’s ‘Eyes Closed’ has been well received. How did this project originate and what process did you follow when remixing the track?**
 
 Tim: Tim and I had been talking for a while anyway as we both love each other’s music. He’d sent me his album a long time before it was released, so I had already my favourite tracks on the album. This one I felt was the most interesting to remix because of its different tempo, but such lovely chords and vibe to it. It was really simple to remix to be honest, because his music is so good, and the parts sound excellent on their own.
-<br><br>
 
-**RR: And what do you have planned for the rest of the year? **
+<iframe src="https://embed.beatport.com/?id=9839774&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
+
+**RR: And what do you have planned for the rest of the year?**
 
 Tim: A whole lot of shows and hoping to find time to get back into the studio in between! Really looking forward to my US tour at the end of June. Sonar before that also which I’m really looking forward to. Then I’m really happy to be going back to Burning Man again this year! So will be playing a couple of sets there; not too many, as I prefer to enjoy the experience for what it is, rather than be playing all the time.
 <br><br>
@@ -58,4 +59,4 @@ Tim: I already have a didgeridoo actually! Got one from Aus in the past. Althoug
 
 **RR: Haha maybe you'll use it in a live set one day. Cheers Tim!**
 
-_'Her Future Ghost' is out now on Cocoon Recordings. Buy it _[_here_](https://www.beatport.com/release/her-future-ghost/2269137)_ _
+_'Her Future Ghost' is out now on Cocoon Recordings. Buy it [here](https://www.beatport.com/release/her-future-ghost/2269137)_ 
