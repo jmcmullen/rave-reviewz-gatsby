@@ -1,14 +1,18 @@
 ---
 templateKey: interview-post
 path: /interview/timgreen
-title: TIM GREEN on curating a debut album
+title: TIM GREEN on his debut album
 date: 2018-06-16T21:39:00.397Z
-description: TBC
+description: 'Returning with his atmospheric '
 featuredImage: /img/tim-green.jpg
 ---
+Following his set at [The Junction](https://www.ravereviewz.net/Venue/The-Junction---Bondi/54) earlier this month, we had a chat with the Cocoon favourite about his cinematic LP and projects, old and new.  
+
 **RR: It was great to have you back in Australia Tim! Your tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
 
-Tim: Yes was happy to be back! So my concept and direction was to write a film score basically. Although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as the inspiration and direction for myself. So having repeating themes and motives for different elements from the story, like a love theme for example. Or by having each song almost as if it was for a different scene in a movie etc… All of this was basically to give me a new way to write and think about how to construct an album. I wasn’t ever interested in just writing an album with 12 or so dance floor tracks for DJs that are not connected or telling much of a story. It’s been a year in the making and started thanks to Cocoon being very patient and supportive with me. For a while they wanted an album from me, but I said I needed to have a concept. So they were very patient while I came up with this concept and even before I played them anything from the album. They were nice enough to allow me total freedom! 
+Tim: Yes was happy to be back! So my concept and direction was to write a film score basically. Although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as the inspiration and direction for myself. So having repeating themes and motives for different elements from the story, like a love theme for example. Or by having each song almost as if it was for a different scene in a movie etc… All of this was basically to give me a new way to write and think about how to construct an album. 
+
+I wasn’t ever interested in just writing an album with 12 or so dancefloor tracks for DJs that are not connected or telling much of a story. It’s been a year in the making and started thanks to [Cocoon](https://www.facebook.com/COCOON.OFFICIAL/) being very patient and supportive with me. For a while they wanted an album from me, but I said I needed to have a concept. So they were very patient while I came up with this concept and even before I played them anything from the album. They were nice enough to allow me total freedom! 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F637945146556505%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
@@ -33,7 +37,7 @@ Tim: I always have so much fun playing in New York for the amazing Ebb and Flow 
 
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x4jv2o9" allowfullscreen allow="autoplay"></iframe>
 
-**RR: Now you established Disc Over Music nearly 5 years ago - can you describe the experience of managing your own label?  Anything you would have done differently?**
+**RR: Now you established **[**Disc Over Music**](https://www.facebook.com/DiscOverMusicOfficial/)** nearly 5 years ago - can you describe the experience of managing your own label?  Anything you would have done differently?**
 
 Tim: Well I’ve stopped the label now for a breather, mainly because I just don’t have the time to fully give my energy to the label. So I think it’s not worth it until I can really maximise and focus on doing it. I hope to start it up again in the near future.
 <br><br>
@@ -56,7 +60,7 @@ Tim: A whole lot of shows and hoping to find time to get back into the studio in
 
 **RR: Final question. We hear you like to travel and pick up different instruments from around the world - what has been your best find? Will you be taking home a didgeridoo?**
 
-Tim: I already have a didgeridoo actually! Got one from Aus in the past. Although its only quality with myself is looking good, as I’m totally unable to play it haha.
+Tim: I already have a didgeridoo actually! Got one from Oz in the past. Although its only quality with myself is looking good, as I’m totally unable to play it haha.
 <br><br>
 
 **RR: Haha maybe you'll use it in a live set one day. Cheers Tim!**
