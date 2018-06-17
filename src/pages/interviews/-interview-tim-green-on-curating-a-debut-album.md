@@ -25,7 +25,7 @@ Tim: Yes completely. Although it was more a loose idea and story arc with charac
 
 **RR: Great concept. You've worked with several big labels over the years - what drew you back to Cocoon's creative environment when it came to producing the album?**
 
-Tim: Firstly they have always released albums well and supported the artist’s vision, which you can see from the back catalog.  But mainly for me, because we get along so well and share similar opinions on music. It's always easy to work with them and a pleasure... in fact, an honour ultimately. 
+Tim: Firstly they have always released albums well and supported the artist’s vision, which you can see from the back catalogue.  But mainly for me, because we get along so well and share similar opinions on music. It's always easy to work with them and a pleasure... in fact, an honour ultimately. 
 <br><br>
 
 **RR: There’s been a lot of buzz around your brand new live setup - how would you compare it to a DJ set? Do the live elements give you more freedom during the performance?**
