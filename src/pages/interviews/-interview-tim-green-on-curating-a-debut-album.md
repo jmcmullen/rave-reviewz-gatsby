@@ -18,7 +18,7 @@ I wasn’t ever interested in just writing an album with 12 or so dancefloor tra
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F637945146556505%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-**RR: The tracklist for the album also sounds like cues for movie scenes. Did you envisage a storyline to accompany it?**
+**RR: The tracklist for the album also reads like cues for movie scenes. Did you envisage a storyline to accompany it?**
 
 Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. I was seeing this story sort of unfold in my mind whilst writing the tracks, sort of then leading onto the next track or cue to a scene. 
 <br><br>
