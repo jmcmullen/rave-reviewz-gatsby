@@ -1,14 +1,16 @@
 ---
 templateKey: interview-post
 path: /interview/timgreen
-title: TIM GREEN on his debut album
+title: TIM GREEN on constructing his debut album
 date: 2018-06-16T21:39:00.397Z
-description: 'Returning with his atmospheric '
+description: >-
+  Hot off the back of his new album, the versatile artist talks us through its
+  year-long development. 
 featuredImage: /img/tim-green.jpg
 ---
-Following his set at [The Junction](https://www.ravereviewz.net/Venue/The-Junction---Bondi/54) earlier this month, we had a chat with the Cocoon favourite about his cinematic LP and projects, old and new.  
+_Following his set at _[_The Junction_](https://www.ravereviewz.net/Venue/The-Junction---Bondi/54)_ earlier this month, we had a chat with the Cocoon favourite to discuss his engaging career, cinematic LP and corresponding tour. _
 
-**RR: It was great to have you back in Australia Tim! Your tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
+**RR: It was great having you back in Australia, Tim! Your tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
 
 Tim: Yes was happy to be back! So my concept and direction was to write a film score basically. Although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as the inspiration and direction for myself. So having repeating themes and motives for different elements from the story, like a love theme for example. Or by having each song almost as if it was for a different scene in a movie etc… All of this was basically to give me a new way to write and think about how to construct an album. 
 
@@ -16,7 +18,7 @@ I wasn’t ever interested in just writing an album with 12 or so dancefloor tra
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F637945146556505%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-**RR: It’s been described as a “film score for a film that doesn't exist” and the track list sounds like cues for movie scenes. Did you envisage a storyline to accompany it?**
+**RR: It’s been described as a “film score for a film that doesn't exist” and the tracklist sounds like cues for movie scenes. Did you envisage a storyline to accompany it?**
 
 Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. I was seeing this story sort of unfold in my mind whilst writing the tracks, sort of then leading onto the next track or cue to a scene. 
 <br><br>
@@ -44,7 +46,7 @@ Tim: Well I’ve stopped the label now for a breather, mainly because I just don
 
 **RR: During the Bedlam party days, you brought some serious heavyweights over to play in your hometown of Chatham in Kent. What are your best memories from those events? Any chance of a reunion at the tunnel?**
 
-Tim: It’s a blur haha. But such fantastic times. It was always great because it’s near my hometown, and so many of my close friends would be there. Uusually I don’t get the chance to see them whilst travelling all the time, but this was always like a great reunion. Unfortunately no plans to revive it again as yet. Maybe one day though for sure!
+Tim: It’s a blur haha. But such fantastic times. It was always great because it’s near my hometown, and so many of my close friends would be there. Usually I don’t get the chance to see them whilst travelling all the time, but this was always like a great reunion. Unfortunately no plans to revive it again as yet. Maybe one day though for sure!
 <br><br>
 
 **RR: Your rework of Tim Engelhardt’s ‘Eyes Closed’ has been well received. How did this project originate and what process did you follow when remixing the track?**
@@ -63,6 +65,6 @@ Tim: A whole lot of shows and hoping to find time to get back into the studio in
 Tim: I already have a didgeridoo actually! Got one from Oz in the past. Although its only quality with myself is looking good, as I’m totally unable to play it haha.
 <br><br>
 
-**RR: Haha maybe you'll use it in a live set one day. Cheers Tim!**
+**RR: Haha maybe someday you'll use it in a live set. Cheers Tim!**
 
 _'Her Future Ghost' is out now on Cocoon Recordings. Buy it [here](https://www.beatport.com/release/her-future-ghost/2269137)_
