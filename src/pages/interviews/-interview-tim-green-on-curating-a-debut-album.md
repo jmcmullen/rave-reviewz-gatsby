@@ -5,7 +5,7 @@ title: TIM GREEN on constructing his debut album
 date: 2018-06-16T21:39:00.397Z
 description: >-
   Hot off the back of his new album, the versatile artist talks us through its
-  year-long development.
+  year-long development. 
 featuredImage: /img/tim-green.jpg
 ---
 _Following his set at _[_The Junction_](https://www.ravereviewz.net/Venue/The-Junction---Bondi/54)_ earlier this month, we had a chat with the Cocoon favourite to discuss his engaging career, cinematic LP and corresponding tour. _
