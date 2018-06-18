@@ -35,7 +35,7 @@ Steve: Well, I cut my teeth pre-1996 in Sydney. Parties ran for 24 hours back th
 Steve: I believe in quality control. I take a lot of preparation to every set and for each track, I ask myself “do I like it?” and then “will the dancefloor like it?”. I love intricate melodies, layering and blending sounds to create something new. I’m not the kind to be throwing his hands up in the air behind the decks, I really immerse myself in my music. But at the same time, I do read the crowd to see what’s working so that I’m not clearing the room!
 <br><br>
 
-**RR: You’ve shared the bill with some huge names like **[**John Digweed**](https://www.facebook.com/djjohndigweed/)**. What has been your most memorable set?**
+**RR: You’ve shared the bill with some huge names like [John Digweed](https://www.facebook.com/djjohndigweed/). What has been your most memorable set?**
 
 Steve: Warming up for [Hernan Cattaneo](https://www.facebook.com/hernancattaneo/) at the [Electric Gardens](https://magazine.ravereviewz.net/interview/damian-gelle-electric-gardens) after party was something else. Hernan requested me personally, which was mind-blowing. I was so stoked but there was also a lot of pressure. People were rocking up from the festival so I was keeping it nice and deep to maintain the interest of the crowd.
 <br><br>
