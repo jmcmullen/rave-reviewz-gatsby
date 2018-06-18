@@ -37,7 +37,7 @@ Nathan: I think mine would have to be the 2nd birthday with Ben and [Dan Farsere
 
 Mitch: For me, it was our second ever party with our residents in a warehouse.
 
-![](/img/canvas-events-party.jpg)
+![null](/img/canvas-events-party.jpg)
 
 **RR: That party looked insane! Who would you love to bring over for your 3rd birthday?**
 
@@ -54,7 +54,8 @@ Mitch: I reckon DC10 terrace.
 **RR: Last year, you ran a special event in Sydney and Melbourne with [Jon Dasilva](https://www.facebook.com/jondasilvadjprofile/) to celebrate the Hacienda music scene. What significance does that era hold for Canvas Events?**
 
 Nathan: Yeah we teamed up with some good friends of ours who run a Brit-pop night called [Step On](https://www.facebook.com/StepOnSydney/) - I think that era shaped the future of dance music really, so I think it holds significance to everyone who enjoys electronic music in one way or another.
-<br><br>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcanvaseventssydney%2Fvideos%2F1742570396036690%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **RR: What can we look forward to in 2018 from Canvas events?**
 
