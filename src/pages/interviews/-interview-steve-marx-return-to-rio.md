@@ -18,7 +18,8 @@ Steve: Ah man, it was honestly the best festival I’ve ever been to. The produc
 **RR: Sure was. So what was your highlight of the festival?**
 
 Steve: Probably breaking my Rio cherry! It was my first time playing there and I had a good crowd at the pool stage, which was great. Of the internationals I thought Khen’s set on the Sunday was really good, I love the way he puts his music together.
-<br><br>
+
+![](/img/steve-marx.jpg)
 
 **RR: Yep, he smashed it. You’ve been spinning tunes a good while, how did your journey into DJing begin?**
 
