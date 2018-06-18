@@ -8,7 +8,7 @@ description: >-
   year-long development. 
 featuredImage: /img/tim-green.jpg
 ---
-_Following his set at _[_The Junction_](https://www.ravereviewz.net/Venue/The-Junction---Bondi/54)_ earlier this month, we had a chat with the Cocoon favourite to discuss his engaging career, cinematic LP and corresponding tour. _
+_Following his set at \[The Junction](https://bit.ly/2wqrGHH) earlier this month, we had a chat with the Cocoon favourite to discuss his engaging career, cinematic LP and corresponding tour._
 
 **RR: It was great having you back in Australia, Tim! Your tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
 
