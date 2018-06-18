@@ -1,11 +1,11 @@
 ---
 templateKey: interview-post
-path: /interview/nathan-mitch
+path: /interview/nathan-mitch-canvas
 title: 'Nathan & Mitch: Canvas Events'
 date: 2018-01-12T00:36:22.000Z
 description: >-
-  With Ben Rau steering their upcoming boat party, we grabbed a chat with the
-  boys behind Canvas Events.
+  With Ben Rau set to steer their upcoming boat party, we grabbed a chat with
+  the boys behind Canvas Events.
 featuredImage: /img/nathan-mitch.jpg
 ---
 _With a reputation for hosting unique parties on Sydney’s underground circuit, we caught up with 2 of the founding fathers of [Canvas Events](https://www.facebook.com/canvaseventssydney/), Nathan Shackcloth & Mitch Fowler, before their big [boat party](https://www.facebook.com/pg/canvaseventssydney/events/?ref=page_internal) tomorrow..._
