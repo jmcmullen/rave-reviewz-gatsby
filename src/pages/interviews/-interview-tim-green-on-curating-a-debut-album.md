@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/timgreen
 title: TIM GREEN on debut album
-date: 2018-06-16T21:39:00.397Z
+date: 2017-10-01T07:39:00+11:00
 description: >-
   Hot off the back of his new album, the versatile artist talks us through its
   year-long development. 
