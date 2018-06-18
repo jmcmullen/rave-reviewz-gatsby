@@ -3,7 +3,9 @@ templateKey: interview-post
 path: /interview/eden-worthington-spektrum
 title: 'Eden Worthington: Spektrum'
 date: 2017-12-13T04:44:50.000Z
-description: 'Here''s our chat with Spectrum founder, Eden Worthington. '
+description: >-
+  Here's our chat with Spektrum co-founder, Eden Worthington about the brand and
+  which DJ he thinks needs a haircut.
 featuredImage: /img/eden-worthington.jpg
 ---
 _Ahead of the massive Cristoph gig this weekend, we talked to Eden Worthington – the architect of one of Sydney’s most reputable weekly parties… [Spektrum](https://www.facebook.com/spektrumau/)._
