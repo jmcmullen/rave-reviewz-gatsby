@@ -12,7 +12,7 @@ _Following his set at [The Junction](https://bit.ly/2wqrGHH) earlier this month,
 
 **RR: Tim - your recent Australian tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
 
-Tim: Yes was happy to be back! So my concept and direction was to write a film score, although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as my inspiration and direction. So having repeating themes and motifs for different elements from the story, like a love theme for example. Or by having each song almost as a different scene in a movie… all of this was basically to give me a new way to write and think about how to construct an album. 
+Tim: Yes was happy to be back! So my concept and direction was to write a film score, although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as my inspiration and direction. 
 
 I wasn’t ever interested in just writing an album with 12 or so dancefloor tracks for DJs that are not connected or telling much of a story. It’s been a year in the making and started thanks to [Cocoon](https://www.facebook.com/COCOON.OFFICIAL/) being very supportive and patient. For a while they wanted an album from me, but I said I needed to have a concept. So they were nice enough to allow me total freedom! 
 
@@ -20,7 +20,9 @@ I wasn’t ever interested in just writing an album with 12 or so dancefloor tra
 
 **RR: The tracklist for the album also reads like cues for movie scenes. Did you envisage a storyline to accompany it?**
 
-Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. I was seeing this story sort of unfold in my mind whilst writing the track, then leading onto the next track or cue to a scene. 
+Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. For example, having repeating themes and motifs for different elements from the story, like a love theme. Or by having each song almost as a different scene in a movie… all of this was basically to give me a new way to write and think about how to construct an album. 
+
+I was seeing this story sort of unfold in my mind whilst writing the track, then leading onto the next track or cue to a scene. 
 <br><br>
 
 **RR: Great concept. You've worked with several big labels over the years - what drew you back to Cocoon's creative environment when it came to producing the album?**
@@ -30,12 +32,12 @@ Tim: Firstly they have always released albums well and supported the artist’s 
 
 **RR: There’s been a lot of buzz around your brand new live setup - how would you compare it to a DJ set? Do the live elements give you more freedom during the performance?**
 
-Tim: It's currently more techno orientated with the type of songs and shows I’m playing, which is really good fun. It’s interesting because you obviously have a limited amount of material to perform with, in comparison to the unlimited tracks you can DJ with. But it makes me think in different ways and perform better with my existing material, as well as writing a lot of new material exclusively for the show. I’m incorporating more and more live playing with a midi keyboard also, which isn’t always possible with my existing songs, as the songs I feel are quite full and complete. So it doesn’t always warrant just jamming on a keyboard over the top. 
+Tim: It's currently more techno orientated with the type of songs and shows I’m playing, which is really good fun. It’s interesting because you obviously have a limited amount of material to perform with, in comparison to the unlimited tracks you can DJ with. But it makes me think in different ways and perform better with my existing material, as well as writing a lot of new material exclusively for the show. I’m incorporating more and more live playing with a MIDI keyboard also, which isn’t always possible with my existing songs, as the songs I feel are quite full and complete. So it doesn’t always warrant just jamming on a keyboard over the top. 
 <br><br>
 
 **RR: If we asked you to pick a favourite set from throughout your career, which one jumps to mind?**
 
-Tim: I always have so much fun playing in New York for the amazing Ebb and Flow boat parties. Those are the first sets that spring to my mind. They are really good friends also, so it’s always so special to play there. I’m doing their June boat party every year. So happening again in a couple of weeks with Holmar from Thugfucker. 
+Tim: I always have so much fun playing in New York for the amazing Ebb and Flow boat parties. Those are the first sets that spring to my mind. They are really good friends also, so it’s always so special to play there. I’m doing their June boat party every year so happening again in a couple of weeks with Holmar from Thugfucker. 
 
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x4jv2o9" allowfullscreen allow="autoplay"></iframe>
 
