@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/timgreen
-title: TIM GREEN on constructing his debut album
+title: TIM GREEN on releasing his debut album
 date: 2017-09-30T20:39:00.000Z
 description: >-
   Hot off the back of his new album, the versatile artist talks us through its
