@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/ben-nott-blueprint
 title: 'Ben Nott: Blueprint'
 date: 2017-10-03T14:39:38.000Z
-description: Our exclusive interview with the seasoned DJ and Blueprint founder
+description: An exclusive interview with the seasoned DJ and Blueprint founder
 featuredImage: /img/ben-nott-dj.jpg
 ---
 _[Rave Reviewz'](https://ravereviewz.net.au/) Kamran Ahmed caught up with the Blueprint boss for a chat about all things ravey, ahead of their boat cruise this Saturday..._
