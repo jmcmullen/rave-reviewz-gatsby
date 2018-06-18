@@ -4,7 +4,7 @@ path: /interview/dean-pogs-summerlove
 title: 'Dean Pogs: Summerlove'
 date: 2018-04-13T00:53:45.821Z
 description: >-
-  Our chat with Dean Pogs of Summerlove ahead of Project S - 'the craziest and
+  We talked to Summerlove's Dean Pogs, ahead of Project S - 'the craziest and
   most ridiculous house party that Sydney has ever seen’...
 featuredImage: /img/dean-pogs.jpg
 ---
