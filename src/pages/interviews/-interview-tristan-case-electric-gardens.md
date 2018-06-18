@@ -3,7 +3,9 @@ templateKey: interview-post
 path: /interview/tristan-case
 title: Tristan Case @ Electric Gardens
 date: 2018-01-23T22:40:29.000Z
-description: We managed to sneak Tristan Case away from the decks for a quick chat.
+description: >-
+  We managed to pin down one of the most in-demand DJs in Sydney for an
+  interview. Check it out!
 featuredImage: /img/tristan-case.jpg
 ---
 _He’s one of the busiest DJs on Sydney’s underground circuit, but we managed to sneak [Tristan Case](https://www.facebook.com/djtristancase/) away from the decks for a quick chat about his recent and upcoming sets, including this weekend’s huge performance at Electric Gardens Festival..._
