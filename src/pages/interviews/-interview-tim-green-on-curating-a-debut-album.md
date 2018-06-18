@@ -4,8 +4,8 @@ path: /interview/timgreen
 title: TIM GREEN on releasing his debut album
 date: 2017-09-30T20:39:00.000Z
 description: >-
-  Hot off the back of his new album, the versatile artist talks us through its
-  year-long development. 
+  Hot off the back of his Australian tour, the British producer talks us through
+  his album and its year-long development. 
 featuredImage: /img/tim-green.jpg
 ---
 _Following his set at [The Junction](https://bit.ly/2wqrGHH) earlier this month, we had a chat with the Cocoon favourite to discuss his career and touring his cinematic debut LP..._
