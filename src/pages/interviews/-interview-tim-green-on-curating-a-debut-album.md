@@ -1,18 +1,18 @@
 ---
 templateKey: interview-post
 path: /interview/timgreen
-title: TIM GREEN on constructing a debut album
+title: TIM GREEN on debut album
 date: 2018-06-16T21:39:00.397Z
 description: >-
   Hot off the back of his new album, the versatile artist talks us through its
   year-long development. 
 featuredImage: /img/tim-green.jpg
 ---
-_Following his set at \[The Junction](https://bit.ly/2wqrGHH) earlier this month, we had a chat with the Cocoon favourite to discuss his engaging career, cinematic LP and corresponding tour._
+_Following his set at \[The Junction](https://bit.ly/2wqrGHH) earlier this month, we had a chat with the Cocoon favourite to discuss his career and touring his cinematic debut LP..._
 
-**RR: It was great having you back in Australia, Tim! Your tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
+**RR: Tim - your recent Australian tour celebrated the release of your first album - ‘Her Future Ghost.’ Talk us through the LP’s development. What’s the meaning behind its title?**
 
-Tim: Yes was happy to be back! So my concept and direction was to write a film score, although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as the inspiration and direction for myself. So having repeating themes and motives for different elements from the story, like a love theme for example. Or by having each song almost as if it was for a different scene in a movie etc… All of this was basically to give me a new way to write and think about how to construct an album. 
+Tim: Yes was happy to be back! So my concept and direction was to write a film score, although for a film that doesn’t actually exist. As an avid film score fan, I wanted to create a body of work that took certain typical soundtrack traits and practices, then apply them to this album as my inspiration and direction. So having repeating themes and motifs for different elements from the story, like a love theme for example. Or by having each song almost as a different scene in a movie etc… All of this was basically to give me a new way to write and think about how to construct an album. 
 
 I wasn’t ever interested in just writing an album with 12 or so dancefloor tracks for DJs that are not connected or telling much of a story. It’s been a year in the making and started thanks to [Cocoon](https://www.facebook.com/COCOON.OFFICIAL/) being very patient and supportive with me. For a while they wanted an album from me, but I said I needed to have a concept. So they were very patient and were nice enough to allow me total freedom! 
 
