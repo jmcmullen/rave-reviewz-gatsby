@@ -65,6 +65,6 @@ Tim: A whole lot of shows and hoping to find time to get back into the studio in
 Tim: I already have a didgeridoo actually! Got one from Oz in the past. Although its only quality is to look good, as I’m totally unable to play it haha.
 <br><br>
 
-**RR: Haha maybe we'll see it in a live set one day. Cheers Tim!**
+**RR: Haha maybe you'll use it during a live set one day. Cheers Tim!**
 
 _'Her Future Ghost' is out now on Cocoon Recordings. Available [here](https://www.beatport.com/release/her-future-ghost/2269137)_.
