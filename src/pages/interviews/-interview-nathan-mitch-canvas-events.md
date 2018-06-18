@@ -46,7 +46,7 @@ Nathan: We've got a few of our favorite artists in the pipeline at the moment so
 
 **RR: Now... you tend to throw parties in secret locations, that aren’t revealed until the last minute – what would your ideal location be?**
 
-Nathan: I love an outdoor venue where you can go through all night. Wishful thinking in Sydney though!
+Nathan: I love an outdoor venue where you can go through all night. Wishful thinking in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) though!
 
 Mitch: I reckon DC10 terrace.
 <br><br>
