@@ -4,8 +4,8 @@ path: /interview/secret-cinema-sessions
 title: Secret Cinema @ The Junction
 date: 2018-04-13T04:26:38.407Z
 description: >-
-  Our chat with an artist whose name is synonymous with timeless music - Secret
-  Cinema.
+  An artist whose name is synonymous with timeless music - Secret Cinema. Read
+  on!
 featuredImage: /img/secret-cinema.jpg
 ---
 _As he prepares to take to the decks at The Junction tonight, we had a chat with Jeroen AKA [Secret Cinema](https://www.facebook.com/secretcinema.gem/) about Dutch nightlife, computer games and his 25+ years in the business..._
