@@ -30,7 +30,7 @@ Tim: Firstly they have always released albums well and supported the artist’s 
 
 **RR: There’s been a lot of buzz around your brand new live setup - how would you compare it to a DJ set? Do the live elements give you more freedom during the performance?**
 
-Tim: It's currently more techno orientated with the type of songs and shows I’m playing, which is really good fun. It’s interesting because you obviously have a limited amount of material to perform with, in comparison to the unlimited tracks you can DJ with. But it makes me think in different ways and perform better with my existing material, as well as writing a lot of new material exclusively for the show. I’m incorporating more and more live playing with a MIDI keyboard also, which isn’t always possible with my existing songs, as the songs I feel are quite full and complete. So it doesn’t always warrant just jamming on a keyboard over the top. 
+Tim: It's currently more techno orientated with the type of songs and shows I’m playing, which is really good fun. It’s interesting because you obviously have a limited amount of material to perform with, in comparison to the unlimited tracks you can DJ with. But it makes me think in different ways and perform better with my existing material, as well as writing a lot of new material exclusively for the show. I’m incorporating more and more live playing with a MIDI keyboard also, which isn’t always possible with my existing songs, as I feel they are quite full and complete. So it doesn’t always warrant just jamming on a keyboard over the top. 
 <br><br>
 
 **RR: If we asked you to pick a favourite set from throughout your career, which one jumps to mind?**
