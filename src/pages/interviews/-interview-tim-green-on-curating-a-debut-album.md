@@ -20,7 +20,7 @@ I wasn’t ever interested in just writing an album with 12 or so dancefloor tra
 
 **RR: The tracklist for the album also reads like cues for movie scenes. Did you envisage a storyline to accompany it?**
 
-Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. For example, having repeating themes and motifs for different elements from the story, like a love theme. Having each song play out as a different scene in a movie gave me a new way to write and think about how to construct an album. 
+Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. For example, having repeating themes and motifs for different elements from the story, like a love theme. By having each song almost as a different scene in a movie gave me a new way to write and think about how to construct an album. 
 <br><br>
 
 **RR: Great concept. You've worked with several big labels over the years - what drew you back to Cocoon's creative environment when it came to producing the album?**
@@ -65,6 +65,6 @@ Tim: A whole lot of shows and hoping to find time to get back into the studio in
 Tim: I already have a didgeridoo actually! Got one from Oz in the past. Although its only quality is to look good, as I’m totally unable to play it haha.
 <br><br>
 
-**RR: Haha maybe you'll use it during a live set one day. Cheers Tim!**
+**RR: Haha maybe you'll use it during a live set one day. Cheers Tim.**
 
 _'Her Future Ghost' is out now on Cocoon Recordings. Available [here](https://www.beatport.com/release/her-future-ghost/2269137)_.
