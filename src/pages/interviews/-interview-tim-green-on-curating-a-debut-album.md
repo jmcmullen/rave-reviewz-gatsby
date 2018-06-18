@@ -51,7 +51,7 @@ Tim: It’s a blur haha. But such fantastic times. It was always great because i
 
 **RR: Your rework of Tim Engelhardt’s ‘Eyes Closed’ has been well received. How did this project originate and what process did you follow when remixing the track?**
 
-Tim: We had been talking for a while as we both love each other’s music. Tim sent me his album a long time before it was released, so I already knew which were my favourite tracks. This one I felt was the most interesting to remix because of its different tempo, but such lovely chords and vibe to it. It was really simple to remix to be honest, because his music is so good, and the parts sound excellent on their own.
+Tim: We had been talking for a while as we both love each other’s music. Tim sent me his album a long time before it was released, so I already knew which were my favourite tracks. This one I felt was the most interesting to remix because of its different tempo, but had such lovely chords and vibe to it.  It was really simple to remix to be honest, because his music is so good and the parts sound excellent on their own.
 
 <iframe src="https://embed.beatport.com/?id=9839774&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
