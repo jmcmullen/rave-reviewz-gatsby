@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interview/nathan-mitch-canvas
+path: /interview/nathan-mitch
 title: 'Nathan & Mitch: Canvas Events'
 date: 2018-01-12T00:36:22.000Z
 description: >-
