@@ -57,7 +57,7 @@ Tim: We had been talking for a while as we both love each other’s music. Tim s
 
 **RR: And what do you have planned for the rest of the year?**
 
-Tim: A whole lot of shows and hoping to find time to get back into the studio in-between! Really looking forward to my US tour at the end of June. Sonar before that also which I’m really looking forward to. Then I’m really happy to be going back to [Burning Man](https://www.facebook.com/burningman/) again this year! So will be playing a couple of sets there; not too many, as I prefer to enjoy the experience for what it is, rather than be playing all the time.
+Tim: A whole lot of shows and hoping to find time to get back into the studio in-between! Really looking forward to my US tour at the end of June. Then I’m really happy to be going back to [Burning Man](https://www.facebook.com/burningman/) again this year! So will be playing a couple of sets there; not too many, as I prefer to enjoy the experience for what it is, rather than be playing all the time.
 <br><br>
 
 **RR: Final question. We hear you like to travel and pick up different instruments from around the world - what has been your best find? Will you be taking home a didgeridoo?**
