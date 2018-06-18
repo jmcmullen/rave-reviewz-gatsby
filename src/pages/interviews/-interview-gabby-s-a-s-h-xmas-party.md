@@ -3,7 +3,9 @@ templateKey: interview-post
 path: /interview/gabby
 title: GABBY @ S*A*S*H Xmas party
 date: 2017-12-20T04:12:54.000Z
-description: Multi-talented Gabby sat down with us for a chat. Read on!
+description: >-
+  After delivering a S.A.S.H breakfast set more satisfying than a fully loaded
+  fry-up, the multi-talented GABBY sat down with us for a chat.
 featuredImage: /img/gabby.jpg
 ---
 _With her forward-thinking attitude and versatility behind the 1s and 2s, [GABBY](https://www.facebook.com/iamgabbymusic/) is a true stalwart of Sydney’s underground community. We sat down with the S.A.S.H resident to discuss her music and creative achievements over the years..._
