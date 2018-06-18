@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/timgreen
 title: TIM GREEN on constructing his debut album
-date: 2017-10-01T07:39:00+11:00
+date: 2017-09-30T20:39:00.000Z
 description: >-
   Hot off the back of his new album, the versatile artist talks us through its
   year-long development. 
@@ -39,7 +39,7 @@ Tim: I always have so much fun playing in New York for the amazing Ebb and Flow 
 
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x4jv2o9" allowfullscreen allow="autoplay"></iframe>
 
-**RR: Now you established **[**Disc Over Music**](https://www.facebook.com/DiscOverMusicOfficial/)** nearly 5 years ago - can you describe the experience of managing your own label?  Anything you would have done differently?**
+**RR: Now you established [Disc Over Music](https://www.facebook.com/DiscOverMusicOfficial/) nearly 5 years ago - can you describe the experience of managing your own label?  Anything you would have done differently?**
 
 Tim: Well I’ve stopped the label now for a breather, mainly because I just don’t have the time to fully give my energy to the label. So I think it’s not worth it until I can really maximise and focus on doing it. I hope to start it up again in the near future.
 <br><br>
