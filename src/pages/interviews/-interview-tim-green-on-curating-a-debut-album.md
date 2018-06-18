@@ -21,8 +21,6 @@ I wasn’t ever interested in just writing an album with 12 or so dancefloor tra
 **RR: The tracklist for the album also reads like cues for movie scenes. Did you envisage a storyline to accompany it?**
 
 Tim: Yes completely. Although it was more a loose idea and story arc with characters involved. This was how I was able to piece together the tracks and know where to progress the album in its direction. For example, having repeating themes and motifs for different elements from the story, like a love theme. Or by having each song almost as a different scene in a movie… all of this was basically to give me a new way to write and think about how to construct an album. 
-
-I was seeing this story sort of unfold in my mind whilst writing the track, then leading onto the next track or cue to a scene. 
 <br><br>
 
 **RR: Great concept. You've worked with several big labels over the years - what drew you back to Cocoon's creative environment when it came to producing the album?**
