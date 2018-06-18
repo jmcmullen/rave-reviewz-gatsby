@@ -8,7 +8,7 @@ description: >-
   tales from behind the decks!
 featuredImage: /img/steve-marx.jpg
 ---
-_Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, we caught up with [**Steve Marx**](https://www.facebook.com/SteveMarxOfficial/) – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival debrief…_
+_Fresh off the back of his [Return to Rio](https://www.facebook.com/ReturnToRio/) debut, [Rave Reviewz](https://www.ravereviewz.net/)' Sean McDonald caught up with [**Steve Marx**](https://www.facebook.com/SteveMarxOfficial/) – a master of the art who has been tearing up decks around London and Sydney since the 90s, for a post festival debrief…_
 
 **RR:** Steve, good to see you again. How was Rio for you??
 
