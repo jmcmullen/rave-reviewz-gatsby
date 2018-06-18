@@ -31,7 +31,7 @@ Ricky: Yeah, well it has tentacles. I think it’s a lobster haha.
 Ricky: Well, we actually have a special secret act closing the festival this year, I’m looking forward to them the most. We had already sold out when I was offered them, but I couldn’t say no because I’m a huge fan of the 90s rave scene. I can’t give too much away, but it will blow people’s minds!
 <br><br> 
 
-**RR: Ah, the suspense! You do have an interesting music policy at Rio… it’s mainly house, but then **[**EZ**](https://www.facebook.com/djezofficial/)** was playing UK Garage last year, and this year you have drum ’n’ bass legends **[**Fabio & Grooverider**](https://www.facebook.com/fabioandgrooverider/)** playing on the Sunday. Why the variation?**
+**RR: Ah, the suspense! You do have an interesting music policy at Rio… it’s mainly house, but then [EZ](https://www.facebook.com/djezofficial/) was playing UK Garage last year, and this year you have drum ’n’ bass legends [**Fabio & Grooverider](https://www.facebook.com/fabioandgrooverider/) playing on the Sunday. Why the variation?\*\*
 
 Ricky: All our artists play quality electronic music, but it gets boring if you have just the one style. I like the sound to progress through the day… it’s nice to hear someone like Soul Clap playing early on. And I don’t book any hard techno; I don’t think it suits the festival. I’d rather hear something melodic by the river - like Carl & Eric playing soul, funk, disco and classic house.
 <br><br> 
@@ -49,11 +49,13 @@ Ricky: Hmm… probably [Laurent Garnier](https://www.facebook.com/laurentgarnier
 **RR: Do it! You must have been to many festivals yourself, which is your favourite apart from Rio?**
 
 Ricky: It would have to be [Burning Man](https://l.facebook.com/l.php?u=https%3A%2F%2Fburningman.org%2F&h=ATNFFJGfAmNBT8SJ2Cpu9Y9a6aq5GNUc20X5ZvCzXfl2P6jge0ZWIFPGi_Z-HdS4pWOtwx6Xwt1NhpobN1sOV22IwfHNs16yVc_hnLr6jmH6iXDhmJjjgyQvgRlvMNeBgFmc2qB7SZtAOwFP1KnKdg). I went in 2011 and loved everyting about it - the vibe, the gifting culture, the style of music. I also think Bestival in the Isle of Wight is great.
+<br><br>
 
 **RR: Ok. You DJ yourself, what’s the most memorable set you’ve ever played?**
 
 Ricky: Well I played a 6hr set on the main stage at Rio last year. That was really special because I don’t usually get to play at my own festival, I’m too busy running around!
-<br><br>
+
+![](/img/return-to-rio.jpg)
 
 **RR: Last question… Rio has firmly established itself as a success at a time when a lot of other festivals are folding. What do you put that down to?**
 
