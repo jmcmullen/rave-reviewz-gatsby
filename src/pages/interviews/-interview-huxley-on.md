@@ -3,7 +3,9 @@ templateKey: interview-post
 path: /interview/huxley
 title: 'HUXLEY on the nature of the game '
 date: 2018-05-18T03:11:43.000Z
-description: 'Our interview with the versatile UK maestro, Huxley'
+description: >-
+  A personal chat with the versatile UK maestro before his set at Chinese
+  Laundry
 featuredImage: /img/huxley-press-shot.jpg
 ---
 _Ahead of his [headline set](https://www.ravereviewz.net/Event/LNDRY-Afters-ft-Huxley-Bambounou-Sydney/220) at Chinese Laundry, we caught up with Huxley for a chat about his recent releases, mental health and the state of tech house..._
