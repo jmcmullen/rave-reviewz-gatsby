@@ -19,7 +19,7 @@ Steve: Ah man, it was honestly the best festival I’ve ever been to. The produc
 
 Steve: Probably breaking my Rio cherry! It was my first time playing there and I had a good crowd at the pool stage, which was great. Of the internationals I thought Khen’s set on the Sunday was really good, I love the way he puts his music together.
 
-![](/img/steve-marx.jpg)
+![null](/img/steve-marx.jpg)
 
 **RR: Yep, he smashed it. You’ve been spinning tunes a good while, how did your journey into DJing begin?**
 
@@ -66,4 +66,4 @@ Steve: Really important. Commercial radio, for the most part, has just gone down
 Steve: I’ve got the Norti Vikings party at the Bridge Hotel on the 18th November, which will be my first time playing with the guys. I’m also playing the Cristoph gig in December with the Spektrum team, which should be unreal. There’s also Chicane at Bungalow 8 and a secret harbour cruise on New Year’s Day. That’s all I can reveal at the moment!
 <br><br>
 
-RR: You’re a busy man! Thanks for the chat mate.
+**RR: You’re a busy man! Thanks for the chat mate.**
