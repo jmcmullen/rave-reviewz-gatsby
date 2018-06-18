@@ -46,7 +46,7 @@ Tim: Well I’ve stopped the label now for a breather, mainly because I just don
 
 **RR: We hope so too. During the Bedlam party days, you brought some serious heavyweights over to play in your hometown of Chatham in Kent. What are your best memories from those events? Any chance of a reunion at the tunnel?**
 
-Tim: It’s a blur haha. But such fantastic times. It was always great because it’s near my hometown, and so many of my close friends would be there. Usually I don’t get the chance to see them whilst travelling all the time, but this was always like a great reunion. Unfortunately no plans to revive it again as yet. Maybe one day though for sure!
+Tim: It’s a blur haha, but such fantastic times. It was always great because it’s near my hometown, and so many of my close friends would be there. Usually I don’t get the chance to see them whilst travelling all the time, but this was always like a great reunion. Unfortunately no plans to revive it again as yet. Maybe one day though for sure!
 <br><br>
 
 **RR: Your rework of Tim Engelhardt’s ‘Eyes Closed’ has been well received. How did this project originate and what process did you follow when remixing the track?**
