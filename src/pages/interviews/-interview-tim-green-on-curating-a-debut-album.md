@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/timgreen
 title: TIM GREEN on the magic of cinema
-date: 2017-09-30T20:39:00.000Z
+date: 2018-06-19T12:00:00+10:00
 description: >-
   Hot off the back of his Australian tour, the British producer talks us through
   his debut album and its year-long development. 
