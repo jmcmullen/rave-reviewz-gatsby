@@ -6,7 +6,7 @@ date: 2017-05-31T14:24:45.000Z
 description: TBC
 featuredImage: /img/seb-zito-fuse.jpg
 ---
-_With the final leg of his Australia tour coming into play, the FUSE London resident dropped by to discuss his label, road-testing new music and England's chances in the World Cup._
+_Moving into the final leg of his Australia tour, the FUSE London resident dropped by _[_Rave Reviewz_](http://www.ravereviewz.net)_ to discuss his label, road-testing new music and England's chances in the World Cup._
  <br><br>
 
 **RR: Thanks for joining us Seb. Your Australia tour culminates with the Canvas party on Saturday. What do you have in store for us?**
