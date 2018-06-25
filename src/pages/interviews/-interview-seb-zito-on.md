@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: /interview/seb-zito
 title: SEB ZITO on the World Cup & drug policy
-date: 2018-06-25T19:30:45+10:00
+date: 2018-06-25T09:30:45.000Z
 description: >-
   As he gears up for Canvas Events' 3rd Birthday blowout, the FUSE London
   veteran joined us for a little Q & A.
-featuredImage: /img/seb-zito.jpg
+featuredImage: /img/seb-zito-press.jpg
 ---
 _Moving into the final leg of his Australia tour, the FUSE London resident dropped by [Rave Reviewz](http://www.ravereviewz.net) to discuss his label, road-testing new music and England's chances in the World Cup._
  <br><br>
