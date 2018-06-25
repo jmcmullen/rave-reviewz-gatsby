@@ -36,7 +36,7 @@ Seb: Enzo was the one who brought the vocalist into the studio around 3 years ag
 Seb: 'Slapdash' one of my personal favourites which is coming out on Eats Everything's Edible. 'Garvage' is a big build up/drop kind of track that goes off every time I play it - this one will be out on Fuse probably next year. 'Cold Fingertips' is a 2step vocal track, which will be out on my Seven Dials label.
 <br><br>
 
-**FUSE has come a long way since establishing itself as an afterparty at 93 Feet East. What ingredients do you think have led to the brand's success? **
+**FUSE has come a long way since establishing itself as an afterparty at 93 Feet East. What ingredients do you think have led to the brand's success?**
 
 I think it’s down to many factors - strength of the label and releases, quality of the music, quality of DJ sets, door management, crowd control, sound, venues... all of these are needed to be successful in my opinion.
 
