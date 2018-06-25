@@ -9,7 +9,7 @@ description: >-
   World Cup predictions.
 featuredImage: /img/seb-zito.jpg
 ---
-_Moving into the final leg of his Australia tour, the FUSE London resident dropped by _[_Rave Reviewz_](http://www.ravereviewz.net)_ to discuss his label, road-testing new music and England's chances in the World Cup._
+_Moving into the final leg of his Australia tour, the FUSE London resident dropped by [Rave Reviewz](http://www.ravereviewz.net) to discuss his label, road-testing new music and England's chances in the World Cup._
  <br><br>
 
 **RR: Thanks for joining us Seb. Your Australia tour culminates with the Canvas party on Saturday. What do you have in store for us?**
@@ -17,12 +17,12 @@ _Moving into the final leg of his Australia tour, the FUSE London resident dropp
 Seb: I tend to mix things up a bit, throw in some garage, 2-step and breakbeat along with the Fuse sound, few house classics and a little sprinkle of techno. Going by previous experiences in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) you guys sure know how to party, so I know the energy will be there from the start.
 <br><br>
 
-**RR:** **The [Canvas boys](https://magazine.ravereviewz.net/interview/nathan-mitch) will be celebrating their 3rd Birthday at the event ... how did you celebrate your last birthday??**
+**RR: The [Canvas boys](https://magazine.ravereviewz.net/interview/nathan-mitch) will be celebrating their 3rd Birthday at the event ... how did you celebrate your last birthday??**
 
 Seb: I don't know how but I manage to stretch my birthdays out for a week. I can't even remember exactly what I did! It was over Easter bank holiday, so it was definitely messy.
 <br><br> 
 
-**RR:** **You were here last year playing a B2B set with Enzo at the inaugural ‘Days Like This’. How was your experience of the Australian festival vibe?**
+**RR: You were here last year playing a B2B set with Enzo at the inaugural ‘Days Like This’. How was your experience of the Australian festival vibe?**
 
 Seb: I loved the festival and like I said, you guys really know how to party and put a lot of energy into raving. You're also open to varied sounds, which you could see from the lineup.
 
@@ -45,7 +45,7 @@ I think it’s down to many factors - strength of the label and releases, qualit
 
 ![null](/img/seb-zito-dj.jpg)
 
-**RR:** **We've had some unfortunate events recently in Sydney with the police threatening to refuse entry to punters at an electronic music event based on sniffer dogs suspecting them of carrying drugs, without any actual proof. Having run events in London for many years, did you ever experience anything like that? What are your thoughts on the police taking that approach?**
+**RR: We've had some unfortunate events recently in Sydney with the police threatening to refuse entry to punters at an electronic music event based on sniffer dogs suspecting them of carrying drugs, without any actual proof. Having run events in London for many years, did you ever experience anything like that? What are your thoughts on the police taking that approach?**
 
 Seb: Only time I've seen sniffer dogs is either at a large festival or at the airport. No place for it outside a club, that’s just ridiculous. People will take drugs whether the authorities like it or not, better off making the environment safe and having help at hand if anything goes wrong, rather than using these scare tactics. 
 <br><br>
@@ -56,7 +56,7 @@ Seb: Yes it’s kind of tied in to my first EP on Fuse but also my local youth c
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1397209&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
 
-**RR: Big question - If we asked you to select one set that stands out in your memories, what springs to mind?**
+**RR: Big question - if we asked you to select one set that stands out in your memories, what springs to mind?**
 
 Seb: Wow, so many sets but most recently it was the Fuse part 2 at the Hangar. Played for 3 hours and it just flowed perfectly. No thinking or pausing, just track after track of seamless flow.
 <br><br> 
