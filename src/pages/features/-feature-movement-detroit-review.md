@@ -6,7 +6,7 @@ date: 2018-06-25T06:43:34.160Z
 description: Detroit Movement Festival XYXYXY
 featuredImage: /img/movement.jpg
 ---
-The annual [Detroit Movement Festival](http://movement.us) began 19 years ago when techno pioneers Carl Craig, Derrick May and Carl Marvin decided it was time to showcase underground electronic music in its city of origin. The genesis of Movement was a seminal moment in Detroit’s musical history, marking the triumphant return of masters like Stacey Pullen and Carl Craig, who had been spreading the Detroit sound around the world, to their home town. 
+The annual [Detroit Movement Festival](http://movement.us) began 19 years ago when techno pioneers Carl Craig, Derrick May and Carl Marvin decided it was time to showcase underground electronic music in its city of origin. The genesis of Movement was a seminal moment in Detroit’s musical history, marking the triumphant return of masters like Stacey Pullen and Carl Craig, who had been spreading the Detroit sound around the world to their hometown. 
 
 Today, the spirit of celebration continues, as people make the pilgrimage from far and wide to what is arguably, America’s premier electronic music event. The festival was in fact free until 2005, when due to its overwhelming popularity, they began charging $10 dollars for non-residents and $5 for locals. Since then, the price has skyrocketed as you can imagine. Today a one-day ticket costs $85 and a three-day pass will set you back $195. So we had high expectations for the event, with a line up encompassing techno, Chicago house, minimal, tech-house, progressive and even a touch of hip-hop.
 
