@@ -6,7 +6,7 @@ date: 2018-02-19T11:26:49.195Z
 description: >-
   We had a chat with lauded French techno DJ and composer, Stéphane Dri AKA Scan
   X about his live performances, longevity in the game and production
-  partnership with fellow pioneer, Laurent Garnier. 
+  partnership with fellow pioneer, Laurent Garnier..
 featuredImage: /img/scan-x.jpg
 ---
 _In preparation for his performance on Saturday at [Tell No Tales](https://www.facebook.com/tellnotalesau), we had a chat with lauded French techno DJ and composer, **Stéphane Dri AKA [Scan X](https://www.facebook.com/scanxmusic/)** about his live performances, longevity in the game and production partnership with fellow pioneer, Laurent Garnier._
