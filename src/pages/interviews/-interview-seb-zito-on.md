@@ -6,7 +6,7 @@ date: 2017-05-31T14:24:45.000Z
 description: TBC
 featuredImage: /img/seb-zito-fuse.jpg
 ---
-_With the final leg of his Australia tour coming into play, the FUSE London resident dropped by to discuss his label, road-testing new music and England's chances in the World Cup._
+_Moving into the final leg of his Australia tour, the FUSE London resident dropped by _[_Rave Reviewz_](http://www.ravereviewz.net)_ to discuss his label, road-testing new music and England's chances in the World Cup._
  <br><br>
 
 **RR: Thanks for joining us Seb. Your Australia tour culminates with the Canvas party on Saturday. What do you have in store for us?**
@@ -27,7 +27,7 @@ Seb: I loved the festival and like I said, you guys really know how to party and
 
 **RR: We liked your mix for Rinse FM recently, which featured a preview of your upcoming track 'On it' set for release on Seth Troxler's label later this year. How did the collaboration come about? Can you tell us about the concept behind the track?**
 
-Seb: Enzo was the one who brought the vocalist into the studio around 3 years ago and he never really finished the track. I get easily distracted and while working on a project I started playing around with the vocals he had recorded. I actually created 2 separate tracks - one called 'Watching You' which is also on that mix and 'On It'. I think from this Enzo went and finished his version, or it could have been finished before but I can't really remember. Either way [Dice ](https://www.facebook.com/locodiceofc/)was meant to sign it to Desolat but that fell through and basically after that, the tracks were forgotten about. I started playing the track out again recently and sent it out to other DJs as a promo before Seth picked up on it. I think he played it in pretty much every set, so it was a no brainer really that he signed it. To think that this was so close to being one of those forgotten projects just shows that perseverance pays off.
+Seb: Enzo was the one who brought the vocalist into the studio around 3 years ago and he never really finished the track. I get easily distracted and while working on a project I started playing around with the vocals he had recorded. I actually created 2 separate tracks - one called 'Watching You' which is also on that mix and 'On It'. I think from this Enzo went and finished his version, or it could have been finished before but I can't really remember. Either way [Dice ](https://www.facebook.com/locodiceofc/)was meant to sign it to Desolat but that fell through and basically after that, the tracks were forgotten about. I started playing the track out again recently and sent it out to other DJs as a promo before Seth picked up on it. I think he played it in pretty much every set, so it was a no brainer really that he signed it. To think that this was so close to being one of those forgotten projects just shows perseverance that pays off.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/455523630&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
@@ -55,10 +55,10 @@ Seb: Yes it’s kind of tied into my first EP on Fuse but also my local youth cl
 
 **RR: Big question - If we asked you to select one set that stands out in your memories, what springs to mind?**
 
-Seb: Wow, so many sets but most recently it was the Fuse part 2 at the Hangar (Mangle). Played for 3 hours and it just flowed seamlessly and perfectly. No thinking, just pausing track after track.
+Seb: Wow, so many sets but most recently it was the Fuse part 2 at the Hangar. Played for 3 hours and it just flowed seamlessly and perfectly. No thinking, just pausing track after track.
 <br><br> 
 
-**RR: Wish we could have been there.** **Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
+**RR: Wish we could have been there. Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
 
 Seb: Going by how crap everyone else is doing i’d say England have a good chance. No Italy or Holland and Germany playing so bad I think we have a better chance than anyone... but as you know, England always blow it.
 <br><br>
