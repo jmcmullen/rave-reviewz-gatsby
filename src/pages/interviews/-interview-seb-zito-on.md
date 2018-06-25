@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/seb-zito
 title: SEB ZITO on the World Cup & drug policy
-date: 2017-05-31T14:24:45.000Z
+date: 2018-06-25T19:30:45+10:00
 description: >-
   As he gears up for Canvas Events' 3rd Birthday blowout, the FUSE London
   veteran joined us for a little Q & A.
