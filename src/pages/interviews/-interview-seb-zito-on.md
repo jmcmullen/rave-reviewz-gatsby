@@ -58,7 +58,7 @@ Seb: Yes it’s kind of tied into my first EP on Fuse but also my local youth cl
 Seb: Wow, so many sets but most recently it was the Fuse part 2 at the Hangar (Mangle). Played for 3 hours and it just flowed seamlessly and perfectly. No thinking, just pausing track after track.
 <br><br> 
 
-**RR: Wish we could have been there.** **Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
+**RR: Wish we could have been there. Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
 
 Seb: Going by how crap everyone else is doing i’d say England have a good chance. No Italy or Holland and Germany playing so bad I think we have a better chance than anyone... but as you know, England always blow it.
 <br><br>
