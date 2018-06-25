@@ -4,9 +4,8 @@ path: /interview/seb-zito
 title: SEB ZITO on the World Cup & drug policy
 date: 2017-05-31T14:24:45.000Z
 description: >-
-  Before blowing out the candles at Canvas Events' 3rd Bday, the FUSE resident
-  weighed in on the recent Above & Beyond debacle, his Seven Dials imprint and
-  World Cup predictions.
+  We caught up with the FUSE resident & Seven Dials Boss before he blows out the
+  candles at Canvas Events' 3rd Bday.
 featuredImage: /img/seb-zito.jpg
 ---
 _Moving into the final leg of his Australia tour, the FUSE London resident dropped by [Rave Reviewz](http://www.ravereviewz.net) to discuss his label, road-testing new music and England's chances in the World Cup._
