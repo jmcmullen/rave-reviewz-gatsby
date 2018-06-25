@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/seb-zito
-title: 'SEB ZITO on making a brand successful '
+title: SEB ZITO on creating a successful brand
 date: 2017-05-31T14:24:45.000Z
 description: TBC
 featuredImage: /img/seb-zito-fuse.jpg
