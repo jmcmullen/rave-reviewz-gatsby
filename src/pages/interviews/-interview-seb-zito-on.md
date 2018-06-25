@@ -36,7 +36,7 @@ Seb: Enzo was the one who brought the vocalist into the studio around 3 years ag
 Seb: 'Slapdash' is one of my personal favourites which is coming out on Eats Everything's Edible. 'Garvage' is a big build up/drop kind of track that goes off every time I play it - this one will be out on Fuse probably next year. 'Cold Fingertips' is a 2step vocal track, which will be out on my Seven Dials label.
 <br><br>
 
-**RR:** **FUSE has come a long way since establishing itself as an afterparty at 93 Feet East. What ingredients do you think have led to the brand's success?**
+**RR:** **Good stuff.** **FUSE has come a long way since establishing itself as an afterparty at 93 Feet East. What ingredients do you think have led to the brand's success?**
 
 I think it’s down to many factors - strength of the label and releases, quality of the music, quality of DJ sets, door management, crowd control, sound, venues... all of these are needed to be successful in my opinion.
 
@@ -47,7 +47,7 @@ I think it’s down to many factors - strength of the label and releases, qualit
 Seb: Only time I've seen sniffer dogs is either at a large festival or at the airport. No place for it outside a club, that’s just ridiculous. People will take drugs whether the authorities like it or not, better off making the environment safe and having help at hand if anything goes wrong, rather then using these scare tactics.
 <br><br>
 
-**RR: We're with you on that! Your label [Seven Dials Records](https://soundcloud.com/sevendialsrecords), which we presume was named after your 2011 EP, is doing big things. How would you say its music policy and style differ to the FUSE brands?**
+**RR: We're with you on that. Your label [Seven Dials Records](https://soundcloud.com/sevendialsrecords), which we presume was named after your 2011 EP, is doing big things. How would you say its music policy and style differ to the FUSE brands?**
 
 Seb: Yes it’s kind of tied into my first EP on Fuse but also my local youth club where I used to play records to my friends - that’s where everything started for me. It’s more leaning towards a UK sound, mainly Garage, Breakbeat, 2Step and Dubstep, whereas Fuse is more towards Techno & House.
 
@@ -58,12 +58,12 @@ Seb: Yes it’s kind of tied into my first EP on Fuse but also my local youth cl
 Seb: Wow, so many sets but most recently it was the Fuse part 2 at the Hangar (Mangle). Played for 3 hours and it just flowed seamlessly and perfectly. No thinking, just pausing track after track.
 <br><br> 
 
-**RR: Wish we could have been there.** **Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
+**RR: Sounds great.** **Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
 
 Seb: Going by how crap everyone else is doing i’d say England have a good chance. No Italy or Holland and Germany playing so bad I think we have a better chance than anyone... but as you know, England always blow it.
 <br><br>
 
-**RR: Haha let's see how it goes. Thanks Seb!**
+**RR: Haha let's see how it goes. Thanks Seb.**
 
 _Catch Seb Zito at the Civic Underground on Saturday - details [here](https://bit.ly/2l8VIaH)_
 
