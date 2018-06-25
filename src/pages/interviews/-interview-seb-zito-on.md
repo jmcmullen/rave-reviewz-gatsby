@@ -63,6 +63,6 @@ Seb: Wow, so many sets but most recently it was the Fuse part 2 at the Hangar (M
 Seb: Going by how crap everyone else is doing i’d say England have a good chance. No Italy or Holland and Germany playing so bad I think we have a better chance than anyone... but as you know, England always blow it.
 <br><br>
 
-_Catch Seb Zito at the Civic Underground on Saturday - details [here_](https://bit.ly/2l8VIaH)
+_Catch Seb Zito at the Civic Underground on Saturday - details [here](https://bit.ly/2l8VIaH)_
 
-_Photo by _[_Daddy's Got Sweets_](https://daddysgotsweets.carbonmade.com/contact)
+_Photo by [Daddy's Got Sweets](https://daddysgotsweets.carbonmade.com/contact)_
