@@ -11,7 +11,7 @@ _Moving into the final leg of his Australia tour, the FUSE London resident dropp
 
 **RR: Thanks for joining us Seb. Your Australia tour culminates with the Canvas party on Saturday. What do you have in store for us?**
 
-Seb: I tend to mix things up a bit, throw in some garage, 2step, breakbeats etc., along with the Fuse sound, few house classics and a little sprinkle of techno. Going by previous experiences in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) you guys sure know how to party, so I know the energy will be there from the start.
+Seb: I tend to mix things up a bit, throw in some garage, 2step, breakbeats etc., along with the Fuse sound, few house classics and a little sprinkle of techno. Going by previous experiences in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney), you guys sure know how to party, so I know the energy will be there from the start.
 <br><br>
 
 **RR:** **The [Canvas boys](https://magazine.ravereviewz.net/interview/nathan-mitch) will be celebrating their 3rd Birthday at the event ... how did you celebrate your last birthday??**
