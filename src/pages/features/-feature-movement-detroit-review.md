@@ -22,7 +22,7 @@ We arrived early on the first day, wandering around and taking in the downtown f
 
 The atmosphere was super friendly and we made a couple of friends as we walked around the four outside stages - Movement Stage (the main stage), Red Bull Music Stage, Stargate Stage and Pyramid Stage. The fifth Resident Advisor Stage was located underground. It was hot - averaging around 30 degrees and sunscreen and free water stations just didn’t exist, which was disappointing.
 
-![](/img/pyramid stage.jpg)
+!\[](/img/pyramid stage.jpg)
 
 We spent most of the first day at the Stargate Stage, where the “[Detroit love](https://www.facebook.com/detroitloveofficial/)” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see [Maceo Plex](https://www.facebook.com/MaceoPlex/) arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the fuck out of there, but on our way out we managed to catch [Claude Von Stroke](https://www.facebook.com/Claude.VonStroke/) on the Movement Stage for an energetic end to a great first day.
 
@@ -46,7 +46,7 @@ As the final day of the festival rolled around, one of the biggest surprises was
 
 !\[](/img/inner city.jpg)
 
-The honour of closing on the main stage went to hip hop legends Wu-tang Clan who were celebrating their 25th anniversary. Now admittedly I’m not a hip hop fan, but the barrage of f-bombs and aggression seemed at odds with the positive emotions evoked by the other artists performing. Not my thing. So instead we joined Dubfire on the Pyramid stage who went in hard as usual, closing an awesome event in his signature style.
+The honour of closing on the main stage went to hip hop legends Wu-tang Clan who were celebrating their 25th anniversary. Now admittedly I’m not a hip hop fan, but the barrage of f-bombs and aggression seemed at odds with the positive emotions evoked by the other artists performing. Not my thing. So instead we joined [Dubfire](https://www.facebook.com/dubfire/) on the Pyramid stage who went in hard as usual, closing an awesome event in his signature style.
 
 \[fb:637001949984158]
 
