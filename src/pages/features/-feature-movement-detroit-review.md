@@ -18,7 +18,7 @@ The atmosphere was super friendly and we made a couple of friends as we walked a
 
 !\[](/img/pyramid stage.jpg)
 
-We spent most of the first day at the Stargate Stage, where the “[Detroit love](https://www.facebook.com/detroitloveofficial/)” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see [Maceo Plex](https://www.facebook.com/MaceoPlex/) arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the fuck out of there, but on our way out we managed to catch [Claude Von Stroke](https://www.facebook.com/Claude.VonStroke/) on the Movement Stage for an energetic end to a great first day.
+We spent most of the first day at the Stargate Stage, where the “[Detroit love](https://www.facebook.com/detroitloveofficial/)” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see [Maceo Plex](https://www.facebook.com/MaceoPlex/) arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch [Claude Von Stroke](https://www.facebook.com/Claude.VonStroke/) on the Movement Stage for an energetic end to a great first day.
 
 \[fb:634038053613881]
 
@@ -34,9 +34,9 @@ But the highlight of the day, and in fact the entire festival, was [Kink’s](ht
 
 Monday
 
-As the final day of the festival rolled around, one of the biggest surprises was [Hito's](https://www.facebook.com/hitoloveberlin/) set. Originally from Japan, but now living in Germany I’d never heard of her before. Playing vinyl, she dropped tracks like Sam Paginini’s Rave with Chocolate whilst waving to everyone. Her smile and energy were infectious. 
+As the final day of the festival rolled around, one of the biggest surprises was [Hito](https://www.facebook.com/hitoloveberlin/), who I had never heard of before. Originally from Japan but now living in Germany, her vinyl sett included tracks like Sam Paginini’s 'Rave with Chocolate' whilst waving to everyone. Her smile and energy were infectious. 
 
-[Inner City](https://www.facebook.com/InnerCityDetroit/) - the band who gave Detroit electronic music its first real chart success with late ‘80s tracks like "Good Life" and "Big Fun” also took to the stage. Fronted by Kevin Saunderson with Paris Grey on vocals, this live, 30th-anniversary performance boasted a new lineup joining original bandleader Dennis White.
+[Inner City](https://www.facebook.com/InnerCityDetroit/) - the band who gave Detroit electronic music its first real chart success with late ‘80s tracks like 'Good Life' and 'Big Fun' also took to the stage. Fronted by Kevin Saunderson with Paris Grey on vocals, this live 30th-anniversary performance boasted a new lineup joining original bandleader Dennis White.
 
 !\[](/img/inner city.jpg)
 
