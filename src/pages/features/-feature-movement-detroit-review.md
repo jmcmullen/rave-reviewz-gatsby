@@ -10,7 +10,7 @@ description: >-
   was a seminal moment in Detroit’s musical history, marking the triumphant
   return of masters like Stacey Pullen and Carl Craig, who had been spreading
   the Detroit sound around the world, to their home town. 
-featuredImage: /img/09.jpg
+featuredImage: /img/movement.jpg
 ---
 The annual Detroit Movement Festival began 19 years ago when techno pioneers Carl Craig, Derrick May and Carl Marvin decided it was time to showcase underground electronic music in its city of origin. The genesis of Movement was a seminal moment in Detroit’s musical history, marking the triumphant return of masters like Stacey Pullen and Carl Craig, who had been spreading the Detroit sound around the world, to their home town. 
 
