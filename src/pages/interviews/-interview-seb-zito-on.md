@@ -3,7 +3,10 @@ templateKey: interview-post
 path: /interview/seb-zito
 title: SEB ZITO on creating a successful brand
 date: 2017-05-31T14:24:45.000Z
-description: TBC
+description: >-
+  Before blowing out the candles at Canvas Event's 3rd Bday, the FUSE resident
+  weighed in on the recent Above & Beyond debacle, his Seven Dials imprint and
+  World Cup predictions.
 featuredImage: /img/seb-zito-fuse.jpg
 ---
 _Moving into the final leg of his Australia tour, the FUSE London resident dropped by _[_Rave Reviewz_](http://www.ravereviewz.net)_ to discuss his label, road-testing new music and England's chances in the World Cup._
