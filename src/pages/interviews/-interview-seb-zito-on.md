@@ -1,12 +1,12 @@
 ---
 templateKey: interview-post
 path: /interview/seb-zito
-title: 'SEB ZITO on making a brand successful '
+title: SEB ZITO on creating a successful brand
 date: 2017-05-31T14:24:45.000Z
 description: TBC
 featuredImage: /img/seb-zito-fuse.jpg
 ---
-_With the final leg of his Australia tour coming into play, the FUSE London resident dropped by to discuss his label, road-testing new music and England's chances in the World Cup._
+_Moving into the final leg of his Australia tour, the FUSE London resident dropped by _[_Rave Reviewz_](http://www.ravereviewz.net)_ to discuss his label, road-testing new music and England's chances in the World Cup._
  <br><br>
 
 **RR: Thanks for joining us Seb. Your Australia tour culminates with the Canvas party on Saturday. What do you have in store for us?**
@@ -58,7 +58,7 @@ Seb: Yes it’s kind of tied into my first EP on Fuse but also my local youth cl
 Seb: Wow, so many sets but most recently it was the Fuse part 2 at the Hangar (Mangle). Played for 3 hours and it just flowed seamlessly and perfectly. No thinking, just pausing track after track.
 <br><br> 
 
-**RR: Wish we could have been there.** **Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
+**RR: Wish we could have been there. Finally, with the World Cup happening... how do you think England will do? Reckon Australia have more chance of winning??**
 
 Seb: Going by how crap everyone else is doing i’d say England have a good chance. No Italy or Holland and Germany playing so bad I think we have a better chance than anyone... but as you know, England always blow it.
 <br><br>
