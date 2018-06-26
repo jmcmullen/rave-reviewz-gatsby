@@ -20,6 +20,8 @@ We arrived early on the first day, wandering around and taking in the downtown f
 
 The atmosphere was super friendly and we made a couple of friends as we walked around the four outside stages - Movement Stage (the main stage), Red Bull Music Stage, Stargate Stage and Pyramid Stage. The fifth Resident Advisor Stage was located underground. It was hot - averaging around 30 degrees and sunscreen and free water stations just didn’t exist, which was disappointing.
 
+![Christian Smith - Pyramid stage ](/img/pyramid-stage-christian-smith.jpg)
+
 We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
 
 \[fb:634038053613881]
