@@ -3,7 +3,11 @@ templateKey: review-post
 path: /feature/movement-detroit
 title: 'Movement Detroit: Review'
 date: 2018-06-25T06:43:34.160Z
-description: 'Test '
+description: >-
+  Rave Reviewz’ journo Magdalena Olsson recaps on her trip to the renowned
+  Detroit Movement Festival 
+
+  .
 featuredImage: /img/09.jpg
 ---
 The annual Detroit Movement Festival began 19 years ago when techno pioneers Carl Craig, Derrick May and Carl Marvin decided it was time to showcase underground electronic music in its city of origin. The genesis of Movement was a seminal moment in Detroit’s musical history, marking the triumphant return of masters like Stacey Pullen and Carl Craig, who had been spreading the Detroit sound around the world, to their home town. 
@@ -16,7 +20,7 @@ We arrived early on the first day, wandering around and taking in the downtown f
 
 The atmosphere was super friendly and we made a couple of friends as we walked around the four outside stages - Movement Stage (the main stage), Red Bull Music Stage, Stargate Stage and Pyramid Stage. The fifth Resident Advisor Stage was located underground. It was hot - averaging around 30 degrees and sunscreen and free water stations just didn’t exist, which was disappointing.
 
-We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the fuck out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
+We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
 
 \[fb:634038053613881]
 
@@ -32,7 +36,7 @@ But the highlight of the day, and in fact the entire festival, was Kink’s perf
 
 Monday
 
-As the final day of the festival rolled around, one of the biggest surprises was Hito‘s set. Originally from Japan, but now living in Germany I’d never heard of her before. Playing vinyl, she dropped tracks like Sam Paginini’s Rave with Chocolate whilst waving to everyone. Her smile and energy were infectious. 
+As the final day of the festival rolled around, one of the biggest surprises was Hito‘s set. Originally from Japan, but now living in Germany,  I’d never heard of her before. Playing vinyl, she dropped tracks like Sam Paginini’s Rave with Chocolate whilst waving to everyone. Her smile and energy were infectious. 
 
 Inner City - the band who gave Detroit electronic music its first real chart success with late ‘80s tracks like "Good Life" and "Big Fun” also took to the stage. Fronted by Kevin Saunderson with Paris Grey on vocals, this live, 30th-anniversary performance boasted a new lineup joining original bandleader Dennis White.
 
