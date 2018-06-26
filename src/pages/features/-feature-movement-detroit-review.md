@@ -42,6 +42,8 @@ As the final day of the festival rolled around, one of the biggest surprises was
 
 Inner City - the band who gave Detroit electronic music its first real chart success with late ‘80s tracks like "Good Life" and "Big Fun” also took to the stage. Fronted by Kevin Saunderson with Paris Grey on vocals, this live, 30th-anniversary performance boasted a new lineup joining original bandleader Dennis White.
 
+![Inner City - Movement stage](/img/inner-city.jpg)
+
 The honour of closing on the main stage went to hip hop legends Wu-tang Clan who were celebrating their 25th anniversary. Now admittedly I’m not a hip hop fan, but the barrage of f-bombs and aggression seemed at odds with the positive emotions evoked by the other artists performing. Not my thing. So instead we joined Dubfire on the Pyramid stage who went in hard as usual, closing an awesome event in his signature style.
 
 \[fb:637001949984158]
