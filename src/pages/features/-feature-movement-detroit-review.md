@@ -18,7 +18,7 @@ The atmosphere was super friendly and we made a couple of friends as we walked a
 
 ![Chtistian Smith - Pyramid stage](/img/pyramid-stage-christian-smith.jpg)
 
-We spent most of the first day at the Stargate Stage, where the “Detroit love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day.
+We spent most of the first day at the Stargate Stage, where the “Detroit love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track [Mutant DX](https://www.beatport.com/track/mutant-dx-feat-maars-original-mix/10540116). To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day.
 
 \[fb:634038053613881]
 
@@ -26,9 +26,9 @@ Sunday
 
 On the Sunday, there were so many DJs I wanted to see, and of course they were all inconveniently playing at the same time. The Pyramid stage featured Nastia, Tiga, Marcel Dettmann and Nina Kraviz while on the main stage you had John Digweed, Seth Troxler, Loco Dice b2b and The Martinez Brothers. Working out who to see was like trying to solve a mathematical problem, but we caught a great selection of the talent on offer.
 
-Special mention for Modeselektor who turned in an amazing display of psychedelic electronica, including their latest release (and their first in three years) ‘Kalif Storch’, as well as Maximaal by Secret Cinema & Egbert and the sublime The Hand That Rocks by Thomas P. Heckmann.
+Special mention for Modeselektor who turned in an amazing display of psychedelic electronica, including their latest release (and their first in three years) ‘[Kalif Storch](https://www.beatport.com/release/kalif-storch/2292005)’, as well as Maximaal by Secret Cinema & Egbert and the sublime The Hand That Rocks by Thomas P. Heckmann.
 
-We were also spirited away by Laurent Garnier, who rarely plays in the United States. He tore through heavyweight tracks like Reaction by Greenwood & Semson, Selecta﻿ by Josh Wink and of course his very own classic Crispy Bacon.
+We were also spirited away by Laurent Garnier, who rarely plays in the United States. He tore through heavyweight tracks like Reaction by Greenwood & Semson, Selecta﻿ by Josh Wink and of course his very own classic [Crispy Bacon](https://www.beatport.com/track/crispy-bacon-original-mix/146164).
 
 But the highlight of the day, and in fact the entire festival, was Kink’s performance. The skill with which he delivered his live set, creating a dreamy soundscape filled with emotions was unreal. It actually reduced me to tears - a stand out moment for me and one I won’t forget.
 
