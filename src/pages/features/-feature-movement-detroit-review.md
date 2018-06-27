@@ -25,7 +25,7 @@ The atmosphere was super friendly and we made a couple of friends as we walked a
 
 We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
 
-\[fb:634038053613881]
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F634038053613881%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **Sunday**
 
@@ -48,7 +48,7 @@ Inner City - the band who gave Detroit electronic music its first real chart suc
 
 The honour of closing on the main stage went to hip hop legends Wu-tang Clan who were celebrating their 25th anniversary. Now admittedly I’m not a hip hop fan, but the barrage of f-bombs and aggression seemed at odds with the positive emotions evoked by the other artists performing. Not my thing. So instead we joined Dubfire on the Pyramid stage who went in hard as usual, closing an awesome event in his signature style.
 
-\[fb:637001949984158]
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F637001949984158%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 A great experience that I’d fully recommend to anyone who loves good music. See you there next year.
 
