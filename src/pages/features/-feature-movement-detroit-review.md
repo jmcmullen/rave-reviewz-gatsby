@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature/movement-detroit
 title: 'Movement Detroit: Review'
-date: 2017-08-01T16:43:34+10:00
+date: 2017-08-01T06:43:34.000Z
 description: >-
   Rave Reviewz’ journo Magdalena Olsson recaps on her trip to the renowned
   Detroit Movement Festival 
@@ -13,8 +13,9 @@ featuredImage: /img/movement-festival.jpg
 The annual Detroit Movement Festival began 19 years ago when techno pioneers Carl Craig, Derrick May and Carl Marvin decided it was time to showcase underground electronic music in its city of origin. The genesis of Movement was a seminal moment in Detroit’s musical history, marking the triumphant return of masters like Stacey Pullen and Carl Craig, who had been spreading the Detroit sound around the world, to their home town. 
 
 Today, the spirit of celebration continues, as people make the pilgrimage from far and wide to what is arguably, America’s premier electronic music event. The festival was in fact free until 2005, when due to its overwhelming popularity, they began charging $10 dollars for non-residents and $5 for locals. Since then, the price has skyrocketed as you can imagine. Today a one-day ticket costs $85 and a three-day pass will set you back $195. So we had high expectations for the event, with a line up encompassing techno, Chicago house, minimal, tech-house, progressive and even a touch of hip-hop.
+<br><br>
 
-Saturday
+**Saturday**
 
 We arrived early on the first day, wandering around and taking in the downtown festival site - Hart Plaza. I secretly suspect that the person who built this place back in 1975, knew that one of the biggest techno festivals in the world would be held there in the future. You couldn't imagine a better place - a huge open space by the river easily accommodating 100,000 ravers. The fountain in the middle with its striking obelisk is like a remnant from a sci-fi movie - a symbol of the journey through time those attending are taken on, with sounds ranging from deep in the past to far in to the future.
 
@@ -26,7 +27,7 @@ We spent most of the first day at the Stargate Stage, where the “from Detroit 
 
 \[fb:634038053613881]
 
-Sunday
+**Sunday**
 
 On the Sunday, there were so many DJs I wanted to see, and of course they were all inconveniently playing at the same time. The Pyramid stage featured Nastia, Tiga, Marcel Dettmann and Nina Kraviz while on the main stage you had John Digweed, Seth Troxler, Loco Dice b2b and The Martinez Brothers. Working out who to see was like trying to solve a mathematical problem, but we caught a great selection of the talent on offer.
 
@@ -35,8 +36,9 @@ Special mention for Modeselektor who turned in an amazing display of psychedelic
 We were also spirited away by Laurent Garnier, who rarely plays in the United States. He tore through heavyweight tracks like Reaction by Greenwood & Semson, Selecta﻿ by Josh Wink and of course his very own classic Crispy Bacon.
 
 But the highlight of the day, and in fact the entire festival, was Kink’s performance. The skill with which he delivered his live set, creating a dreamy soundscape filled with emotions was unreal. It actually reduced me to tears - a stand out moment for me and one I won’t forget.
+<br><br>
 
-Monday
+**Monday**
 
 As the final day of the festival rolled around, one of the biggest surprises was Hito‘s set. Originally from Japan, but now living in Germany,  I’d never heard of her before. Playing vinyl, she dropped tracks like Sam Paginini’s Rave with Chocolate whilst waving to everyone. Her smile and energy were infectious. 
 
@@ -50,4 +52,4 @@ The honour of closing on the main stage went to hip hop legends Wu-tang Clan who
 
 A great experience that I’d fully recommend to anyone who loves good music. See you there next year.
 
-📸 Magdalena Olsson
+_Words and Photos by Magdalena Olsson_
