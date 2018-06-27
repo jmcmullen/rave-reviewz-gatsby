@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature/movement-detroit
 title: 'Movement Detroit: Review'
-date: 2018-06-25T06:43:34.160Z
+date: 2017-08-01T16:43:34+10:00
 description: >-
   Rave Reviewz’ journo Magdalena Olsson recaps on her trip to the renowned
   Detroit Movement Festival 
