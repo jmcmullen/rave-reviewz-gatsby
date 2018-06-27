@@ -49,3 +49,5 @@ The honour of closing on the main stage went to hip hop legends Wu-tang Clan who
 \[fb:637001949984158]
 
 A great experience that I’d fully recommend to anyone who loves good music. See you there next year.
+
+📸 Magdalena Olsson
