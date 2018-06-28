@@ -22,13 +22,13 @@ We arrived early on the first day, wandering around and taking in the downtown f
 
 The atmosphere was super friendly and we made a couple of friends as we walked around the four outside stages - Movement Stage (the main stage), Red Bull Music Stage, Stargate Stage and Pyramid Stage. The fifth Resident Advisor Stage was located underground. It was hot - averaging around 30 degrees and sunscreen and free water stations just didn’t exist, which was disappointing.
 
-We spent most of the first day at the Stargate Stage, where the "from Detroit with love" showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
+We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F634038053613881%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **Sunday:**
 
-On the Sunday, there were so many DJs I wanted to see, and of course they were all inconveniently playing at the same time. The Pyramid stage featured Nastia, Tiga, Marcel Dettmann and Nina Kraviz while on the main stage you had John Digweed, Seth Troxler, Loco Dice b2b and The Martinez Brothers. Working out who to see was like trying to solve a mathematical problem, but we caught a great selection of the talent on offer.
+There were so many DJs I wanted to see, and of course they were all inconveniently playing at the same time. The Pyramid stage featured Nastia, Tiga, Marcel Dettmann and Nina Kraviz while on the main stage you had John Digweed, Seth Troxler, Loco Dice b2b and The Martinez Brothers. Working out who to see was like trying to solve a mathematical problem, but we caught a great selection of the talent on offer.
 
 Special mention for Modeselektor who turned in an amazing display of psychedelic electronica, including their latest release (and their first in three years) ‘Kalif Storch’, as well as 'Maximaal' by Secret Cinema & Egbert and the sublime The 'Hand That Rocks' by Thomas P. Heckmann.
 
