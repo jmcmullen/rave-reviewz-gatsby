@@ -3,7 +3,7 @@ templateKey: review-post
 path: /feature/movement-detroit
 title: 'Movement Detroit: Review'
 date: 2017-08-01T06:43:34.000Z
-description: A rundown of this year's renowned electronic dance festival in Detroit.
+description: A rundown of the renowned electronic dance festival in Detroit.
 featuredImage: /img/movement-festival.jpg
 ---
 The annual Detroit Movement Festival began 19 years ago when techno pioneers Carl Craig, Derrick May and Carl Marvin decided it was time to showcase underground electronic music in its city of origin. The genesis of Movement was a seminal moment in Detroit’s musical history, marking the triumphant return of masters like Stacey Pullen and Carl Craig, who had been spreading the Detroit sound around the world, to their home town. 
