@@ -2,10 +2,8 @@
 templateKey: review-post
 path: /feature/movement-detroit
 title: 'Movement Detroit: Review'
-date: 2018-06-28T00:00:00+10:00
-description: >-
-  Our rundown of the renowned electronic dance festival in the birthplace of
-  techno.
+date: 2018-06-27T14:00:00.000Z
+description: Our rundown of the renowned electronic dance festival.
 featuredImage: /img/movement-festival.jpg
 ---
 _By Magdalena Olsson_
