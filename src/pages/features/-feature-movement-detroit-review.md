@@ -4,10 +4,8 @@ path: /feature/movement-detroit
 title: 'Movement Detroit: Review'
 date: 2017-08-01T06:43:34.000Z
 description: >-
-  Rave Reviewz’ journo Magdalena Olsson recaps on her trip to the renowned
-  Detroit Movement Festival 
-
-  .
+  Rave Reviewz’ Magdalena Olsson recaps on her trip to the renowned Detroit
+  Movement Festival.
 featuredImage: /img/movement-festival.jpg
 ---
 The annual Detroit Movement Festival began 19 years ago when techno pioneers Carl Craig, Derrick May and Carl Marvin decided it was time to showcase underground electronic music in its city of origin. The genesis of Movement was a seminal moment in Detroit’s musical history, marking the triumphant return of masters like Stacey Pullen and Carl Craig, who had been spreading the Detroit sound around the world, to their home town. 
@@ -52,4 +50,4 @@ The honour of closing on the main stage went to hip hop legends Wu-tang Clan who
 
 A great experience that I’d fully recommend to anyone who loves good music. See you there next year.
 
-_Words and Photos by Magdalena Olsson_
+_Words and pics by Magdalena Olsson_
