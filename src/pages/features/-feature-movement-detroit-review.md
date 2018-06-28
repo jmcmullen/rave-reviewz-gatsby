@@ -13,15 +13,16 @@ Today, the spirit of celebration continues, as people make the pilgrimage from f
 
 **Saturday:**
 
+![](/img/pyramid-stage-christian-smith.jpg)
+
 We arrived early on the first day, wandering around and taking in the downtown festival site - Hart Plaza. I secretly suspect that the person who built this place back in 1975, knew that one of the biggest techno festivals in the world would be held there in the future. You couldn't imagine a better place - a huge open space by the river easily accommodating 100,000 ravers. The fountain in the middle with its striking obelisk is like a remnant from a sci-fi movie - a symbol of the journey through time those attending are taken on, with sounds ranging from deep in the past to far in to the future.
 
 The atmosphere was super friendly and we made a couple of friends as we walked around the four outside stages - Movement Stage (the main stage), Red Bull Music Stage, Stargate Stage and Pyramid Stage. The fifth Resident Advisor Stage was located underground. It was hot - averaging around 30 degrees and sunscreen and free water stations just didn’t exist, which was disappointing.
 
-![Christian Smith - Pyramid stage ](/img/pyramid-stage-christian-smith.jpg)
-
-We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
-
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F634038053613881%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day.
+<br><br> 
 
 **Sunday:**
 
