@@ -13,33 +13,32 @@ Today, the spirit of celebration continues, as people make the pilgrimage from f
 
 **Saturday:**
 
-![](/img/pyramid-stage-christian-smith.jpg)
-
 We arrived early on the first day, wandering around and taking in the downtown festival site - Hart Plaza. I secretly suspect that the person who built this place back in 1975, knew that one of the biggest techno festivals in the world would be held there in the future. You couldn't imagine a better place - a huge open space by the river easily accommodating 100,000 ravers. The fountain in the middle with its striking obelisk is like a remnant from a sci-fi movie - a symbol of the journey through time those attending are taken on, with sounds ranging from deep in the past to far in to the future.
 
 The atmosphere was super friendly and we made a couple of friends as we walked around the four outside stages - Movement Stage (the main stage), Red Bull Music Stage, Stargate Stage and Pyramid Stage. The fifth Resident Advisor Stage was located underground. It was hot - averaging around 30 degrees and sunscreen and free water stations just didn’t exist, which was disappointing.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F634038053613881%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+![Christian Smith - Pyramid stage ](/img/pyramid-stage-christian-smith.jpg)
 
-We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day.
-<br><br> 
+We spent most of the first day at the Stargate Stage, where the “from Detroit with love” showcase was in full swing. Luciano and Carl Craig did a fine job, but it was Stacey Pullen who killed it. We then moved over to the Pyramid Stage to see Maceo Plex arriving just as he dropped his new track Mutant DX. To be honest, his set was mediocre plus the crowd was so intense we almost got crushed. We had to get the hell out of there, but on our way out we managed to catch Claude Von Stroke on the Movement Stage for an energetic end to a great first day. 
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F634038053613881%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 **Sunday:**
 
 On the Sunday, there were so many DJs I wanted to see, and of course they were all inconveniently playing at the same time. The Pyramid stage featured Nastia, Tiga, Marcel Dettmann and Nina Kraviz while on the main stage you had John Digweed, Seth Troxler, Loco Dice b2b and The Martinez Brothers. Working out who to see was like trying to solve a mathematical problem, but we caught a great selection of the talent on offer.
 
-Special mention for Modeselektor who turned in an amazing display of psychedelic electronica, including their latest release (and their first in three years) ‘Kalif Storch’, as well as Maximaal by Secret Cinema & Egbert and the sublime The Hand That Rocks by Thomas P. Heckmann.
+Special mention for Modeselektor who turned in an amazing display of psychedelic electronica, including their latest release (and their first in three years) ‘Kalif Storch’, as well as 'Maximaal' by Secret Cinema & Egbert and the sublime The 'Hand That Rocks' by Thomas P. Heckmann.
 
-We were also spirited away by Laurent Garnier, who rarely plays in the United States. He tore through heavyweight tracks like Reaction by Greenwood & Semson, Selecta﻿ by Josh Wink and of course his very own classic Crispy Bacon.
+We were also spirited away by Laurent Garnier, who rarely plays in the United States. He tore through heavyweight tracks like 'Reaction' by Greenwood & Semson, 'Selecta'﻿ by Josh Wink and of course his very own classic 'Crispy Bacon.'
 
-But the highlight of the day, and in fact the entire festival, was Kink’s performance. The skill with which he delivered his live set, creating a dreamy soundscape filled with emotions was unreal. It actually reduced me to tears - a stand out moment for me and one I won’t forget.
+But the highlight of the day, and in fact the entire festival, was KiNK’s performance. The skill with which he delivered his live set, creating a dreamy soundscape filled with emotions was unreal. It actually reduced me to tears - a stand out moment for me and one I won’t forget.
 <br><br>
 
 **Monday:**
 
-As the final day of the festival rolled around, one of the biggest surprises was Hito‘s set. Originally from Japan, but now living in Germany,  I’d never heard of her before. Playing vinyl, she dropped tracks like Sam Paginini’s Rave with Chocolate whilst waving to everyone. Her smile and energy were infectious. 
+As the final day of the festival rolled around, one of the biggest surprises was Hito‘s set. Originally from Japan, but now living in Germany,  I’d never heard of her before. Playing vinyl, she dropped tracks like Sam Paginini’s 'Rave with Chocolate' whilst waving to everyone. Her smile and energy were infectious. 
 
-Inner City - the band who gave Detroit electronic music its first real chart success with late ‘80s tracks like "Good Life" and "Big Fun” also took to the stage. Fronted by Kevin Saunderson with Paris Grey on vocals, this live, 30th-anniversary performance boasted a new lineup joining original bandleader Dennis White.
+Inner City - the band who gave Detroit electronic music its first real chart success with late ‘80s tracks like 'Good Life' and 'Big Fun' also took to the stage. Fronted by Kevin Saunderson with Paris Grey on vocals, this live, 30th-anniversary performance boasted a new lineup joining original bandleader Dennis White.
 
 ![Inner City - Movement stage](/img/inner-city.jpg)
 
