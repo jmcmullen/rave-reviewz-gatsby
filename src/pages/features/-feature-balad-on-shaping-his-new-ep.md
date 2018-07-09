@@ -1,12 +1,14 @@
 ---
 templateKey: review-post
-path: /feature/balad-all-that-was
-title: How to produce and sign an EP
+path: /feature/balad-EP
+title: How I produced and signed my EP
 date: 2017-07-01T06:00:20.000Z
-description: Local DJ Balad shares his EP's journey from production to signing.
-featuredImage: /img/balad-ep.jpg
+description: >-
+  Sydney-based producer Balad shares how he conceived and signed his latest
+  release.
+featuredImage: /img/balad-ep-art.jpg
 ---
-_Ever wondered how to go about producing a track and getting it signed to a label? Up and coming Sydney-based producer and [Bootz n Catz](https://magazine.ravereviewz.net/interview/zankee-gulati-bootz-n-catz)_ resident Mazen Al-Khozaie AKA Balad talks us through the process of how he created and signed his recent EP ‘[All That Was](https://soundcloud.com/baladmusic/sets/all-that-was-ep)’._
+_Ever wondered how to go about producing a track and getting it signed to a label? Up and coming Sydney-based producer and [Bootz n Catz](https://magazine.ravereviewz.net/interview/zankee-gulati-bootz-n-catz) resident Mazen Al-Khozaie AKA Balad talks us through the process of how he created and signed his recent EP ‘[All That Was_](https://soundcloud.com/baladmusic/sets/all-that-was-ep)’._
 <br><br>
 
 So I launched my Balad alias at the end of 2016 and had been fortunate enough to release tracks on labels like Parquet Recordings, Lost Diaries, Aftertech & Kitchen Recordings.
