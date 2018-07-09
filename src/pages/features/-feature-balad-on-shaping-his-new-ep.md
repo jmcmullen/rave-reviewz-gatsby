@@ -1,16 +1,13 @@
 ---
 templateKey: review-post
 path: /feature/balad
-title: BALAD on
+title: How to produce and sign an EP
 date: 2018-07-09T06:00:20.757Z
-description: >-
-  Ever wondered how to go about producing a track and getting it signed to a
-  label? Up and coming Sydney-based producer and Bootz n Catz resident Mazen
-  Al-Khozaie AKA Balad talks us through the process of how he created and signed
-  his recent EP ‘All That Was’.
+description: Local DJ Balad shares his new EP's journey from signing
 featuredImage: /img/balad.jpg
 ---
-_By Mazen Al-Khozaie_
+_Ever wondered how to go about producing a track and getting it signed to a label? Up and coming Sydney-based producer and _[_Bootz n Catz_](https://magazine.ravereviewz.net/interview/zankee-gulati-bootz-n-catz)_ resident Mazen Al-Khozaie AKA Balad talks us through the process of how he created and signed his recent EP ‘_[_All That Was_](https://soundcloud.com/baladmusic/sets/all-that-was-ep)_’._
+<br><br>
 
 So I launched my Balad alias at the end of 2016 and had been fortunate enough to release tracks on labels like Parquet Recordings, Lost Diaries, Aftertech & Kitchen Recordings.
 
@@ -35,4 +32,4 @@ When it came to the artwork, I wanted each piece on the artwork to signify a son
 
 I was stoked when the EP received support from the likes of Hernan Cattaneo and Nick Warren - especially since from the cover art, to the track names, to the songs themselves, there is a lot of meaning behind this EP for me. I hope you enjoy listening to it as much as I enjoyed creating it.
 
-_Check out Balad’s “All that was” EP _[**_here_**](https://soundcloud.com/baladmusic/sets/all-that-was-ep)
+_Check out Balad’s “All that was” EP _[_**here**_](https://www.beatport.com/release/all-that-was/2307924)_**.**_
