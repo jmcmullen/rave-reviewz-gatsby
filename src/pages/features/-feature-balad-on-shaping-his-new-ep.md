@@ -1,8 +1,8 @@
 ---
 templateKey: review-post
-path: /feature/balad
+path: /feature/balad-all-that-was
 title: How to produce and sign an EP
-date: 2018-07-09T06:00:20.757Z
+date: 2017-07-01T16:00:20+10:00
 description: Local DJ Balad shares his EP's journey from production to signing.
 featuredImage: /img/balad.jpg
 ---
