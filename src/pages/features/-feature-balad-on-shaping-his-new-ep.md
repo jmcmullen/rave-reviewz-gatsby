@@ -1,28 +1,33 @@
 ---
 templateKey: review-post
 path: /feature/balad
-title: BALAD on shaping his new EP
+title: BALAD on
 date: 2018-07-09T06:00:20.757Z
-description: TBC
+description: >-
+  Ever wondered how to go about producing a track and getting it signed to a
+  label? Up and coming Sydney-based producer and Bootz n Catz resident Mazen
+  Al-Khozaie AKA Balad talks us through the process of how he created and signed
+  his recent EP ‘All That Was’.
 featuredImage: /img/balad.jpg
 ---
-_Ever wondered how to go about producing a track and getting it signed to a label? Up and coming Sydney-based producer and Bootz n Catz resident Mazen Al-Khozaie AKA Balad talks us through the process of how he created and signed his recent EP ‘All That Was’._
+_By Mazen Al-Khozaie_
 
-So I launched my Balad alias at the end of 2016 and had been fortunate enough to release tracks on labels like Parquet Recordings, Lost Diaries, Aftertech & Kitchen Recordings. 
+So I launched my Balad alias at the end of 2016 and had been fortunate enough to release tracks on labels like Parquet Recordings, Lost Diaries, Aftertech & Kitchen Recordings.
 
 “All That Was” is my third EP and inspired by influences of some of my favourite artists and labels. I would describe my sound as melancholic, rhythmic and soulful and I wanted to create something that was down-tempo and ambient, similar to the style of All Day I Dream, Modd & Kora.
 
 I tend to start most of my productions with a chord progression over a pad synth, piano or orchestral strings which I find creates a strong emotional base to build on. I’ve never been classically trained in reading or writing music, so I use simple musical theory that I’ve taught myself to help guide me throughout the creative process. A good starting point for me is minor/major chords, scales, octaves and harmonies.
+<br><br>
 
 After the melodic elements are created, I layer a percussive groove over it to start shaping the energy and rhythm. I like to use exotic percussions such as tablas, debkas, maracas, bells, and castanets because it ties in with my Middle Eastern background. I also frequently use instruments like the qanun, sitar and pan flute. 
 
 I choose a kick when I can get an understanding and feel of where the track is going - for this EP, they were mainly deep, booming kicks, rather than short punchy ones, which worked well with the percussive loops and BPM. In contrast, the claps are sharp, with a very short tail, almost like snares. After layering these elements, I added the FX, sweeps and glitches to vary the sound.
 
-![](/img/balad-gig.jpg)
+![null](/img/balad-gig.jpg)
 
 One key feature of my productions are soundscapes - real field recordings from different environments which I think adds an organic feel. In this EP, I’ve used sounds from a Queensland rainforest, suburban parklands and wind and rain elements as backdrops to enhance the ambience. I usually go out and record these myself using field recorders, or through sample websites such as Soundsnap. I try to match the soundscape to the theme and feel of the track, which creates the connection.
 
-The theme and feel is also how I named each of the tracks on the EP. The names usually come to me during the production process… “All That Was” is an ode to special moments in time, “Magnetic Mountain” is inspired by the place outside Sydney, and “Song of the Elders” triggered visions of native elders passing on stories to kids through songs for me.
+The theme and feel is also how I named each of the tracks on the EP. The names usually come to me during the production process… “All That Was” is an ode to special moments in time, “Magnetic Mountain” is inspired by the place outside [Sydney](https://www.ravereviewz.net/Events-Location/Sydney), and “Song of the Elders” triggered visions of native elders passing on stories to kids through songs for me.
 
 After the tracks had been mixed and prepared for mastering, I sent out the demos to a bunch of labels, including Sprinkler. I had gotten to know Sprinkler through artists such as Bedouin and Nu, who had previously released on the label. I waited for a couple of weeks before getting a reply back from owner, Israel Vich, with an offer to sign my EP. It was amazing to have a label that has put out music from influential artists believing in my sound, surreal feeling!
 
