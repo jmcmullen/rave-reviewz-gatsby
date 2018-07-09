@@ -3,7 +3,7 @@ templateKey: review-post
 path: /feature/balad
 title: How to produce and sign an EP
 date: 2018-07-09T06:00:20.757Z
-description: Local DJ Balad shares his new EP's journey from signing
+description: Local DJ Balad shares his EP's journey from production to signing
 featuredImage: /img/balad.jpg
 ---
 _Ever wondered how to go about producing a track and getting it signed to a label? Up and coming Sydney-based producer and _[_Bootz n Catz_](https://magazine.ravereviewz.net/interview/zankee-gulati-bootz-n-catz)_ resident Mazen Al-Khozaie AKA Balad talks us through the process of how he created and signed his recent EP ‘_[_All That Was_](https://soundcloud.com/baladmusic/sets/all-that-was-ep)_’._
