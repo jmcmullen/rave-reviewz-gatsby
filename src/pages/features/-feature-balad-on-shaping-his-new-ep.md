@@ -34,4 +34,4 @@ When it came to the artwork, I wanted each piece on the artwork to signify a son
 I was stoked when the EP received support from the likes of Hernan Cattaneo and Nick Warren - especially since from the cover art, to the track names, to the songs themselves, there is a lot of meaning behind this EP for me. I hope you enjoy listening to it as much as I enjoyed creating it.
 <br><br>
 
-_Check out the 'All That Was' [**EP**](https://www.beatport.com/release/all-that-was/2307924) and find out more on Balad [**here**_](www.facebook.com/baladmusic)
+_Check out the 'All That Was' [**EP**](https://www.beatport.com/release/all-that-was/2307924) and find out more on Balad [**here**](www.facebook.com/baladmusic)_
