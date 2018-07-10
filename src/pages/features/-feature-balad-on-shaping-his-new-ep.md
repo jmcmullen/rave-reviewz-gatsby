@@ -21,7 +21,7 @@ After the melodic elements are created, I layer a percussive groove over it to s
 
 I choose a kick when I can get an understanding and feel of where the track is going - for this EP, they were mainly deep, booming kicks, rather than short punchy ones, which worked well with the percussive loops and BPM. In contrast, the claps are sharp, with a very short tail, almost like snares. After layering these elements, I added the FX, sweeps and glitches to vary the sound.
 
-![null](/img/balad-gig.jpg)
+![null](/img/balad-ep.jpg)
 
 One key feature of my productions are soundscapes - real field recordings from different environments which I think adds an organic feel. In this EP, I’ve used sounds from a Queensland rainforest, suburban parklands and wind and rain elements as backdrops to enhance the ambience. I usually go out and record these myself using field recorders, or through sample websites such as Soundsnap. I try to match the soundscape to the theme and feel of the track, which creates the connection.
 
@@ -34,4 +34,4 @@ When it came to the artwork, I wanted each piece on the artwork to signify a son
 I was stoked when the EP received support from the likes of Hernan Cattaneo and Nick Warren - especially since from the cover art, to the track names, to the songs themselves, there is a lot of meaning behind this EP for me. I hope you enjoy listening to it as much as I enjoyed creating it.
 <br><br>
 
-_Check out the EP [**here**](https://www.beatport.com/release/all-that-was/2307924) and find out more on Balad [**here_**](www.facebook.com/baladmusic)
+_Check out the 'All That Was' [**EP**](https://www.beatport.com/release/all-that-was/2307924) and find out more on Balad [**here**_](www.facebook.com/baladmusic)
