@@ -11,7 +11,7 @@ featuredImage: /img/balad.jpg
 _Ever wondered how to go about producing a track and getting it signed to a label? Up and coming Sydney-based producer and [Bootz n Catz](https://magazine.ravereviewz.net/interview/zankee-gulati-bootz-n-catz) resident Mazen Al-Khozaie AKA Balad talks us through the process of how he created and signed his recent EP, ‘[All That Was](https://soundcloud.com/baladmusic/sets/all-that-was-ep)’._
 <br><br>
 
-So I launched my Balad alias at the end of 2016 and had been fortunate enough to release tracks on labels like Parquet Recordings, Lost Diaries, Aftertech & Kitchen Recordings.
+So I launched my Balad alias at the end of 2016 and have been fortunate enough to release tracks on labels like Parquet Recordings, Lost Diaries, Aftertech & Kitchen Recordings.
 
 “All That Was” is my third EP and inspired by influences of some of my favourite artists and labels. I would describe my sound as melancholic, rhythmic and soulful and I wanted to create something that was down-tempo and ambient, similar to the style of All Day I Dream, Modd & Kora.
 
