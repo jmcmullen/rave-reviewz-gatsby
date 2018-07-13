@@ -4,7 +4,7 @@ path: /feature/ask-for-angela
 title: 'Is "Ask for Angela" the solution to sexual harassment in clubs? '
 date: 2018-07-12T23:04:38.657Z
 description: Our feature on the launch of the "Ask for Angela" initiative in Sydney
-featuredImage: /img/ask-for-angela-generic-poster-a4.png
+featuredImage: /img/36915660_10157674533960200_5236456545696350208_n.jpg
 ---
 _Ahead of the launch of the "Ask for Angela" initiative in Sydney, [Rave Reviewz](magazine.ravereviewz.net)' Danielle Duchesne gives her thoughts on sexual harassment in clubs and the campaign itself._
 
@@ -15,6 +15,8 @@ This weekend sees the official launch of the “Ask for Angela” campaign in Sy
 Sydney bar staff have now received training on this protocol and Police Minister Troy Grant said “We don’t want people feeling intimidated when they’re socialising in the city. They’re out to enjoy themselves, not feel threatened, and this initiative supports their safety." 
 
 As well as stopping sexual violence before it happens, the campaign aims to prevent these incidents by sending a message that such behaviour will not be tolerated and show women that there is support available.
+
+![](/img/ask-for-angela-generic-poster-a4.png)
 
 This news got me thinking about a post I saw on a Sydney Facebook event page recently regarding highly inappropriate behaviour towards a female raver during the event. She wrote “he took me by surprise with his tongue in my mouth though I specifically told him I didn’t want that”. I’m sure everyone reading this will agree that this is completely unacceptable, but it clearly continues to happen. 
 
@@ -34,7 +36,6 @@ The ‘Ask for Angela’ campaign is definitely welcome in Sydney, even if it pr
 
 Six years ago, after a personal experience, Caitlin Sullivan began writing on on sexual harassment in music venues. Her work triggered a campaign with the hashtag #freetomove. If we bring it back to the fundamental reasons of why we go out and rave - to enjoy good music, perhaps we will all be free to move in clubs.
 
-
-_You can find out more about the Ask for Angela campaign [here](https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGNzE0MDUuaHRtbCZhbGw9MQ%3D%3D)._
+_You can find out more about the Ask for Angela campaign [here](https://bit.ly/2N9cLFo)._
 
 _Contact [1800Respect](https://www.1800respect.org.au/) for confidential support and advice on matters relating to sexual assault._
