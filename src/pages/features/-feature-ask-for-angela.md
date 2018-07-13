@@ -4,7 +4,7 @@ path: /feature/ask-for-angela
 title: 'Is "Ask for Angela" the solution to sexual harassment in clubs? '
 date: 2018-07-12T23:04:38.657Z
 description: Our feature on the launch of the "Ask for Angela" initiative in Sydney
-featuredImage: /img/ask-for-angela.jpg
+featuredImage: /img/ask-for-angela-new.jpg
 ---
 _Ahead of the launch of the "Ask for Angela" initiative in Sydney, [Rave Reviewz](magazine.ravereviewz.net)' Danielle Duchesne gives her thoughts on sexual harassment in clubs and the campaign itself._
 
