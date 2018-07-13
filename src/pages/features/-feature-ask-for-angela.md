@@ -1,16 +1,18 @@
 ---
 templateKey: review-post
-path: /feature
-title: Ask for Angela
+path: /feature/ask-for-angela
+title: 'Is "Ask for Angela" the solution to sexual harassment in clubs? '
 date: 2018-07-12T23:04:38.657Z
-description: TBC
+description: Our feature on the launch of the "Ask for Angela" initiative in Sydney
 featuredImage: /img/ask-for-angela-generic-poster-a4.png
 ---
-This weekend sees the official launch of the “Ask for Angela” campaign in Sydney. The internationally recognised campaign started two years ago in Lincolnshire, UK, where posters were put up in bars advising women who felt unsafe to approach a member of staff and ‘ask for Angela’ to be discreetly escorted to safety. 
+_Ahead of the launch of the "Ask for Angela" initiative in Sydney, _[_Rave Reviewz_](magazine.ravereviewz.net)_' Danielle Duchesne gives her thoughts on sexual harassment in clubs and the campaign itself. _
 
-Sydney bar staff have now received training on this protocol. Police Minister Troy Grant said “We don’t want people feeling intimidated when they’re socialising in the city. They’re out to enjoy themselves, not feel threatened, and this initiative supports their safety." 
+_Warning: This article contains descriptions of harassment in nightclubs._
 
+This weekend sees the official launch of the “Ask for Angela” campaign in Sydney. The internationally recognised campaign started two years ago in Lincolnshire, UK, where posters were put up in bars advising women who felt unsafe to approach a member of staff and 'ask for Angela’ to be discreetly escorted to safety. 
 
+Sydney bar staff have now received training on this protocol and Police Minister Troy Grant said “We don’t want people feeling intimidated when they’re socialising in the city. They’re out to enjoy themselves, not feel threatened, and this initiative supports their safety." 
 
 As well as stopping sexual violence before it happens, the campaign aims to prevent these incidents by sending a message that such behaviour will not be tolerated and show women that there is support available.
 
@@ -20,15 +22,20 @@ In Australia, 1 in 2 women have experienced inappropriate behaviour towards them
 
 It was my last night in London with my friends and I wasn’t interested in being hit on. When the unwanted attention came my way, I politely declined. When the answer was not accepted and the awkward groping continued, I got a little fiery. I wasn’t going to turn a blind eye this time, so things escalated and I punched the creep right in the face! He punched me back, I gave it another go, then security took him away kicking and screaming. 
 
-Violence aside, it was my right to decline him, just like it was my right to be out, drunk and dancing in whichever way I wanted - without him assuming that I wanted his attention. 
-Every girl has the right to get drunk in a club and feel safe, just as she has every right to walk home through a park at night WITHOUT getting attacked and the right to wear clothing that makes her feel sexy without people assuming she wants sex. 
+Violence aside, it was my right to decline him, just like it was my right to be out, drunk and dancing in whichever way I wanted - without him assuming that I wanted his attention. Every girl has the right to get drunk in a club and feel safe, just as she has every right to walk home through a park at night WITHOUT getting attacked and the right to wear clothing that makes her feel sexy without people assuming she wants sex. 
 
 I have personally had my butt groped by random passers-by in Sydney clubs more times than I can count G&Ts I’ve consumed. In that environment, people think they can get away with it. If it were anywhere else, I can only imagine the scene it would cause.
 
-I could tell you more stories about female friends who have been harassed and pretty much assaulted in clubs. Sadly, I’m sure every girl reading this could too. We simply should not have to spend our time on a night out having to ward off unwanted attention. Raves and club nights should be places for people to de-stress and let the joy of music and movement into their lives.  
+I could tell you more stories about female friends who have been harassed and pretty much assaulted in clubs. Sadly, I’m sure every girl reading this could too. We simply should not have to spend our time on a night out having to ward off unwanted attention! Raves and club nights should be places for people to de-stress and let the joy of music and movement into their lives.  
 
 For those who go out on the prowl and expect to go home with someone, a sense of desperation seems to set in as the close nears and that one nighter is yet to be found. Of course people are free to have as many one night stands as they want, but they should also be free to go out to enjoy the music and atmosphere, and to dance with friends without looking for a hook up. 
 
-The ‘Ask for Angela’ campaign is definitely welcome in Sydney, but what we really need is for those men who behave in this way to stop doing it. Everyone should understand that it is a basic human right to be able to say NO and to have that no respected. No does not mean “I’m super drunk so take advantage of that”. No does not mean “go for it, I won’t remember in the morning anyway”.
+The ‘Ask for Angela’ campaign is definitely welcome in Sydney, even if it prevents one sexual assault it will be well worth it. But what we really need is for those men who behave in this way to stop doing it. Everyone should understand that it is a basic human right to be able to say NO and to have that no respected. No does not mean “I’m super drunk so take advantage of that”. No does not mean “go for it, I won’t remember in the morning anyway”.
 
 Six years ago, after a personal experience, Caitlin Sullivan began writing on on sexual harassment in music venues. Her work triggered a campaign with the hashtag #freetomove. If we bring it back to the fundamental reasons of why we go out and rave - to enjoy good music, perhaps we will all be free to move in clubs.
+
+
+
+_You can find out more about the Ask for Angela campaign _[_here_](https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGNzE0MDUuaHRtbCZhbGw9MQ%3D%3D)_._
+
+_Contact _[_1800Respect_](https://www.1800respect.org.au/)_ for confidential support and advice on matters relating to sexual assault._
