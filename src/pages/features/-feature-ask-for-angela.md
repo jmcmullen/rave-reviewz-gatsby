@@ -2,11 +2,11 @@
 templateKey: review-post
 path: /feature/ask-for-angela
 title: 'Is "Ask for Angela" the solution to sexual harassment in clubs? '
-date: 2018-07-12T23:04:38.657Z
+date: 2018-07-14T00:04:38+10:00
 description: Our feature on the launch of the "Ask for Angela" initiative in Sydney
 featuredImage: /img/ask-for-angela-new.jpg
 ---
-_Ahead of the launch of the "Ask for Angela" initiative in Sydney, [Rave Reviewz](magazine.ravereviewz.net)' Danielle Duchesne gives her thoughts on sexual harassment in clubs and the campaign itself._
+_To mark the launch of the "Ask for Angela" initiative in Sydney, Rave Reviewz' Danielle Duchesne shares her thoughts on sexual harassment in clubs and the campaign itself._
 
 _Warning: This article contains descriptions of harassment in nightclubs._
 
@@ -16,7 +16,7 @@ Sydney bar staff have now received training on this protocol and Police Minister
 
 As well as stopping sexual violence before it happens, the campaign aims to prevent these incidents by sending a message that such behaviour will not be tolerated and show women that there is support available.
 
-![](/img/ask-for-angela-generic-poster-a4.png)
+![null](/img/ask-for-angela-generic-poster-a4.png)
 
 This news got me thinking about a post I saw on a Sydney Facebook event page recently regarding highly inappropriate behaviour towards a female raver during the event. She wrote “he took me by surprise with his tongue in my mouth though I specifically told him I didn’t want that”. I’m sure everyone reading this will agree that this is completely unacceptable, but it clearly continues to happen. 
 
@@ -28,7 +28,7 @@ Violence aside, it was my right to decline him, just like it was my right to be 
 
 I have personally had my butt groped by random passers-by in Sydney clubs more times than I can count G&Ts I’ve consumed. In that environment, people think they can get away with it. If it were anywhere else, I can only imagine the scene it would cause.
 
-I could tell you more stories about female friends who have been harassed and pretty much assaulted in clubs. Sadly, I’m sure every girl reading this could too. We simply should not have to spend our time on a night out having to ward off unwanted attention! Raves and club nights should be places for people to de-stress and let the joy of music and movement into their lives.  
+I could tell you more stories about female friends who have been harassed and pretty much assaulted in clubs. Sadly, I’m sure every girl reading this could too. We simply should not have to spend our time on a night out having to ward off unwanted attention - raves and club nights should be places for people to de-stress and let the joy of music and movement into their lives.  
 
 For those who go out on the prowl and expect to go home with someone, a sense of desperation seems to set in as the close nears and that one nighter is yet to be found. Of course people are free to have as many one night stands as they want, but they should also be free to go out to enjoy the music and atmosphere, and to dance with friends without looking for a hook up. 
 
