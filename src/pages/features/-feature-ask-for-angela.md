@@ -6,7 +6,7 @@ date: 2018-07-12T23:04:38.657Z
 description: Our feature on the launch of the "Ask for Angela" initiative in Sydney
 featuredImage: /img/ask-for-angela-generic-poster-a4.png
 ---
-_Ahead of the launch of the "Ask for Angela" initiative in Sydney, _[_Rave Reviewz_](magazine.ravereviewz.net)_' Danielle Duchesne gives her thoughts on sexual harassment in clubs and the campaign itself. _
+_Ahead of the launch of the "Ask for Angela" initiative in Sydney, [Rave Reviewz](magazine.ravereviewz.net)' Danielle Duchesne gives her thoughts on sexual harassment in clubs and the campaign itself._
 
 _Warning: This article contains descriptions of harassment in nightclubs._
 
@@ -35,7 +35,6 @@ The ‘Ask for Angela’ campaign is definitely welcome in Sydney, even if it pr
 Six years ago, after a personal experience, Caitlin Sullivan began writing on on sexual harassment in music venues. Her work triggered a campaign with the hashtag #freetomove. If we bring it back to the fundamental reasons of why we go out and rave - to enjoy good music, perhaps we will all be free to move in clubs.
 
 
+_You can find out more about the Ask for Angela campaign [here](https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGNzE0MDUuaHRtbCZhbGw9MQ%3D%3D)._
 
-_You can find out more about the Ask for Angela campaign _[_here_](https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGNzE0MDUuaHRtbCZhbGw9MQ%3D%3D)_._
-
-_Contact _[_1800Respect_](https://www.1800respect.org.au/)_ for confidential support and advice on matters relating to sexual assault._
+_Contact [1800Respect](https://www.1800respect.org.au/) for confidential support and advice on matters relating to sexual assault._
