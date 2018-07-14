@@ -1,6 +1,6 @@
 ---
 templateKey: review-post
-path: /feature/ask-for-angela-sydney
+path: /feature/ask-for-angela
 title: Is "Ask for Angela" the solution to sexual harassment in clubs?
 date: 2018-07-14T03:28:17.569Z
 description: >-
