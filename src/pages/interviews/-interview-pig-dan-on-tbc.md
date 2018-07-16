@@ -30,25 +30,25 @@ Pig&Dan: This is actually the 6th label we have started together and we pretty m
 
 **RR: Big shout out to Scott. Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeve come about? And what was the concept behind the tracks?**
 
-Pig&Dan: Mark and us go way back and have collaborated before on other labels as well as Elevate. The single is all about having a good time, generating those smiley faces and hands in the air moments on the dancefloor. Both tracks are really pumping yet euphoric records that are all about elevating the crowd, hence the label's name.
+Pig&Dan: Mark and us go way back and we have collaborated before on other labels other than Elevate. The single is all about having a good time, generating those smiley faces and hands in the air moments on the dancefloor. Both tracks are really pumping yet euphoric records that are all about elevating the crowd, hence the label's name.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/555250029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 **RR: Speaking of collaborations, we want to ask you about the final Space Ibiza compilation CD you did with [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure) & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
 
-Pig&Dan: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. This was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, it was left to us to come up with the goods which was no easy task under that pressure to deliver our best.
+Pig&Dan: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. This was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, it was left to us to come up with the goods which was no easy task under all that pressure.
 <br><br>
 
 ![null](/img/p&d-oz-tour.png)
 
-**RR: Ok, looking back what do you both wish you knew when starting out in the music industry?**
+**RR: We can imagine. Ok, looking back what do you both wish you knew when starting out in the music industry?**
 
 Pig&Dan: You could say we wish we knew how much we would be ripped off and how hard it is, but that would have dulled our determination. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success - just the stairs, as they say.
 
 This industry involves daily devotion of the highest level and you need to get through it daily to achieve incredibly rewarding results. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. People smiling and dancing together in a positive environment is a priceless experience.
 <br><br> 
 
-**RR: We can imagine. And if you had to pick one gig that really stands out in your memory over the years, what would it be?**
+**RR: And if you had to pick one gig that really stands out in your memory over the years, what would it be?**
 
 Pig&Dan: Probably the first time we played at Cocoon in Amnesia Ibiza. I used to go to there at a young age and stare up at the DJ booth dreaming of being there one day. When that day came I was nervous and shaking so much that I found it hard to control the pitch on the decks.
 <br><br>
@@ -60,9 +60,9 @@ Pig&Dan: Easily - a DJ set should have some foreplay. If you just bang it out th
 
 **RR: Finally, if we asked you to describe each other in 3 words, what would you say?**
 
-Dan: Chaotic, impulsive, unique
+Dan: Chaotic, impulsive, unique.
 
-Pig: Sensitive, raving, professor
+Pig: Sensitive, raving, professor.
 
 RR: Thanks for the chat guys. 
 <br><br>
