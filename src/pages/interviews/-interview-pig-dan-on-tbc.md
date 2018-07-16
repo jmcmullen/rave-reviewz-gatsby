@@ -2,13 +2,13 @@
 templateKey: interview-post
 path: /interview/piganddan
 title: PIG&DAN on elevating the crowd
-date: 2017-07-01T13:03:27+10:00
+date: 2017-07-01T03:03:27.000Z
 description: Our chat with one of the most respected duos in modern techno music.
 featuredImage: /img/pig&dan-press.jpg
 ---
 _In conversation with the techno heavyweights before their return to the Burdekin on Saturday - discussing their fateful bond, collaborations and wisdom._
 
-**RR: Welcome back to **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**! Did you cope ok with the long ass flight over to Australia?**
+**RR: Welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)! Did you cope ok with the long ass flight over to Australia?**
 
 Pig&Dan: After all these years on the road, one thing we are definitely accustomed to is flying. We now look at it as our studio time during the day, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we have written some of our biggest tracks from 11,000 metres up!
 <br><br>
@@ -34,7 +34,7 @@ Pig&Dan: Mark and us go way back and have collaborated before on other labels as
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/555250029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-**RR: Speaking of collaborations, we want to ask you about the final space Ibiza compilation CD you did with **[**Carl Cox**](https://magazine.ravereviewz.net/interview/carl-cox-pure)** & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
+**RR: Speaking of collaborations, we want to ask you about the final space Ibiza compilation CD you did with [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure)** & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
 
 Pig&Dan: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. This was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, it was left to us to come up with the goods which was no easy task under that pressure to deliver our best.
 <br><br>
@@ -65,4 +65,4 @@ Dan: Chaotic, impulsive, unique
 Pig: Sensitive, raving, professor
 <br><br>
 
-_Catch Pig&Dan at the Burdekin on Saturday. Details _[_here_](https://bit.ly/2KTkXfC)_. '_Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)
+_Catch Pig&Dan at the Burdekin on Saturday. Details [here](https://bit.ly/2KTkXfC). 'Give' is available now on [Beatport_](https://www.beatport.com/release/give-ep/2315538)
