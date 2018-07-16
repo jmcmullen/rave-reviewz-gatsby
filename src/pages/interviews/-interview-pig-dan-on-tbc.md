@@ -18,18 +18,19 @@ Pig&Dan: Whilst on that fight to Mallorca I was talking to the person beside me 
 
 **RR: You’ve been working together for a while now. How has the dynamic changed over the years? And does it differ in the studio and behind the decks?**
 
-Pig&Dan: We’ve gained the ability to do things alone, but with the knowledge of what the other one would think of it. I honestly know when producing alone what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way - most of the time. Playing mostly our own music means we know where we are going however sometimes one of us plays a track that the I think thinks is really a change in musical direction. It’s really fun to have this flow when playing together however it’s no easy thing unless you have our synergy.
+Pig&Dan: We’ve gained the ability to do things alone, but with the knowledge of what the other one would think of it. I honestly know when producing alone what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way - most of the time! Playing mostly our own music means we know where we are going however sometimes one of us plays a track that the other thinks is a change in musical direction. It’s really fun to have this flow when playing together because of our synergy.
 <br><br>
 
 **RR: Can you describe the highlights and challenges of managing your label ELEVATE over the past 5 years? What do you think has been the key to its success?**
 
-Pig&Dan: This is actually our 6th label we have started together, and after all of those we have pretty much now learned all the dos and don’ts. Now with Scott, our label manager, in charge of running the day-to-day it goes all incredibly smooth! We take care of the creative side of things, and Scott who also runs Bedrock, Mood and a few other big labels, is the master of making it all happen.
+Pig&Dan: This is actually the 6th label we have started together and we pretty much know the dos and don’ts. Also having Scott, our label manager, in charge of running the day-to-day means it all goes incredibly smooth! We take care of the creative side of things and Scott, who also runs Bedrock, Mood and a few other big labels, is the master of making it all happen.
 <br><br>
 
-**RR: Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeves come about? And what was the concept behind the track?**
+**RR: Shout out to Scott! Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeves come about? And what was the concept behind the track?**
 
-Pig&Dan: Mark and us go way back and have collaborated before on other labels as well as Elevate. The single is all about having a good time, generating those smiley faces and a hands in the air moment on the dancefloor. Both tracks are really pumping yet euphoric records that are all about elevating the crowd, hence the label's name.
-<br><br>
+Pig&Dan: Mark and us go way back and have collaborated before on other labels as well as Elevate. The single is all about having a good time, generating those smiley faces and hands in the air moments on the dancefloor. Both tracks are really pumping yet euphoric records that are all about elevating the crowd, hence the label's name.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/555250029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 **RR: Speaking of collaborations, we want to ask you about the final space Ibiza compilation CD you did with **[**Carl Cox**](https://magazine.ravereviewz.net/interview/carl-cox-pure)** & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
 
@@ -40,7 +41,7 @@ Pig&Dan: It was an honour of course to be asked to represent the very last Space
 
 **RR: Ok, looking back what do you both wish you knew when starting out in the music industry?**
 
-Pig&Dan: You could say we wish we knew how much we would be ripped off and how hard it is, but that would have dulled our determination I think. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success, just the stairs as they say.
+Pig&Dan: You could say we wish we knew how much we would be ripped off and how hard it is, but that would have dulled our determination. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success, just the stairs, as they say.
 
 This industry involves devotion of the highest level, you need to get through it day for day and the results are incredibly rewarding. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. Smiling people all dancing together in a positive environment is a priceless experience.
 <br><br> 
