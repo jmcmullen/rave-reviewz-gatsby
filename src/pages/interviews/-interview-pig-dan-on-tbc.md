@@ -34,7 +34,7 @@ Pig&Dan: Mark and us go way back and have collaborated before on other labels as
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/555250029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-**RR: Speaking of collaborations, we want to ask you about the final space Ibiza compilation CD you did with **[**Carl Cox**](https://magazine.ravereviewz.net/interview/carl-cox-pure)** & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
+**RR: Speaking of collaborations, we want to ask you about the final space Ibiza compilation CD you did with [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure)** & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
 
 Pig&Dan: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. This was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, it was left to us to come up with the goods which was no easy task under that pressure to deliver our best.
 <br><br>
