@@ -1,11 +1,13 @@
 ---
 templateKey: interview-post
-path: /interview/pig&dan
-title: PIG&DAN on TBC
+path: /interview/piganddan
+title: PIG&DAN on elevating the crowd
 date: 2018-07-16T03:03:27.761Z
-description: TBC
+description: Our chat with one of the most respected duos in modern techno music.
 featuredImage: /img/pig&dan-press.jpg
 ---
+In conversation with the techno heavyweights before their return to the Burdekin on Saturday, discussing the 
+
 **RR: Welcome back to **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**! Did you cope ok with the long ass flight over to Australia?**
 
 Pig&Dan: After all these years on the road, one thing we are definitely accustomed to is flying. We now look at it as our studio time during the day, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we have written some of our biggest tracks from 11,000 metres up!
