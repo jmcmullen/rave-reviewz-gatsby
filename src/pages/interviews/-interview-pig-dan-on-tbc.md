@@ -46,7 +46,7 @@ Pig&Dan: You could say we wish we knew how much we would be ripped off and how h
 This industry involves daily devotion of the highest level and you need to get through it daily to achieve incredibly rewarding results. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. People smiling and dancing together in a positive environment is a priceless experience.
 <br><br> 
 
-**RR: And if you had to pick one gig that really stands out in your memory over the years, what would it be?**
+**RR: We can imagine. And if you had to pick one gig that really stands out in your memory over the years, what would it be?**
 
 Pig&Dan: Probably the first time we played at Cocoon in Amnesia Ibiza. I used to go to there at a young age and stare up at the DJ booth dreaming of being there one day. When that day came I was nervous and shaking so much that I found it hard to control the pitch on the decks.
 <br><br>
