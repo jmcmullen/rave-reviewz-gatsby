@@ -63,6 +63,9 @@ Pig&Dan: Easily - a DJ set should have some foreplay. If you just bang it out th
 Dan: Chaotic, impulsive, unique
 
 Pig: Sensitive, raving, professor
+
+RR: Love it. Thanks you for the chat.
+
 <br><br>
 
 _Catch Pig&Dan at the Burdekin on Saturday. Details [here](https://bit.ly/2KTkXfC). 'Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)_
