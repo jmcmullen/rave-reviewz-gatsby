@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/piganddan
 title: PIG&DAN on elevating the crowd
 date: 2017-07-01T03:03:27.000Z
-description: Our chat with one of the most respected duos in modern techno music.
+description: Our chat with one of the most respected duos in modern day techno.
 featuredImage: /img/piganddan-main.jpg
 ---
 _In conversation with the techno heavyweights before their return to the Burdekin on Saturday - discussing their fateful bond, collaborations and wisdom._
@@ -15,7 +15,7 @@ Pig&Dan: After all these years on the road, one thing we are definitely accustom
 
 **RR: Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
 
-Dan: I was a drum & bass artist touring globally at the time, on a plane to Mallorca, talking to the person beside me about the fact that I was a resident DJ at Ministry of Sound. The person behind me (Igor) leant forwards and stated that he were also working in music and was a DJ. When going to the bus to the Terminal from the plane we decided to swap numbers. Because of my situation with my mother’s health and dealing with her passing away at the time, I never thought to call that number. Two years down the line a friend of mine said I should I meet a guy called Pig because he’s also producing music - I of course chuckled and said “OK, sure”. I met this guy and we got on really well but didn’t realise that we had met two years previously on the plane. When it hit home to us both that we had been on that plane together, we knew this was fate and we have to try working together. When we did there was a very strange yet powerful synergy between us and his Balearic house and my dnb mix seemed to gel in a special way.
+Dan: It was on a plane to Mallorca and I was a drum 'n' bass artist touring globally at the time. I got talking to the person beside me about the fact that I was a resident DJ at Ministry of Sound and the guy behind me (Igor) leant forward and stated that he was also a DJ working in music. When going to the bus to the Terminal from the plane we decided to swap numbers. Because of my situation with my mother’s health and dealing with her passing away at the time, I never thought to call that number. Two years down the line a friend of mine said I should I meet a guy called Pig because he’s also producing music - I of course chuckled and said “OK, sure”. I met this guy and we got on really well but didn’t realise that we had met two years previously on the plane. When it hit home to us both, we knew this was fate and we have to try and work together. His Balearic house and my drum 'n' bass mix seemed to gel in a special way and there was strange and powerful synergy between us.
 <br><br>
 
 **RR: You’ve been working together for a while now. How has the dynamic changed over the years? And does it differ in the studio and behind the decks?**
