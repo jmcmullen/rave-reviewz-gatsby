@@ -64,7 +64,7 @@ Dan: Chaotic, impulsive, unique
 
 Pig: Sensitive, raving, professor
 
-RR: Love it. Thanks you for the chat.
+RR: Love it. Thanks for the chat guys. 
 
 <br><br>
 
