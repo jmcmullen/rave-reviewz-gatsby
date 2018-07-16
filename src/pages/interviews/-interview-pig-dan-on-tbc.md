@@ -45,7 +45,7 @@ Pig&Dan: It was an honour of course to be asked to represent the very last Space
 
 Pig&Dan: You could say we wish we knew how much we would be ripped off and how hard it is, but that would have dulled our determination. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success - just the stairs, as they say.
 
-This industry involves daily devotion of the highest level and you need to get through it daily to achieve incredibly rewarding results. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. People smiling and dancing together in a positive environment is a priceless experience.
+This industry involves devotion of the highest level and you need to get through it to on a daily basis to achieve incredibly rewarding results. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. People smiling and dancing together in a positive environment is a priceless experience.
 <br><br> 
 
 **RR: And if you had to pick one gig that really stands out in your memories over the years, what would it be?**
