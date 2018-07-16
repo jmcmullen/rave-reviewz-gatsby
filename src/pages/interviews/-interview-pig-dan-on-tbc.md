@@ -13,14 +13,14 @@ _In conversation with the techno heavyweights before their return to the Burdeki
 Pig&Dan: After all these years on the road, one thing we are definitely accustomed to is flying. We now look at it as our studio time during the day, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we have written some of our biggest tracks from 11,000 metres up!
 <br><br>
 
-**RR: Wicked! Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
+**RR: Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
 
-Pig&Dan: Whilst on that fight to Mallorca I was talking to the person beside me about the fact that I was a resident DJ at Ministry of Sound and was touring globally as a Drum&Bass artist at the time. The person behind me (Igor) leant forwards and stated that they were also working in music and was a DJ. When going to the bus to the Terminal from the plane we decided to swap numbers. Because of my situation with my mother’s health and dealing with her passing away at the time, I never thought to call that number. Two years down the line a friend of mine said I should I meet a guy called Pig because he’s also producing music, I of course chuckled and said “OK, sure”. I went over and met this guy, and we got on really well however didn’t realise that we had met two years previously on the plane. When it hit home to us both that we had been on that plane together, we knew this was fate and we have to try working together. When we did there was a very strange yet powerful synergy between us and with his Balearic house and my dnb mix it seemed to gel in a special way.
+Pig&Dan: Whilst on that fight to Mallorca I was talking to the person beside me about the fact that I was a resident DJ at Ministry of Sound and was touring globally as a Drum & Bass artist at the time. The person behind me (Igor) leant forwards and stated that they were also working in music and was a DJ. When going to the bus to the Terminal from the plane we decided to swap numbers. Because of my situation with my mother’s health and dealing with her passing away at the time, I never thought to call that number. Two years down the line a friend of mine said I should I meet a guy called Pig because he’s also producing music - I of course chuckled and said “OK, sure”. I met this guy and we got on really well but didn’t realise that we had met two years previously on the plane. When it hit home to us both that we had been on that plane together, we knew this was fate and we have to try working together. When we did there was a very strange yet powerful synergy between us and his Balearic house and my dnb mix seemed to gel in a special way.
 <br><br>
 
 **RR: You’ve been working together for a while now. How has the dynamic changed over the years? And does it differ in the studio and behind the decks?**
 
-Pig&Dan: We’ve gained the ability to do things alone, but with the knowledge of what the other one would think of it. I honestly know when producing alone what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way - most of the time! Playing mostly our own music means we know where we are going however sometimes one of us plays a track that the other thinks is a change in musical direction. It’s really fun to have this flow when playing together because of our synergy.
+Pig&Dan: We have the ability to work alone, but always have the other's opinions in mind . I honestly know when producing by myself what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way - most of the time! Playing mostly our own music means we know where we are going however sometimes one of us plays a track that the other thinks is a change in musical direction. It’s really fun to have this flow when playing together because of our synergy.
 <br><br>
 
 **RR: Can you describe the highlights and challenges of managing your label ELEVATE over the past 5 years? What do you think has been the key to its success?**
@@ -41,7 +41,7 @@ Pig&Dan: It was an honour of course to be asked to represent the very last Space
 
 ![null](/img/p&d-oz-tour.png)
 
-**RR: Ok, looking back what do you both wish you knew when starting out in the music industry?**
+**RR: We can imagine. Ok, looking back what do you both wish you knew when starting out in the music industry?**
 
 Pig&Dan: You could say we wish we knew how much we would be ripped off and how hard it is, but that would have dulled our determination. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success - just the stairs, as they say.
 
