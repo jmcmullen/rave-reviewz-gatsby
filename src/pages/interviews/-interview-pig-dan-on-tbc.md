@@ -65,4 +65,4 @@ Dan: Chaotic, impulsive, unique
 Pig: Sensitive, raving, professor
 <br><br>
 
-_Catch Pig&Dan at the Burdekin on Saturday. Details [here](https://bit.ly/2KTkXfC). 'Give' is available now on [Beatport]_(https://www.beatport.com/release/give-ep/2315538)_
+_Catch Pig&Dan at the Burdekin on Saturday. Details [here](https://bit.ly/2KTkXfC). 'Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)_
