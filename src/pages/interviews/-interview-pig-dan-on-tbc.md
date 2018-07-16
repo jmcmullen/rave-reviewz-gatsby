@@ -6,7 +6,7 @@ date: 2017-07-01T03:03:27.000Z
 description: Our chat with one of the most respected duos in modern day techno.
 featuredImage: /img/piganddan-main.jpg
 ---
-_In conversation with the techno heavyweights before their return to the Burdekin on Saturday - discussing their fateful bond, collaborations and wisdom._
+_In conversation with the techno heavyweights before Saturday's return to the Burdekin - discussing their fateful bond, collaborations and experiences in the ever-changing industry._
 
 **RR: Welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)**.** Did you cope OK with the long ass flight over to Australia?**
 
@@ -15,7 +15,7 @@ Pig&Dan: After all these years on the road, one thing we are definitely accustom
 
 **RR: Wicked. Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
 
-Pig&Dan: It was on a flight to Mallorca and I was touring globally as a drum 'n' bass artist at the time. I was telling the person behind me that I was a resident DJ at Ministry of Sound when the guy behind me (Igor) leant forwards and stated that he was also a DJ. When heading to the terminal bus, we decided to swap numbers but because of my situation with my mother’s health and dealing with her passing away at the time I never did call him. Two years down the line and a friend of mine tells me I should I meet a guy called Pig because he’s also producing music. I of course chuckled and said “OK, sure". We got on really well, but it didn't immediately register that we had met each other on that plane. When it finally hit home for both us, we knew this was fate and have to work together. His balearic house and my drum 'n' bass mix seemed to gel in a special way and there was a strange yet powerful synergy between us.
+Pig&Dan: It was on a flight to Mallorca when I was touring globally as a drum 'n' bass artist. I was telling a fellow passenger that I was a resident DJ at Ministry of Sound when the person behind me (Igor) leant forward and stated that he was also a DJ. When heading to the terminal bus, we decided to swap numbers but the situation with my mother's health and dealing with her passing away at the time meant I never did call him. Two years down the line and a friend of mine tells me I should I meet a guy called Pig because he’s also producing music. I of course chuckled and said “OK, sure". We got on really well and it didn't register that we had met on that plane. When it finally hit home for both us, we knew this was fate and have to work together. His balearic house and my drum 'n' bass mix seemed to gel in a special way and there was a strange yet powerful synergy between us.
 <br><br>
 
 **RR: You’ve been working together for a while now. How has the dynamic changed over the years? And does it differ in the studio and behind the decks?**
@@ -67,4 +67,4 @@ Pig: Sensitive, raving, professor.
 **RR: Thanks for the chat guys. **
 <br><br>
 
-_Catch Pig&Dan at the Burdekin on Saturday - details [here](https://bit.ly/2KTkXfC). 'Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)_.
+_Catch Pig&Dan at the Burdekin on Saturday - details [here](https://bit.ly/2KTkXfC). 'Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)_
