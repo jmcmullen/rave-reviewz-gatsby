@@ -6,7 +6,7 @@ date: 2018-07-16T03:03:27.761Z
 description: Our chat with one of the most respected duos in modern techno music.
 featuredImage: /img/pig&dan-press.jpg
 ---
-In conversation with the techno heavyweights before their return to the Burdekin on Saturday, discussing the 
+_In conversation with the techno heavyweights before their return to the Burdekin on Saturday - discussing their fateful bond, collaborations and wisdom._
 
 **RR: Welcome back to **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)**! Did you cope ok with the long ass flight over to Australia?**
 
