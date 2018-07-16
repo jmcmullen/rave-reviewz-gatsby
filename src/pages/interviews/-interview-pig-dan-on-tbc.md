@@ -28,7 +28,7 @@ Pig&Dan: We’ve gained the ability to do things alone, but with the knowledge o
 Pig&Dan: This is actually the 6th label we have started together and we pretty much know the dos and don’ts. Also having Scott, our label manager, in charge of running the day-to-day means it all goes incredibly smooth! We take care of the creative side of things and Scott, who also runs Bedrock, Mood and a few other big labels, is the master of making it all happen.
 <br><br>
 
-**RR: Big shout out to Scott. Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeve come about? And what was the concept behind the track?**
+**RR: Big shout out to Scott. Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeve come about? And what was the concept behind the tracks?**
 
 Pig&Dan: Mark and us go way back and have collaborated before on other labels as well as Elevate. The single is all about having a good time, generating those smiley faces and hands in the air moments on the dancefloor. Both tracks are really pumping yet euphoric records that are all about elevating the crowd, hence the label's name.
 
