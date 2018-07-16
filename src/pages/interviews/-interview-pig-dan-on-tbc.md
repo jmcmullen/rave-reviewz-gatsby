@@ -6,7 +6,7 @@ date: 2017-07-01T03:03:27.000Z
 description: Our chat with one of the most respected duos in modern day techno.
 featuredImage: /img/piganddan-main.jpg
 ---
-_In conversation with the techno heavyweights before their return to the Burdekin on Saturday - discussing their fateful bond, collaborations and wisdom._
+_In conversation with the techno heavyweights before Saturday's return to the Burdekin - discussing their fateful bond, collaborations and experiences in the ever-changing industry._
 
 **RR: Welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)**.** Did you cope OK with the long ass flight over to Australia?**
 
