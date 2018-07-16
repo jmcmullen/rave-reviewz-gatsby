@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/piganddan
 title: PIG&DAN on elevating the crowd
-date: 2018-07-16T03:03:27.761Z
+date: 2017-07-01T13:03:27+10:00
 description: Our chat with one of the most respected duos in modern techno music.
 featuredImage: /img/pig&dan-press.jpg
 ---
