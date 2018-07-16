@@ -10,17 +10,17 @@ _In conversation with the techno heavyweights before their return to the Burdeki
 
 **RR: Welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)! Did you cope ok with the long ass flight over to Australia?**
 
-Pig&Dan: After all these years on the road, one thing we are definitely accustomed to is flying. We now look at it as our studio time during the day, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we have written some of our biggest tracks from 11,000 metres up!
+Pig&Dan: After all these years on the road, one thing we are definitely accustomed to is flying. We now look at it as our studio time during the day or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we have written some of our biggest tracks from 11,000 metres up!
 <br><br>
 
 **RR: Wicked. Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
 
-Pig&Dan: Whilst on that fight to Mallorca I was talking to the person beside me about the fact that I was a resident DJ at Ministry of Sound and was touring globally as a Drum&Bass artist at the time. The person behind me (Igor) leant forwards and stated that they were also working in music and was a DJ. When going to the bus to the Terminal from the plane we decided to swap numbers. Because of my situation with my mother’s health and dealing with her passing away at the time, I never thought to call that number. Two years down the line a friend of mine said I should I meet a guy called Pig because he’s also producing music, I of course chuckled and said “OK, sure”. I went over and met this guy, and we got on really well however didn’t realise that we had met two years previously on the plane. When it hit home to us both that we had been on that plane together, we knew this was fate and we have to try working together. When we did there was a very strange yet powerful synergy between us and with his Balearic house and my dnb mix it seemed to gel in a special way.
+Pig&Dan: It was on a flight to Mallorca and I was touring globally as a drum 'n' bass artist at the time. I was telling the person behind me that I was a resident DJ at Ministry of Sound when the guy behind me (Igor) leant forwards and stated that he was also a DJ. When heading to the terminal bus, we decided to swap numbers but because of my situation with my mother’s health and dealing with her passing away at the time, I never thought to call that number. Two years down the line a friend of mine said I should I meet a guy called Pig because he’s also producing music. I of course chuckled and said “OK, sure". We got on really well and it didn't register that we had met two years previously on the plane. When it finally hit home for both us, we knew this was fate and have to work together. His balearic house and my drum 'n' bass mix seemed to gel in a special way and there was a strange yet powerful synergy between us.
 <br><br>
 
 **RR: You’ve been working together for a while now. How has the dynamic changed over the years? And does it differ in the studio and behind the decks?**
 
-Pig&Dan: We’ve gained the ability to do things alone, but with the knowledge of what the other one would think of it. I honestly know when producing alone what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way - most of the time! Playing mostly our own music means we know where we are going however sometimes one of us plays a track that the other thinks is a change in musical direction. It’s really fun to have this flow when playing together because of our synergy.
+Pig&Dan: We’ve gained the ability to do things alone, but with the knowledge of what the other one would think of it. I honestly know when producing alone what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way... most of the time! Playing mostly our own music means we know where we are going however sometimes one of us plays a track that the other thinks is a change in musical direction. It’s really fun to have this flow when playing together because of our synergy.
 <br><br>
 
 **RR: Can you describe the highlights and challenges of managing your label ELEVATE over the past 5 years? What do you think has been the key to its success?**
@@ -28,7 +28,7 @@ Pig&Dan: We’ve gained the ability to do things alone, but with the knowledge o
 Pig&Dan: This is actually the 6th label we have started together and we pretty much know the dos and don’ts. Also having Scott, our label manager, in charge of running the day-to-day means it all goes incredibly smooth! We take care of the creative side of things and Scott, who also runs Bedrock, Mood and a few other big labels, is the master of making it all happen.
 <br><br>
 
-**RR: Big shout out to Scott. Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeves come about? And what was the concept behind the track?**
+**RR: Big shout out to Scott. Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeve come about? And what was the concept behind the tracks?**
 
 Pig&Dan: Mark and us go way back and have collaborated before on other labels as well as Elevate. The single is all about having a good time, generating those smiley faces and hands in the air moments on the dancefloor. Both tracks are really pumping yet euphoric records that are all about elevating the crowd, hence the label's name.
 
@@ -64,7 +64,7 @@ Dan: Chaotic, impulsive, unique
 
 Pig: Sensitive, raving, professor
 
-RR: Love it. Thanks for the chat guys. 
+RR: Thanks for the chat guys. 
 <br><br>
 
 _Catch Pig&Dan at the Burdekin on Saturday - details [here](https://bit.ly/2KTkXfC). 'Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)_
