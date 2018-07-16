@@ -43,7 +43,7 @@ Pig&Dan: It was an honour of course to be asked to represent the very last Space
 
 Pig&Dan: You could say we wish we knew how much we would be ripped off and how hard it is, but that would have dulled our determination. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success - just the stairs, as they say.
 
-This industry involves devotion of the highest level and you need to get through it day for day and the results are incredibly rewarding. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. People smiling and dancing together in a positive environment is a priceless experience.
+This industry involves daily devotion of the highest level and you need to get through it daily to achieve incredibly rewarding results. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. People smiling and dancing together in a positive environment is a priceless experience.
 <br><br> 
 
 **RR: And if you had to pick one gig that really stands out in your memory over the years, what would it be?**
@@ -63,11 +63,7 @@ Dan to Pig: Chaotic, impulsive, unique
 Pig to Dan: Sensitive, raving, professor
 <br><br>
 
-Pig&Dan’s latest EP collab “Give” with Mark Reeve is now available on Beatport
-
-Stream: https://soundcloud.com/elevate-6/sets/pigdan-and-mark-reeve-give-ep
-
-Buy here: https://www.beatport.com/release/give-ep/2315538
+_Catch Pig&Dan at the Burdekin on Saturday. Details _[_here_](https://bit.ly/2KTkXfC)_. '_Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)
 
 https://www.instagram.com/piganddan/
 
