@@ -58,15 +58,9 @@ Pig&Dan: Easily - a DJ set should have some foreplay. If you just bang it out th
 
 **RR: Finally, if we asked you to describe each other in 3 words, what would you say?**
 
-Dan to Pig: Chaotic, impulsive, unique
+Dan: Chaotic, impulsive, unique
 
-Pig to Dan: Sensitive, raving, professor
+Pig: Sensitive, raving, professor
 <br><br>
 
 _Catch Pig&Dan at the Burdekin on Saturday. Details _[_here_](https://bit.ly/2KTkXfC)_. '_Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)
-
-https://www.instagram.com/piganddan/
-
-https://www.facebook.com/piganddan/
-
-https://soundcloud.com/pig-and-dan
