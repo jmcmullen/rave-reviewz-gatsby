@@ -6,7 +6,7 @@ date: 2017-07-01T03:03:27.000Z
 description: Our chat with one of the most respected duos in modern day techno.
 featuredImage: /img/piganddan-main.jpg
 ---
-B_efore the Australian tour, t_h_e techno heavyweights tell us how they kill time on long flights and why music is a sexual experience..._
+Ahead of_ the Australian tour, the techno heavyweights tell us how they kill time on long flights and why music is a sexual experience..._
 
 **RR: Dan, Igor - welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)**.** Did you cope OK with the long ass flight over to Australia?**
 
