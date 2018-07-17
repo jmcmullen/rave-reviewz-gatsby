@@ -13,8 +13,6 @@ Ahead of_ the Australian tour, the techno heavyweights tell us how they kill tim
 Igor: After all these years on the road, one thing we are definitely accustomed to is flying. If it's during the day we use it as our studio time, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we've written some of our biggest tracks from 11,000 metres!
 <br><br>
 
-![](/img/pandd-oz-tour.png)
-
 **RR: Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
 
 Dan: It was on a flight to Mallorca when I was touring globally as a drum 'n' bass artist. I was telling a fellow passenger that I was a resident DJ at Ministry of Sound when the person behind me (Igor) leant forward and stated that he was also a DJ. When heading to the terminal bus, we decided to swap numbers but the situation with my mother's health and dealing with her passing away at the time meant I never did call him. Two years down the line and a friend of mine tells me I should I meet a guy called Pig because he’s also producing music. I of course chuckled and said “OK, sure". We got on really well and it didn't immediately register that we had met on that plane. When it finally hit home for both us, we knew this was fate and have to work together. His balearic house and my drum 'n' bass mix seemed to gel in a special way and there was a strange yet powerful synergy between us.
@@ -39,7 +37,8 @@ Pig&Dan: Mark and us go way back and we have collaborated before on other labels
 **RR: Speaking of collaborations, we want to ask you about the final Space Ibiza compilation CD you did with [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure) & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
 
 Pig&Dan: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. This was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, it was left to us to come up with the goods which was no easy task under all that pressure.
-<br><br>
+
+![](/img/pandd-oz-tour.png)
 
 **RR: We can imagine. Looking back, what do you both wish you knew when starting out in the music industry?**
 
