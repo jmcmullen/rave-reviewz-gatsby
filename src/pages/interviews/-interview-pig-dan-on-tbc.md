@@ -6,7 +6,7 @@ date: 2017-07-01T03:03:27.000Z
 description: Our chat with one of the most respected duos in modern day techno.
 featuredImage: /img/piganddan-main.jpg
 ---
-_In conversation with the techno heavyweights before Saturday's return to the Burdekin - discussing their fateful bond, collaborations and experiences in the ever-changing industry._
+_In conversation with the techno heavyweights before their _
 
 **RR: Welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)**.** Did you cope OK with the long ass flight over to Australia?**
 
@@ -38,8 +38,6 @@ Pig&Dan: Mark and us go way back and we have collaborated before on other labels
 
 Pig&Dan: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. This was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, it was left to us to come up with the goods which was no easy task under all that pressure.
 <br><br>
-
-![null](/img/p&d-oz-tour.png)
 
 **RR: We can imagine. Looking back, what do you both wish you knew when starting out in the music industry?**
 
