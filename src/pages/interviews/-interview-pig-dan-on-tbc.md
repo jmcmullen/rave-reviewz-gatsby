@@ -10,7 +10,7 @@ Ahead of_ the Australian tour, the techno heavyweights tell us how they kill tim
 
 **RR: Dan, Igor - welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)**.** Did you cope OK with the long ass flight over to Australia?**
 
-Pig: After all these years on the road, one thing we are definitely accustomed to is flying. If it's during the day we use it as our studio time, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we've written some of our biggest tracks from 11,000 metres!
+Igor: After all these years on the road, one thing we are definitely accustomed to is flying. If it's during the day we use it as our studio time, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely and we've written some of our biggest tracks from 11,000 metres!
 <br><br>
 
 **RR: Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
@@ -25,10 +25,10 @@ Dan: We have the ability to work separately and still know what the other person
 
 **RR: Can you describe the highlights and challenges of managing your label ELEVATE over the past 5 years? What do you think has been the key to its success?**
 
-Pig&Dan: This is actually the 6th label we have started together and we pretty much know the dos and don’ts. Also having Scott, our label manager, in charge of running the day-to-day means it all goes incredibly smooth. We take care of the creative side of things and Scott, who also runs Bedrock, Mood and a few other big labels, is the master of making it all happen.
+Igor: This is actually the 6th label we have started together and we pretty much know the dos and don’ts. Also having Scott, our label manager, in charge of running the day-to-day means it all goes incredibly smooth. We take care of the creative side of things and Scott, who also runs Bedrock, Mood and a few other big labels, is the master of making it all happen.
 <br><br>
 
-**RR: Big shout out to Scott. Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeve come about? And what was the concept behind the tracks?**
+**RR: Your latest EP 'Give' marks a milestone 100th release on the label. How did the collaboration with Mark Reeve come about? And what was the concept behind the tracks?**
 
 Pig&Dan: Mark and us go way back and we have collaborated before on other labels other than Elevate. The single is all about having a good time, generating those smiley faces and hands in the air moments on the dancefloor. Both tracks are really pumping yet euphoric records that are all about elevating the crowd, hence the label's name.
 
