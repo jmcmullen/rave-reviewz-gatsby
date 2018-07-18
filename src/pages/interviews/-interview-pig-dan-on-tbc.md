@@ -3,24 +3,24 @@ templateKey: interview-post
 path: /interview/piganddan
 title: PIG&DAN on sex & music
 date: 2017-07-01T03:03:27.000Z
-description: Our chat with one of the most respected duos in modern day techno.
+description: Our chat with Pig&Dan - one of the most respected duos in modern day techno.
 featuredImage: /img/piganddan-main.jpg
 ---
-_Ahead of their Australian tour, the techno heavyweights tell us how they kill time on long flights and why music is a sexual experience..._
+_Ahead of the Pig&Dan Australian tour, we caught up with the techno heavyweights to find out how they kill time on long flights and why music is a sexual experience..._
 
-**RR: Dan, Igor - welcome back to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney)**.** Did you cope OK with the long ass flight over to Australia?**
+*RR: We're looking forward to your return to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). Are you ready for the long ass flight over to Australia??*
 
-Igor: After all these years on the road, one thing we are definitely accustomed to is flying. If it's during the day we use it as our studio time, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely... we've written some of our biggest tracks from 11,000 metres!
+Dan: After all these years on the road, one thing we are definitely accustomed to is flying. If it's during the day we use it as our studio time, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely... we've written some of our biggest tracks from 11,000 metres!
 <br><br>
 
-**RR: Now we heard you actually met each other on a plane. Talk us through that encounter and how it set you both on this path.**
+**RR: Now we heard the two of you actually met on a plane. Talk us through that encounter and how it set you both on this path.**
 
 Dan: It was on a flight to Mallorca when I was touring globally as a drum 'n' bass artist. I was telling a fellow passenger that I was a resident DJ at Ministry of Sound when the person behind me (Igor) leant forward and said he was also a DJ. When heading to the terminal bus, we decided to swap numbers but I was dealing with my mother passing away at the time which meant I never did call him. Two years down the line, a friend of mine tells me I should I meet a guy called Pig because he’s also producing music. I chuckled of course and said “OK, sure". We got on really well and it didn't immediately register that we had met on that plane. When it finally hit home for both us, we knew this was fate and we had to work together. His balearic house and my drum 'n' bass mix seemed to gel in a special way and there was a strange, powerful synergy between us.
 <br><br>
 
 **RR: Fate, no doubt. You’ve been working together for a while now, how has the dynamic changed over the years? And does it differ in the studio and behind the decks?**
 
-Dan: We have the ability to work separately and still know what the other person would think. I honestly know when producing alone what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky haha. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way... most of the time! Playing mostly our own music means we know where we are going, but sometimes one of us plays a track that the other thinks is a change in musical direction. It’s really fun to have that flow when playing together.
+Dan: We have the ability to work separately and still know what the other person would think. I honestly know when producing alone what Igor’s thoughts would be. It’s like he’s sitting beside me which is kind of freaky haha. It's a slightly different dynamic behind the decks because we surprise and challenge each other in a very positive way... most of the time anyway! Playing mostly our own music means we know where we are going, but sometimes one of us plays a track that the other thinks is a change in musical direction. It’s really fun to have that flow when playing together.
 <br><br>
 
 **RR: Can you describe the highlights and challenges of managing your label ELEVATE over the past 5 years? What do you think has been the key to its success?**
@@ -36,13 +36,13 @@ Dan: Mark and us go way back and we have collaborated before on labels other tha
 
 **RR: Speaking of collaborations, we want to ask you about the final Space Ibiza compilation CD you did with [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure) & Mark Brown. What was it like working with Carl? And what was the creative process you went through?**
 
-Dan: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. Space was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, they left it to us to come up with the goods which was no easy task under all that pressure.
+Igor: It was an honour of course to be asked to represent the very last Space CD alongside Carl and Mark. Space was a historic club and played a major role in our life as ravers and DJs for so many years. Creatively speaking, they left it to us to come up with the goods which was no easy task under all that pressure.
 
-![null](/img/pandd-oz-tour.png)
+![null](/img/piganddan-gig.jpg)
 
 **RR: We can imagine. Looking back, what do you both wish you knew when starting out in the music industry?**
 
-Dan: You could say we wish we knew how much we would get ripped off and how hard it is, but that would have dulled our determination. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success - just the stairs, as they say.
+Igor: You could say we wish we knew how much we would get ripped off and how hard it is, but that would have dulled our determination. This business is full of sharks, however the positives outweigh the negatives in the end. It’s a long road and you’re never really ready for that. There’s no elevator to success - just the stairs, as they say.
 
 This industry involves devotion of the highest level and you need to get through it on a daily basis to achieve incredibly rewarding results. Giving people time out from their everyday troubles and helping a crowd unite without thoughts of religion or language or origins is the biggest honour of all. People smiling and dancing together in a positive environment is a priceless experience.
 <br><br> 
@@ -54,18 +54,18 @@ Dan: Probably the first time we played at Cocoon at Amnesia, Ibiza. I used to go
 
 **RR: Ha ha don't blame you! Now, in the past, the two of you have compared DJing to a "sexual experience". Can you elaborate on this for us??**
 
-Igor: Easily - a DJ set should have some foreplay. If you just bang it out there’s nowhere to go, it’s just a bang and over. We feel a whole event should be a crescendo where warm up DJs should slowly excite the crowd and so on. It’s a build-up, so people have the energy to orgasm at the correct moments.
+Dan: Easily - a DJ set should have some foreplay. If you just bang it out there’s nowhere to go, it’s just a bang and over. We feel a whole event should be a crescendo where warm up DJs should slowly excite the crowd and so on. It’s a build-up, so people have the energy to orgasm at the correct moments.
 <br><br>
 
-**RR: Steamy! Ha. Finally, if we asked you to describe each other in 3 words, what would you say?**
+**RR: Steamy! Ha. Finally, if we asked you to describe each other in 3 words, what would you both say?**
 
-Dan: I would say chaotic, impulsive, unique.
+Dan: I would say chaotic, impulsive, unique. 
 
-Igor: Sensitive, raving, professor.
+Igor: Sensitive, raving, professor!
 
-**RR: Nice one. Thanks for the chat guys. **
+**RR: Haha! Nice one. Thanks for the chat guys.**
 <br><br>
 
-_Catch Dan performing for Pig&Dan at the Burdekin in Sydney on Saturday - details [here](https://bit.ly/2KTkXfC)_ and the rest of their Australian tour (dates below)_. 'Give' is available now on [Beatport](https://www.beatport.com/release/give-ep/2315538)_.
+_Catch Dan performing for Pig&Dan at the Burdekin in Sydney on Saturday - details [here](https://bit.ly/2KTkXfC) and around Australia (dates below). 'Give' is available on [Beatport](https://www.beatport.com/release/give-ep/2315538) now._
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpiganddan%2Fvideos%2F10156476400049110%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
