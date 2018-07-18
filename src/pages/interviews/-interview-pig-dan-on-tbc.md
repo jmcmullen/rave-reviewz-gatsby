@@ -8,7 +8,7 @@ featuredImage: /img/piganddan-main.jpg
 ---
 _Ahead of the Pig&Dan Australian tour, we caught up with the techno heavyweights to find out how they kill time on long flights and why music is a sexual experience..._
 
-*RR: We're looking forward to your return to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). Are you ready for the long ass flight over to Australia??*
+**RR: We're looking forward to your return to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). Are you ready for the long ass flight over to Australia??*
 
 Dan: After all these years on the road, one thing we are definitely accustomed to is flying. If it's during the day we use it as our studio time, or time to rest when we have a night flight. When you spend more than 1,000 hours in the air every year, you really learn how to use that time wisely... we've written some of our biggest tracks from 11,000 metres!
 <br><br>
