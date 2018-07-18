@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/piganddan
 title: PIG&DAN on sex & music
-date: 2017-07-18T13:03:27+10:00
+date: 2018-07-18T13:03:27+10:00
 description: Our chat with Pig&Dan - one of the most respected duos in modern day techno.
 featuredImage: /img/piganddan-main.jpg
 ---
