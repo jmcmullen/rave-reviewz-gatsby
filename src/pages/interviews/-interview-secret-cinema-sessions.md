@@ -33,7 +33,8 @@ Secret Cinema: Thank you! Yes, it was part of the Silver box release but it was 
 **RR: Ha! We loved your release with Egbert from last year, ‘I can feel it rising’. The two of you play and produce together often, can you tell us about the development of the track and how you work together creatively?**
 
 Secret Cinema: Usually Egbert has a track which he thinks we should work on together. He then sends over the stems to me and I create new layers on top and send it back to him and so forth. We can't really sit together in the studio for some weird reason, but like this we work very well. When I produce with Reinier we are in the studio together and that goes easy - strange how that works! With Egbert I can play on stage and have that magical connection there - we completely understand our flow then.
-<br><br>
+
+<iframe src="https://embed.beatport.com/?id=10014591&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 **RR:** **Your Gem Sessions club nights are famous for being improvised and having multiple DJs playing back to back all night. Where did the idea come from? **
 
