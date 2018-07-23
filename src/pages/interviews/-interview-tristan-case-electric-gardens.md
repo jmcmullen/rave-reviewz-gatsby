@@ -51,5 +51,3 @@ _He’s one of the busiest DJs on Sydney’s underground circuit, but we managed
 **Tristan:** Plenty more of the same I hope. I’ve been so graced with opportunity over the years and in 2018 I’m hoping to take it to the next level. I will be back on the radio after the summer season calms down a bit - Hodgie and the team at the station are going to phenomenal lengths to provide high quality programming and content. I’ve been chatting about my grand return, which will happen soon.
 
 **RR:** Looking forward to it mate, thanks for the chat!
-
-_Don’t miss Tristan on Return to Rio’s ‘The Hangout’ stage from 12pm-1.30pm @ Electric Gardens Festival!_
