@@ -8,7 +8,7 @@ description: >-
   groove master Andy Donaldson.
 featuredImage: /img/andy-donaldson.jpeg
 ---
-_Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.facebook.com/RotarydiscoSydney/) have the disco/house sound locked down. We dropped in on co-founder Andy Donaldson for a chat..._
+_Garnering praise for their intimate groove sessions, _Rotarydisco_ have the disco/house sound locked down. We dropped in on co-founder Andy Donaldson for a chat..._
 
 **RR:** **Andy - let’s talk about your upcoming NYD extravaganza. Rotary disco have teamed up with **[**Return to Rio**](https://magazine.ravereviewz.net/interviews/interview/ricky-cooper/)** and Blueprint to bring us a massive lineup. How did it all come together? **
 
