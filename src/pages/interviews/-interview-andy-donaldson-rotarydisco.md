@@ -17,7 +17,7 @@ Andy: [Ricky Cooper](https://magazine.ravereviewz.net/interviews/interview/ricky
 
 **RR:** **Each of the brands is hosting an area. What do you think the differences will be in the vibe and music between the 3? **
 
-**Andy:** All 3 brands are a bit different musically.  Rotarydisco is obviously more focused on disco, indie dance/nu-disco and house, Rio is more dreamy progressive and deep house,  Blueprint leans a bit more tech/deep house... though it's a blurry boundary!  The vibe on all 3 levels will be “up for it party”, full of lovely friendly people from all over the world and all walks of life.
+Andy: All 3 brands are a bit different musically.  Rotarydisco is obviously more focused on disco, indie dance/nu-disco and house, Rio is more dreamy progressive and deep house,  Blueprint leans a bit more tech/deep house... though it's a blurry boundary!  The vibe on all 3 levels will be “up for it party”, full of lovely friendly people from all over the world and all walks of life.
 <br><br>
 
 **RR:** **Since it’s conception in 2015, Rotarydisco has gone from strength to strength. Which of your parties stands out for you the most?** 
