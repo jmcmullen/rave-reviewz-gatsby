@@ -46,7 +46,7 @@ _Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.
 
 **Andy:** You found that did you?  Haha!  That was myself and my lovely friend and Rotarydisco co-founder Tony Garcia having a tinker around in the studio.  Hence the name - Garcia Donaldson - Gar/Don - Garden.  Hopefully I'll get more pieces of music finished soon.  I have the world's largest collection of half finished tracks.  Somewhere in the region of 50 billion... but with 2 kids and busy working life I find it hard to get quality studio time locked in.  I do have a pretty nice collection of synths and analogue bits and bobs though.
 
-**RR:** Finally, what’s your new year’s resolution gonna be??
+**RR:** **Finally, what’s your new year’s resolution gonna be??**
 
 **Andy:** Spend more time in the studio!
 
