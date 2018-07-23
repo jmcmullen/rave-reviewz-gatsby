@@ -10,15 +10,15 @@ featuredImage: /img/andy-donaldson.jpeg
 ---
 _Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.facebook.com/RotarydiscoSydney/) have the disco/house sound locked down. We dropped in on co-founder Andy Donaldson for a chat..._
 
-**RR:** Andy - let’s talk about your upcoming NYD extravaganza. Rotary disco have teamed up with [Return to Rio](https://magazine.ravereviewz.net/interviews/interview/ricky-cooper/) and Blueprint to bring us a massive lineup. How did it all come together? 
+**RR:** **Andy - let’s talk about your upcoming NYD extravaganza. Rotary disco have teamed up with **[**Return to Rio**](https://magazine.ravereviewz.net/interviews/interview/ricky-cooper/)** and Blueprint to bring us a massive lineup. How did it all come together? **
 
 **Andy:** Ricky Cooper from Return to Rio and I are good friends.  We were at a birthday lunch a couple of months back and I was chatting to him about some of the Rotarydisco plans that we were cooking up for a new year’s day party.  He liked the idea, and in particular he loved the venue, so he came on-board and it become a joint venture.  He then suggested [Ben Nott](https://magazine.ravereviewz.net/interview/ben-nott-blueprint) from Blueprint... and bingo!  The 3 crews came together.  The nice thing about the dance music scene here in Sydney is it's very much a big extended community. 
 
-**RR:** Each of the brands is hosting an area. What do you think the differences will be in the vibe and music between the 3? 
+**RR:** **Each of the brands is hosting an area. What do you think the differences will be in the vibe and music between the 3? **
 
 **Andy:** All 3 brands are a bit different musically.  Rotarydisco is obviously more focused on disco, indie dance/nu-disco and house, Rio is more dreamy progressive and deep house,  Blueprint leans a bit more tech/deep house... though it's a blurry boundary!  The vibe on all 3 levels will be “up for it party”, full of lovely friendly people from all over the world and all walks of life.
 
-**RR:** Since it’s conception in 2015, Rotarydisco has gone from strength to strength. Which of your parties stands out for you the most? 
+**RR:** **Since it’s conception in 2015, Rotarydisco has gone from strength to strength. Which of your parties stands out for you the most?** 
 
 **Andy:** Crikey!  That's a hard one.  Two spring to mind, both of them this year.  Back in January we did a double header with Ron Basejam and Dr Packer at The Port in Darling Harbour - that was awesome, and in September Eli Escobar headlined for us on the roof terrace of Cruise Bar.  Eli had been on our hit list for a long time, so finally getting him locked in was really exciting.  There was a golden moment at that party when he was playing fairly up tempo house and I managed to knock the power out - killed the whole sound system!  We got it back on in a few mins and he used it as an opportunity to change the groove and dropped into Chaka Khan - Ain't Nobody.  The place erupted!  I get shivers down my spine just thinking about it.
 
