@@ -8,19 +8,19 @@ description: >-
   on!
 featuredImage: /img/secret-cinema.jpg
 ---
-_As he prepares to take to the decks at The Junction tonight, we had a chat with Jeroen AKA [Secret Cinema](https://www.facebook.com/secretcinema.gem/) about Dutch nightlife, computer games and his 25+ years in the business..._
+_As he prepares to take to the decks at The Junction tonight, we had a chat with Jeroen AKA _Secret Cinema_ about Dutch nightlife, computer games and his 25+ years in the business..._
 
 **RR:** Jeroen - great to chat! We’re looking forward to seeing you play. You’ve played in Australia quite a few times - how were those experiences? 
 
-**Secret Cinema:** Hey there! Yes, I was lucky enough to be here and enjoy the country. I played [Rainbow Serpent](https://www.facebook.com/rainbowHQ/) a few times as well as the Eclipse in 2012. Both are outdoors and to me, two of the best parties in Australia. Clubbing here is great and I love it, but there is something special about those outdoor events… we just don't have that kind of nature in The Netherlands. 
+**Secret Cinema:** Hey there! Yes, I was lucky enough to be here and enjoy the country. I played Rainbow Serpent a few times as well as the Eclipse in 2012. Both are outdoors and to me, two of the best parties in Australia. Clubbing here is great and I love it, but there is something special about those outdoor events… we just don't have that kind of nature in The Netherlands. 
 
 **RR:** OK - we’ve got to ask... how did you settle on the name, Secret Cinema?
 
 **Secret Cinema:** Whenever I heard good music on the dance floor or wherever, it made me see images that only I could see. It gave me pictures in my mind, so I thought - “that’s my Secret Cinema”. So, when I play I hope people reach that same state and experience their secret cinema with me.
 
-**RR:** Very cool. Your label [Gem Records](https://www.facebook.com/gemrecords/) has been going strong for almost a decade now. What have been the highlights and challenges with it over that time? 
+**RR:** Very cool. Your label Gem Records has been going strong for almost a decade now. What have been the highlights and challenges with it over that time? 
 
-**Secret Cinema:** The challenge is most certainly to release timeless music. I want it to be special, to last longer than a week in the charts and then be forgotten. But with all the ‘fast food’ going on it’s not that easy. The highlight was probably releasing my Silver compilation to celebrate 25 years in the business. I released a box with all my tracks on USB and CD, videos on DVD and vinyls with new remixes of my old tracks from the likes of Pig&Dan, [Enrico Sangiuliano,](https://www.facebook.com/enricosangiuliano/) [Joris Voorn](https://www.facebook.com/jorisvoorndj/) and [Christian Smith](https://www.facebook.com/officialchristiansmith/). A new Secret Cinema logo was designed and all sorts of cool collectables were added… it was so cool to be able to do that on my own label.
+**Secret Cinema:** The challenge is most certainly to release timeless music. I want it to be special, to last longer than a week in the charts and then be forgotten. But with all the ‘fast food’ going on it’s not that easy. The highlight was probably releasing my Silver compilation to celebrate 25 years in the business. I released a box with all my tracks on USB and CD, videos on DVD and vinyls with new remixes of my old tracks from the likes of [Pig&Dan](https://magazine.ravereviewz.net/interview/piganddan), Enrico Sangiuliano, Joris Voorn and Christian Smith. A new Secret Cinema logo was designed and all sorts of cool collectables were added… it was so cool to be able to do that on my own label.
 
 **RR:** And congrats on the 25th anniversary of your classic track ‘Timeless Altitude’ last year. We wondered if you chose its name because you had a feeling it would stand the test of time? 
 
