@@ -12,7 +12,7 @@ _Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.
 
 **RR:** Andy - let’s talk about your upcoming NYD extravaganza. Rotary disco have teamed up with [Return to Rio](https://www.facebook.com/ReturnToRio/) and [Blueprint](https://www.facebook.com/blueprintentsydney) to bring us a massive lineup. How did it all come together? 
 
-**Andy:** Ricky Cooper from Return to Rio and I are good friends.  We were at a birthday lunch a couple of months back and I was chatting to him about some of the Rotarydisco plans that we were cooking up for a new year’s day party.  He liked the idea, and in particular he loved the venue, so he came on-board and it become a joint venture.  He then suggested [Ben Nott](https://magazine.ravereviewz.net/interview/ben-nott-blueprint) from [Blueprint](https://www.facebook.com/blueprintentsydney)... and bingo!  The 3 crews came together.  The nice thing about the dance music scene here in Sydney is it's very much a big extended community. 
+**Andy:** Ricky Cooper from Return to Rio and I are good friends.  We were at a birthday lunch a couple of months back and I was chatting to him about some of the Rotarydisco plans that we were cooking up for a new year’s day party.  He liked the idea, and in particular he loved the venue, so he came on-board and it become a joint venture.  He then suggested [Ben Nott](https://magazine.ravereviewz.net/interview/ben-nott-blueprint) from Blueprint... and bingo!  The 3 crews came together.  The nice thing about the dance music scene here in Sydney is it's very much a big extended community. 
 
 **RR:** Each of the brands is hosting an area. What do you think the differences will be in the vibe and music between the 3? 
 
@@ -20,7 +20,7 @@ _Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.
 
 **RR:** Since it’s conception in 2015, Rotarydisco has gone from strength to strength. Which of your parties stands out for you the most? 
 
-**Andy:** Crikey!  That's a hard one.  Two spring to mind, both of them this year.  Back in January we did a double header with [Ron Basejam](https://www.facebook.com/RonBasejam/) and [Dr Packer](https://www.facebook.com/drpackeredits/) at The Port in Darling Harbour - that was awesome, and in September [Eli Escobar](https://www.facebook.com/DJEliEscobar/) headlined for us on the roof terrace of Cruise Bar.  Eli had been on our hit list for a long time, so finally getting him locked in was really exciting.  There was a golden moment at that party when he was playing fairly up tempo house and I managed to knock the power out - killed the whole sound system!  We got it back on in a few mins and he used it as an opportunity to change the groove and dropped into Chaka Khan - Ain't Nobody.  The place erupted!  I get shivers down my spine just thinking about it.
+**Andy:** Crikey!  That's a hard one.  Two spring to mind, both of them this year.  Back in January we did a double header with Ron Basejam and Dr Packer at The Port in Darling Harbour - that was awesome, and in September Eli Escobar headlined for us on the roof terrace of Cruise Bar.  Eli had been on our hit list for a long time, so finally getting him locked in was really exciting.  There was a golden moment at that party when he was playing fairly up tempo house and I managed to knock the power out - killed the whole sound system!  We got it back on in a few mins and he used it as an opportunity to change the groove and dropped into Chaka Khan - Ain't Nobody.  The place erupted!  I get shivers down my spine just thinking about it.
 
 **RR:** Sounds epic! And if you could have any DJ play a Rotarydisco event, who would it be?  
 
@@ -32,11 +32,11 @@ _Garnering praise for their intimate groove sessions, [Rotarydisco](https://www.
 
 **RR:** We’ve heard you’ve got a mighty record collection. Which would you pick as your favourite? 
 
-**Andy:** Impossible to answer!  But I will say this... I LOVE [Stevie Wonder](https://www.facebook.com/StevieWonder/), and his album Fulfillingness' First Finale had a massive impact on me when I first heard it.  I was about 8 years old and listening to it was like a musical epiphany.  It changed my life.    
+**Andy:** Impossible to answer!  But I will say this... I LOVE Stevie Wonder, and his album Fulfillingness' First Finale had a massive impact on me when I first heard it.  I was about 8 years old and listening to it was like a musical epiphany.  It changed my life.    
 
 **RR:** Can you tell us about your time with [Pulse Radio](https://www.facebook.com/PulseGlobal/) and how you got involved? 
 
-**Andy:** In my other life I work in business and technology.  I joined Pulse to work on the ticket product primarily, helping them to work with their software developers and refine and extend their ticketing platform.  I left earlier this year as I had a few other opportunities I wanted to explore. It was an awesome place to work though.  Wade and Simon that run Pulse are top fellas and the whole Pulse/[Finely Tuned](https://www.facebook.com/FinelyTunedAU/)/[Lost Paradise](https://www.facebook.com/LostParadiseAU/) team are lovely.  I miss them!
+**Andy:** In my other life I work in business and technology.  I joined Pulse to work on the ticket product primarily, helping them to work with their software developers and refine and extend their ticketing platform.  I left earlier this year as I had a few other opportunities I wanted to explore. It was an awesome place to work though.  Wade and Simon that run Pulse are top fellas and the whole Pulse/Finely Tuned/Lost Paradise team are lovely.  I miss them!
 
 **RR:** Ok, now of all the sets you’ve played, which one has been your favourite? 
 
