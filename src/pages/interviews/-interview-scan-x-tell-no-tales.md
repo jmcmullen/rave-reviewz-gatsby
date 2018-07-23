@@ -22,17 +22,17 @@ Scan X: Hi! Thank you, I’m really excited to be back in Australia! Well, you c
 Scan X: Well, I’ve been working with him for nearly 25 years! I’ve released most of my records on his label F communications, plus I’ve been his sound engineer for 15 years and I’ve been on tour with him for nearly 250 gigs - live and DJ. So you can imagine this combination works very well!
 <br><br>
 
-**RR:* Sure does. Any plans to work together again?**
+**RR: Sure does. Any plans to work together again?**
 
 **Scan X:** Nothing planned yet, but we often discuss the future and I’m pretty sure that we’ll be back soon with new projects together...
 <br><br>
 
-**RR:* Hope so! So how would you describe your sound?**
+**RR: Hope so! So how would you describe your sound?**
 
 **Scan X:** I would describe my sound to be powerful and energetic and something really mental! It takes you on a trip.
 <br><br>
 
-**RR:* At the end of last year you released your EP ‘Alien Symphony’, what was the concept behind that**?
+**RR: At the end of last year you released your EP ‘Alien Symphony’, what was the concept behind that**?
 
 **Scan X:** The concept of the main track was to do something not necessarily focused on the dancefloor and to invite many remixers to bring it to the floor.
 <br><br>
