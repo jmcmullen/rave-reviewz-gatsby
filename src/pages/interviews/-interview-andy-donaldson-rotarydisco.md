@@ -10,7 +10,7 @@ featuredImage: /img/andy-donaldson.jpeg
 ---
 _Garnering praise for their intimate groove sessions, _Rotarydisco_ have the disco/house sound locked down. We dropped in on co-founder Andy Donaldson for a chat..._
 
-**RR:** **Andy - let’s talk about your upcoming NYD extravaganza. Rotary disco have teamed up with **[**Return to Rio**](https://magazine.ravereviewz.net/interviews/interview/ricky-cooper)** and Blueprint to bring us a massive lineup. How did it all come together? **
+**RR:** **Andy - let’s talk about your upcoming NYD extravaganza. Rotary disco have teamed up with Return to Rio and Blueprint to bring us a massive lineup. How did it all come together? **
 
 **Andy:** Ricky Cooper from Return to Rio and I are good friends.  We were at a birthday lunch a couple of months back and I was chatting to him about some of the Rotarydisco plans that we were cooking up for a new year’s day party.  He liked the idea, and in particular he loved the venue, so he came on-board and it become a joint venture.  He then suggested [Ben Nott](https://magazine.ravereviewz.net/interview/ben-nott-blueprint) from Blueprint... and bingo!  The 3 crews came together.  The nice thing about the dance music scene here in Sydney is it's very much a big extended community. 
 
