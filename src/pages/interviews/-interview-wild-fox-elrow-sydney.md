@@ -11,17 +11,17 @@ featuredImage: /img/wild-fox.jpg
 _After a spell-binding set at Elrow last weekend, we caught up with Jessie Wallace aka [Wild Fox](https://www.facebook.com/wildfoxdj/) to discuss her music and the direction her [Compass](https://www.facebook.com/compasseventssydney/) is pointing her in..._
 <br><br>
 
-RR: Thanks for chatting with us Wild Fox. Congratulations on your performance at [Elrow](https://www.facebook.com/elrowofficial/)! How was the experience of playing at such an awesome party?
+**RR**: **Thanks for chatting with us Wild Fox. Congratulations on your performance at **[**Elrow**](https://www.facebook.com/elrowofficial/)**! How was the experience of playing at such an awesome party?**
 
 **Wild Fox:** Leading up to Elrow I found planning my track selection was tricky. Learning to stay true to myself as my sound is generally deeper, whilst playing to the tech house music policy was the biggest learning curve I've experienced as an artist. Then getting up there, taking risks with my tracks and messing around with my breakdowns to take people on a trippy journey whilst they entered the room... it made me realise that this is all I want to do with the rest of my life. This music lifestyle is 110% worth all the pain, sweat & tears.
 <br><br>
 
-**RR:** You cover such a wide range of genres within your music, how would you describe your sound?
+**RR:** **You cover such a wide range of genres within your music, how would you describe your sound?**
 
 Wild Fox: I believe it's important to educate people with your sound - keep them guessing as to what’s coming next, take them on a journey and build the set. My sound is a combination of deep, dark, progressive, techno. There are so many chin-stroking genre titles out there it's hard to put a title on it haha!
 <br><br>
 
-**RR:** What was the inspiration behind your name “Wild Fox”?
+**RR:** **What was the inspiration behind your name “Wild Fox”?**
 
 Wild Fox: As a young girl I always loved foxes, they are cheeky little characters with a crazy laugh, same as myself. The wild part comes from my inner self as I run at 110 miles per hour in all aspects of life - from a business perspective, I can party like a wild animal, and when it comes to my goals I'll never back down from the hunt like a hungry Fox. It's the balance of the two.
 <br><br>
