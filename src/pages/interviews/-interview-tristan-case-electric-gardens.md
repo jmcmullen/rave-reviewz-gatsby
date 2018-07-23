@@ -32,21 +32,21 @@ _He’s one of the busiest DJs on Sydney’s underground circuit, but we managed
 
 **RR: You've played a tonne of big nights and festivals. What would you say your most memorable set has been?**
 
-**Tristan:** Another tough one haha! Lost Paradise was special and my last set at [Return to Rio](https://www.facebook.com/ReturnToRio/) was amazing, so electrifying! Saying that, warming up for Carl Cox for [T1000](https://www.facebook.com/T1000events/?ref=br_rs) a few years back will be hard to beat. Buuut - if I have to choose - warming up for [Jackmaster](https://www.facebook.com/djjackmaster/) at The [Greenwood](https://www.facebook.com/GreenwoodHotel/) last year and playing back-to-back with Ricky Cooper for [Days Like This](https://www.facebook.com/dayslikethissydney/) were the most fun I’ve had! 
+**Tristan:** Another tough one haha! Lost Paradise was special and my last set at [Return to Rio](https://www.facebook.com/ReturnToRio/) was amazing, so electrifying! Saying that, warming up for [Carl Cox](https://magazine.ravereviewz.net/interview/carl-cox-pure) for T1000 a few years back will be hard to beat. Buuut - if I have to choose - warming up for Jackmaster at The Greenwood last year and playing back-to-back with Ricky Cooper for Days Like This were the most fun I’ve had! 
 
-**RR:** Ok, if you could pick any DJ to share the 1s and 2s with, who would it be?
+**RR: Ok, if you could pick any DJ to share the 1s and 2s with, who would it be?**
 
 **Tristan:** Carl Cox - he is just a pure entertainer and full of energy.
 
-**RR:** Last year, you launched a concept called [ANDfriends](https://www.facebook.com/tristancaseandfriends/). Can you tell us the idea behind it?
+**RR: Last year, you launched a concept called ANDfriends. Can you tell us the idea behind it?**
 
 **Tristan:** The idea behind it was to create a gateway for new talent and the unsung artists who struggled to get gigs on the main scene. Stuart Hunter of Motif for example was someone with raw talent that the Sydney scene hadn’t had the chance to see in action and they really needed to, and look at him now - one of the finest up and coming talents in Australia. When I started out, I was fortunate enough to have the backing of Wade Cawood of Finely Tuned and [Paul Strange](https://www.facebook.com/paulstrangepresents/?ref=br_rs), so it was my way of giving a little bit back to the industry that has been so kind to me over the years.  
 
-**RR:** You've released a couple of banging remixes on Ibiza label, Chronovision. Can we expect any more tunes from you soon?
+**RR: You've released a couple of banging remixes on Ibiza label, Chronovision. Can we expect any more tunes from you soon?**
 
 **Tristan:** Yep! I’ve just upgraded my home studio recently, with some serious encouragement from my amazing girlfriend. I’ve got 10-15 tracks at 75% completion, so I’m locking myself away soon to get my original tracks out. I’m pretty excited about it and can’t wait to show everyone what really goes on in my head musically haha. Along with my own project I’m also working with my best mate Tom Barlow who is unbelievably talented. He’s had tracks signed to Renaissance, UFO records and Trojan in the past. Exciting times ahead!
 
-**RR:** Sounds great! Finally, what else can we expect from you in the future? Will the Tristan Case show be making its triumphant return to [Bondi Radio](https://www.facebook.com/BondiBeachRadio/)?
+**RR: Sounds great! Finally, what else can we expect from you in the future? Will the Tristan Case show be making its triumphant return to Bondi Radio?**
 
 **Tristan:** Plenty more of the same I hope. I’ve been so graced with opportunity over the years and in 2018 I’m hoping to take it to the next level. I will be back on the radio after the summer season calms down a bit - Hodgie and the team at the station are going to phenomenal lengths to provide high quality programming and content. I’ve been chatting about my grand return, which will happen soon.
 
