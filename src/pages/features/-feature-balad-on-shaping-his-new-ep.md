@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature/balad-EP
 title: How I produced and signed my EP
-date: 2017-07-01T06:00:20.000Z
+date: 2017-07-01T14:45:20+10:00
 description: >-
   Sydney-based producer Balad shares how he conceived and signed his latest
   release.
