@@ -28,7 +28,7 @@ Wild Fox: As a young girl I always loved foxes, they are cheeky little character
 
 **RR:** **You had a pretty hectic New Year’s Eve, playing 5 different venues over 48hrs! How was that? Did you change your style at all for each venue?**
 
-Wild Fox: Yeah I did a private party in Manly, Secret Island party Manly, Ivy Pool, Space Ibiza and [WeLove](https://www.facebook.com/welovesydneyunderground/) at the Bridge Hotel. All the sets were totally different - as an artist, you need to consider who's attending, what we are celebrating, set times... no two events are the same. I always want my sets to be totally different... as someone who looked up to the locals for so long, I know who always made the effort to be different and showed their dedication to the study. Those artists are the ones who shaped who I am today - now it's time to pay it forward.
+Wild Fox: Yeah I did a private party in Manly, Secret Island party Manly, Ivy Pool, Space Ibiza and WeLove at the Bridge Hotel. All the sets were totally different - as an artist, you need to consider who's attending, what we are celebrating, set times... no two events are the same. I always want my sets to be totally different... as someone who looked up to the locals for so long, I know who always made the effort to be different and showed their dedication to the study. Those artists are the ones who shaped who I am today - now it's time to pay it forward.
 <br><br>
 
 **RR:** **You’ve been playing in Sydney for a while now, how do you think the house and techno scene has developed?**
