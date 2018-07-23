@@ -8,7 +8,7 @@ description: >-
   on!
 featuredImage: /img/secret-cinema.jpg
 ---
-_As he prepares to take to the decks at The Junction tonight, we had a chat with Jeroen AKA _Secret Cinema_ about Dutch nightlife, computer games and his 25+ years in the business..._
+_As he prepares to take to the decks at The Junction tonight, we had a chat with Jeroen AKA _Secret Cinema_ about Dutch nightlife, computer games and his 25+ years in the business...
 
 **RR:** **Jeroen - great to chat! We’re looking forward to seeing you play. You’ve played in Australia quite a few times - how were those experiences?** 
 
