@@ -18,7 +18,7 @@ Shepz: Well the party was born out of my experiences in London, where I used to 
 
 **RR: …and The Techno Bug moniker grew out of that?**
 
-Shepz: The Techno Bug was actually a name for parties that I used to run in London at [Corsica Studios](https://www.facebook.com/CorsicaStudiosLondon/) and 54 Commercial Street in the years before coming to Sydney. When we brought the Church of Techno brand in to the nightlife scene, it felt right to use another name to differentiate it from the Sunday day parties. It also allowed us to use really cool branding concepts, like mechanical bugs and bugged out graphics.
+Shepz: The Techno Bug was actually a name for parties that I used to run in London at Corsica Studios and 54 Commercial Street in the years before coming to Sydney. When we brought the Church of Techno brand in to the nightlife scene, it felt right to use another name to differentiate it from the Sunday day parties. It also allowed us to use really cool branding concepts, like mechanical bugs and bugged out graphics.
 <br><br>
 
 **RR: So how do you think the techno scene has progressed in Sydney 
@@ -32,7 +32,6 @@ Shepz: Now there's a loaded question haha! We've seen parties and brands come an
 Shepz: Max Cooper is also one of my favourites. I'll never forget it, it was an honour to have Max play for us. Boris Brejcha was also pretty intense, the party was off chains! I'll always fondly remember the day parties we used to run on Sundays though - they were loose as hell, and damn good fun.
 <br><br>
 
-
 **RR: Bass to Pain Converter is headlining your event this weekend - he’s been bringing the pain in Berlin and Australia for a while. What do you think we can expect from him?**
 
 Shepz: I think you can expect a lot of bass to be converted to pain, at 100% efficiency. He plays quite aggressively, just what you need to peak into your night. If the set at Dragon Dreaming Festival is anything to go by, you're in for a real treat!
@@ -42,7 +41,6 @@ Shepz: I think you can expect a lot of bass to be converted to pain, at 100% eff
 
 Shepz: My sound would probably piss off the techno purists. I tend to go between darker minimal techno, techno and darker tech house sounds with a dabble of prog psy chucked in for good measure. Maybe I'd call it Bush Techno. I've got a more aggressive style of playing which works for me - I thrive on it and enjoy it.
 <br><br>
-
 
 **RR: You’ve played some massive venues in London as well as a load of gigs in Australia. What would you say is your most memorable set?**
 
