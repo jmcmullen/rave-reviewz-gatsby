@@ -36,28 +36,29 @@ Secret Cinema: Usually Egbert has a track which he thinks we should work on toge
 
 <iframe src="https://embed.beatport.com/?id=10014591&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-**RR:** **Your Gem Sessions club nights are famous for being improvised and having multiple DJs playing back to back all night. Where did the idea come from? **
+**RR: Your Gem Sessions club nights are famous for being improvised and having multiple DJs playing back to back all night. Where did the idea come from? **
 
 Secret Cinema: It started as a live session and most of the time, it still is. I used to only play live every week, so just my own tracks, no DJing. I came up with the idea to invite other live-acts to come play with me without practicing… you know, a jam session. When it works it can be so magical, so I called it Gem Sessions – as in gems of sessions. When I started the label, me and the team thought of bringing back this idea and make them all-night sessions as well. The first all-nighter was with Egbert and we didn't practice, we just gemmed away! We’ve done it every year since and have started doing them outside of the original venue as well, which is Melkweg Amsterdam.
 <br><br>
 
-**RR:** **Now the Netherlands has a very healthy underground music scene with some of the best clubs in the world - why do you think that is? **
+**RR: Now the Netherlands has a very healthy underground music scene with some of the best clubs in the world - why do you think that is? **
 
 Secret Cinema: We always had a great feeling for art in our society. In the past, we had the Dutch masters of painting and I think it's in our blood to support that. The Dutch also have one of the lowest amounts of daily working hours in Europe, whilst having one of the highest productivity levels… which means we have more free time to spend enjoying music. We have over 800 festivals with 2000+ visitors each year, and the weather isn’t even that good haha! We started doing parties professionally quite early on and therefore became better and better at it, considering all the stiff competition.
 
 What also helps is that festivals and the government are easy on drugs. There is drug testing at parties and we therefore have a healthy way of dealing with it. From the laid-back and pragmatic perspective that people are not going to parties just for drugs and that it’s an important culture that should not be closed down, the music became huge in our society.
 <br><br>
 
-**RR:** **Of all the sets you’ve played is there one that really stands out in your memory?** 
+**RR: Of all the sets you’ve played is there one that really stands out in your memory?** 
 
 Secret Cinema: I once played a live set at Womb in Tokyo where everyone got into that state of secret cinema I was talking about. I played many tracks which no one knew yet because it was live. At exactly the right moment, the lighting guys did what was best - the CO2 cannons were full on and the crowd was screaming like they knew exactly what I meant. Underground in perfect harmony... it made me cry during the set.
 <br><br>
 
-**RR:** **Sounds awesome. What's next for you? Any projects in the pipeline?**
+**RR: Sounds awesome. What's next for you? Any projects in the pipeline?**
 
 Secret Cinema: I'm in the middle of touring Aussie and after Sydney I'll stop in Launceston and and Melbourne followed by Japan and Singapore. Then it's back to the Netherlands to kick off the festival season with Loveland Kingsday and Music On Festival. I have a release out now on Gem Records by SQL with a Frits Wentink remix, which is more housey than what we usually do. But I love how Frits took the bassline from the original which bounces all over the groove and made his own version of it. Coming up soon on Gem is an EP by Ferdinand Dreyssig who sent us a very exciting demo and will be a new name on the label. I have quite a few unreleased tracks ready and am planning releases now, more on that soon!
 <br><br>
 
-**RR:** **Last question - we heard that if you hadn’t become a DJ, you would’ve been a computer game programmer. What is your favourite computer game?**
+**RR: Last question - we heard that if you hadn’t become a DJ, you would’ve been a computer game programmer. What is your favourite computer game?**
 
 Secret Cinema: Choosing a favourite game is tough. I like so many... I recently enjoyed Horizon Zero Dawn and Nier: Automata was a masterpiece. The first Metal Gear Solid blew me away and Bayonetta comes close to being the perfect game. I have the remaster on PC and I just love it! But my all time favourite has to be Final Fantasy VII. Just that moment in time, going for over 100 hours of play-time and getting that Golden Chocobo for a 100% score... what can I say. I’m looking forward to visiting game paradise Japan next week already!
+<br><br>
