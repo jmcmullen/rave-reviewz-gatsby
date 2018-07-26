@@ -21,7 +21,8 @@ Shepz: Well the party was born out of my experiences in London, where I used to 
 Shepz: The Techno Bug was actually a name for parties that I used to run in London at [Corsica Studios](https://www.facebook.com/CorsicaStudiosLondon/) and 54 Commercial Street in the years before coming to Sydney. When we brought the Church of Techno brand in to the nightlife scene, it felt right to use another name to differentiate it from the Sunday day parties. It also allowed us to use really cool branding concepts, like mechanical bugs and bugged out graphics.
 <br><br>
 
-**RR: So how do you think the techno scene has progressed in Sydney over the years? **
+**RR: So how do you think the techno scene has progressed in Sydney 
+over the years?**
 
 Shepz: Now there's a loaded question haha! We've seen parties and brands come and go, we've seen things go up and down. I think the underground scene has flourished - like outdoor parties and warehouses, but the club scene has certainly taken a hit. Deep House and Tech House has dominated Sydney clubbing to be honest. It's unfortunate that the wider audience of punters in Sydney like to hear familiar tunes with the same DJs at Sydney clubs. And a lot of promoters have played it safe, especially after the lock out laws hit. There are some great parties happening right now though, like some of the warehouse parties. And I'm a really big fan of the .darkroom events, Gav really puts his heart and soul into it.
 <br><br>
