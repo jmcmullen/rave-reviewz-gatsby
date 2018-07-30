@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/andy-ef
 title: 'ANDY EF on '
-date: 2018-07-30T04:35:34.065Z
+date: 2017-08-01T14:35:34+10:00
 description: TBC
 featuredImage: /img/11227511_10152976422380997_4527504006064448414_n.jpg
 ---
