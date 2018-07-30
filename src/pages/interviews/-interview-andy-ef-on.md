@@ -2,15 +2,15 @@
 templateKey: interview-post
 path: /interview/andy-ef
 title: 'ANDY EF on '
-date: 2017-08-01T14:35:34+10:00
+date: 2017-08-01T04:35:34.000Z
 description: TBC
 featuredImage: /img/11227511_10152976422380997_4527504006064448414_n.jpg
 ---
 _Our chat with _
 
-We gather that your love for music started with playing the piano. Was it an easy transition in to DJing?
+We gather that your love for music started with playing the piano. Was it an easy transition into DJing?
 
-It actually started at a young age being intrigued with all aspects ofmusic specially melodic elements, a family member suggested I have a go at playing the keyboard when I was about 7 years old and they noticed that musically I can hear a melody and replicate it on the keyboard, often I would improvise but all this was prior to any training I have received and eventually led me to start taking up piano lessons at a young age. DJing or the idea of actually stemmed from watching a lot of credible DJs during the late 1990's and early 2000's on TV and upon reading more about them and what it is that DJing was about, I became obsessed in a way, soon after I started exploring the different types of electronic music.
+I was intrigued with all aspects of music as a young age, especially melodic elements. A family member suggested I have a go at playing the keyboard when I was about 7 years old and they noticed that musically I can hear a melody and replicate it on the keyboard. Often I would improvise but all this was prior to any training  and eventually led me to start taking up piano lessons. The idea of DJing actually stemmed from watching a lot of credible DJs during the late 90s and early 00s on TV. I read more about them and became obsessed in a way that started my exploration different types of electronic music.
 <br><br>
 
 Being from Cairo originally, what musical influences were you exposed to there? Do you think it has shaped you as an artist today?
