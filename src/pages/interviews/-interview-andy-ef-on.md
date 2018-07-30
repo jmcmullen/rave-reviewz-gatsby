@@ -50,6 +50,7 @@ The monthly promo mixes I started back in 2014 are a reflection of my favourite 
 If we asked you to look back through your career and pick the most memorable set you've played, which would it be?
 
 That I have to say is a tricky question, but I would pick the [Blueprint](https://magazine.ravereviewz.net/interview/ben-nott-blueprint) office tower party on Boxing Day 2015 due to its unique location and concept. I might never experience a full on party in an office block in the middle of the city.
-<br><br>
+
+![](/img/andy-ef-blueprint.jpg)
 
 Finally, looking forward through the coming months, what have you got planned?
