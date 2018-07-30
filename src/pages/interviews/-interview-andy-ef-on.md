@@ -8,9 +8,11 @@ featuredImage: /img/11227511_10152976422380997_4527504006064448414_n.jpg
 ---
 _Our chat with _
 
-We gather that your love for music started with playing the piano. Was it an easy transition in to DJing?
+Hey Andy. We gather that your love for music started with playing the piano. Was it an easy transition in to DJing?
 
-It actually started at a young age being intrigued with all aspects ofmusic specially melodic elements, a family member suggested I have a go at playing the keyboard when I was about 7 years old and they noticed that musically I can hear a melody and replicate it on the keyboard, often I would improvise but all this was prior to any training I have received and eventually led me to start taking up piano lessons at a young age. DJing or the idea of actually stemmed from watching a lot of credible DJs during the late 90s and early 00s on TV and upon reading more about them and what it is that DJing was about. I became obsessed in a way and soon after started exploring the different types of electronic music.
+Firstly I would like to say well done for what you guys are doing in the music scene in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney), the continuous support and also thanks for having me. 
+
+I was intrigued with all aspects of music from a young age, especially melodic elements. A family member suggested I have a go at playing the keyboard when I was about 7 years old and they noticed that musically I can hear a melody and replicate it on. I would improvise on the keyboard and this eventually led me to start taking up piano lessons at a young age. The idea of DJing stemmed from watching a lot of credible DJs during the late 90s and early 00s on TV and reading more about them. I became obsessed in a way and soon after started exploring different types of electronic music.
 <br><br>
 
 Being from Cairo originally, what musical influences were you exposed to there? Do you think it has shaped you as an artist today?
@@ -34,20 +36,20 @@ You're a Return to Rio resident - can you tell us your best memories from past R
 I fell in love with the first Return to Rio I went to when Dixon played a 4 hour closing set, which was such an amazing experience for me and also noticing that the Rio team had such passion for good underground acts. The Return to Rio team strive to improve every year and create such a fun and special atmosphere. 
 <br><br>
 
-We loved your headline set at The Sly Fox - tell us about the experience and your history with the club.
+We loved your headline set at the SLYFOX - tell us about the experience and your history with the club.
 
-Well, I would like to say well done for what you guys are doing in the music scene in Sydney, the continuous support and also thanks for having me. The SLYFOX history goes a while back before the current owners took over, it always had a special vibe / atmosphere, although music programming and the ambiance was nothing compared to what it is now. I have always pictured it being what it is today and certainly there has been a lot of hard work and upgrades over time, now its characterized by its signature lampshades, excellent FUNKTION 1 sound system and great vibes.
+My history with SLYFOX goes a while back before the current owners took over. It always had a special vibe and atmosphere, although music programming and the ambience was nothing compared to what it is now. I have always pictured it being what it is today and certainly there has been a lot of hard work and upgrades over time, now its characterised by its signature lampshades, excellent FUNKTION 1 sound system and great vibes.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F628355170848836%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 We regularly listen to your promo mixes on Soundcloud. Is there a process that you follow when curating them each month?
 
-The monthly promo mixes I started back in 2014 are a reflection of my favourite music that I personally feel I should present to people in the form of a mix set, I personally enjoy curating them as every month I go through a lot of music and its always exciting hearing new tracks then working out a flow for the set to present to people which is always a fun and rewarding process.
+The monthly promo mixes I started back in 2014 are a reflection of my favourite music that I personally feel I should present to people in the form of a mix set. I personally enjoy curating them as every month I go through a lot of music and its always exciting hearing new tracks then working out a flow for the set to present to people, which is always a fun and rewarding process.
 <br><br>
 
-If you asked you to look back through your career and pick the most memorable set you've played, which would it be?
+If we asked you to look back through your career and pick the most memorable set you've played, which would it be?
 
-That I have to say is a tricky question, but I would have to pick the Blueprint Office Tower Party Boxing Day 2015 due to its unique location and concept, certainly I might never experience a full on party in an office block in the middle of the city.
+That I have to say is a tricky question, but I would pick the [Blueprint](https://magazine.ravereviewz.net/interview/ben-nott-blueprint) office tower party on Boxing Day 2015 due to its unique location and concept. I might never experience a full on party in an office block in the middle of the city.
 <br><br>
 
 Finally, looking forward through the coming months, what have you got planned?
