@@ -31,16 +31,16 @@ Andy:** **After learning to play the piano I was curious to learn how to integra
 Andy:** **Forbidden TØNË is a brand which we created to expose people to that niche underground "progressive house" style of music. Although, mind you, progressive is not a sound and it is more the notion that the music develops across a track. It can be a melody, atmospheric pad sounds, rhythms or vocal sample. Progressive comes in many forms from the laid back, deeper style to more heavy sounds. 
 <br><br>
 
-**RR: You're a **[**Return to Rio**](https://magazine.ravereviewz.net/interview/ricky-cooper/)** resident - can you tell us your best memories from past Rio events? Any hints for us on what's planned for this year’s festival??**
-
-Andy: I fell in love with the first Return to Rio I went to when Dixon played a 4 hour closing set, which was such an amazing experience for me and also noticing that the Rio team had such passion for good underground acts. The Return to Rio team strive to improve every year and create such a fun and special atmosphere. 
-<br><br>
-
 **RR:** **We loved your headline set at the SLYFOX - tell us about the experience and your history with the club.**
 
 Andy: My history with SLYFOX goes a while back before the current owners took over. It always had a special vibe and atmosphere, although music programming and the ambience was nothing compared to what it is now. I have always pictured it being what it is today and certainly there has been a lot of hard work and upgrades over time, now its characterised by its signature lampshades, excellent Funktion 1 sound system and great vibes.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F628355170848836%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+**RR: You're a **[**Return to Rio**](https://magazine.ravereviewz.net/interview/ricky-cooper/)** resident - can you tell us your best memories from past Rio events? Any hints for us on what's planned for this year’s festival??**
+
+Andy: I fell in love with the first Return to Rio I went to when Dixon played a 4 hour closing set, which was such an amazing experience for me and also noticing that the Rio team had such passion for good underground acts. The Return to Rio team strive to improve every year and create such a fun and special atmosphere. 
+<br><br>
 
 **RR: We regularly listen to your promo mixes on Soundcloud. Is there a process that you follow when curating them each month?**
 
