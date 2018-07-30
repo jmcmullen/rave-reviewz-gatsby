@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: interviews/interview/ricky-cooper
+path: interview/ricky-cooper
 title: 'Ricky Cooper: Return to Rio'
 date: 2017-10-30T06:30:38.000Z
 description: >-
