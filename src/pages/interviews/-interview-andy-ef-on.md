@@ -6,7 +6,7 @@ date: 2017-08-01T04:35:34.000Z
 description: TBC
 featuredImage: /img/11227511_10152976422380997_4527504006064448414_n.jpg
 ---
-Before his WeLove headliner, the Sydney favourite joined us for a chat on his musical background and involvement with Return to Rio and Forbidden TØNË.
+Before his WeLove headliner, the Sydney favourite joined Rave Raviewz for a chat about his musical background and involvement with Return to Rio and Forbidden TØNË.
 
 **RR: Hey Andy. We gather that your love for music started with playing the piano. Was it an easy transition into DJing?**
 
