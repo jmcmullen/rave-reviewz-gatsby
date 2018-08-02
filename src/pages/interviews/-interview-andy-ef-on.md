@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/andy-ef
 title: ANDY EF on the meaning of progressive
-date: 2017-08-01T04:35:34.000Z
+date: 2018-08-02T14:35:34+10:00
 description: 'Our chat with prog hero, Andy Ef'
 featuredImage: /img/andy-ef-2.jpg
 ---
