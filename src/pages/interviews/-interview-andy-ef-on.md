@@ -3,8 +3,8 @@ templateKey: interview-post
 path: /interview/andy-ef
 title: ANDY EF on the meaning of progressive
 date: 2017-08-01T04:35:34.000Z
-description: Our chat with Sydney's prince of prog
-featuredImage: /img/11227511_10152976422380997_4527504006064448414_n.jpg
+description: 'Our chat with prog hero, Andy Ef'
+featuredImage: /img/andy-ef.jpg
 ---
 _Before his [WeLove headline](https://www.ravereviewz.net/Event/WeLove-159-Darlinghurst/478) set, the Sydney favourite joined [Rave Reviewz](https://magazine.ravereviewz.net/) for a chat about his musical background, Return to Rio and more..._
 <br><br>
