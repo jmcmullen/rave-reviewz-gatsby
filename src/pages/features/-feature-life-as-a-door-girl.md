@@ -2,11 +2,11 @@
 templateKey: review-post
 path: /feature/life-as-a-door-girl
 title: Life as a door girl
-date: 2017-01-01T15:40:13+11:00
-description: A refreshing account of the ups and downs of being a door girl.
+date: 2017-01-01T04:40:13.000Z
+description: A rare account of the ups and downs of being a door girl.
 featuredImage: /img/antje.jpg
 ---
-_If you're a regular party animal in Sydney, there's a high chance you've met Antje An Ban. The omnipesent door guiardian gives an rare insight into her experiences at clubs in Germany and Australia_
+_If you're a regular party animal in Sydney, there's a high chance you've met Antje An Ban. The omnipresent door guardian gives an insight into her experiences at clubs in Germany and Australia_
 <br><br>
 
 So I’ve been a door girl for about 7 years now, since the day my boss moved me from working the bar to the door during the relaunch of a club in my hometown in Germany. 
