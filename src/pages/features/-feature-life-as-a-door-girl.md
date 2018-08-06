@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature/life-as-a-door-girl
 title: Life as a door girl
-date: 2018-08-06T05:40:13.806Z
+date: 2017-01-01T15:40:13+11:00
 description: A refreshing account of the ups and downs of being a door girl.
 featuredImage: /img/antje.jpg
 ---
