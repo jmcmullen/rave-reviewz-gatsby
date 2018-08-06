@@ -1,7 +1,7 @@
 ---
 templateKey: review-post
 path: /feature/life-as-a-door-host
-title: 'Antje: Life as a door host'
+title: 'Antje: life as a door host'
 date: 2017-01-01T04:40:13.000Z
 description: A rare insight into the ups and downs of being a door host.
 featuredImage: /img/antje.jpg
