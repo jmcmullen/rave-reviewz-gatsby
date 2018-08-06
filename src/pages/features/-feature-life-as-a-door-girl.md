@@ -6,7 +6,7 @@ date: 2018-08-06T05:40:13.806Z
 description: A refreshing account of the ups and downs of being a door girl.
 featuredImage: /img/antje.jpg
 ---
-_Antje An Ban gives an rare insight into her experiences as a door girl in Germany and Australia_
+_If you're a regular party animal in Sydney, there's a high chance you've met Antje An Ban. The omnipesent door guiardian gives an rare insight into her experiences at clubs in Germany and Australia_
 <br><br>
 
 So I’ve been a door girl for about 7 years now, since the day my boss moved me from working the bar to the door during the relaunch of a club in my hometown in Germany. 
