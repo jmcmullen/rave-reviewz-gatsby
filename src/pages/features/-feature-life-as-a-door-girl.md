@@ -9,7 +9,7 @@ featuredImage: /img/antje.jpg
 _If you're a regular on Sydney's underground circuit, there's a good chance you've met Antje Hellenbrand at the beginning of many of your nights. Here, the veteran host shares her experiences of working the door._
 <br><br>
 
-So I’ve been a door girl for about 7 years now, since the day my boss moved me from working the bar to the door during the relaunch of a club in my hometown in Germany. I actually started working the door at a hip hop club in Frankfurt and a techno club in Wiesbaden at the same time. It was interesting to see how differently the scenes worked but to be honest I wasn’t really thinking of the job as a career, I just wanted to go out after having a baby and was happy to find a way that I could combine partying and making money!
+So I’ve been a door girl for about 7 years now, since the day my boss moved me from working the bar to the door during the relaunch of a club in my hometown in Germany. I actually started working the door at a hip hop club in Frankfurt and a techno club in Wiesbaden at the same time. It was interesting to see how the different scenes worked but to be honest I wasn’t really thinking of the job as a career, I just wanted to go out after having a baby and was happy to find a way that I could combine partying and making money!
 
 I really learned about the industry and running events when I came to [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). I started about 2 years ago at the Burdekin Hotel through friends from Subsonic and slowly but surely I met more people and started receiving more bookings. 
 
