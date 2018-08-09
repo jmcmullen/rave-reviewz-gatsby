@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature/life-as-a-door-host
 title: 'ANTJE: life as a door host'
-date: 2017-01-01T04:40:13.000Z
+date: 2018-08-07T15:40:13+10:00
 description: A rare insight into the ups and downs of being a Sydney club door host.
 featuredImage: /img/antje.jpg
 ---
