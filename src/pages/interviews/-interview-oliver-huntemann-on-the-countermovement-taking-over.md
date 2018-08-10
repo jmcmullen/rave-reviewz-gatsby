@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview-oliver-huntemann
-title: OLIVER HUNTEMANN on the countermovement taking over
+title: OLIVER HUNTEMANN on the countermovement take-over
 date: 2018-08-10T05:46:57.316Z
 description: Our chat with the techno heavyweight ahead of his Australian tour
 featuredImage: /img/oliver-huntemann.jpg
@@ -11,7 +11,7 @@ _For over 2 decades, Oliver Huntemann has been at the forefront of the global te
 
 **RR: Oliver - we're looking forward to your set in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney). What memories do you have of the city from your last trip? And how would you say it compares to your hometown of Hamburg?**
 
-Oliver: Thanks, I’m happy to be coming back! The last time I was there was for a heavy club tour, which was outstanding - but I was also able stay a few days and actually enjoy the scenery and great vibe of Sydney, which is really rare whilst being on tour.
+Oliver: Thanks, I’m happy to be coming back! The last time I was there was for a heavy club tour, which was outstanding - but I was also able to stay a few days and actually enjoy the scenery and great vibe of Sydney, which is really rare whilst being on tour.
 
 It’s hard to compare Hamburg with Sydney, especially with Hamburg having a lot of rainy days. But there are a few similarities with both cities being built around harbours, which gives them both very, very nice scenery... even the cruise ships are the same. Sydney is almost like home, just without rain haha.
 <br><br>
@@ -33,11 +33,13 @@ Techno itself, at least at the moment, is tending to get harder again. The stron
 
 **RR: You've been running your current label, Senso Sounds for some time now. Tell us what that has been like, especially any challenges you’ve faced and any major highlights. How does it compare to your previous experience of running a label?**
 
-Oliver: Senso Sounds is basically a part of me. The biggest challenge was of course to get attention, to get the label into the market. With new artists and labels coming up everyday it's not a very easy task and took some time, although we had great artists from the beginning. I needed to really figure out how I can represent the label in unique way... with the cover art and rare showcases in great venues - like our terrace party in Barcelona _(below)_ or our upcoming event at Kafes, Istanbul - I try to strengthen the profile constantly. The most important part is the great artists who provide us with 'the Senso Sound'.
+Oliver: Senso Sounds is basically a part of me. The biggest challenge was of course to get attention, to get the label into the market. With new artists and labels coming up everyday it's not a very easy task and took some time, although we had great artists from the beginning. I needed to really figure out how I can represent the label in unique way. 
+
+With the cover art and rare showcases in great venues - like our terrace party in Barcelona _(below)_ or our upcoming event at Kafes, Istanbul - I try to strengthen the profile constantly. The most important part is the great artists who provide us with 'the Senso Sound'.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOliverHuntemannOFC%2Fvideos%2F10156837471268690%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-Senso Sounds, compared to other projects or labels, feels like a family. We have young artists with fresh ideas - Distale from Berlin, for example - and we also have experienced producers like Olivier Giacomotto. It’s just a great mix, with easy communication and a great team behind it.
+Compared to other projects or labels, Senso Sounds feels like a family. We have young artists with fresh ideas - Distale from Berlin, for example - and we also have experienced producers like Olivier Giacomotto. It’s just a great mix, with easy communication and a great team behind it.
 <br><br>
 
 **RR: You mentioned the cover art for Senso releases, which are very striking and minimalist. How involved are you with the design?**
@@ -66,20 +68,20 @@ Oliver: After so many years there are for sure some things I’d rather hide in 
 
 **RR: Have you had times when you felt as though the hectic lifestyle of touring, performing and promoting is taking its toll on your wellbeing? Are there any steps you take to look after your mental health?**
 
-Oliver: Touring is not as easy at it seems, even with the benefits of business class flights and good hotels. Just for these three days in Australia and New Zealand I have to travel 63 hours! But when I look at my old friends from school and compare, being on tour or travelling in general keeps your mind fresh. Getting to know so many people and cultures also gives you an open mind. I’d rather say it keeps me healthy! 
+Oliver: Touring is not as easy at it seems, even with the benefits of business class flights and good hotels. Just for these three days in Australia and New Zealand I have to travel 63 hours! But when I look at my old friends from school and compare, being on tour or travelling in general keeps your mind fresh. Getting to know so many people and cultures also gives you an open mind. I’d rather say it keeps me healthy.
 
 ![null](/img/huntemann-club.jpg)
 
 **RR: Of the many gigs you’ve played, is there a particular one that stands out in your memory?**
 
-Oliver: Hard to say. I play around 120 shows a year. Most of them are unique and great, but I think my gigs in Cordoba, Argentina and at Hardpop in Cd. Juarez, Mexico are some of the most memorable ones. Juarez is still one of the most dangerous cities in the world but the vibe is incredible.
+Oliver: Hard to say... I play around 120 shows a year. Most of them are unique and great, but I think my gigs in Cordoba, Argentina and at Hardpop in Cd. Juarez, Mexico are some of the most memorable ones. Juarez is still one of the most dangerous cities in the world but the vibe is incredible.
 
 You Aussie guys actually stand out as well! I play usually once, sometimes even twice a year here. If it’s an intimate club tour like this time or festival shows, I’m always stoked to come back. 
 <br><br>
 
 **RR: And finally, what else do you have on the horizon?**
 
-Oliver: Always lots! At home the family keeps me busy - my youngest son just started walking and the older one is already doing his own thing ...and my incredible wife holds everything together. In terms of business, I’m working on the Propaganda remix album with a lot of great artists doing interpretations of the tracks. Of course, Senso Sounds needs some attention as well so I guess I'll use the 30 hours of flying home to listen to demos. 
+Oliver: Always lots! At home the family keeps me busy - my youngest son just started walking and the older one is already doing his own thing ...and my incredible wife holds everything together. In terms of business, I’m working on the Propaganda remix album with a lot of great artists doing interpretations of the tracks. Of course, Senso Sounds needs some attention as well so I guess I'll use the 30 hours of flying home to listen to demos!
 <br><br>
 
 **RR: Well, big thanks to your wife for holding it all together so you can visit us haha. Thanks for the chat Oliver.**
