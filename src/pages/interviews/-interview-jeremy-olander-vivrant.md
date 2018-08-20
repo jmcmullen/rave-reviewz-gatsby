@@ -8,9 +8,9 @@ description: >-
   Festival, here's our chat with the legendary Jeremy Olander.
 featuredImage: /img/jeremy-olander.jpg
 ---
-_Recognised for his technical artistry and endearing releases, Jeremy Olander is a pre-eminent force on the progressive house stage. We talk to the Vivrant label boss, as he prepares for his performance at [Electric Gardens Festival](https://www.ravereviewz.net.au/interview/damian-gelle-electric-gardens/)._
+_Recognised for his technical artistry and endearing releases, Jeremy Olander is a pre-eminent force on the progressive house stage. We talk to the Vivrant label boss, as he prepares for his performance at [Electric Gardens Festival](https://magazine.ravereviewz.net/interview/damian-gelle-electric-gardens)._
 
-**RR: Jeremy, great to chat to you! We're super excited that you'll be joining us for Electric Gardens festival. You've played the festival before – how was the experience last time?**
+**RR: Jeremy, great to chat to you. We're super excited that you'll be joining us for Electric Gardens festival. You've played the festival before – how was the experience last time?**
 
 Jeremy: Good to talk to you as well! Last time I was here was two years ago I think, and it was nothing but great. Such an awesome lineup this year as well. Very humbling to be a part of. Really looking forward to closing the [Rio](https://magazine.ravereviewz.net/interview/ricky-cooper/) stage!
 <br><br>
@@ -33,7 +33,6 @@ Jeremy: This time it’ll just be a quick visit. I get in Friday and leave on Su
 **RR: You’ll have to make the most of the Australian summer! Now, your recent debut on [Anjunadeep](https://www.facebook.com/anjunadeep), 'Crossed' is on heavy rotation at [Rave Reviewz](https://www.ravereviewz.net/) HQ. How did the collaboration come together?**
 
 Jeremy: Glad you like it! I’ve been a fan of what they’ve been putting out in recent years. I think they’ve established themselves as a very interesting label with a good mix between deep house and old school progressive, so it’s definitely a fit with some of the stuff I do that’s more on the melodic tip. [Crossed](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fcrossed-original-mix%2F9949116&h=ATMgQ09FiY6LOv0mY2x4xP4IMVL0JeqImzBov6Qw8LkVEFRiTOLc-NcxCAgj53aB1wmP6EKf9audBt4jVCqhfRd4-14qTlLB_YtYRraQLvsjAZdUG5WRl8uv) has this smooth melody that builds very nicely, and Araoz is a bit more energetic, and it felt really good to finally debut on a label like Anjuna.
-<br><br>
 
 <iframe src="https://embed.beatport.com/?id=9949117&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
