@@ -39,7 +39,6 @@ Ian: Not really! Too many to mention and with a lot of them I have special memor
 **RR: Your 1998 Meridian album is well-recognised as a classic. Did it feel like you had crafted something special at the time?**
 
 Ian: Haha not at all. I was just happy that I had finally finished that album. Took me a year.
-<br><br>
 
 <iframe src="https://embed.beatport.com/?id=8052127&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
