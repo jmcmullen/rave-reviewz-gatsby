@@ -3,9 +3,7 @@ templateKey: interview-post
 path: /interview/ian-pooley
 title: IAN POOLEY on playing in the rain
 date: 2017-01-02T23:45:19.000Z
-description: >-
-  With decades of experience under his belt, here's our chat with the revered
-  German DJ/Producer.
+description: Our chat with the revered German DJ/Producer
 featuredImage: /img/ian-pooley-studio.jpeg
 ---
 _Ian Pooley wowed the Sydney crowd earlier this year, and [Rave Reviewz](https://magazine.ravereviewz.net) finally managed to pin down the DJ and production wizard for a chat..._
