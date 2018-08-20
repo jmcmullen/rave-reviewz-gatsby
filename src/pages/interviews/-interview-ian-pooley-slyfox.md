@@ -5,7 +5,7 @@ title: IAN POOLEY on Sydney gigs and studio equipment
 date: 2017-01-02T23:45:19.000Z
 description: >-
   With decades of experience under his belt, here's our chat with the revered
-  German DJ/Producer
+  German DJ/Producer.
 featuredImage: /img/ian pooley-studio.jpeg
 ---
 _After wowing the crowd earlier this year, [Rave Reviewz](https://magazine.ravereviewz.net) caught up with DJ and production wizard, Ian Pooley for a quick chat and debrief on the Australia trip. _
