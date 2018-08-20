@@ -8,7 +8,7 @@ description: >-
   German DJ/Producer.
 featuredImage: /img/ian-pooley-studio.jpeg
 ---
-_Ian Pooley wowed the Sydney crowd earlier this year, and [_Rave Reviewz_](https://magazine.ravereviewz.net) finally managed to pin down the DJ and production wizard for a chat..._
+_Ian Pooley wowed the Sydney crowd earlier this year, and [Rave Reviewz](https://magazine.ravereviewz.net) finally managed to pin down the DJ and production wizard for a chat..._
 
 **RR: Hey Ian. You played at SLYFOX and [S.A.S.H](https://magazine.ravereviewz.net/interview/kerry-wallace) when you were last in Sydney - two very different settings. How did you find them?**
 
