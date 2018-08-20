@@ -12,7 +12,7 @@ _After wowing the crowd earlier this year, [Rave Reviewz](https://magazine.raver
 
 **RR: Hey Ian. You were here in March and played at SLYFOX and [S.A.S.H](https://magazine.ravereviewz.net/interview/kerry-wallace) - two very different settings. How did you find them?**
 
-Ian: I’ve played SASH a few times. SASH by day is a lot of fun - really energetic and fun crowd. This time it started raining heavily in the middle of my set. It was crazy! We had to move the booth , set up umbrellas and wipe the CDJs all while I was playing. The crowd was phenomenal, they went crazy hahaha! I played SLYFOX for the first time and it was very nice. The venue is more intimate and you are really close to the crowd - I like that. The sound system is great too! 
+Ian: I’ve played SASH a few times. SASH by day is a lot of fun - really energetic and fun crowd. This time it started raining heavily in the middle of my set. It was crazy! We had to move the booth, set up umbrellas and wipe the CDJs all while I was playing. The crowd was phenomenal, they went crazy hahaha! I played SLYFOX for the first time and it was very nice. The venue is more intimate and you are really close to the crowd - I like that. The sound system is great too! 
 <br><br>
 
 **RR: Good stuff. Before that, you were in [Sydney](https://www.ravereviewz.net/Events-Location/Sydney) 2 years ago. How was the experience?**
@@ -22,7 +22,7 @@ Ian: Very nice. I played [Something Else](https://ravereviewz.net.au/interview/a
 
 **RR: You run 2 successful labels, [Pooledmusic](https://www.facebook.com/Pooledmusic) and Montage - focusing on house and techno, respectively. What are the challenges you face in managing the two?**
 
-Ian: I’d say finding new talent, people who haven’t released much previously and who relate to my own sound. Indira Paganotto is a perfect example of that. Her tracks always sound like they could have been produced by me.
+Ian: I’d say finding new talent, people who haven’t released much previously and who relate to my own sound. Indira Paganotto is a perfect example for that. Her tracks always sound like they could have been produced by me.
 <br><br>
 
 **RR: You also have some serious kit in your studio - can you tell us about your most prized piece of equipment?**
@@ -33,7 +33,7 @@ Ian: The Akai MPC 3000 is the heart of my studio, it controls all my synthesizer
 
 **RR: You’ve released many tracks and remixes over the years - do you have a personal favourite?**
 
-Ian: Not really! Too many to mention and with a lot of them I have special memories.
+Ian: Not really! Too many to mention and I have special memories with a lot of them.
 <br><br>
 
 **RR: Your 1998 Meridian album is well-recognised as a classic. Did it feel like you had crafted something special at the time?**
