@@ -30,7 +30,7 @@ Jeremy: It’s always good to see Henry Saiz play, and hopefully he will play so
 Jeremy: This time it’ll just be a quick visit. I get in Friday and leave on Sunday. I will try to eat some good food, enjoy the weather since it’s freezing cold back home right now haha.
 <br><br>
 
-**RR: You’ll have to make the most of the Australian summer! Now, your recent debut on **[**Anjunadeep**](https://www.facebook.com/anjunadeep)**, 'Crossed' is on heavy rotation at **[**Rave Reviewz**](https://www.ravereviewz.net/)** HQ. How did the collaboration come together?**
+**RR: You’ll have to make the most of the Australian summer! Now, your recent debut on [Anjunadeep](https://www.facebook.com/anjunadeep), 'Crossed' is on heavy rotation at [Rave Reviewz](https://www.ravereviewz.net/) HQ. How did the collaboration come together?**
 
 Jeremy: Glad you like it! I’ve been a fan of what they’ve been putting out in recent years. I think they’ve established themselves as a very interesting label with a good mix between deep house and old school progressive, so it’s definitely a fit with some of the stuff I do that’s more on the melodic tip. [Crossed](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Ftrack%2Fcrossed-original-mix%2F9949116&h=ATMgQ09FiY6LOv0mY2x4xP4IMVL0JeqImzBov6Qw8LkVEFRiTOLc-NcxCAgj53aB1wmP6EKf9audBt4jVCqhfRd4-14qTlLB_YtYRraQLvsjAZdUG5WRl8uv) has this smooth melody that builds very nicely, and Araoz is a bit more energetic, and it felt really good to finally debut on a label like Anjuna.
 <br><br>
@@ -53,12 +53,11 @@ Jeremy: Impossible to pick one! They all have a special place for me and usually
 
 <iframe src="https://embed.beatport.com/?id=9804084&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-![null](/img/26240756_568113143539706_3482597045067097714_o.jpg)
-
 **RR: And of all the sets you've played, can you pick one for us that really stands out in your memory?**
 
 Jeremy: Good question! Some of them like the 8 hour set I did at our Vivrant Open Air in Stockholm certainly stands out, it was of course special to play at the Madison Square Garden with [Eric](https://www.facebook.com/EricPrydzOfficial/) a couple of years ago. If I have to pick a recent one, Salon Amador in Medellin, Colombia was really great. Played a festival called Baum there this summer and was fortunate to be able to go back for a club show in December on a Thursday. Sold out and very up for it crowd.
-<br><br>
+
+![null](/img/26240756_568113143539706_3482597045067097714_o.jpg)
 
 **RR: We've seen some striking photographs on your Instagram account – you have a particular eye for architecture. Does that influence your music at all?**
 
