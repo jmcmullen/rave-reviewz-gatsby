@@ -10,7 +10,7 @@ featuredImage: /img/jeremy-olander.jpg
 ---
 _Recognised for his technical artistry and endearing releases, Jeremy Olander is a pre-eminent force on the progressive house stage. We talk to the Vivrant label boss, as he prepares for his performance at [Electric Gardens Festival](https://magazine.ravereviewz.net/interview/damian-gelle-electric-gardens)._
 
-**RR: Jeremy, great to chat to you! We're super excited that you'll be joining us for Electric Gardens festival. You've played the festival before – how was the experience last time?**
+**RR: Jeremy, great to chat to you. We're super excited that you'll be joining us for Electric Gardens festival. You've played the festival before – how was the experience last time?**
 
 Jeremy: Good to talk to you as well! Last time I was here was two years ago I think, and it was nothing but great. Such an awesome lineup this year as well. Very humbling to be a part of. Really looking forward to closing the [Rio](https://magazine.ravereviewz.net/interview/ricky-cooper/) stage!
 <br><br>
