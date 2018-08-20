@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/ian-pooley-sydney
 title: IAN POOLEY on Sydney gigs and studio equipment
-date: 2018-04-14T00:45:19.333Z
+date: 2017-01-03T10:45:19+11:00
 description: >-
   With decades of experience under his belt, here's our chat with the revered
   German DJ/Producer
@@ -15,7 +15,7 @@ _After wowing the crowd earlier this year, [Rave Reviewz](https://magazine.raver
 Ian: I’ve played SASH a few times. SASH by day is a lot of fun - really energetic and fun crowd. This time it started raining heavily in the middle of my set. It was crazy! We had to move the booth , set up umbrellas and wipe the CDJs all while I was playing. The crowd was phenomenal, they went crazy hahaha! I played SLYFOX for the first time and it was very nice. The venue is more intimate and you are really close to the crowd - I like that. The sound system is great too! 
 <br><br>
 
-**RR: Good stuff. Before that, you were in Australia 2 years ago. How was the experience? **
+**RR: Good stuff. Before that, you were in **[**Sydney**](https://www.ravereviewz.net/Events-Location/Sydney)** 2 years ago. How was the experience? **
 
 Ian: Very nice. I played [Something Else](https://ravereviewz.net.au/interview/alex-dimitr%C3%B6ff-something-else) at Burdekin first and the SASH by day and by night. Really cool!
 <br><br>
