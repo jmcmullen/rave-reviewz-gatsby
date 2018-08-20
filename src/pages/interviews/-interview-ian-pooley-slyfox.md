@@ -1,6 +1,6 @@
 ---
 templateKey: interview-post
-path: /interview/ian-pooley-sydney
+path: /interview/ian-pooley
 title: IAN POOLEY on playing in the rain
 date: 2017-01-02T23:45:19.000Z
 description: >-
