@@ -4,7 +4,7 @@ path: /feature-burning-man-tips
 title: 'Burning Man: Top Tips'
 date: 2018-08-21T08:45:50.138Z
 description: A first-timers' guide to the Burn
-featuredImage: /img/bm2.jpg
+featuredImage: /img/burning-man.jpg
 ---
 _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed offers a few tips to help first timers make the most of the best festival in the world..._
 <br><br>
