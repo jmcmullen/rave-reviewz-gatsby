@@ -11,8 +11,6 @@ _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed of
 
 **Embrace the spirit of giving**. Remember it's a gifting economy, not a barter system - so give without expecting anything in return. Take cool gifts with you (we took Push Pops) and hand them out. Seeing the smiles they bring to people’s faces will make the whole experience way better.
 
-![](/img/distrikt-burn.jpg)
-
 **Leave no trace**. In other words - leave the place untouched as if you were never even there. By the end of the dream-like experience, you'll be wondering if you even were.
 <br><br>
 
@@ -25,24 +23,22 @@ _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed of
 
  **Dress up** to the max. At Burning Man you ARE the festival, if you make the effort you’ll feel a stronger connection with the atmosphere and those around you.
 
-![null](/img/crew.jpg)
-
  Leave your friends and **go off by yourself** for at least one day. You'll have a serious adventure and meet some weird and wonderful characters.
 <br><br>
 
 Spend at least one afternoon raving at **Distrikt** and 4-10am most mornings at **Robot Heart**. 
 
-![null](/img/distrkt.jpg)
+![null](/img/distrikt-burn.jpg)
 
  Take all the food and drink you’ll need with you, especially **lots of water**. Having a few emergency microwave meals in your RV is a good bet too.
 <br><br>
 
-Wardrobe essentials: ski goggles, leggings, (fake) fur coat and **lots and lots of glow**.
+Wardrobe essentials: ski goggles, leggings, (fake) fur coat and **lots and lots of glow**. You need to be lit up at night, on bike and on foot. It's no fun being hit by another bike. 
 <br><br>
 
  **Write something** important in the Temple of Tears. If it's a wish it might just come true (mine did, for a long while anyway). 
 
-![null](/img/temple.jpg)
+![null](/img/1378702_10151867343611168_540398028_n.jpg)
 
 Finally, remember that burning 'the Man' is a representation of letting go, so try and take the opportunity to **let go of the past** while you're watching the final burn. 
 
