@@ -3,7 +3,7 @@ templateKey: review-post
 path: /feature-burning-man-tips
 title: 'Burning Man: Top tips'
 date: 2018-08-21T06:24:14.737Z
-description: The Rave Reviewz guide to help you make the most of the Burn
+description: The Rave Reviewz guide to the Burn
 featuredImage: /img/bm.jpg
 ---
 With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed gives his tips to help first timers make the most of the best festival in the world...
