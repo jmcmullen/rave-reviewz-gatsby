@@ -34,7 +34,7 @@ With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed off
 
 ![null](/img/distrkt.jpg)
 
- 8) Take all the **food and drink** you’ll need with you - having a few emergency microwave meals in your RV is a good bet.
+ 8) Take all the food and drink you’ll need with you, especially **lots of water**. Having a few emergency microwave meals in your RV is a good bet too.
 <br><br>
 
  9) Wardrobe essentials: ski goggles, leggings, (fake) fur coat and **lots and lots of glow**.
