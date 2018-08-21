@@ -6,7 +6,7 @@ date: 2018-08-21T06:24:14.737Z
 description: The Rave Reviewz guide to the Burn
 featuredImage: /img/bm.jpg
 ---
-With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed gives his tips to help first timers make the most of the best festival in the world...
+With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed offers a few tips to help first timers make the most of the best festival in the world...
 <br><br>
 
 1) **Embrace the spirit of giving**. Remember it's a gifting economy, not a barter system - so give without expecting anything in return. Take cool gifts with you (we took Push Pops) and hand them out. Seeing the smiles they bring to people’s faces will make the whole experience way better.
