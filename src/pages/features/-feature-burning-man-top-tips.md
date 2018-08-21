@@ -10,8 +10,7 @@ _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed of
 <br><br>
 
 **Embrace the spirit of giving**. Remember it's a gifting economy, not a barter system - so give without expecting anything in return. Take cool gifts with you and hand them out. Seeing the smiles they bring to people’s faces will make the whole experience way better. We took Push Pops, worked a treat.
-
-![null](/img/pushpop2.jpg)
+<br><br>
 
 **Leave no trace**. In other words - leave the place in the same condition as you found it, as if you were never even there. By the end of the dream-like experience, you'll be wondering if you even were.
 <br><br>
