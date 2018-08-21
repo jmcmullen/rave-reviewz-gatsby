@@ -30,7 +30,7 @@ _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed of
  6) Leave your friends and **go off by yourself** for at least one day. You'll have a serious adventure and meet some weird and wonderful characters.
 <br><br>
 
-7)  Spend at least one afternoon raving at **Dstrkt** and 4-10am most mornings at **Robot Heart**. 
+7)  Spend at least one afternoon raving at **Distrikt** and 4-10am most mornings at **Robot Heart**. 
 
 ![null](/img/distrkt.jpg)
 
