@@ -37,7 +37,7 @@ Spend at least one afternoon raving at **Distrikt** and 4-10am most mornings at 
  Take all the food and drink you’ll need with you, especially **lots of water**. Having a few emergency microwave meals in your RV is a good bet too.
 <br><br>
 
-Wardrobe essentials: ski goggles, leggings, (fake) fur coat and **lots and lots of glow**.
+Wardrobe essentials: ski goggles, leggings, (fake) fur coat and **lots and lots of glow**. You need to be lit up at night, on bike and on foot. It's no fun being hit by a bike. 
 <br><br>
 
  **Write something** important in the Temple of Tears. If it's a wish it might just come true (mine did, for a long while anyway). 
