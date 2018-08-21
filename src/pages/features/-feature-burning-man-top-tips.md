@@ -11,8 +11,6 @@ _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed of
 
 **Embrace the spirit of giving**. Remember it's a gifting economy, not a barter system - so give without expecting anything in return. Take cool gifts with you (we took Push Pops) and hand them out. Seeing the smiles they bring to people’s faces will make the whole experience way better.
 
-![](/img/distrikt-burn.jpg)
-
 **Leave no trace**. In other words - leave the place untouched as if you were never even there. By the end of the dream-like experience, you'll be wondering if you even were.
 <br><br>
 
@@ -24,8 +22,6 @@ _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed of
 <br><br>
 
  **Dress up** to the max. At Burning Man you ARE the festival, if you make the effort you’ll feel a stronger connection with the atmosphere and those around you.
-
-![null](/img/crew.jpg)
 
  Leave your friends and **go off by yourself** for at least one day. You'll have a serious adventure and meet some weird and wonderful characters.
 <br><br>
