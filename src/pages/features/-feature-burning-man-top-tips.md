@@ -50,3 +50,6 @@ With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed giv
 <br><br>
 
  Here's some more info for ya: http://survival.burningman.com. You'll have the time of your life!
+ 
+
+Main image credit: Travis Sentell
