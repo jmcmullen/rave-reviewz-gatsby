@@ -28,7 +28,7 @@ _With just a few days to go til Burning Man 2018,  Rave Reviewz' Kamran Ahmed of
 
 Spend at least one afternoon raving at **Distrikt** and 4-10am most mornings at **Robot Heart**. 
 
-![null](/img/distrkt.jpg)
+![null](/img/distrikt-burn.jpg)
 
  Take all the food and drink you’ll need with you, especially **lots of water**. Having a few emergency microwave meals in your RV is a good bet too.
 <br><br>
@@ -38,7 +38,7 @@ Wardrobe essentials: ski goggles, leggings, (fake) fur coat and **lots and lots 
 
  **Write something** important in the Temple of Tears. If it's a wish it might just come true (mine did, for a long while anyway). 
 
-![null](/img/temple.jpg)
+![null](/img/1378702_10151867343611168_540398028_n.jpg)
 
 Finally, remember that burning 'the Man' is a representation of letting go, so try and take the opportunity to **let go of the past** while you're watching the final burn. 
 
