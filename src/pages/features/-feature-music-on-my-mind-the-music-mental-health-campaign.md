@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-music-on-my-mind
 title: 'Music on my Mind: the music & mental health campaign '
-date: 2016-12-01T17:36:27+11:00
+date: 2016-12-01T06:36:27.000Z
 description: >-
   Aiming to raise funds and awareness of mental health issues in the public AND
   music community
@@ -30,7 +30,7 @@ Mental health is an issue close to our hearts at Rave Reviewz, since our founder
 
 The mental health benefits of music are well known; people listen to music to regulate their mood, and music therapy is used as part of the treatment for depression, autism, schizophrenia, dementia, agitation, anxiety, sleeplessness, and substance misuse.
 
-Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. So we’re launching music and mental health campaign, ‘MUSIC ON MY MIND’.
+Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. So we’re launching a music and mental health campaign - ‘MUSIC ON MY MIND’.
 
 
 
