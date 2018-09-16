@@ -12,11 +12,11 @@ featuredImage: /img/momm fundraising.png
 
 During Mental Health Awareness month this October, electronic music website [Rave Reviewz](https://www.ravereviewz.net/) is launching MUSIC ON MY MIND - a music and mental health campaign with the aim of raising funds and awareness of mental health issues in the public AND music community. We hope you can support the cause!
 
-[BUY TICKETS](https://www.eventbrite.com.au/e/music-on-my-mind-tickets-49801360209) to our dress-up fundraising rave
+[**BUY TICKETS**](https://www.eventbrite.com.au/e/music-on-my-mind-tickets-49801360209) to our dress-up fundraising rave
 
-Make a [DONATION](https://supportact.org.au/music-on-my-mind/)
+Make a [**DONATION**](https://supportact.org.au/music-on-my-mind/)
 
-Follow our [FACEBOOK PAGE](https://www.facebook.com/ravereviewz/) for daily posts on mental health & music in October
+Follow our [**FACEBOOK PAGE**](https://www.facebook.com/ravereviewz/) for daily posts on mental health & music in October
 <br><br>
 
 **BACKGROUND**
@@ -38,28 +38,27 @@ We’ll be raising funds for three mental health charities supporting the public
 
 [**Support Act**](https://supportact.org.au/) helps artists and music workers who are facing hardship due to illness, a mental health problem, injury or some other crisis. 
 
-[beyondblue](https://www.beyondblue.org.au/) aims to equip everyone in Australia with the knowledge and skills to achieve their best possible mental health, whatever their age and wherever they live. 
+[**beyondblue**](https://www.beyondblue.org.au/) aims to equip everyone in Australia with the knowledge and skills to achieve their best possible mental health, whatever their age and wherever they live. 
 
-[Black Dog Institute](https://www.blackdoginstitute.org.au/) is dedicated to improving the lives of people affected by depression, bipolar disorder and suicide.
+[**Black Dog Institute**](https://www.blackdoginstitute.org.au/) is dedicated to improving the lives of people affected by depression, bipolar disorder and suicide.
 
 MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/music-on-my-mind/)
 <br><br>
 
 **MUSIC ON MY MIND: THE DRESS-UP RAVE**
 
-[BUY TICKETS](https://www.eventbrite.com.au/e/music-on-my-mind-tickets-49801360209)
+[**BUY TICKETS**](https://www.eventbrite.com.au/e/music-on-my-mind-tickets-49801360209)
 
 We’re teaming up with some of Sydney’s biggest electronic music brands to raise money for our chosen charities with the MUSIC ON MY MIND dress-up rave on Friday 19th October at Oxford Art Factory! ALL profits from the event will be going to the superstar charities we’re supporting.
 
-![](/img/momm event new.png)
+!\[](/img/momm event new.png)
 
 Bringing together the colourful magic of [Return to Rio](https://www.facebook.com/ReturnToRio/), the mystery and wonder of [Subsonic Music](https://www.facebook.com/subsonicmusic/) and the raw underground vibes of [Blueprint Entertainment](https://www.facebook.com/blueprintentsydney/) and [43 Degrees records](https://www.facebook.com/43degreesrecords/), we promise to bring you an experience to remember.
 
 Each crew will be playing a 1 hour set on the night, featuring some of the finest house & techno DJs in Sydney. The dress-up theme for this rave will be ‘SHARE THE JOURNEY’, which is also the theme for Mental Health Awareness month. Interpret this how you choose… a journey through space? A magical journey? A journey through time? Get creative! 
 
-CHECK OUT THE FACEBOOK EVENT [HERE](https://www.facebook.com/events/598545843875633/)
+CHECK OUT THE FACEBOOK EVENT [**HERE**](https://www.facebook.com/events/598545843875633/)
 <br><br>
-
 
 **THE AWARENESS CAMPAIGN**
 
@@ -68,15 +67,11 @@ Throughout October, we’ll be raising awareness of issues related to mental hea
 Keep an eye on our [Facebook page](https://www.facebook.com/ravereviewz/) for our daily posts on music and mental health.
 <br><br>
 
-
 **SUPPORTERS**
 
 We are grateful for the support of a number of fantastic organisations with this initiative:
 
-ELECTRONIC MUSIC EVENT COMPANIES:
-
-Afters / Attic / Bare Essentials / Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for mood / Motif / Norti Vikings / PACE /  Party Merchants / Paul Strange Presents / Porridge / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
+Afters / Attic / Bare Essentials / Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for mood / Motif / Norti Vikings / PACE /  Party Merchants / Paul Strange Presents / Porridge / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
 <br><br>
-
 
 If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
