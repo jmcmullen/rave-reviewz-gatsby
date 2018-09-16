@@ -4,8 +4,8 @@ path: /feature-music-on-my-mind
 title: 'Music on my Mind: the music & mental health campaign '
 date: 2016-12-01T06:36:27.000Z
 description: >-
-  Aiming to raise funds and awareness of mental health issues in the public AND
-  music community
+  Our campaign to raise funds and awareness of mental health issues in the
+  public AND music community
 featuredImage: /img/momm fundraising.png
 ---
 **MUSIC ON MY MIND**
