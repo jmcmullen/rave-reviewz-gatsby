@@ -17,8 +17,7 @@ During Mental Health Awareness month this October, electronic music website [Rav
 Make a [DONATION](https://supportact.org.au/music-on-my-mind/)
 
 Follow our [FACEBOOK PAGE](https://www.facebook.com/ravereviewz/) for daily posts on mental health & music in October
-
-
+<br><br>
 
 **BACKGROUND**
 
@@ -31,8 +30,7 @@ Mental health is an issue close to our hearts at Rave Reviewz, since our founder
 The mental health benefits of music are well known; people listen to music to regulate their mood, and music therapy is used as part of the treatment for depression, autism, schizophrenia, dementia, agitation, anxiety, sleeplessness, and substance misuse.
 
 Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. So we’re launching a music and mental health campaign - ‘MUSIC ON MY MIND’.
-
-
+<br><br>
 
 **FUNDRAISING**
 
@@ -45,8 +43,7 @@ We’ll be raising funds for three mental health charities supporting the public
 [Black Dog Institute](https://www.blackdoginstitute.org.au/) is dedicated to improving the lives of people affected by depression, bipolar disorder and suicide.
 
 MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/music-on-my-mind/)
-
-
+<br><br>
 
 **MUSIC ON MY MIND: THE DRESS-UP RAVE**
 
@@ -61,7 +58,7 @@ Bringing together the colourful magic of [Return to Rio](https://www.facebook.co
 Each crew will be playing a 1 hour set on the night, featuring some of the finest house & techno DJs in Sydney. The dress-up theme for this rave will be ‘SHARE THE JOURNEY’, which is also the theme for Mental Health Awareness month. Interpret this how you choose… a journey through space? A magical journey? A journey through time? Get creative! 
 
 CHECK OUT THE FACEBOOK EVENT [HERE](https://www.facebook.com/events/598545843875633/)
-
+<br><br>
 
 
 **THE AWARENESS CAMPAIGN**
@@ -69,7 +66,7 @@ CHECK OUT THE FACEBOOK EVENT [HERE](https://www.facebook.com/events/598545843875
 Throughout October, we’ll be raising awareness of issues related to mental health and music and tackling the stigma that surrounds mental illness. 
 
 Keep an eye on our [Facebook page](https://www.facebook.com/ravereviewz/) for our daily posts on music and mental health.
-
+<br><br>
 
 
 **SUPPORTERS**
@@ -78,8 +75,8 @@ We are grateful for the support of a number of fantastic organisations with this
 
 ELECTRONIC MUSIC EVENT COMPANIES:
 
-Afters / Attic / Bare Essentials / Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / IDWT / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for mood / Motif / Norti Vikings / PACE /  Party Merchants / Paul Strange Presents / Porridge / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
-
+Afters / Attic / Bare Essentials / Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for mood / Motif / Norti Vikings / PACE /  Party Merchants / Paul Strange Presents / Porridge / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
+<br><br>
 
 
 If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
