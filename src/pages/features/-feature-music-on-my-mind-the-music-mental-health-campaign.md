@@ -6,7 +6,7 @@ date: 2016-12-01T06:36:27.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community
-featuredImage: /img/momm fundraising.png
+featuredImage: /img/momm fundraising (1).png
 ---
 **MUSIC ON MY MIND**
 
@@ -51,7 +51,7 @@ MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/
 
 We’re teaming up with some of Sydney’s biggest electronic music brands to raise money for our chosen charities with the MUSIC ON MY MIND dress-up rave on Friday 19th October at Oxford Art Factory! ALL profits from the event will be going to the superstar charities we’re supporting.
 
-!\[](/img/momm event new.png)
+![](/img/momm event new.png)
 
 Bringing together the colourful magic of [Return to Rio](https://www.facebook.com/ReturnToRio/), the mystery and wonder of [Subsonic Music](https://www.facebook.com/subsonicmusic/) and the raw underground vibes of [Blueprint Entertainment](https://www.facebook.com/blueprintentsydney/) and [43 Degrees records](https://www.facebook.com/43degreesrecords/), we promise to bring you an experience to remember.
 
