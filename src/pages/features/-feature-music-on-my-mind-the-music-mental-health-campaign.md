@@ -6,7 +6,7 @@ date: 2016-12-01T06:36:27.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community
-featuredImage: /img/momm-fundraising-copy-3.png
+featuredImage: /img/momm-fundraising-copy-4.png
 ---
 During Mental Health Awareness month this October, electronic music website [Rave Reviewz](https://www.ravereviewz.net/) is launching MUSIC ON MY MIND - a music and mental health campaign with the aim of raising funds and awareness of mental health issues in the public AND music community. We hope you can support the cause!
 
