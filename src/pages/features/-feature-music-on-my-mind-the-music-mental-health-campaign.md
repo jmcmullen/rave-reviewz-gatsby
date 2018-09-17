@@ -23,7 +23,7 @@ Around 45 percent of people in Australia will experience a mental health conditi
 
 Some of the factors that contribute to these high rates include erratic sleep patterns, performance anxiety, hectic touring schedules, easy access to alcohol and drugs, uncertain income and lack of recognition - or for the very successful; the intense scrutiny that comes with fame.
 
-Mental health is an issue close to our hearts at Rave Reviewz, since our founder Dr Kamran Ahmed is a psychiatrist who became aware of the high rates of mental health problems in musicians when he started working in the music industry. We often ask about mental health when we interview DJs, but decided that we should do more.
+Mental health is an issue close to our hearts at Rave Reviewz, since our founder Dr Kamran Ahmed is a psychiatrist who became aware of the high rates of mental health problems in musicians when he started working in the music industry. So we often ask about mental health when we interview DJs, but decided that we should do more.
 
 The mental health benefits of music are well known; people listen to music to regulate their mood, and music therapy is used as part of the treatment for depression, autism, schizophrenia, dementia, agitation, anxiety, sleeplessness, and substance misuse.
 
@@ -69,7 +69,7 @@ Keep an eye on our [Facebook page](https://www.facebook.com/ravereviewz/) for ou
 
 We are grateful for the support from all these fantastic organisations with this initiative:
 
-Afters / Attic / Bare Essentials / Bassic Records/ Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for mood / Motif / Norti Vikings / PACE /  Party Merchants / Paul Strange Presents / Porridge / Roots/ SASH/ Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
+Afters / Attic / Bare Essentials / Bassic Records/ Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep Seahorse Podcast/ Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for mood / Motif / Norti Vikings / PACE /  Party Merchants / Paul Strange Presents / Porridge / Roots/ SASH/ Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
 <br><br>
 
 If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
