@@ -67,7 +67,7 @@ Keep an eye on our [Facebook page](https://www.facebook.com/ravereviewz/) for ou
 
 **SUPPORTERS**
 
-We are grateful for the support from all these fantastic organisations with this initiative:
+We are grateful for support from all these music event companies with this initiative:
 
 Afters / Attic / Bare Essentials / Bassic Records / Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / Norti Vikings / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
 <br><br>
