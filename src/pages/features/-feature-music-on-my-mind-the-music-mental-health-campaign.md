@@ -49,8 +49,6 @@ MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/
 
 We’re teaming up with some of Sydney’s biggest electronic music brands to raise money for our chosen charities with the MUSIC ON MY MIND dress-up rave on Friday 19th October at Oxford Art Factory! ALL profits from the event will be going to the superstar charities we’re supporting.
 
-![](/img/momm-lineup-3.png)
-
 Bringing together the colourful magic of Return to Rio, the mystery and wonder of Subsonic Music and the raw underground vibes of Blueprint Entertainment and 43 Degrees records, we promise to bring you an experience to remember.
 
 Each crew will be playing a 1 hour set on the night, featuring some of the finest house & techno DJs in Sydney. The dress-up theme for this rave will be ‘SHARE THE JOURNEY’, which is also the theme for Mental Health Awareness month. Interpret this how you choose… a journey through space? A magical journey? A journey through time? Get creative! 
