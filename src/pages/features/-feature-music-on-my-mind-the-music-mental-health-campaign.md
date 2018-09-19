@@ -49,8 +49,6 @@ MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/
 
 We’re teaming up with some of Sydney’s biggest electronic music brands to raise money for our chosen charities with the MUSIC ON MY MIND dress-up rave on Friday 19th October at Oxford Art Factory! ALL profits from the event will be going to the superstar charities we’re supporting.
 
-![](/img/momm-lineup-3.png)
-
 Bringing together the colourful magic of Return to Rio, the mystery and wonder of Subsonic Music and the raw underground vibes of Blueprint Entertainment and 43 Degrees records, we promise to bring you an experience to remember.
 
 Each crew will be playing a 1 hour set on the night, featuring some of the finest house & techno DJs in Sydney. The dress-up theme for this rave will be ‘SHARE THE JOURNEY’, which is also the theme for Mental Health Awareness month. Interpret this how you choose… a journey through space? A magical journey? A journey through time? Get creative! 
@@ -69,7 +67,7 @@ Keep an eye on our [Facebook page](https://www.facebook.com/ravereviewz/) for ou
 
 We are grateful for the support from all these fantastic organisations with this initiative:
 
-Afters / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / Canvas / Church of Techno / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / Norti Vikings / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
+Afters / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / Norti Vikings / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
 <br><br>
 
 If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
