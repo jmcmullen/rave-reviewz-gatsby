@@ -53,14 +53,14 @@ Bringing together the colourful magic of Return to Rio, the mystery and wonder o
 
 Each crew will be playing a 1 hour set on the night, featuring some of the finest house & techno DJs in Sydney. The dress-up theme for this rave will be ‘SHARE THE JOURNEY’, which is also the theme for Mental Health Awareness month. Interpret this how you choose… a journey through space? A magical journey? A journey through time? Get creative! 
 
-CHECK OUT THE FACEBOOK EVENT [HERE](https://www.facebook.com/events/598545843875633/)
+CHECK OUT THE FACEBOOK EVENT [**HERE**](https://www.facebook.com/events/598545843875633/)
 <br><br>
 
 **THE AWARENESS CAMPAIGN**
 
 Throughout October, we’ll be raising awareness of issues related to mental health and music and tackling the stigma that surrounds mental health conditions. 
 
-Keep an eye on our [Facebook page](https://www.facebook.com/ravereviewz/) for our daily posts on music and mental health.
+Keep an eye on our [**Facebook page**](https://www.facebook.com/ravereviewz/) for our daily posts on music and mental health.
 <br><br>
 
 **SUPPORTERS**
