@@ -25,7 +25,7 @@ Some of the factors that contribute to these high rates include erratic sleep pa
 
 Mental health is an issue close to our hearts at Rave Reviewz, since our founder Dr Kamran Ahmed is a psychiatrist who became aware of the high rates of mental health problems in musicians when he started working in the music industry. So we often ask about mental health when we interview DJs, but decided that we should do more.
 
-The mental health benefits of music are well known; people listen to music to regulate their mood, and music therapy is used as part of the treatment for depression, autism, schizophrenia, dementia, agitation, anxiety, sleeplessness, and substance misuse.
+The mental health benefits of music are well known; people listen to music to regulate their mood, and music therapy is used as part of the treatment for depression, autism, schizophrenia, dementia, agitation, anxiety, sleeplessness and substance misuse.
 
 Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. So we’re launching a music and mental health campaign - ‘MUSIC ON MY MIND’.
 <br><br>
@@ -48,6 +48,8 @@ MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/
 [**BUY TICKETS**](https://www.eventbrite.com.au/e/music-on-my-mind-tickets-49801360209)
 
 We’re teaming up with some of Sydney’s biggest electronic music brands to raise money for our chosen charities with the MUSIC ON MY MIND dress-up rave on Friday 19th October at Oxford Art Factory! ALL profits from the event will be going to the superstar charities we’re supporting.
+
+![](/img/event-image.png)
 
 Bringing together the colourful magic of Return to Rio, the mystery and wonder of Subsonic Music and the raw underground vibes of Blueprint Entertainment and 43 Degrees records, we promise to bring you an experience to remember.
 
