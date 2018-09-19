@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-music-on-my-mind
 title: Music on my Mind
-date: 2018-10-19T23:59:00+11:00
+date: 2018-10-19T12:59:00.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community
@@ -69,7 +69,7 @@ Keep an eye on our [Facebook page](https://www.facebook.com/ravereviewz/) for ou
 
 We are grateful for the support from all these fantastic organisations with this initiative:
 
-Afters / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / Canvas / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / Norti Vikings / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
+Afters / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / Canvas / Church of Techno / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project/ Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / Norti Vikings / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
 <br><br>
 
 If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
