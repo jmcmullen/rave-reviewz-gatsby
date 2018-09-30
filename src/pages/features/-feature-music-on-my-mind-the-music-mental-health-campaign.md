@@ -32,7 +32,7 @@ Music is also a great way to raise awareness of mental health issues, to tackle 
 
 **FUNDRAISING**
 
-We’ll be raising funds for three mental health charities supporting the public and music community specifically: 
+With the help of a grant from City of Sydney, we’ll be raising funds for three mental health charities supporting the public and music community specifically: 
 
 [**Support Act**](https://supportact.org.au/) helps artists and music workers who are facing hardship due to illness, a mental health problem, injury or some other crisis. 
 
