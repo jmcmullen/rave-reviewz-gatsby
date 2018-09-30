@@ -49,7 +49,7 @@ MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/
 
 We’re teaming up with some of Sydney’s biggest electronic music brands to raise money for our chosen charities with the MUSIC ON MY MIND dress-up rave on Friday 19th October at Oxford Art Factory! ALL profits from the event will be going to the superstar charities we’re supporting.
 
-![](/img/event-image.png)
+![null](/img/event-image.png)
 
 Bringing together the colourful magic of Return to Rio, the mystery and wonder of Subsonic Music and the raw underground vibes of Blueprint Entertainment and 43 Degrees records, we promise to bring you an experience to remember.
 
@@ -69,7 +69,7 @@ Keep an eye on our [**Facebook page**](https://www.facebook.com/ravereviewz/) fo
 
 We are grateful for the support from all these fantastic organisations with this initiative:
 
-Afters / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music / Friday Records / IDWT / Ignite / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / Norti Vikings / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Spektrum / Summerlove / Summit DJs / Sutra / Sydney's Eyes / This / Zoo 
+Afters / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music /  Electronic Music Conference / Friday Records / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / Norti Vikings / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Spektrum / Standout Media / Summerlove / Summit DJs / Sutra / Sydney's Eyes / The Studio / This / Xposed Media / Zoo 
 <br><br>
 
 If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
