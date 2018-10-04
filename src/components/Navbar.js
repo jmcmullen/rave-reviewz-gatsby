@@ -71,7 +71,7 @@ class Navbar extends Component {
     const eventsMobile = (
       <a
         className="menu-item"
-        href="/Events-Location/Sydney"
+        href="/events"
         onClick={this.closeMenu}
         key="events"
       >
@@ -81,7 +81,7 @@ class Navbar extends Component {
     );
 
     const eventsDesktop = (
-      <a className="navbar-item" href="/Events-Location/Sydney" key="events">
+      <a className="navbar-item" href="/events" key="events">
         Events
       </a>
     );
