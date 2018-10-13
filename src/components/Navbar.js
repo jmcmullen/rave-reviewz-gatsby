@@ -71,7 +71,7 @@ class Navbar extends Component {
     const eventsMobile = (
       <a
         className="menu-item"
-        href="/events"
+        href="https://www.ravereviewz.net/events"
         onClick={this.closeMenu}
         key="events"
       >
@@ -81,7 +81,11 @@ class Navbar extends Component {
     );
 
     const eventsDesktop = (
-      <a className="navbar-item" href="/events" key="events">
+      <a
+        className="navbar-item"
+        href="https://www.ravereviewz.net/events"
+        key="events"
+      >
         Events
       </a>
     );
