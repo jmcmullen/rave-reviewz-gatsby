@@ -2,6 +2,7 @@ import React from 'react';
 import graphql from 'graphql';
 import Helmet from 'react-helmet';
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 import Img from 'gatsby-image';
 import FacebookProvider, { Comments } from 'react-facebook';
 import Content, { HTMLContent } from '../components/Content';
@@ -49,6 +50,7 @@ export const InterviewPostTemplate = ({
           </div>
         </div>
       </div>
+      <Footer />
     </section>
   );
 };

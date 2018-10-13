@@ -2,6 +2,7 @@ import React from 'react';
 import graphql from 'graphql';
 import Helmet from 'react-helmet';
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 import Img from 'gatsby-image';
 import FacebookProvider, { Comments } from 'react-facebook';
 import Content, { HTMLContent } from '../components/Content';
@@ -41,6 +42,7 @@ export const ReviewPostTemplate = ({
           </div>
         </div>
       </div>
+      <Footer />
     </section>
   );
 };
@@ -48,7 +50,9 @@ export const ReviewPostTemplate = ({
 export default ({ data }) => {
   const { markdownRemark: post } = data;
   const url = `https://magazine.ravereviewz.net/${post.frontmatter.path}`;
-  const image = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.sizes[0] : '';
+  const image = post.frontmatter.featuredImage
+    ? post.frontmatter.featuredImage.childImageSharp.sizes[0]
+    : '';
   const meta = [
     { name: 'description', content: post.frontmatter.description },
     { property: 'og:type', content: 'article' },
