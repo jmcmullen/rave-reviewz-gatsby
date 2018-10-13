@@ -36,7 +36,7 @@ export const ReviewPostTemplate = ({
             <PostContent content={content} />
             <ShareButtonsMobile />
             <FacebookProvider className="fb-comments" appId="1994812974114706">
-              <Comments href={url} width="100%" />
+              <Comments href={url} width="100%" data-width="100%" />
             </FacebookProvider>
           </div>
         </div>

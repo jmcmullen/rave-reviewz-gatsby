@@ -39,7 +39,7 @@ export const InterviewPostTemplate = ({
             <PostContent content={content} />
             <ShareButtonsMobile />
             <FacebookProvider className="fb-comments" appId="1994812974114706">
-              <Comments href={url} width="100%" />
+              <Comments href={url} width="100%" data-width="100%" />
             </FacebookProvider>
             {/* <ContinueReading
               prev={prev}
@@ -57,7 +57,9 @@ export default ({ data, pathContext }) => {
   const { markdownRemark: post } = data;
   const { next, prev } = pathContext;
   const url = `https://magazine.ravereviewz.net/${post.frontmatter.path}`;
-  const image = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.sizes[0] : '';
+  const image = post.frontmatter.featuredImage
+    ? post.frontmatter.featuredImage.childImageSharp.sizes[0]
+    : '';
   const meta = [
     { name: 'description', content: post.frontmatter.description },
     { property: 'og:type', content: 'article' },
