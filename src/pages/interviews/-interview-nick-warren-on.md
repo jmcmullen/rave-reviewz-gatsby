@@ -6,7 +6,7 @@ date: 2017-08-02T16:30:19+10:00
 description: 'Our interview with The Soundgarden label boss and progressive house icon. '
 featuredImage: /img/nick-warren-press.jpg
 ---
-_Before an extended Oceanic tour, we asked prog master Nick Warren about his extensive experience in the field, the return of Way West and his friendship with Hernan Cattaneo._
+_Before an extended Oceanic tour, we asked prog master Nick Warren about his extensive experience in the field, friendship with Hernan Cattaneo and highly-anticipated return of Way West._
 
 **RR: Thanks for joining us Nick. We're looking forward to your sets at Café Del Mar and S.A.S.H. Talk us through your previous experiences of playing in Sydney.**
 
