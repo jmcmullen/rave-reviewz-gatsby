@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/nick-warren
 title: NICK WARREN on supporting great artists
-date: 2017-08-01T06:30:19.000Z
+date: 2017-08-02T16:30:19+10:00
 description: 'Our interview with The Soundgarden label boss and progressive house icon. '
 featuredImage: /img/nick-warren-press.jpg
 ---
