@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/nick-warren
 title: NICK WARREN on supporting great artists
 date: 2017-08-01T06:30:19.000Z
-description: 'Our interview with the progressive house icon. '
+description: 'Our interview with The Soundgarden label boss and progressive house icon. '
 featuredImage: /img/nick-warren-press.jpg
 ---
 _Before an extended Australia tour, we asked prog master Nick Warren about his extensive experience in the field, the return of Way West and his friendship with Hernan Cattaneo._
