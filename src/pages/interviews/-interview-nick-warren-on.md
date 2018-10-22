@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: /interview/nick-warren
 title: NICK WARREN on supporting great artists
-date: 2017-08-01T16:30:19+10:00
-description: 'Our interview with the progressive house legend. '
+date: 2017-08-01T06:30:19.000Z
+description: Our interview with the progressive house legend.
 featuredImage: /img/nick-warren-press.jpg
 ---
-With a career spanning several decades, Progressive House pioneer Nick Warren discusses mental health...TBC
+_With a career spanning several decades, we caught up with Progressive House master Nick Warren before his extended visit to Sydney._
 
 **RR: Thanks for joining us Nick. We're looking forward to your sets at Café Del Mar and S.A.S.H. Talk us through your previous experiences of playing in Sydney.**
 
@@ -44,7 +44,7 @@ Nick: Releasing music these days is not an easy thing to do. There is just so mu
 
 Nick: Weirdly there was no hiatus, it was indeed 5 years between albums but we started and continued to work together on tracks the whole time. Years just seem to slip by so fast but we promise the next one will come much quicker.
 
-![](/img/way out west.jpg)
+!\[](/img/way out west.jpg)
 
 **RR: Now, you've worked on 8 Global underground mix series to date. Can you tell us any stand out memories you have from the countries you visited to record them?**
 
@@ -55,7 +55,7 @@ Nick: My favourite of my albums was Reykjavik and I absolutely loved Iceland. Th
 
 Nick: There's one coming up next year at the start of June. More info coming soon...
 
-![](/img/nick-warren-live.jpg)
+![null](/img/nick-warren-live.jpg)
 
 **RR: We'll keep an eye out for the announcement. The life of a top flight DJ involves a lot of travelling, disrupted sleep and environments where alcohol and drugs are freely available. Have you experienced times when the lifestyle was getting on top of you? How do you cope with those pressures?**
 
