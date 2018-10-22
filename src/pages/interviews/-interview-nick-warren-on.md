@@ -16,7 +16,7 @@ Nick: [Sydney](https://www.ravereviewz.net/Events) has always been very special 
 Nick: No hahaha. My great friend Hernan Cattaneo won and it was well deserved. It's always nice to be acknowledged for what you do.
 <br><br>
 
-**RR: “Progressive house“ is a term that is associated with a variety of different sounds. As one of its pioneers, how would you describe it in your own words? **
+**RR: Haha well congrats all the same. “Progressive house“ is a term that is associated with a variety of different sounds. As one of its pioneers, how would you describe it in your own words? **
 
 Nick: It covers so many bases these days but in a nutshell I would describe it as melodic house with drive and energy.
 <br><br>
