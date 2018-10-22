@@ -24,26 +24,27 @@ Nick: It covers so many bases these days but in a nutshell I would describe it a
 **RR: Your latest ‘Land of dreams’ EP with Nicolas Rada has been well received, including the Stillhead remix. Was there a concept behind the release?**
 
 Nick: There was no real concept as such, I had these ideas i was working on for a while and when Nic heard them he was keen to get involved and I have always been a fan of Alex (Stillhead) and he delivered a great mix, we have just signed a super good track from him for The Soundgarden label.
-<br><br>
+
+<iframe src="https://embed.beatport.com/?id=10713212&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
 **RR: We caught your live B2B set with Hernan Cattaneo from the Ocean Drive sky bar recently, which brought back memories of 2016’s Electric Gardens festival for us. Tell us about your relationship with Hernan, both musical and personal.**
 
-Nick: We have been the best of friends for a very long time and both really enjoy playing together. Its a funny old business (Music) and you get to meet and be in touch with tons of people but very few actually become very close friends, I am proud to have him as a close friend he is also a bloody good DJ which makes the B2B's even more enjoyable.
+Nick: We have been the best of friends for a very long time and both really enjoy playing together. Music is a funny old business and you get to meet and be in touch with tons of people but very few actually become very close friends, I am proud to have him as a close friend he is also a bloody good DJ which makes the B2Bs even more enjoyable.
 <br><br>
 
 **RR: 2018 has been a big year for your label, The Soundgarden and you still to do A&R for Hope Recordings. What are the most important things you've learned in your years of working with labels?**
 
-Nick: Releasing music these days is not an easy thing to do. There is just so much product out there each week that it is easy for music to go unnoticed. We are striving to release music that people will love and  want to listen to, thats all we can do really, show support to our great artists.
+Nick: Releasing music these days is not an easy thing to do. There is just so much product out there each week that it is easy for music to go unnoticed. We are striving to release music that people will love and  want to listen to. That's all we can do really - show support to our great artists.
 <br><br>
 
 **RR: You and Jody Wisternoff returned as Way out West last year with ‘Tuesday Maybe’. Can you tell us about the LP’s production? Why the 8-year hiatus before its release? **
 
-Nick: Weirdly there was no Hiatus, it was indeed 5 years between albums but we started and continued to work together on tracks the whole time. Years just seem to slip by so fast but we promise the next one will come much quicker.
+Nick: Weirdly there was no hiatus, it was indeed 5 years between albums but we started and continued to work together on tracks the whole time. Years just seem to slip by so fast but we promise the next one will come much quicker.
 <br><br>
 
 **RR: Now, you've worked on 8 Global underground mix series to date. Can you tell us any stand out memories you have from the countries you visited to record them?**
 
-Nick: My favourite of my albums was Reykjavik and I absolutely loved Iceland, the people are super cool, they love music drink and great food plus they have some of the finest salmon rivers in the world, its a dream place for me.
+Nick: My favourite of my albums was Reykjavik and I absolutely loved Iceland. The people are super cool; they love music and drink and have great food plus they have some of the finest salmon rivers in the world. It's a dream place for me.
 <br><br>
 
 **RR: Big question… what would you say has been the most memorable gig of your career?**
@@ -51,14 +52,14 @@ Nick: My favourite of my albums was Reykjavik and I absolutely loved Iceland, th
 Nick: There's one coming up next year at the start of June. More info coming soon...
 <br><br>
 
-**RR: The life of a top flight DJ involves a lot of travelling, disrupted sleep and environments where alcohol and drugs are freely available. Have you experienced times when the lifestyle was getting on top of you? How do you cope with those pressures?**
+**RR: We'll keep an eye out for the announcement. The life of a top flight DJ involves a lot of travelling, disrupted sleep and environments where alcohol and drugs are freely available. Have you experienced times when the lifestyle was getting on top of you? How do you cope with those pressures?**
 
-Nick: Lots and lots of sleep. I tend to sleep 3 times a day when i am touring, if there is any chance to shut your eyes then do it!
+Nick: Lots and lots of sleep. I tend to sleep 3 times a day when I am touring. If there is any chance to shut your eyes then do it!
 <br><br>
 
 **RR: Finally - what have you got planned for the rest of the year? **
 
-Nick: The label is stepping up with lots more releases, we have some The Soundgarden events all over the globe and some new music from myself and Nicolas Rada.
+Nick: The label is stepping up with lots more releases and have more 'The Soundgarden' events all over the globe and some new music from myself and Nicolas Rada.
 <br><br>
 
 **RR: Enjoy your time in Australia. Cheers!**
