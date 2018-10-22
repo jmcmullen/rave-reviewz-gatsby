@@ -1,11 +1,13 @@
 ---
 templateKey: interview-post
 path: /interview/nick-warren
-title: 'Nick Warren on '
-date: 2018-10-22T05:30:19.324Z
-description: TBC
+title: NICK WARREN on supporting great artists
+date: 2017-08-01T16:30:19+10:00
+description: 'Our interview with the progressive house legend. '
 featuredImage: /img/nick-warren-press.jpg
 ---
+With a career spanning several decades, Progressive House pioneer Nick Warren discusses mental health...TBC
+
 **RR: Thanks for joining us Nick. We're looking forward to your sets at Café Del Mar and S.A.S.H. Talk us through your previous experiences of playing in Sydney.**
 
 Nick: [Sydney](https://www.ravereviewz.net/Events) has always been very special for me. One of the highlights was the first time I played at Home Club in Darling Harbour. At that time it was the number one club in Sydney and had an incredible atmosphere with people dancing in every space they could find. Also of course all the great festivals you have in the city were a joy to play at.
