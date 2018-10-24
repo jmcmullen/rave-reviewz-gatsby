@@ -69,3 +69,6 @@ Nick: The label is stepping up with lots more releases and more 'The Soundgarden
 <br><br>
 
 **RR: Sounds good. Enjoy your time in Australia Nick, cheers.**
+<br><br>
+
+_Catch Nick on tour Down Under in the coming weeks. Details [here](https://www.facebook.com/pg/NickWarrenDJ/events/)._
