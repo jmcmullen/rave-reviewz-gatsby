@@ -45,6 +45,8 @@ Nick: Releasing music these days is not an easy thing to do. There is just so mu
 
 Nick: Weirdly there was no hiatus, it was indeed 5 years between albums but we started and continued to work together on tracks the whole time. Years just seem to slip by so fast but we promise the next one will come much quicker!
 
+![](/img/way-out-west.jpg)
+
 **RR: Now, you've worked on 8 Global underground mix series to date. Can you tell us any stand out memories you have from the countries you visited to record them?**
 
 Nick: My favourite of my albums was Reykjavik. I absolutely loved Iceland, the people are super cool - they love music and drink and have great food, plus they have some of the finest salmon rivers in the world. It's a dream place for me.
