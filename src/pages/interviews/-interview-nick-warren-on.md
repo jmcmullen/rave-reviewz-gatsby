@@ -6,7 +6,7 @@ date: 2018-10-24T07:30:19.000Z
 description: 'Our interview with the progressive house legend. '
 featuredImage: /img/nick-warren-press.jpg
 ---
-_Before his extended Oceanic tour, we caught prog master Nick Warren to discuss his extensive experience in the game, the highly-anticipated return of Way West and more..._
+_Before his extended Oceanic tour, we caught prog master Nick Warren to discuss his extensive experience in the game, the highly-anticipated return of Way out West and more..._
 <br><br>
 
 **RR: Thanks for joining us Nick. We're looking forward to your sets at Café Del Mar and S.A.S.H. Talk us through your previous experiences of playing in Sydney.**
@@ -45,7 +45,7 @@ Nick: Releasing music these days is not an easy thing to do. There is just so mu
 
 Nick: Weirdly there was no hiatus, it was indeed 5 years between albums but we started and continued to work together on tracks the whole time. Years just seem to slip by so fast but we promise the next one will come much quicker!
 
-![](/img/way-out-west.jpg)
+![null](/img/way-out-west.jpg)
 
 **RR: Now, you've worked on 8 Global underground mix series to date. Can you tell us any stand out memories you have from the countries you visited to record them?**
 
@@ -69,3 +69,6 @@ Nick: The label is stepping up with lots more releases and more 'The Soundgarden
 <br><br>
 
 **RR: Sounds good. Enjoy your time in Australia Nick, cheers.**
+<br><br>
+
+_Catch Nick on tour Down Under in the coming weeks. Details [here](https://www.facebook.com/pg/NickWarrenDJ/events/)._
