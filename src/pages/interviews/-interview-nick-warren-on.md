@@ -1,8 +1,8 @@
 ---
 templateKey: interview-post
 path: /interview/nick-warren
-title: NICK WARREN on progressing in the music business
-date: 2018-10-24T18:30:19+11:00
+title: NICK WARREN on progressing in music
+date: 2018-10-24T07:30:19.000Z
 description: 'Our interview with the progressive house legend. '
 featuredImage: /img/nick-warren-press.jpg
 ---
@@ -14,7 +14,7 @@ _Before his extended Oceanic tour, we caught prog master Nick Warren to discuss 
 Nick: [Sydney](https://www.ravereviewz.net/Events) has always been very special for me. One of the highlights was the first time I played at Home Club in Darling Harbour. At that time it was the number one club in Sydney and had an incredible atmosphere with people dancing in every space they could find. All the great festivals you have in the city were also a joy to play at, of course.
 <br><br>
 
-**RR: Congratulations on being nominated in the ‘Progressive house DJ’ category at the DJ awards last month. How did it feel to be recognised? **
+**RR: Congratulations on being nominated in the ‘Progressive house DJ’ category at the DJ awards last month. How did it feel to be recognised?**
 
 Nick: It's always nice to be acknowledged for what you do. My great friend Hernan Cattaneo won and it was well deserved. 
 <br><br>
@@ -25,7 +25,7 @@ Nick: We have been the best of friends for a very long time and both really enjo
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNickWarrenDJ%2Fvideos%2F10156619929273762%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-**RR: "Progressive house" is a term that's associated with a variety of different sounds. As one of its pioneers, how would you describe it in your own words? **
+**RR: "Progressive house" is a term that's associated with a variety of different sounds. As one of its pioneers, how would you describe it in your own words?**
 
 Nick: It covers so many bases these days but in a nutshell - I would describe it as melodic house with drive and energy.
 <br><br>
@@ -45,7 +45,7 @@ Nick: Releasing music these days is not an easy thing to do. There is just so mu
 
 Nick: Weirdly there was no hiatus, it was indeed 5 years between albums but we started and continued to work together on tracks the whole time. Years just seem to slip by so fast but we promise the next one will come much quicker!
 
-!\[](/img/way out west.jpg)
+![](/img/way-out-west.jpg)
 
 **RR: Now, you've worked on 8 Global underground mix series to date. Can you tell us any stand out memories you have from the countries you visited to record them?**
 
