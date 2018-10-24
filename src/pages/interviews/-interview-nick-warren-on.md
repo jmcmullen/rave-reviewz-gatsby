@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview/nick-warren
 title: NICK WARREN on progressing in the music business
-date: 2017-08-02T06:30:19.000Z
+date: 2018-10-24T18:30:19+11:00
 description: 'Our interview with the progressive house legend. '
 featuredImage: /img/nick-warren-press.jpg
 ---
