@@ -29,7 +29,7 @@ Sam explained the idea behind All Eyes on Us when we caught up with him… “We
 Isaac added “the artists playing in each showcase include talented DJs starting out alongside two well known DJs whose names are only revealed 24 hours before the show”. ...The suspense!
 <br><br>
 
-The first edition of the show is at Monkey Magic this Friday 2nd November, with Frederick Gallagher Ulia, DrMood and Sam Ritter warming up for the mystery headliners. With halloween costumes encouraged and prizes on offer for best outfit, we reckon there are bound be a few ‘ghost of Tupac’ ensembles at All Eyes on Us!
+The first edition of the show is at Monkey Magic this Friday 2nd November, with Frederick Gallagher, Ulia, Dr Mood and Sam Ritter warming up for the mystery headliners. With halloween costumes encouraged and prizes on offer for best outfit, we reckon there are bound be a few ‘ghost of Tupac’ ensembles at All Eyes on Us!
 <br><br>
 
 _Head down to the free event this Friday Nov 2nd at Monkey Magic, Darlinghurst. Details [here](https://www.facebook.com/events/170228650576998/)_
