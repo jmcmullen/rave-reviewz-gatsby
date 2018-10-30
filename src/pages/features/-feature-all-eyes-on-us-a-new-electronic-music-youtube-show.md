@@ -30,4 +30,4 @@ The first edition of the show is at Monkey Magic this Saturday 3rd November, wit
 
 _Head down to the free event this Saturday at Monkey Magic, Darlinghurst. Details [here](https://www.facebook.com/events/170228650576998/)_
 
-_Or catch the action on the [YouTube channel](https://www.facebook.com/events/170228650576998/) afterwards._
+_Or catch the action on the _[YouTube channel](https://www.youtube.com/channel/UCFC9fFSKjuRx3smQZfpYv8A)_ afterwards._
