@@ -25,9 +25,9 @@ We featured Sam on the Rave Reviewz show a while ago when he smashed a mix for u
 Sam explained the idea behind All Eyes on Us when we caught up with him… “We want it to be an open stage for DJs in Sydney, to help them showcase their skills and expose them to wider audiences, in an effort to help promote them worldwide”. Isaac added “the artists playing in each showcase include talented DJs starting out alongside two well known DJs whose names are only revealed 24 hours before the show”. ...The suspense!
 <br>
 
-The first edition of the show is at Monkey Magic this Friday 2nd November, with Frederick Gallagher, Ulia, Dr Mood and Sam Ritter warming up for the mystery headliners. With halloween costumes encouraged and prizes on offer for best outfit, we reckon there are bound be a few ‘ghost of Tupac’ ensembles at All Eyes on Us!
+The first edition of the show is at Monkey Magic this Saturday 3rd November, with Frederick Gallagher, Ulia, Dr Mood and Sam Ritter warming up for the mystery headliners. With halloween costumes encouraged and prizes on offer for best outfit, we reckon there are bound to be a few ‘ghost of Tupac’ ensembles at All Eyes on Us!
 <br>
 
-_Head down to the free event this Friday Nov 2nd at Monkey Magic, Darlinghurst. Details [here](https://www.facebook.com/events/170228650576998/)_
+_Head down to the free event this Saturday at Monkey Magic, Darlinghurst. Details [here](https://www.facebook.com/events/170228650576998/)_
 
 _Or catch the action on the [YouTube channel](https://www.facebook.com/events/170228650576998/) afterwards._
