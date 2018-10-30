@@ -1,7 +1,7 @@
 ---
 templateKey: review-post
 path: /feature-all-eyes-on-us
-title: 'All Eyes on Us: a new electronic music Youtube show'
+title: 'All Eyes on Us: the electronic music Youtube show'
 date: 2018-10-30T07:04:17.747Z
 description: >-
   The legends behind Sydney's Eyes are cooking up something special for the
