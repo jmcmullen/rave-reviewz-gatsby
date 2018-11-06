@@ -4,7 +4,7 @@ path: /interview-carl-cox-anxiety-gender-equality-drug-policy
 title: 'Carl Cox on anxiety, gender equality and drug policy'
 date: 2018-11-06T03:57:32.737Z
 description: 'Round 2 with the biggest name in house and techno music, Carl Cox. '
-featuredImage: /img/carl-cox-thinking.jpg
+featuredImage: /img/carl-cox-thinking2.jpg
 ---
 _In this second deep and personal chat with the legendary Carl Cox, Kamran Ahmed explores a range of topics ranging from his upcoming events to his experiences of anxiety, his views on gender equality and more..._
 <br><br>
@@ -121,4 +121,4 @@ It’s a very difficult thing that’s been going on for many many years. It’s
 Carl: No worries, thanks. Bye for now.
 <br><br>
 
-_Catch Carl Cox at Carl & Eric's mobile disco and Space Melbourne & Sydney, tickets _[_here_](http://www.carlcox.com/tour-dates/index.html)_._
+_Catch Carl Cox at Carl & Eric's mobile disco and Space Melbourne & Sydney, tickets [here](http://www.carlcox.com/tour-dates/index.html)._
