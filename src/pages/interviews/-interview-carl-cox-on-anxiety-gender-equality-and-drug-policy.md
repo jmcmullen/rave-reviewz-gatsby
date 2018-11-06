@@ -52,7 +52,7 @@ At the mobile discos, doing a 7 or 8 hour set shared between me and Eric is actu
 
 ![null](/img/carl-eric.jpeg)
 
-**Kamran: We touched on giving people the opportunity to get on a line-up which is the flip side of the extended sets and there's one thing I wanted to get your thoughts on Carl. These days, quite rightly there’s a lot of talk about equality and having gender equality on line-ups, it’s something that we have been talking about in Sydney too. People have different views on how to go about doing that, we’ve had nights which have an all female line-up, which has also drawn some criticism from people, who say that it’s trivialising the issue. Other people say you should have at least one female DJ on a line-up, others say that it should be purely down to talent, that people should be booked strictly on skill regardless of their gender. What are your thoughts on that?**
+**Kamran: We touched on giving people the opportunity to get on a line-up which is the flip side of the extended sets and there's one thing I wanted to get your thoughts on Carl. These days, quite rightly there’s a lot of talk about equality and having gender equality on line-ups. People have different views on how to go about doing that, in Sydney we’ve had nights which have an all female line-up, which has also drawn some criticism from some people who say that it’s trivialising the issue. Other people say you should have at least one female DJ on a line-up, others say that it should be purely down to talent, that people should be booked strictly on skill regardless of their gender. What are your thoughts on that?**
 
 Carl: As you can imagine, I’ve been doing this for so many years... and 9 times out of 10 you’re going to see a male DJ up there whether it’s radio or live shows, it tends to be male-dominated and it has been for many years. But as things break down you are seeing a lot more women and girls coming in to the fold as talented artists and DJs, as the voice of their gender. It's necessary - I’ve always been a great advocate for bringing more girls and women into the fold of our industry, because it is so male dominated. I pioneered and got behind Nicole Moudaber... I said that she was one of the most underrated DJs that I have ever seen and she needs to be heard - and now look where she is, she's massive!
 
@@ -71,7 +71,7 @@ These all attributes you need to have when you’re out there performing, you ne
 So I agree with females coming in to the fold in a male dominated industry, but I don’t agree with having an all-female line-up. There is no need to try to blatantly book DJs because they’re female.
 <br><br>
 
-**Kamran: You described some of the difficulties that people have to encounter in the DJ lifestyle. You and I have talked about mental health in the industry before, but one thing we didn’t talk about last time is performance anxiety. So we interviewed Archie Hamilton of Fuse recently, a great producer and DJ, and he was talking to us about performance anxiety and how it can be a challenge. Did you ever get really anxious before you were performing? Does it still happen now? And how do you cope with it if it does happen?**
+**Kamran: You described some of the difficulties that people have to encounter in the DJ lifestyle. You and I **[**have talked about mental health**](https://magazine.ravereviewz.net/interview/carl-cox-pure)** in the industry before, but one thing we didn’t talk about last time is performance anxiety. So we interviewed Archie Hamilton of Fuse recently, a great producer and DJ, and he was talking to us about performance anxiety and how it can be a challenge. Did you ever get really anxious before you were performing? Does it still happen now? And how do you cope with it if it does happen?**
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F722235428133439%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
@@ -121,4 +121,4 @@ It’s a very difficult thing that’s been going on for many many years. It’s
 Carl: No worries, thanks. Bye for now.
 <br><br>
 
-_Catch Carl Cox at the Carl & Eric's mobile disco, and Space Melbourne & Sydney, tickets _[_here_](http://www.carlcox.com/tour-dates/index.html)_._
+_Catch Carl Cox at Carl & Eric's mobile disco and Space Melbourne & Sydney, tickets _[_here_](http://www.carlcox.com/tour-dates/index.html)_._
