@@ -3,10 +3,10 @@ templateKey: interview-post
 path: /interview/blondish
 title: 'BLOND:ISH on sustainable raving'
 date: 2017-08-01T02:37:23.000Z
-description: TBC
+description: Our thought-provoking chat with the proactive duo.
 featuredImage: /img/blondish.jpg
 ---
-After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss the colourful festival, ABRACADABRA brand and Bye Bye Plastic project. 
+After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss spirituality, their ABRACADABRA brand and sustainable rave culture.
 
 **RR: Vivie-Ann, great to chat. Let’s start by talking about **[**Return to Rio**](https://magazine.ravereviewz.net/interview/ricky-cooper)** where we caught your set. How was your experience of the festival and what was it like performing there? **
 
@@ -14,11 +14,11 @@ Vivie-Ann: Loved the vibe at this boutique festival and felt the intimate family
 
 ![null](/img/blondish-return-to-rio.jpeg)
 
-**RR: You’re also a speaker at the EMC Conference in Sydney. In broad terms, what will you be discussing?**
+**RR: You’re also a speaker at the EMC Conference in **[**Sydney**](https://www.ravereviewz.net/events)**. In broad terms, what will you be discussing?**
 
-Vivie-Ann: On these panels it can always go in a few directions depending on how many people are on them, but I have been very passionate about reducing single use plastics in our scene. I would love to go more in depth on the master plan I’ve been building for this, through the Bye Bye Plastic initiative for DJs, venues and promoters. Basically what I noticed from many conversations with DJs and colleagues in our scene is that we all want change, but nobody has time to do it. So after 10,000 conversations on it at dinners and after parties, I decided to take the baton and go deep on it.
+Vivie-Ann: On these panels it can always go in a few directions depending on how many people are on them, but I have been very passionate about reducing single-use plastics in our scene. I would love to go more in depth on the master plan I’ve been building for this, through the Bye Bye Plastic initiative for DJs, venues and promoters. Basically what I noticed from many conversations with DJs and colleagues in our scene is that we all want change, but nobody has time to do it. So after 10,000 conversations on it at dinners and after parties, I decided to take the baton and go deep on it.
 
-In a nutshell, I’ve put a little team together and have been doing all the research starting in territories like UK, Spain, USA and Mexico and finding solutions to single use plastics - namely straws, water bottles and cups (to start). During the booking process of a DJ, they or the agent can open up a conversation like "hey, before we confirm we just wanted to talk about what’s really important to us at the moment and that’s reducing single use plastics — and what’s your thoughts on the topic?" It will come with an info sheet and if the promoter/venue would like to work on solutions, then they can call the Bye Bye Plastic Hotline and there will be a team of people to help come up with a solution unique to your venue. Because there is no "one size fits" all solution for moving to sustainable practices. Let me tell you, it’s another rabbit hole! But super exciting, because everyone is super eager for change!
+In a nutshell, I’ve put a little team together and have been doing all the research starting in territories like UK, Spain, USA and Mexico and finding solutions to single-use plastics - namely straws, water bottles and cups. During the booking process of a DJ, they or the agent can open up a conversation along the lines of, "before we confirm, we just wanted to talk about what’s really important to us at the moment and that’s reducing single-use plastics. What are your thoughts on the topic?" It will come with an info sheet and if the promoter/venue would like to work on solutions, then they can call the Bye Bye Plastic Hotline and there will be a team of people to help come up with a solution unique to your venue. Because there is no "one size fits" all solution for moving to sustainable practices. Let me tell you, it’s another rabbit hole! But super exciting, because everyone is super eager for change!
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBlondish%2Fvideos%2F352404768843842%2F&show_text=0&width=560" width="560" height="238" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
@@ -33,18 +33,18 @@ Vivie-Ann: The new venture has been such an incredible learning process, and lik
 
 **RR: The inaugural release, ‘Circus’ has been well received. What was the inspiration behind the track? Talk us through its development.**
 
-Vivie-Ann: We really just wanted to make a track that was fun and you felt like you were in a circus in the summer.  We had these "let’s get in the circus" vibes for the summer last year... and that’s what happened! We found a Serbian folk type track and sampled it a bunch of different ways and out came the circus! 
+Vivie-Ann: We really just wanted to make a track that was fun and to make you feel like you were in a circus in the summer.  We had these "let’s get in the circus" vibes last year... and that’s what happened! We found a Serbian folk type track and sampled it a bunch of different ways and out came the circus! 
 
 <iframe src="https://embed.beatport.com/?id=10959995&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-**RR: We know you had your own stage at Tomorrowland this year. How was that given that the music on offer is predominantly EDM?**
+**RR: Haha we definitely got the circus vibes. Now we know you had your own stage at Tomorrowland this year. How was that given that the music on offer is predominantly EDM?**
 
 Vivie-Ann: Of course we also asked ourselves these question before confirming! We have a good friend who is close knit on the Tomorrowland team and he frequents Tulum and is a green warrior — so we had lots of conversations about it and we all decided the timing might be right to plant some seeds with the masses! We still have a lot of work to do but the experience was incredible and the production there is just wow! I think we have a lot to learn from each other! One thing I can say though is that Tomorrowland, being the biggest and one of the most influential festivals in the world, could take a much larger initiative in sustainability! If you’re reading this Tomorrowland or any other festival venue promoter or artist or brand and you have some questions on how to start, get in touch with me, we all have to take some steps together.
 <br><br>
 
-**RR: We know you are strong advocates for protecting the world’s oceans from plastic, which we applaud you for. We recently held a campaign and event to raised money for mental health charities, which is an important cause for us. Apart from fundraising activities, how do you think music can be a force for positive change in the world?**
+**RR: We know you and Anstascia are strong advocates for protecting the world’s oceans from plastic, which we applaud you for. We recently held a campaign and event to raised money for mental health charities, which is an important cause for us. Apart from fundraising activities, how do you think music can be a force for positive change in the world?**
 
-Vivie-Ann: DJs can use their voice, to bring together their community on topics close to their hearts. As BLOND:ISH we implement the Bye Bye Plastic project with almost every gig and with these little step-by-step changes, change the single use plastic hurdle. Paying more attention to this will change our behaviors as consumers and our consumption can be minimized over time - it’s a domino effect. I put special frequencies in our music without telling people to give a positive vibe! Whether it’s creativity or love or compassion.
+Vivie-Ann: DJs can use their voice, to bring together their community on topics close to their hearts. As BLOND:ISH we implement the Bye Bye Plastic project with almost every gig and with these little step-by-step changes, change the single-use plastic hurdle. Paying more attention to this will change our behaviors as consumers and our consumption can be minimized over time - it’s a domino effect. I put special frequencies in our music without telling people to give a positive vibe! Whether it’s creativity or love or compassion.
 
 ![null](/img/blondish-ibiza.jpg)
 
