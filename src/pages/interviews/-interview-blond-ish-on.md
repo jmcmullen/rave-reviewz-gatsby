@@ -14,7 +14,7 @@ Vivie-Ann: Loved the vibe at this boutique festival and felt the intimate family
 
 ![null](/img/blondish-return-to-rio.jpeg)
 
-**RR: It really was an unforgettable weekend. You’re also a speaker at the EMC Conference in **[**Sydney**](https://www.ravereviewz.net/events)** tomorrow. In broad terms, what will you be discussing?**
+**RR: It really was an unforgettable weekend. You’re also a speaker at the EMC Conference in [Sydney](https://www.ravereviewz.net/events) tomorrow. In broad terms, what will you be discussing?**
 
 Vivie-Ann: On these panels it can always go in a few directions depending on how many people are on them, but I have been very passionate about reducing single-use plastics in our scene. I would love to go more in depth on the master plan I’ve been building for this, through the Bye Bye Plastic initiative for DJs, venues and promoters. Basically what I noticed from many conversations with DJs and colleagues in our scene is that we all want change, but nobody has time to do it. So after 10,000 conversations on it at dinners and after parties, I decided to take the baton and go deep on it.
 
@@ -57,6 +57,6 @@ Vivie-Ann: We’re excited for our first show of 2019, which is ABRACADABRA in T
 **RR: Wicked. Thank you for the chat and all the best.**
 <br><br>
 
-_Catch Blond:ish on the rest of their Fall Tour [here].(https://www.facebook.com/Blondish/videos/2067841063268365/)_
+_Catch Blond:ish on the rest of their Fall Tour [here](https://www.facebook.com/Blondish/videos/2067841063268365/)._
 
 _Photo: Valya Karchevskaya Phantomography_
