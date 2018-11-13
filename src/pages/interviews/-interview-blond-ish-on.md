@@ -1,12 +1,12 @@
 ---
 templateKey: interview-post
 path: /interview/blondish
-title: 'BLOND:ISH on sustainable partying'
+title: 'BLOND:ISH on sustainable raving'
 date: 2017-08-01T02:37:23.000Z
 description: TBC
 featuredImage: /img/blondish.jpg
 ---
-After dropping one of the standout sets at Return to Rio, we spoke to Vivie-Ann of BLOND:ISH to discuss the festival, ABRACADBRA brand and Bye Bye Plastic project. 
+After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss the colourful festival, ABRACADABRA brand and Bye Bye Plastic project. 
 
 **RR: Vivie-Ann, great to chat. Let’s start by talking about **[**Return to Rio**](https://magazine.ravereviewz.net/interview/ricky-cooper)** where we caught your set. How was your experience of the festival and what was it like performing there? **
 
@@ -53,6 +53,6 @@ Vivie-Ann: DJs can use their voice, to bring together their community on topics 
 Vivie-Ann: We’re excited for our first show of 2019, which is ABRACADABRA in Tulum, Mexico on the beach of course! As cliché as it seems I wanna take this DJ and music community to the next level and change the world!! The layers that sound has are endless. It’s even outside the scope of our understanding because of our limited senses, it’s everywhere!
 <br><br>
 
-_Catch Blond:ish at the rest of their Fall Tour _[_here_](https://www.facebook.com/Blondish/videos/2067841063268365/)
+_Catch Blond:ish on the rest of their Fall Tour _[_here_](https://www.facebook.com/Blondish/videos/2067841063268365/)
 
 Photo: Valya Karchevskaya Phantomography
