@@ -54,6 +54,6 @@ Vivie-Ann: We’re excited for our first show of 2019, which is ABRACADABRA in T
 
 RR: Thanks for the chat Vivie-Ann.
 
-_Catch Blond:ish on the rest of their Fall Tour [here_](https://www.facebook.com/Blondish/videos/2067841063268365/)
+_Catch Blond:ish on the rest of their Fall Tour [here](https://www.facebook.com/Blondish/videos/2067841063268365/)_
 
 Photo: Valya Karchevskaya Phantomography
