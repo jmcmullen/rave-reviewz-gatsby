@@ -32,6 +32,7 @@ When I got in touch with my inner self and started exploring breath work and dif
 **RR: Congratulations on the development of the ABRACADABRA event brand into an imprint. How has the new venture been going? Any challenges so far?**
 
 Vivie-Ann: The new venture has been such an incredible learning process and like a playground, because we have been able to incorporate all the different interests and ideas we’ve been gathering over the years, on how we can go deeper with music also connect on a deeper level with our community while being kids in a candy store and constantly being curious. Being able to incorporate all that goodness at our ABRA parties and then see what comes of it is the greatest feeling. In terms of challenges, many venues and promoters want to lump ABRA into a branded party... but it’s much more than that and far more tailored than bringing some signage and some decor and DJs. There’s a lot more going on in the details that is super subtle, but it’s what you remember when you leave after the party. So we have to explain this to a lot of promoters and basically tell them it’s not for clubs... it’s really for unique venues where we can create a curated playground for our community. 
+<br><br>
 
 **RR: The inaugural release, ‘Circus’ has been well received. What was the inspiration behind the track? Talk us through its development.**
 
@@ -53,9 +54,11 @@ Vivie-Ann: DJs can use their voice, to bring together their community on topics 
 **RR: And finally what’s up next for Blond:ish? And looking to the future, what would you most like to achieve in your careers?**
 
 Vivie-Ann: We’re excited for our first show of 2019, which is ABRACADABRA in Tulum, Mexico on the beach of course! As cliché as it seems I wanna take this DJ and music community to the next level and change the world! The layers that sound has are endless. It’s even outside the scope of our understanding because of our limited senses, it’s everywhere!
+<br><br>
 
-RR: Thanks for the chat Vivie-Ann.
+RR: Wicked. Thanks for the chat and all the best.
+<br><br>
 
-_Catch Blond:ish on the rest of their Fall Tour [here_](https://www.facebook.com/Blondish/videos/2067841063268365/)
+_Catch Blond:ish on the rest of their Fall Tour [here](https://www.facebook.com/Blondish/videos/2067841063268365)._
 
 Photo: Valya Karchevskaya Phantomography
