@@ -3,7 +3,7 @@ templateKey: interview-post
 path: /interview/blondish
 title: 'BLOND:ISH on sustainable raving'
 date: 2017-08-01T02:37:23.000Z
-description: Our thought-provoking chat with the proactive duo.
+description: Our Return to Rio debrief with the proactive duo.
 featuredImage: /img/blondish.jpg
 ---
 After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss spirituality, their ABRACADABRA brand and sustainable rave culture.
