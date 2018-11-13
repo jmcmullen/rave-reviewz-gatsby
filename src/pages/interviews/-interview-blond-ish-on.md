@@ -14,7 +14,7 @@ Vivie-Ann: Loved the vibe at this boutique festival and felt the intimate family
 
 ![null](/img/blondish-return-to-rio.jpeg)
 
-**RR: You’re also a speaker at the EMC Conference in **[**Sydney**](https://www.ravereviewz.net/events)**. In broad terms, what will you be discussing?**
+**RR: You’re also a speaker at the EMC Conference in [Sydney](https://www.ravereviewz.net/events)**. In broad terms, what will you be discussing?**
 
 Vivie-Ann: On these panels it can always go in a few directions depending on how many people are on them, but I have been very passionate about reducing single-use plastics in our scene. I would love to go more in depth on the master plan I’ve been building for this, through the Bye Bye Plastic initiative for DJs, venues and promoters. Basically what I noticed from many conversations with DJs and colleagues in our scene is that we all want change, but nobody has time to do it. So after 10,000 conversations on it at dinners and after parties, I decided to take the baton and go deep on it.
 
