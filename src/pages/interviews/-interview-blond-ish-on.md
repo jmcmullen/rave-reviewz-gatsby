@@ -6,7 +6,7 @@ date: 2017-08-01T02:37:23.000Z
 description: A Return to Rio debrief with the proactive DJ duo.
 featuredImage: /img/blondish.jpg
 ---
-After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss spirituality, their ABRACADABRA brand and sustainable rave culture.
+_After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss spirituality, their ABRACADABRA brand and sustainable rave culture._
 
 **RR: Vivie-Ann, great to chat. Let’s start by talking about [Return to Rio](https://magazine.ravereviewz.net/interview/ricky-cooper) where we caught your set. How was your experience of the festival and what was it like performing there?**
 
