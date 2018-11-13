@@ -6,7 +6,7 @@ date: 2017-08-01T02:37:23.000Z
 description: Our Return to Rio debrief with the proactive duo.
 featuredImage: /img/blondish.jpg
 ---
-After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss spirituality, their ABRACADABRA brand and sustainable rave culture.
+_After delivering one of the standout sets at Return to Rio, we caught up with Vivie-Ann of BLOND:ISH to discuss spirituality, the ABRACADABRA brand and sustainable rave culture._
 
 **RR: Vivie-Ann, great to chat. Let’s start by talking about [Return to Rio](https://magazine.ravereviewz.net/interview/ricky-cooper) where we caught your set. How was your experience of the festival and what was it like performing there?**
 
@@ -37,23 +37,24 @@ Vivie-Ann: We really just wanted to make a track that was fun and to make you fe
 
 <iframe src="https://embed.beatport.com/?id=10959995&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-**RR: Haha we definitely got the circus vibes. Now we know you had your own stage at Tomorrowland this year. How was that given that the music on offer is predominantly EDM?**
+**RR: Haha we definitely get the circus vibes. Now we know you had your own stage at Tomorrowland this year. How was that given that the music on offer is predominantly EDM?**
 
-Vivie-Ann: Of course we also asked ourselves these question before confirming! We have a good friend who is close knit on the Tomorrowland team and he frequents Tulum and is a green warrior — so we had lots of conversations about it and we all decided the timing might be right to plant some seeds with the masses! We still have a lot of work to do but the experience was incredible and the production there is just wow! I think we have a lot to learn from each other! One thing I can say though is that Tomorrowland, being the biggest and one of the most influential festivals in the world, could take a much larger initiative in sustainability! If you’re reading this Tomorrowland or any other festival venue promoter or artist or brand and you have some questions on how to start, get in touch with me, we all have to take some steps together.
+Vivie-Ann: Of course we also asked ourselves these question before confirming! We have a good friend who is close knit on the Tomorrowland team and he frequents Tulum and is a green warrior — so we had lots of conversations about it and we all decided the timing might be right to plant some seeds with the masses! We still have a lot of work to do but the experience was incredible and the production there is just wow! I think we have a lot to learn from each other! One thing I can say though is that Tomorrowland, being the biggest and one of the most influential festivals in the world, could take a much larger initiative in sustainability! If you are reading this, Tomorrowland or any other festival. venue, promoter, artist or brand and you have some questions on how to start, get in touch with me, we all have to take some steps together.
 <br><br>
 
-**RR: We know you and Anstascia are strong advocates for protecting the world’s oceans from plastic, which we applaud you for. We recently held a campaign and event to raised money for mental health charities, which is an important cause for us. Apart from fundraising activities, how do you think music can be a force for positive change in the world?**
+**RR: Definitely. We know you and Anstascia are strong advocates for protecting the world’s oceans from plastic, which we applaud you for. We recently held a campaign and event to raised money for mental health charities, which is an important cause for us. Apart from fundraising activities, how do you think music can be a force for positive change in the world?**
 
 Vivie-Ann: DJs can use their voice, to bring together their community on topics close to their hearts. As BLOND:ISH we implement the Bye Bye Plastic project with almost every gig and with these little step-by-step changes, change the single-use plastic hurdle. Paying more attention to this will change our behaviors as consumers and our consumption can be minimized over time - it’s a domino effect. I put special frequencies in our music without telling people to give a positive vibe! Whether it’s creativity or love or compassion.
 
 ![null](/img/blondish-ibiza.jpg)
 
-**RR: And finally what’s up next for Blond:ish? And looking to the future, what would you most like to achieve in your careers?**
+**RR: VerAnd finally what’s up next for Blond:ish? And looking to the future, what would you most like to achieve in your careers?**
 
 Vivie-Ann: We’re excited for our first show of 2019, which is ABRACADABRA in Tulum, Mexico on the beach of course! As cliché as it seems I wanna take this DJ and music community to the next level and change the world! The layers that sound has are endless. It’s even outside the scope of our understanding because of our limited senses, it’s everywhere!
 
-RR: Thanks for the chat Vivie-Ann.
+RR: Wicked. All the best Vivie-Ann.
+<br><br>
 
-_Catch Blond:ish on the rest of their Fall Tour [here_](https://www.facebook.com/Blondish/videos/2067841063268365/)
+_Catch Blond:ish on the rest of their Fall Tour [here](https://www.facebook.com/Blondish/videos/2067841063268365/)_
 
 Photo: Valya Karchevskaya Phantomography
