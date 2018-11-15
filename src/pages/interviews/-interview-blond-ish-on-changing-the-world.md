@@ -12,7 +12,7 @@ _After BLOND:ISH delivered one of the standout sets at Return to Rio, we caught 
 
 Vivie Ann: Loved this boutique festival and felt the intimate family vibes even on the main stage. I especially loved the homemade costumes and one guy’s giant house of cards top hat! I think the best part of playing at Return to Rio was the number of smiles exchanged with everyone on the dance floor - I felt instantly connected.
 
-![](/img/blondish-ludlow.jpeg)
+![null](/img/blondish-ludlow.jpeg)
 
 **RR: Yeah it was pretty unforgettable. You’re also a speaker at the EMC Conference in [Sydney](https://www.ravereviewz.net/events) tonight. In broad terms, what will you be discussing?**
 
@@ -49,7 +49,7 @@ Vivie Ann: Of course we also asked ourselves these question before confirming! W
 We still have a lot of work to do but the experience was incredible and the production there is just WOW. I think we have a lot to learn from each other... one thing I can say though is that Tomorrowland, being the biggest and one of the most influential festivals in the world, could take more initiative with sustainability! If you’re reading this Tomorrowland or any other festival, venue, promoter or artist and you have questions on how to start, get in touch with me - we all have to take steps together.
 <br><br>
 
-**RR: We recently held a campaign and event to raised money for mental health charities, which is an important cause for us. Apart from fundraising activities, how do you think music can be a force for positive change in the world?**
+**RR: We recently held a campaign and event to raise money for mental health charities, which is an important cause for us. Apart from fundraising activities, how do you think music can be a force for positive change in the world?**
 
 Vivie Ann: DJs can use their voice to bring together their community on topics close to their hearts. As BLOND:ISH we implement the Bye Bye Plastic project in to almost every gig and with these little step-by-step changes, we can change the single-use plastic hurdle. Paying more attention to this will change our behaviours as consumers, so our consumption can be minimized over time - it’s a domino effect. I also put special frequencies in our music without telling people to give a positive vibe! Whether it’s creativity, love or compassion.
 
