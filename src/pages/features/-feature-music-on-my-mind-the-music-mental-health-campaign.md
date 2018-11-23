@@ -8,13 +8,13 @@ description: >-
   public AND music community
 featuredImage: /img/momm-fundraising-copy-4.png
 ---
+Our Music on my Mind campaign is now done! Absolutely STOKED to announce that we've raised a total of $18,750 for mental health charities Beyond Blue, Support Act and Black Dog Institute! HUGE thanks to all those who donated their time, skills, money or helped us spread the word :) Here's a little recap of the Music on my Mind: Rave for Mental Health. Stay tuned for more from Music on my Mind!
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F359731594802468%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+\-------------------------------------------------------------------------------------------------------
+
 During Mental Health Awareness month this October, electronic music website [Rave Reviewz](https://www.ravereviewz.net/) is launching MUSIC ON MY MIND - a music and mental health campaign with the aim of raising funds and awareness of mental health issues in the public AND music community. We hope you can support the cause!
-
-[**BUY TICKETS**](https://www.eventbrite.com.au/e/music-on-my-mind-tickets-49801360209) to our dress-up fundraising rave
-
-Make a [**DONATION**](https://supportact.org.au/music-on-my-mind/)
-
-Follow our [**FACEBOOK PAGE**](https://www.facebook.com/ravereviewz/) for daily posts on mental health & music in October
 <br><br>
 
 **BACKGROUND**
@@ -39,13 +39,9 @@ With the help of a grant from City of Sydney, we’ll be raising funds for three
 [**beyondblue**](https://www.beyondblue.org.au/) aims to equip everyone in Australia with the knowledge and skills to achieve their best possible mental health, whatever their age and wherever they live. 
 
 [**Black Dog Institute**](https://www.blackdoginstitute.org.au/) is dedicated to improving the lives of people affected by depression, bipolar disorder and suicide.
-
-MAKE A DONATION TO THESE AMAZING CHARITIES [**HERE**](https://supportact.org.au/music-on-my-mind/)
 <br><br>
 
 **MUSIC ON MY MIND: THE DRESS-UP RAVE**
-
-[**BUY TICKETS**](https://www.eventbrite.com.au/e/music-on-my-mind-tickets-49801360209)
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2194771464182201%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
@@ -71,7 +67,7 @@ Keep an eye on our [**Facebook page**](https://www.facebook.com/ravereviewz/) fo
 
 We are grateful for the support from all these fantastic organisations with this initiative:
 
-Afters / ALLFRIENDS / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / City of Sydney / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music /  Electronic Music Conference / Friday Records / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / MusicNSW / Norti Vikings / NSW Health / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Something Else / Spektrum / Standout Media / Summerlove / Summit DJs / Sutra / Sydney's Eyes / The Studio / This / Xposed Media / Zoo 
+Afters / ALLFRIENDS / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / City of Sydney / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music /  Electronic Music Conference / Friday Records / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / MusicNSW / Norti Vikings / NSW Health / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Something Else / Spektrum / Standout Media / Summerlove / Summit DJs / Sutra / Sydney's Eyes / The Studio / T1000 events / This / Xposed Media / Zoo 
 <br><br>
 
 If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
