@@ -77,7 +77,8 @@ I wouldn’t exchange my life for another but there are physical limitations to 
 I do find a bit of solace in going into the studio after putting my son to bed, and tinkering with things in there till midnight, with no interruptions from phone calls or other commitments that can take away from my focused creativity.
 
 Creative progress - something out of nothing - is the ultimate enjoyment, especially when you find that particular line in a vocal or a melody that can make the hairs on the back of your neck stand up, that’s the moment we are all waiting for. Because if it can excite us, then it can definitely excite other people.
-<br><br>
+
+![](/img/sister-bliss-press2.jpg)
 
 **RR: It’s interesting that you mention saying no to a lot of things and understanding your own limits. We ran a recent campaign for mental health awareness, what are some of the mental health challenges you face in the industry today?**
 
@@ -89,9 +90,9 @@ You are mainly providing entertainment for people over a weekend and that’s us
 
 There’s this pressure to also be bloody great, with a lot of competition out there, so you want to give your best. The biggest pressure for me is my own head, and trying to live well in a particular environment is a challenge especially when you have things thrown at you to entice you to drink more and whatever else. When you are young and first starting off, you are also looking for affirmation if your sense of self isn’t that strong. That’s when things can get really wonky.
 
-The other side of it is, when you are a performer, you come off that stage and you are pumped! My God, full of adrenaline and coming down off of that is quite intense and so people look to drugs and alcohol to prolong that high. It’s quite spiritual, because you’ve just made ten thousand people really happy, you’ve danced as one - “[We Come 1](https://www.youtube.com/watch?v=65EfTFUFDwI)”, that’s why we wrote that song, because it came from a specific experience of feeling that deep connection between ourselves and the audience. Coming off of that and back into reality is quite hard to deal sometimes.
+The other side of it is, when you are a performer, you come off that stage and you are pumped! My God, full of adrenaline and coming down off of that is quite intense and so people look to drugs and alcohol to prolong that high. It’s quite spiritual, because you’ve just made ten thousand people really happy, you’ve danced as one - “We Come 1”, that’s why we wrote that song, because it came from a specific experience of feeling that deep connection between ourselves and the audience. Coming off of that and back into reality is quite hard to deal sometimes.
 
-![null](/img/sister-bliss-press2.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65EfTFUFDwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **RR: What advice would you give to new DJs or producers?**
 
