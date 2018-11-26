@@ -21,7 +21,7 @@ Sister Bliss: That’s amazing, well now that people have grown up and had child
 What was mad was that we did a couple of years of touring off the back of our last album, Faithless 2.0, and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
 <br><br>
 
-**RR: Definitely. So what can people expect from a Faithless DJ set?**
+**RR: What can people expect from a Faithless DJ set?**
 
 Sister Bliss: Well you know, of course I’ll be playing the Faithless classics but I’ve got a radio show that helps me keep up to speed with new artists and music every week. So it’s important for me to look back and have this amazing catalogue of music of my own, of ‘dance heritage’ as I like to call it, which is timeless and fresh, but also to look forward and incorporate those two elements together. I don’t want to be seen as a retro DJ, that doesn’t interest me - pushing forward interests me. 
 
@@ -50,9 +50,7 @@ Sister Bliss: That’s a good question... we started on a very small label, we w
 
 But at the end of the day, we have to like the music that we are playing, and we created our own label to have the ability to do so and not have someone breathing down our necks telling us things like “oh that needs to be 3 minutes long” or “that needs to have a bigger chorus”.
 
-When we took Insomnia to Radio 1 in the UK, we were told it didn’t have a hook, it didn’t have a chorus, and to go away and stop being so silly, and it wasn’t until it became a massive hit across the world that we were able to bring it back to the UK to re-release it. 
-
-During that time also, there was a youth culture around underground dance music which was becoming massive and so it became harder for the radio stations and labels to ignore the growing trend, which helped contribute to it becoming more popular in that sense.
+When we took Insomnia to Radio 1 in the UK, we were told it didn’t have a hook, it didn’t have a chorus, and to go away and stop being so silly, and it wasn’t until it became a massive hit across the world that we were able to bring it back to the UK to re-release it. During that time there was a youth culture around underground dance music which was becoming massive and so it became harder for the radio stations and labels to ignore the growing trend, which helped contribute to it becoming more popular in that sense.
 
 Another good example is the band, Scissor Sisters. They were ignored but the stations were forced to play a record that went to number 1 and became massive, because it was number 1 everywhere else. Today is also a very different landscape for releasing new music... there are artists that exist purely on the internet and get their start that way.
 
