@@ -106,4 +106,4 @@ I get sent hundreds of promos every week, and that’s not even with me jumping 
 You have to have something that strikes a chord with people, you know, connects with an emotion or does something new, different and unusual. But you can’t do that with one track... it might be the breakout track, but people are always going to look for more than just that, especially as a label owner.
 <br><br>
 
-**RR: Great advice. Thanks for the chat, looking forward to your set in Sydney soon!**
+**RR: Great advice. Thanks for the chat, looking forward to your set in Sydney.**
