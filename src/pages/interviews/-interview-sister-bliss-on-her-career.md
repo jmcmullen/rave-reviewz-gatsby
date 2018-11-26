@@ -11,17 +11,17 @@ _In the weeks leading up to Sister Bliss' long awaited return back down under, R
 
 **RR: Nice to meet you Ayalah. It's been about 10 years since you last played in Australia, right?**
 
-Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, first time I came over was 1995 when the scene was still very, very young. Quite incredible to think I'm coming back after all this time... really looking forward to it!
+Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, first time I came over was in 1995 when the scene was still very, very young. Quite incredible to think I'm coming back after all this time... really looking forward to it!
 <br><br>
 
 **RR: Well, the reactions on social media when the tour announcement was made and the way the tickets have sold show how strong your music still is.**
 
 Sister Bliss: That’s amazing, well now that people have grown up and had children, it’s time to get the babysitter in and the old school will come out with the new school!
 
-What was mad was that we did a couple of years of touring off the back of our last album, Faithless 2.0, and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
+What was mad was that we did a couple of years of touring off the back of our last album, Faithless 2.0 and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
 <br><br>
 
-**RR: What can people expect from a Faithless DJ set?**
+**RR: Definitely. What can people expect from a Faithless DJ set?**
 
 Sister Bliss: Well you know, of course I’ll be playing the Faithless classics but I’ve got a radio show that helps me keep up to speed with new artists and music every week. So it’s important for me to look back and have this amazing catalogue of music of my own, of ‘dance heritage’ as I like to call it, which is timeless and fresh, but also to look forward and incorporate those two elements together. I don’t want to be seen as a retro DJ, that doesn’t interest me - pushing forward interests me. 
 
@@ -54,9 +54,7 @@ When we took Insomnia to Radio 1 in the UK, we were told it didn’t have a hook
 
 Another good example is the band, Scissor Sisters. They were ignored but the stations were forced to play a record that went to number 1 and became massive, because it was number 1 everywhere else. Today is also a very different landscape for releasing new music... there are artists that exist purely on the internet and get their start that way.
 
-We always stayed true to ourselves though, asking ourselves if we are truly happy with the music we are making and seeing how it makes us feel, rather than asking “is this the right length” or “does it have a catchy chorus”. If we did that, we would find it really difficult to get up there and play those songs year after year. 
-
-So I feel particularly blessed that I have been able to forge my own path with no one telling me what to do apart from the voices in my own head, which can be very critical and very loud at times. That perfectionism really drives me - you know the show has to be the best show or the music has to be the best we can do. I would feel like I was cheating myself and our audiences if it was anything less than amazing.
+We always stayed true to ourselves though, asking ourselves if we are truly happy with the music we are making and seeing how it makes us feel, rather than asking “is this the right length” or “does it have a catchy chorus”. If we did that, we would find it really difficult to get up there and play those songs year after year. So I feel particularly blessed that I have been able to forge my own path with no one telling me what to do apart from the voices in my own head, which can be very critical and very loud at times. That perfectionism really drives me - you know the show has to be the best show or the music has to be the best we can do. I would feel like I was cheating myself and our audiences if it was anything less than amazing.
 
 Us going up on stage isn’t about playing a bunch of songs together, its about creating an experience and I translate that band approach to my DJ sets as well. I seek to create a sonic world that tells a story when I’m playing music.
 
@@ -64,29 +62,21 @@ Us going up on stage isn’t about playing a bunch of songs together, its about 
 
 **RR: With your duties as a parent, have you found that juggling your personal and professional life changes how you approach selecting musical projects that you want to do?**
 
-Sister Bliss: I mean, I do have less time to spend time in the studio late at night, you know, staying up till 2 in the morning just isn’t possible when I have to do school runs and all that in the mornings. I would say I’ve just had to find a different way to work, there’s not just one way of doing things, it’s about time management, and not getting lost in things.
+Sister Bliss: I mean, I do have less time to spend time in the studio late at night, you know, staying up till 2 in the morning just isn’t possible when I have to do school runs and all that in the mornings. I would say I’ve just had to find a different way to work, there’s not just one way of doing things, it’s about time management, and not getting lost in things. I do say no a lot more... if a tour doesn’t really work with what’s happening in my family life I wouldn’t be able to do it, such as getting asked to do some tours down in Australia which didn’t really work at that time because of having a young family.
 
-I do say no a lot more... if a tour doesn’t really work with what’s happening in my family life I wouldn’t be able to do it, such as getting asked to do some tours down in Australia which didn’t really work at that time because of having a young family.
-
-And you know this is part of the challenge that woman all over the world face, there is a glass ceiling for woman in music and other industries. Their incomes take a hit, they can’t continue working in professions they started in and at times it feels like more of a concrete ceiling than a glass one.
-
-I’ve been spectacularly lucky to do what I love and be my own boss, of course that comes with big risks - if I don’t work I don’t earn, there is no protection, or a pension plan, or holiday pay for that matter.
-
-I wouldn’t exchange my life for another but there are physical limitations to what I can do now, I’m not that free-ranging DJ that can say yes to everything and do everything.
+And you know this is part of the challenge that woman all over the world face, there is a glass ceiling for woman in music and other industries. Their incomes take a hit, they can’t continue working in professions they started in and at times it feels like more of a concrete ceiling than a glass one. I’ve been spectacularly lucky to do what I love and be my own boss, of course that comes with big risks - if I don’t work I don’t earn, there is no protection, or a pension plan, or holiday pay for that matter. I wouldn’t exchange my life for another but there are physical limitations to what I can do now, I’m not that free-ranging DJ that can say yes to everything and do everything.
 
 I do find a bit of solace in going into the studio after putting my son to bed, and tinkering with things in there till midnight, with no interruptions from phone calls or other commitments that can take away from my focused creativity.
 
-Creative progress - something out of nothing - is the ultimate enjoyment, especially when you find that particular line in a vocal or a melody that can make the hairs on the back of your neck stand up, that’s the moment we are all waiting for. Because if it can excite us, then it can definitely excite other people.
+Creative progress - something out of nothing is the ultimate enjoyment, especially when you find that particular line in a vocal or a melody that can make the hairs on the back of your neck stand up, that’s the moment we are all waiting for. Because if it can excite us, then it can definitely excite other people.
 
-![](/img/sister-bliss-press2.jpg)
+![null](/img/sister-bliss-press2.jpg)
 
 **RR: It’s interesting that you mention saying no to a lot of things and understanding your own limits. We ran a recent campaign for mental health awareness, what are some of the mental health challenges you face in the industry today?**
 
 Sister Bliss: I think loneliness is a massive one, I can’t tell you how miserable and lonely I’ve felt in a hotel room. Especially when you’ve had a lack of sleep, it can lead to some really dark thoughts. If you are not sleeping properly you are in a state of constant jet lag.
 
-For people looking from the outside in, they think “oh look there’s that successful DJ complaining about being able to travel the world” but in reality, it’s a really physically taxing job... DJing and touring takes it out of you for sure. It’s also emotionally demanding - I can’t tell you how many parties, weddings and other family events I’ve had to miss because I’m just not here.
-
-You are mainly providing entertainment for people over a weekend and that’s usually the time that other people have their leisure time, which can also impact on relationships unless your partner comes with you or is part of your touring entourage.
+For people looking from the outside in, they think “oh look there’s that successful DJ complaining about being able to travel the world” but in reality, it’s a really physically taxing job... DJing and touring takes it out of you for sure. It’s also emotionally demanding - I can’t tell you how many parties, weddings and other family events I’ve had to miss because I’m just not here. You are mainly providing entertainment for people over a weekend and that’s usually the time that other people have their leisure time, which can also impact on relationships unless your partner comes with you or is part of your touring entourage.
 
 There’s this pressure to also be bloody great, with a lot of competition out there, so you want to give your best. The biggest pressure for me is my own head, and trying to live well in a particular environment is a challenge especially when you have things thrown at you to entice you to drink more and whatever else. When you are young and first starting off, you are also looking for affirmation if your sense of self isn’t that strong. That’s when things can get really wonky.
 
@@ -98,9 +88,7 @@ The other side of it is, when you are a performer, you come off that stage and y
 
 Sister Bliss: It’s not about just releasing one record these days, it’s about a body of work. Especially in these times, where there are thousands upon thousands of new tracks every week, and that’s just in dance music alone. You have to think about how you get your head above the parapet, especially with the really good quality stuff being put out there.
 
-I get sent hundreds of promos every week, and that’s not even with me jumping onto Beatport or Bandcamp, so to be an artist in this day and age is tough. It’s brilliant because you have the internet and can market yourself to a certain extent, but so can everybody else. 
-
-You have to have something that strikes a chord with people, you know, connects with an emotion or does something new, different and unusual. But you can’t do that with one track... it might be the breakout track, but people are always going to look for more than just that, especially as a label owner.
+I get sent hundreds of promos every week, and that’s not even with me jumping onto Beatport or Bandcamp, so to be an artist in this day and age is tough. It’s brilliant because you have the internet and can market yourself to a certain extent, but so can everybody else. You have to have something that strikes a chord with people, you know, connects with an emotion or does something new, different and unusual. But you can’t do that with one track... it might be the breakout track, but people are always going to look for more than just that, especially as a label owner.
 <br><br>
 
 **RR: Great advice. Thanks for the chat, looking forward to your set in Sydney.**
