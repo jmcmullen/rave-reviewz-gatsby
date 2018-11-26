@@ -8,24 +8,19 @@ description: >-
   Courtyard.
 featuredImage: /img/20170224_sisterbliss_b&w_0229.jpg
 ---
-_In the weeks leading up to Sister Bliss' long awaited return back down under, Rave Reviewz caught up with the artist, and one third of the iconic Dance group Faithless, to talk about her career, creating longevity, the mental health challenges facing the industry and more..._
+_In the weeks leading up to Sister Bliss' long awaited return back down under, Rave Reviewz caught up with the artist, and one third of the iconic Dance group Faithless, to talk about her career, creating longevity, mental health challenges in the industry and more..._
 <br><br>
 
-**RR: It's been about 10 years since you last played in Australia right?**
+**RR: Nice to meet you Ayalah. It's been about 10 years since you last played in Australia, right?**
 
-Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, I’m looking forward to coming back.
+Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, first time I came over was 1995 when the scene was still very, very young. Quite incredible to think I'm coming back after all this time... really looking forward to it!
 <br><br>
 
-**RR: Lots of Summerdaze shows...**
+**RR: Well, the reactions on social media when the tour announcement was made and the way the tickets have sold show how strong your music still is.**
 
-Sister Bliss: First time I came over was 1995 when the scene was still very, very young. Quite incredible to think I'm coming back after all this time... really looking forward to it!
-<br><br>
+Sister Bliss: That’s amazing, well now that people have grown up and had children, it’s time to get the babysitter in and the old school will come out with the new school!
 
-**RR: Well, the reactions on social media when the tour announcement was made and the way the tickets have sold, shows how strong your music still is.**
-
-Sister Bliss: That’s amazing, well now that people have grown up and had children, it’s time to get the baby sister in and the old school will come out with the new school!
-
-What was mad was that we did a couple of years of touring off the back of our last album, [Faithless 2.0](http://faithless.co.uk/20/), and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”.
+What was mad was that we did a couple of years of touring off the back of our last album, [Faithless 2.0](http://faithless.co.uk/20/), and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
 <br><br>
 
 **RR: What can people expect from a Faithless DJ set?**
