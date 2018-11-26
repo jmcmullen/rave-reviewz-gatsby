@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview-sister-bliss-faithless-life-after
 title: SISTER BLISS on Faithless and life after
-date: 2017-04-02T08:03:46+10:00
+date: 2017-04-01T22:03:46.000Z
 description: >-
   Rave Reviewz catches up with Sister Bliss ahead of her Sydney show at the Ivy
   Courtyard.
@@ -36,9 +36,8 @@ I’ll be playing a lot of fresh stuff that literally might have just come out e
 I guess that’s always been the way with Faithless as well, our records were always slow-growing. It took at least a year before tracks like Insomnia for example, really connected and became the peak of people’s sets. We even had to re-release it a couple of times before it became a hit.
 
 But in unsafe and uncertain times, there is something deeply reassuring that connects us to old music that takes us back to a different time and point in our lives, and I understand the power that has on people.
-<br><br>
 
-!\[](/img/faithless-dj-set copy.jpg)
+![](/img/faithless-dj-set copy.jpg)
 
 **RR: You have your own record label as well - Junkdog records. How do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
 
