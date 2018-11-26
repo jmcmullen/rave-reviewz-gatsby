@@ -6,7 +6,7 @@ date: 2017-04-01T22:03:46.000Z
 description: >-
   Rave Reviewz catches up with Sister Bliss ahead of her Sydney show at the Ivy
   Courtyard.
-featuredImage: /img/20170224_sisterbliss_b&w_0229.jpg
+featuredImage: /img/sister-bliss-press-shot.jpg
 ---
 _In the weeks leading up to Sister Bliss' long awaited return back down under, Rave Reviewz caught up with the artist and one third of the iconic Dance group Faithless, to talk about her career, creating longevity, mental health challenges in the industry and more..._
 <br><br>
