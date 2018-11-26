@@ -37,7 +37,7 @@ I guess that’s always been the way with Faithless as well, our records were al
 
 But in unsafe and uncertain times, there is something deeply reassuring that connects us to old music that takes us back to a different time and point in our lives, and I understand the power that has on people.
 
-![](/img/faithless-dj-set copy.jpg)
+![](/img/faithless-dj-set.jpg)
 
 **RR: You have your own record label as well - Junkdog records. How do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
 
