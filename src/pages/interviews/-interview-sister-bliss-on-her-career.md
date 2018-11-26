@@ -21,7 +21,7 @@ Sister Bliss: That’s amazing, well now that people have grown up and had child
 What was mad was that we did a couple of years of touring off the back of our last album, Faithless 2.0, and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
 <br><br>
 
-**RR: What can people expect from a Faithless DJ set?**
+**RR: Definitely. So what can people expect from a Faithless DJ set?**
 
 Sister Bliss: Well you know, of course I’ll be playing the Faithless classics but I’ve got a radio show that helps me keep up to speed with new artists and music every week. So it’s important for me to look back and have this amazing catalogue of music of my own, of ‘dance heritage’ as I like to call it, which is timeless and fresh, but also to look forward and incorporate those two elements together. I don’t want to be seen as a retro DJ, that doesn’t interest me - pushing forward interests me. 
 
@@ -62,7 +62,7 @@ So I feel particularly blessed that I have been able to forge my own path with n
 
 Us going up on stage isn’t about playing a bunch of songs together, its about creating an experience and I translate that band approach to my DJ sets as well. I seek to create a sonic world that tells a story when I’m playing music.
 
-![](/img/faithless-dj-set.jpg)
+![null](/img/faithless-dj-set.jpg)
 
 **RR: With your duties as a parent, have you found that juggling your personal and professional life changes how you approach selecting musical projects that you want to do?**
 
@@ -93,7 +93,7 @@ There’s this pressure to also be bloody great, with a lot of competition out t
 
 The other side of it is, when you are a performer, you come off that stage and you are pumped! My God, full of adrenaline and coming down off of that is quite intense and so people look to drugs and alcohol to prolong that high. It’s quite spiritual, because you’ve just made ten thousand people really happy, you’ve danced as one - “[We Come 1](https://www.youtube.com/watch?v=65EfTFUFDwI)”, that’s why we wrote that song, because it came from a specific experience of feeling that deep connection between ourselves and the audience. Coming off of that and back into reality is quite hard to deal sometimes.
 
-![](/img/sister-bliss-press2.jpg)
+![null](/img/sister-bliss-press2.jpg)
 
 **RR: What advice would you give to new DJs or producers?**
 
