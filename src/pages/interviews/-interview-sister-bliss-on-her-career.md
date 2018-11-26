@@ -1,14 +1,14 @@
 ---
 templateKey: interview-post
 path: /interview-sister-bliss-faithless-life-after
-title: Sister Bliss on Faithless and life after
+title: SISTER BLISS on Faithless and life after
 date: 2018-11-25T21:03:46.337Z
 description: >-
   Rave Reviewz catches up with Sister Bliss ahead of her Sydney show at Ivy
   Courtyard.
 featuredImage: /img/20170224_sisterbliss_b&w_0229.jpg
 ---
-_In the weeks leading up to Sister Bliss' long awaited return back down under, Rave Reviewz caught up with artist, and one third of the iconic Dance group Faithless, to talk about her career, creating longevity, the mental health challenges facing the industry and more..._
+_In the weeks leading up to Sister Bliss' long awaited return back down under, Rave Reviewz caught up with the artist, and one third of the iconic Dance group Faithless, to talk about her career, creating longevity, the mental health challenges facing the industry and more..._
 <br><br>
 
 **RR: It's been about 10 years since you last played in Australia right?**
@@ -18,7 +18,7 @@ Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, I’m
 
 **RR: Lots of Summerdaze shows...**
 
-Sister Bliss: First time I came over was 1995 when the scene was still very, very young. Quite incredible to think i'm coming back after all this time... really looking forward to it!
+Sister Bliss: First time I came over was 1995 when the scene was still very, very young. Quite incredible to think I'm coming back after all this time... really looking forward to it!
 <br><br>
 
 **RR: Well, the reactions on social media when the tour announcement was made and the way the tickets have sold, shows how strong your music still is.**
@@ -43,9 +43,9 @@ I guess that’s always been the way with Faithless as well, our records were al
 But in unsafe and uncertain times, there is something deeply reassuring that connects us to old music that takes us back to a different time and point in our lives, and I understand the power that has on people.
 <br><br>
 
-![](/img/faithless-dj-set copy.jpg)
+!\[](/img/faithless-dj-set copy.jpg)
 
-**RR: You have your own record label as well, **[**Junkdog records**](http://thesisterbliss.com/junkdog)**, how do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
+**RR: You have your own record label as well, Junkdog records, how do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
 
 Sister Bliss: I always look for something fresh and something honest, and a sound that I haven’t heard that particular take on. But, I do have to say, at the moment I’ve put the record label on pause because of my busy schedule and also because it requires a lot of money and time to be invested into it. I really believed in the artists I had and unfortunately, I’ve been disappointed by their work ethic and lack of commitment to releasing new music. 
 
@@ -60,20 +60,20 @@ Now there is an awareness, because there is an audience with people asking all t
 
 But at the end of the day, we have to like the music that we are playing, and we created our own label to have the ability to do so and not have someone breathing down our necks telling us things like “oh that needs to be 3 minutes long” or “that needs to have a bigger chorus”.
 
-When we took [Insomnia](https://www.youtube.com/watch?v=P8JEm4d6Wu4) to Radio 1 in the UK, we were told it didn’t have a hook, it didn’t have a chorus, and to go away and stop being so silly, and it wasn’t until it became a massive hit across the world that we were able to bring it back to the UK to re-release it. 
+When we took Insomnia to Radio 1 in the UK, we were told it didn’t have a hook, it didn’t have a chorus, and to go away and stop being so silly, and it wasn’t until it became a massive hit across the world that we were able to bring it back to the UK to re-release it. 
 
 During that time also, there was a youth culture around underground dance music which was becoming massive and so it became harder for the radio stations and labels to ignore the growing trend, which helped contribute to it becoming more popular in that sense.
 
-Another good example is the band the [Scissor Sisters](https://en.wikipedia.org/wiki/Scissor_Sisters). They were ignored but the stations were forced to play a record that went to no. 1 and became massive, because it was number 1 everywhere else. Today is also a very different landscape for releasing new music... there are artists that exist purely on the internet, and get their start that way.
+Another good example is the band the Scissor Sisters. They were ignored but the stations were forced to play a record that went to no. 1 and became massive, because it was number 1 everywhere else. Today is also a very different landscape for releasing new music... there are artists that exist purely on the internet and get their start that way.
 
 We always stayed true to ourselves though, asking ourselves if we are truly happy with the music we are making and seeing how it makes us feel, rather than asking “is this the right length” or “does it have a catchy chorus”. If we did that, we would find it really difficult to get up there and play those songs year after year. 
 
 So I feel particularly blessed that I have been able to forge my own path with no one telling me what to do apart from the voices in my own head, which can be very critical and very loud at times. That perfectionism really drives me - you know the show has to be the best show or the music has to be the best we can do. I would feel like I was cheating myself and our audiences if it was anything less than amazing.
 
-Us going up on stage isn’t about playing a bunch of songs together, its about creating an experience, and I translate that band approach to my DJ sets as well. I seek to create a sonic world that tells a story when I’m playing music.
+Us going up on stage isn’t about playing a bunch of songs together, its about creating an experience and I translate that band approach to my DJ sets as well. I seek to create a sonic world that tells a story when I’m playing music.
 <br><br>
 
-![](/img/20170224_sisterbliss_b&w_0208_v2.jpg)
+![null](/img/20170224_sisterbliss_b&w_0208_v2.jpg)
 
 **RR: With your duties as a parent, have you found that juggling your personal and professional life changes how you approach selecting musical projects that you want to do?**
 
