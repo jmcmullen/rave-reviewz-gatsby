@@ -18,7 +18,7 @@ Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, first
 
 Sister Bliss: That’s amazing, well now that people have grown up and had children, it’s time to get the babysitter in and the old school will come out with the new school!
 
-What was mad was that we did a couple of years of touring off the back of our last album, [Faithless 2.0](http://faithless.co.uk/20/), and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
+What was mad was that we did a couple of years of touring off the back of our last album, Faithless 2.0, and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
 <br><br>
 
 **RR: What can people expect from a Faithless DJ set?**
@@ -35,7 +35,7 @@ I guess that’s always been the way with Faithless as well, our records were al
 
 But in unsafe and uncertain times, there is something deeply reassuring that connects us to old music that takes us back to a different time and point in our lives, and I understand the power that has on people.
 
-![null](/img/faithless-dj-set.jpg)
+https://www.mixcloud.com/SisterBlissOfficial/sister-bliss-in-session-191118/
 
 **RR: You have your own record label as well - Junkdog records. How do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
 
@@ -62,7 +62,7 @@ So I feel particularly blessed that I have been able to forge my own path with n
 
 Us going up on stage isn’t about playing a bunch of songs together, its about creating an experience and I translate that band approach to my DJ sets as well. I seek to create a sonic world that tells a story when I’m playing music.
 
-<iframe src="https://embed.beatport.com/?id=8942157&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
+![](/img/faithless-dj-set.jpg)
 
 **RR: With your duties as a parent, have you found that juggling your personal and professional life changes how you approach selecting musical projects that you want to do?**
 
@@ -79,8 +79,7 @@ I wouldn’t exchange my life for another but there are physical limitations to 
 I do find a bit of solace in going into the studio after putting my son to bed, and tinkering with things in there till midnight, with no interruptions from phone calls or other commitments that can take away from my focused creativity.
 
 Creative progress - something out of nothing - is the ultimate enjoyment, especially when you find that particular line in a vocal or a melody that can make the hairs on the back of your neck stand up, that’s the moment we are all waiting for. Because if it can excite us, then it can definitely excite other people.
-
-![](/img/sister-bliss-press2.jpg)
+<br><br>
 
 **RR: It’s interesting that you mention saying no to a lot of things and understanding your own limits. We ran a recent campaign for mental health awareness, what are some of the mental health challenges you face in the industry today?**
 
@@ -92,9 +91,9 @@ You are mainly providing entertainment for people over a weekend and that’s us
 
 There’s this pressure to also be bloody great, with a lot of competition out there, so you want to give your best. The biggest pressure for me is my own head, and trying to live well in a particular environment is a challenge especially when you have things thrown at you to entice you to drink more and whatever else. When you are young and first starting off, you are also looking for affirmation if your sense of self isn’t that strong. That’s when things can get really wonky.
 
-The other side of it is, when you are a performer, you come off that stage and you are pumped! My God, full of adrenaline and coming down off of that is quite intense and so people look to drugs and alcohol to prolong that high. It’s quite spiritual, because you’ve just made ten thousand people really happy, you’ve danced as one - “We Come 1”, that’s why we wrote that song, because it came from a specific experience of feeling that deep connection between ourselves and the audience. Coming off of that and back into reality is quite hard to deal sometimes.
+The other side of it is, when you are a performer, you come off that stage and you are pumped! My God, full of adrenaline and coming down off of that is quite intense and so people look to drugs and alcohol to prolong that high. It’s quite spiritual, because you’ve just made ten thousand people really happy, you’ve danced as one - “[We Come 1](https://www.youtube.com/watch?v=65EfTFUFDwI)”, that’s why we wrote that song, because it came from a specific experience of feeling that deep connection between ourselves and the audience. Coming off of that and back into reality is quite hard to deal sometimes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/65EfTFUFDwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](/img/sister-bliss-press2.jpg)
 
 **RR: What advice would you give to new DJs or producers?**
 
