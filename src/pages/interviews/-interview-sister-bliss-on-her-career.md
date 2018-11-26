@@ -3,9 +3,7 @@ templateKey: interview-post
 path: /interview-sister-bliss-faithless-life-after
 title: SISTER BLISS on Faithless and life after
 date: 2017-04-01T22:03:46.000Z
-description: >-
-  Rave Reviewz catches up with Sister Bliss ahead of her Sydney show at the Ivy
-  Courtyard.
+description: We caught up with Sister Bliss ahead of her Sydney show at the Ivy Courtyard.
 featuredImage: /img/sister-bliss-portrait.jpg
 ---
 _In the weeks leading up to Sister Bliss' long awaited return back down under, Rave Reviewz caught up with the artist and one third of the iconic Dance group Faithless, to talk about her career, creating longevity, mental health challenges in the industry and more..._
