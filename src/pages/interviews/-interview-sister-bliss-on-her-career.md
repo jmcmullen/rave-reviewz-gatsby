@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview-sister-bliss-faithless-life-after
-title: Sister Bliss on Faithless and Life After
+title: Sister Bliss on Faithless and life after
 date: 2018-11-25T21:03:46.337Z
 description: >-
   Rave Reviewz catches up with Sister Bliss ahead of her Sydney show at Ivy
