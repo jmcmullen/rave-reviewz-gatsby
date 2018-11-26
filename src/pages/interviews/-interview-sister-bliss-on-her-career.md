@@ -11,29 +11,25 @@ _In the weeks leading up to Sister Bliss' long awaited return back down under, R
 
 **RR: Nice to meet you Ayalah. It's been about 10 years since you last played in Australia, right?**
 
-Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, first time I came over was 1995 when the scene was still very, very young. Quite incredible to think I'm coming back after all this time... really looking forward to it!
+Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, first time I came over was in 1995 when the scene was still very, very young. Quite incredible to think I'm coming back after all this time... really looking forward to it!
 <br><br>
 
 **RR: Well, the reactions on social media when the tour announcement was made and the way the tickets have sold show how strong your music still is.**
 
 Sister Bliss: That’s amazing, well now that people have grown up and had children, it’s time to get the babysitter in and the old school will come out with the new school!
 
-What was mad was that we did a couple of years of touring off the back of our last album, Faithless 2.0, and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
+What was mad was that we did a couple of years of touring off the back of our last album, Faithless 2.0 and the reactions we saw from the people made us think - oh my goodness, these people really are the next generation and we got a chance to really show them how it’s done properly and for them to have this cross-generational experience. They were coming up to us afterwards and telling us how much they love Faithless and how their mums and dads had the CDs. We told them “you’ve got some really cool parents!”
 <br><br>
 
-**RR: What can people expect from a Faithless DJ set?**
+**RR: Definitely. What can people expect from a Faithless DJ set?**
 
 Sister Bliss: Well you know, of course I’ll be playing the Faithless classics but I’ve got a radio show that helps me keep up to speed with new artists and music every week. So it’s important for me to look back and have this amazing catalogue of music of my own, of ‘dance heritage’ as I like to call it, which is timeless and fresh, but also to look forward and incorporate those two elements together. I don’t want to be seen as a retro DJ, that doesn’t interest me - pushing forward interests me. 
 
 It’s amazing to see kids dancing to music that we danced to 20 odd years ago, so there is a natural lineage in there I think. And people now recognise a Sister Bliss set as one that weaves in the past and the future all in one night, which is quite a compliment and something I wasn’t actually aware that I was doing.
 
-Although it’s called a Faithless DJ set, I put my own context to it. Some of my favourite DJs create a musical journey around certain pieces of music in their set and it alters how you hear that particular track depending on where it comes in and how it builds up to it.
+Although it’s called a Faithless DJ set, I put my own context to it. Some of my favourite DJs create a musical journey around certain pieces of music in their set and it alters how you hear that particular track depending on where it comes in and how it builds up to it. I’ll be playing a lot of fresh stuff that literally might have just come out earlier in the week that I think will be a hit. It’s interesting to see how music organically grows... certain pieces that you think will become hits straight away actually take a long time. Tracks that I was playing last summer are finally getting exposure now.
 
-I’ll be playing a lot of fresh stuff that literally might have just come out earlier in the week that I think will be a hit. It’s interesting to see how music organically grows... certain pieces that you think will become hits straight away actually take a long time. Tracks that I was playing last summer are finally getting exposure now.
-
-I guess that’s always been the way with Faithless as well, our records were always slow-growing. It took at least a year before tracks like Insomnia for example, really connected and became the peak of people’s sets. We even had to re-release it a couple of times before it became a hit.
-
-But in unsafe and uncertain times, there is something deeply reassuring that connects us to old music that takes us back to a different time and point in our lives, and I understand the power that has on people.
+I guess that’s always been the way with Faithless as well, our records were always slow-growing. It took at least a year before tracks like Insomnia for example, really connected and became the peak of people’s sets. We even had to re-release it a couple of times before it became a hit. But in unsafe and uncertain times, there is something deeply reassuring that connects us to old music that takes us back to a different time and point in our lives, and I understand the power that has on people.
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2FSisterBlissOfficial%2Fsister-bliss-in-session-191118%2F" frameborder="0" ></iframe>
 
@@ -54,9 +50,7 @@ When we took Insomnia to Radio 1 in the UK, we were told it didn’t have a hook
 
 Another good example is the band, Scissor Sisters. They were ignored but the stations were forced to play a record that went to number 1 and became massive, because it was number 1 everywhere else. Today is also a very different landscape for releasing new music... there are artists that exist purely on the internet and get their start that way.
 
-We always stayed true to ourselves though, asking ourselves if we are truly happy with the music we are making and seeing how it makes us feel, rather than asking “is this the right length” or “does it have a catchy chorus”. If we did that, we would find it really difficult to get up there and play those songs year after year. 
-
-So I feel particularly blessed that I have been able to forge my own path with no one telling me what to do apart from the voices in my own head, which can be very critical and very loud at times. That perfectionism really drives me - you know the show has to be the best show or the music has to be the best we can do. I would feel like I was cheating myself and our audiences if it was anything less than amazing.
+We always stayed true to ourselves though, asking ourselves if we are truly happy with the music we are making and seeing how it makes us feel, rather than asking “is this the right length” or “does it have a catchy chorus”. If we did that, we would find it really difficult to get up there and play those songs year after year. So I feel particularly blessed that I have been able to forge my own path with no one telling me what to do apart from the voices in my own head, which can be very critical and very loud at times. That perfectionism really drives me - you know the show has to be the best show or the music has to be the best we can do. I would feel like I was cheating myself and our audiences if it was anything less than amazing.
 
 Us going up on stage isn’t about playing a bunch of songs together, its about creating an experience and I translate that band approach to my DJ sets as well. I seek to create a sonic world that tells a story when I’m playing music.
 
@@ -64,13 +58,13 @@ Us going up on stage isn’t about playing a bunch of songs together, its about 
 
 **RR: With your duties as a parent, have you found that juggling your personal and professional life changes how you approach selecting musical projects that you want to do?**
 
-Sister Bliss: I mean, I do have less time to spend time in the studio late at night, you know, staying up till 2 in the morning just isn’t possible when I have to do school runs and all that in the mornings. I would say I’ve just had to find a different way to work, there’s not just one way of doing things, it’s about time management, and not getting lost in things.
+Sister Bliss: I mean, I do have less time to spend time in the studio late at night, you know, staying up till 2 in the morning just isn’t possible when I have to do school runs and all that in the mornings. I would say I’ve just had to find a different way to work, there’s not just one way of doing things, it’s about time management, and not getting lost in things. I do say no a lot more... if a tour doesn’t really work with what’s happening in my family life I wouldn’t be able to do it, such as getting asked to do some tours down in Australia which didn’t really work at that time because of having a young family.
 
-I do say no a lot more... if a tour doesn’t really work with what’s happening in my family life I wouldn’t be able to do it, such as getting asked to do some tours down in Australia which didn’t really work at that time because of having a young family. And you know this is part of the challenge that woman all over the world face, there is a glass ceiling for woman in music and other industries. Their incomes take a hit, they can’t continue working in professions they started in and at times it feels like more of a concrete ceiling than a glass one.
+And you know this is part of the challenge that woman all over the world face, there is a glass ceiling for woman in music and other industries. Their incomes take a hit, they can’t continue working in professions they started in and at times it feels like more of a concrete ceiling than a glass one. I’ve been spectacularly lucky to do what I love and be my own boss, of course that comes with big risks - if I don’t work I don’t earn, there is no protection, or a pension plan, or holiday pay for that matter. I wouldn’t exchange my life for another but there are physical limitations to what I can do now, I’m not that free-ranging DJ that can say yes to everything and do everything.
 
-I’ve been spectacularly lucky to do what I love and be my own boss, of course that comes with big risks - if I don’t work I don’t earn, there is no protection, or a pension plan, or holiday pay for that matter. I wouldn’t exchange my life for another but there are physical limitations to what I can do now, I’m not that free-ranging DJ that can say yes to everything and do everything.
+I do find a bit of solace in going into the studio after putting my son to bed, and tinkering with things in there till midnight, with no interruptions from phone calls or other commitments that can take away from my focused creativity.
 
-I do find a bit of solace in going into the studio after putting my son to bed and tinkering with things in there till midnight, with no interruptions from phone calls or other commitments that can take away from my focused creativity. Creating something out of nothing is the ultimate enjoyment, especially when you find that particular line in a vocal or a melody that can make the hairs on the back of your neck stand up, that’s the moment we are all waiting for. Because if it can excite us, then it can definitely excite other people.
+Creative progress - something out of nothing is the ultimate enjoyment, especially when you find that particular line in a vocal or a melody that can make the hairs on the back of your neck stand up, that’s the moment we are all waiting for. Because if it can excite us, then it can definitely excite other people.
 
 ![null](/img/sister-bliss-press2.jpg)
 
