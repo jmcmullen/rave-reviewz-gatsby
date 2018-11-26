@@ -1,9 +1,11 @@
 ---
 templateKey: interview-post
 path: /interview-sister-bliss-faithless-life-after
-title: Sister Bliss on her career
+title: Sister Bliss on Faithless and Life After
 date: 2018-11-25T21:03:46.337Z
-description: Interview
+description: >-
+  Rave Reviewz catches up with Sister Bliss ahead of her Sydney show at Ivy
+  Courtyard.
 featuredImage: /img/20170224_sisterbliss_b&w_0229.jpg
 ---
 _In the week's leading up to Sister Bliss' long awaited return back down under, Rave Reviewz caught up with artist, and one third of the iconic Dance group Faithless, to talk about her career, creating longevity, the mental health challenges facing the industry and more..._
@@ -12,17 +14,23 @@ _In the week's leading up to Sister Bliss' long awaited return back down under, 
 
 **RR: It's been about 10 years since you last played in Australia right?**
 
+
+
 Sister Bliss: It was about 7 years ago for Good Vibes. Fantastic festival, I’m looking forward to coming back.
 
 <br><br>
 
 **RR: Lots of Summerdaze shows...**
 
+
+
 Sister Bliss: First time I came over was 1995 when the scene was still very, very young. Quite incredible to think i'm coming back after all this time... really looking forward to it!
 
 <br><br>
 
 **RR: Well, the reactions on social media when the tour announcement was made and the way the tickets have sold, shows how strong your music still is.**
+
+
 
 Sister Bliss: That’s amazing, well now that people have grown up and had children, it’s time to get the baby sister in and the old school will come out with the new school!
 
@@ -31,6 +39,8 @@ What was mad was that we did a couple of years of touring off the back of our la
 <br><br>
 
 **RR: What can people expect from a Faithless DJ set?**
+
+
 
 Sister Bliss: Well you know, of course I’ll be playing the Faithless classics but I’ve got a radio show that helps me keep up to speed with new artists and music every week. So it’s important for me to look back and have this amazing catalogue of music of my own, of ‘dance heritage’ as I like to call it, which is timeless and fresh, but also to look forward and incorporate those two elements together. I don’t want to be seen as a retro DJ, that doesn’t interest me - pushing forward interests me. 
 
@@ -46,7 +56,13 @@ But in unsafe and uncertain times, there is something deeply reassuring that con
 
 <br><br>
 
+![](/img/faithless-dj-set copy.jpg)
+
+
+
 **RR: You have your own record label as well, **[**Junkdog records**](http://thesisterbliss.com/junkdog)**, how do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
+
+
 
 Sister Bliss: I always look for something fresh and something honest, and a sound that I haven’t heard that particular take on. But, I do have to say, at the moment I’ve put the record label on pause because of my busy schedule and also because it requires a lot of money and time to be invested into it. I really believed in the artists I had and unfortunately, I’ve been disappointed by their work ethic and lack of commitment to releasing new music. 
 
@@ -55,6 +71,8 @@ They’ve hit a wall for whatever reason, and I want to make sure my label is ab
 <br><br>
 
 **RR: You talk about longevity a lot around Faithless and your career in general, but was there any times where there were pressures to change your sound to make it more pop-friendly?**
+
+
 
 Sister Bliss: That’s a good question, we started on a very small label, we were pleasing ourselves during that time and we were making sure we didn’t pigeonhole ourselves sonically, so the doors were wide open for us to be whatever we wanted to be. 
 
@@ -76,7 +94,13 @@ Us going up on stage isn’t about playing a bunch of songs together, its about 
 
 <br><br>
 
+![](/img/20170224_sisterbliss_b&w_0208_v2.jpg)
+
+
+
 **RR: With your duties as a parent, have you found that juggling your personal and professional life changes how you approach selecting musical projects that you want to do?**
+
+
 
 Sister Bliss: I mean, I do have less time to spend time in the studio late at night, you know, staying up till 2 in the morning just isn’t possible when I have to do school runs and all that in the mornings. I would say I’ve just had to find a different way to work, there’s not just one way of doing things, it’s about time management, and not getting lost in things.
 
@@ -96,6 +120,8 @@ Creative progress - something out of nothing - is the ultimate enjoyment, especi
 
 **RR: It’s interesting that you mention, saying no to a lot of things and understanding your own limits. We did a campaign for mental health awareness, what are some of the mental health challenges you face the industry today?**
 
+
+
 Sister Bliss: I think loneliness is a massive one, I can’t tell you how miserable and lonely I’ve felt in a hotel room. Especially when you’ve had a lack of sleep, it can lead to some really dark thoughts. If you are not sleeping properly you are in a state of constant jet lag.
 
 For people looking from the outside in, they think “oh look there’s that successful DJ complaining about being able to travel the world” but in reality, it’s a really physically taxing job... DJing and touring it takes it out of you for sure. It’s also emotionally demanding - I can’t tell you how many parties, weddings and other family events I’ve had to miss because I’m just not here.
@@ -109,6 +135,8 @@ The other side of it is, when you are a performer, you come off that stage and y
 <br><br>
 
 **RR: What advice would you give to new DJs or producers?**
+
+
 
 Sister Bliss: It’s not about just releasing one record these days, it’s about a body of work. Especially in these times, where there are thousands upon thousands of new tracks every week, and that’s just in dance music alone. You have to think about how you get your head above the parapet, especially with the really good quality stuff being put out there.
 
