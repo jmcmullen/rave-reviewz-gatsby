@@ -31,7 +31,7 @@ It’s amazing to see kids dancing to music that we danced to 20 odd years ago, 
 
 Although it’s called a Faithless DJ set, I put my own context to it. Some of my favourite DJs create a musical journey around certain pieces of music in their set and it alters how you hear that particular track depending on where it comes in and how it builds up to it.
 
-I’ll be playing a lot of fresh stuff that literally might have just come out earlier in the week that I think will be a hit. It’s interesting to see how music organically grows... certain pieces that you think will become hits straight away actually take a long time, tracks that I was playing last summer are finally getting exposure now.
+I’ll be playing a lot of fresh stuff that literally might have just come out earlier in the week that I think will be a hit. It’s interesting to see how music organically grows... certain pieces that you think will become hits straight away actually take a long time. Tracks that I was playing last summer are finally getting exposure now.
 
 I guess that’s always been the way with Faithless as well, our records were always slow-growing. It took at least a year before tracks like Insomnia for example, really connected and became the peak of people’s sets. We even had to re-release it a couple of times before it became a hit.
 
@@ -40,18 +40,16 @@ But in unsafe and uncertain times, there is something deeply reassuring that con
 
 !\[](/img/faithless-dj-set copy.jpg)
 
-**RR: You have your own record label as well, Junkdog records, how do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
+**RR: You have your own record label as well - Junkdog records. How do you go about finding and selecting new music to release on there? Are you planning to release any new music over the next year?**
 
-Sister Bliss: I always look for something fresh and something honest, and a sound that I haven’t heard that particular take on. But, I do have to say, at the moment I’ve put the record label on pause because of my busy schedule and also because it requires a lot of money and time to be invested into it. I really believed in the artists I had and unfortunately, I’ve been disappointed by their work ethic and lack of commitment to releasing new music. 
+Sister Bliss: I always look for something fresh and something honest and a sound that I haven’t heard that particular take on. But, I do have to say, at the moment I’ve put the record label on pause because of my busy schedule and also because it requires a lot of money and time to be invested into it. I really believed in the artists I had and unfortunately I’ve been disappointed by their work ethic and lack of commitment to releasing new music. 
 
-They’ve hit a wall for whatever reason, and I want to make sure my label is about more than just one-off dance tracks because that’s what faithless is about, and I want to guide others in more of an album scenario so they can become fully fledged artists.
+They’ve hit a wall for whatever reason, and I want to make sure my label is about more than just one-off dance tracks because that’s what Faithless is about. I want to guide others in more of an album scenario so they can become fully fledged artists.
 <br><br>
 
 **RR: You talk about longevity a lot around Faithless and your career in general, but was there any times where there were pressures to change your sound to make it more pop-friendly?**
 
-Sister Bliss: That’s a good question, we started on a very small label, we were pleasing ourselves during that time and we were making sure we didn’t pigeonhole ourselves sonically, so the doors were wide open for us to be whatever we wanted to be. 
-
-Now there is an awareness, because there is an audience with people asking all the time, ‘when are you going to release new music, when are you going to come on tour?’ because they recognise that we create something quite special. 
+Sister Bliss: That’s a good question... we started on a very small label, we were pleasing ourselves during that time and we were making sure we didn’t pigeonhole ourselves sonically, so the doors were wide open for us to be whatever we wanted to be. Now there is an awareness, because there is an audience with people asking all the time, ‘when are you going to release new music, when are you going to come on tour?’ because they recognise that we create something quite special. 
 
 But at the end of the day, we have to like the music that we are playing, and we created our own label to have the ability to do so and not have someone breathing down our necks telling us things like “oh that needs to be 3 minutes long” or “that needs to have a bigger chorus”.
 
@@ -59,7 +57,7 @@ When we took Insomnia to Radio 1 in the UK, we were told it didn’t have a hook
 
 During that time also, there was a youth culture around underground dance music which was becoming massive and so it became harder for the radio stations and labels to ignore the growing trend, which helped contribute to it becoming more popular in that sense.
 
-Another good example is the band the Scissor Sisters. They were ignored but the stations were forced to play a record that went to no. 1 and became massive, because it was number 1 everywhere else. Today is also a very different landscape for releasing new music... there are artists that exist purely on the internet and get their start that way.
+Another good example is the band, Scissor Sisters. They were ignored but the stations were forced to play a record that went to number 1 and became massive, because it was number 1 everywhere else. Today is also a very different landscape for releasing new music... there are artists that exist purely on the internet and get their start that way.
 
 We always stayed true to ourselves though, asking ourselves if we are truly happy with the music we are making and seeing how it makes us feel, rather than asking “is this the right length” or “does it have a catchy chorus”. If we did that, we would find it really difficult to get up there and play those songs year after year. 
 
@@ -87,11 +85,11 @@ I do find a bit of solace in going into the studio after putting my son to bed, 
 Creative progress - something out of nothing - is the ultimate enjoyment, especially when you find that particular line in a vocal or a melody that can make the hairs on the back of your neck stand up, that’s the moment we are all waiting for. Because if it can excite us, then it can definitely excite other people.
 <br><br>
 
-**RR: It’s interesting that you mention, saying no to a lot of things and understanding your own limits. We did a campaign for mental health awareness, what are some of the mental health challenges you face the industry today?**
+**RR: It’s interesting that you mention saying no to a lot of things and understanding your own limits. We ran a recent campaign for mental health awareness, what are some of the mental health challenges you face in the industry today?**
 
 Sister Bliss: I think loneliness is a massive one, I can’t tell you how miserable and lonely I’ve felt in a hotel room. Especially when you’ve had a lack of sleep, it can lead to some really dark thoughts. If you are not sleeping properly you are in a state of constant jet lag.
 
-For people looking from the outside in, they think “oh look there’s that successful DJ complaining about being able to travel the world” but in reality, it’s a really physically taxing job... DJing and touring it takes it out of you for sure. It’s also emotionally demanding - I can’t tell you how many parties, weddings and other family events I’ve had to miss because I’m just not here.
+For people looking from the outside in, they think “oh look there’s that successful DJ complaining about being able to travel the world” but in reality, it’s a really physically taxing job... DJing and touring takes it out of you for sure. It’s also emotionally demanding - I can’t tell you how many parties, weddings and other family events I’ve had to miss because I’m just not here.
 
 You are mainly providing entertainment for people over a weekend and that’s usually the time that other people have their leisure time, which can also impact on relationships unless your partner comes with you or is part of your touring entourage.
 
