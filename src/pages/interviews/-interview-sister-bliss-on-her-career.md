@@ -2,7 +2,7 @@
 templateKey: interview-post
 path: /interview-sister-bliss-faithless
 title: SISTER BLISS on keeping the faith
-date: 2017-04-01T22:03:46.000Z
+date: 2018-11-27T12:00:46+11:00
 description: 'A deep and personal chat with dance music icon, Sister Bliss of Faithless'
 featuredImage: /img/sister-bliss-portrait.jpg
 ---
