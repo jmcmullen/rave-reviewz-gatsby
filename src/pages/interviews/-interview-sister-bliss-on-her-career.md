@@ -2,11 +2,11 @@
 templateKey: interview-post
 path: /interview-sister-bliss-faithless
 title: SISTER BLISS on keeping the faith
-date: 2018-11-27T12:00:46+11:00
+date: 2018-11-27T01:00:46.000Z
 description: 'A deep and personal chat with dance music icon, Sister Bliss of Faithless'
 featuredImage: /img/sister-bliss-portrait.jpg
 ---
-_In the lead up to Sister Bliss' long awaited return Down Under, Rave Reviewz' Mazen Al-Khozaie caught up with the force behind iconic Dance group Faithless to talk about her creating longevity, mental health challenges in the industry and more..._
+_In the lead up to Sister Bliss' long awaited return Down Under, Rave Reviewz' Mazen Al-Khozaie caught up with the force behind iconic dance group Faithless to talk about her creating longevity, mental health challenges in the industry and more..._
 <br><br>
 
 **RR: Great to meet you Ayalah. It's been a while since you last played in Australia...**
@@ -57,7 +57,7 @@ So I feel particularly blessed that I have been able to forge my own path with n
 
 Sister Bliss: I mean, I do have less time to spend in the studio late at night, you know, staying up till 2 in the morning just isn’t possible when I have to do school runs and all that in the mornings! I would say I’ve just had to find a different way to work, there’s not just one way of doing things, it’s about time management, and not getting lost in things. I do say no a lot more... if a tour doesn’t really work with what’s happening in my family life I wouldn’t be able to do it, such as getting asked to do some tours down in Australia which didn’t really work at that time because of having a young family.
 
-And you know this is part of the challenge that woman all over the world face, there is a glass ceiling for woman in music and other industries. Their incomes take a hit, they can’t continue working in professions they started in... at times it feels like more of a concrete ceiling than a glass one. I’ve been spectacularly lucky to do what I love and be my own boss, of course that comes with big risks - if I don’t work I don’t earn, there is no protection, or a pension plan, or holiday pay for that matter. I wouldn’t exchange my life for another but there are physical limitations to what I can do now, I’m not that free-ranging DJ that can say yes to everything and do everything.
+And you know this is part of the challenge that women all over the world face, there is a glass ceiling for women in music and other industries. Their incomes take a hit, they can’t continue working in professions they started in... at times it feels like more of a concrete ceiling than a glass one. I’ve been spectacularly lucky to do what I love and be my own boss, of course that comes with big risks - if I don’t work I don’t earn, there is no protection, or a pension plan, or holiday pay for that matter. I wouldn’t exchange my life for another but there are physical limitations to what I can do now, I’m not that free-ranging DJ that can say yes to everything and do everything.
 
 I do find a bit of solace in going into the studio after putting my son to bed, and tinkering with things in there till midnight, with no interruptions from phone calls or other commitments that can take away from my focused creativity.
 
