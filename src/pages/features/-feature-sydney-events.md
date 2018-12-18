@@ -3,7 +3,7 @@ templateKey: review-post
 path: /feature-events
 title: Sydney events
 date: 2018-12-24T06:50:47.000Z
-description: 'Check out all the events going on in this fine city '
+description: Check out all the sick events upcoming in this fine city!
 featuredImage: /img/1dd37bc5-f615-4597-9042-ebf415563ed5.jpeg
 ---
 _Featured Events:_
