@@ -34,7 +34,13 @@ _Featured Events:_
 
 [WeLove #179 - Burdekin Hotel](https://www.facebook.com/events/257956624877466/)
 
+[Signals - The Flinders](https://www.facebook.com/events/577293166047669/)
 
+[Velvet Kollektiv//Pixel](https://www.facebook.com/events/1227451174071872/)
+
+[Asylum Mad Friday - El Topo Basement](https://www.facebook.com/events/313760646131135/)
+
+[Forbidden Tone: Khen - Goodbar](https://www.facebook.com/events/742531209417462/)
 
 
 
@@ -55,6 +61,10 @@ _Featured Events:_
 [Cassian & Pantheon - The Flinders](https://www.facebook.com/events/333412117242353/)
 
 [DressCode: Scruby & Aron - Kings Cross Hotel](https://www.facebook.com/events/1811437602298437/)
+
+[Season X Christmas - The Bridge Hotel](https://www.facebook.com/events/309037546351023/)
+
+[Stoney Roads Goes Deep - Tokyo Sing Song](https://www.facebook.com/events/2295184597380713/)
 
 
 
