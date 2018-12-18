@@ -10,9 +10,7 @@ _Featured Events:_
 
 **Rave Reviewz Xmas party**
 
-<br><br>
-
-![](/img/48412254_777363849281300_4957484834839592960_o.jpg)
+![null](/img/48412254_777363849281300_4957484834839592960_o.jpg)
 
 Xmas ravers... we’ll be holding the Rave Reviewz Xmas party at Sebastien Leger & Davi - Manning Bar hosted bv our good pals from Return to Rio and Blueprint Entertainment! Santa Sébastien Léger & DAVÍ the red-nosed reindeer will be providing the Christmas carols, come and join us for this festive bonanza!
 
