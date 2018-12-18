@@ -10,19 +10,25 @@ _Featured Events:_
 
 **Rave Reviewz Xmas party**
 
-** **
+<br><br>
+
+![](/img/48412254_777363849281300_4957484834839592960_o.jpg)
+
+Xmas ravers... we’ll be holding the Rave Reviewz Xmas party at Sebastien Leger & Davi - Manning Bar hosted bv our good pals from Return to Rio and Blueprint Entertainment! Santa Sébastien Léger & DAVÍ the red-nosed reindeer will be providing the Christmas carols, come and join us for this festive bonanza!
+
+<br><br>
 
 **Wednesday 19th Dec**
 
 [Have a Slash #3 - Club 77](https://www.facebook.com/events/593214184465530/)
 
- 
+<br><br>
 
 **Thursday 20th Dec**
 
 [Renegade 42 - Burdekin Hotel](https://www.facebook.com/events/518703488636774/)
 
- 
+<br><br>
 
 **Friday 21st Dec**
 
@@ -42,7 +48,7 @@ _Featured Events:_
 
 [Forbidden Tone: Khen - Goodbar](https://www.facebook.com/events/742531209417462/)
 
- 
+<br><br>
 
 **Saturday 22nd Dec**
 
@@ -66,7 +72,7 @@ _Featured Events:_
 
 [Stoney Roads Goes Deep - Tokyo Sing Song](https://www.facebook.com/events/2295184597380713/)
 
- 
+<br><br>
 
 **Sunday 23rd Dec**
 
@@ -76,7 +82,7 @@ _Featured Events:_
 
 [Portside: Go Freek - The Port](https://www.facebook.com/events/199637324283026/)
 
- 
+<br><br>
 
 **Monday 24th Dec**
 
