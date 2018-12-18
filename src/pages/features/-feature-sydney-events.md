@@ -55,3 +55,21 @@ _Featured Events:_
 [Cassian & Pantheon - The Flinders](https://www.facebook.com/events/333412117242353/)
 
 [DressCode: Scruby & Aron - Kings Cross Hotel](https://www.facebook.com/events/1811437602298437/)
+
+
+
+**Sunday 23rd Dec**
+
+[S.A.S.H Xmas - Greenwood Hotel/Home](https://www.facebook.com/events/738000043221902/)
+
+[Finer Things Open Air - Finer Things Courtyard](https://www.facebook.com/events/261227067928461/)
+
+[Portside: Go Freek - The Port](https://www.facebook.com/events/199637324283026/)
+
+
+
+**Monday 24th Dec**
+
+[S.A.S.H Xmas Breakfast - Home](https://www.facebook.com/events/360816258011230/)
+
+[Quarters Xmas Eve - Hillside Hotel](https://www.facebook.com/events/554415928356979/)
