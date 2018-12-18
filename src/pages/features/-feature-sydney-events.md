@@ -1,8 +1,8 @@
 ---
 templateKey: review-post
 path: /feature-events
-title: Sydney events
-date: 2018-12-18T18:00:00+11:00
+title: Sydney Events
+date: 2018-12-18T07:00:00.000Z
 description: Check out all the sick events upcoming in this fine city!
 featuredImage: /img/16 bit lolita's.jpg
 ---
@@ -10,19 +10,19 @@ _Featured Events:_
 
 **Rave Reviewz Xmas party**
 
-
+** **
 
 **Wednesday 19th Dec**
 
 [Have a Slash #3 - Club 77](https://www.facebook.com/events/593214184465530/)
 
-
+ 
 
 **Thursday 20th Dec**
 
 [Renegade 42 - Burdekin Hotel](https://www.facebook.com/events/518703488636774/)
 
-
+ 
 
 **Friday 21st Dec**
 
@@ -42,7 +42,7 @@ _Featured Events:_
 
 [Forbidden Tone: Khen - Goodbar](https://www.facebook.com/events/742531209417462/)
 
-
+ 
 
 **Saturday 22nd Dec**
 
@@ -66,7 +66,7 @@ _Featured Events:_
 
 [Stoney Roads Goes Deep - Tokyo Sing Song](https://www.facebook.com/events/2295184597380713/)
 
-
+ 
 
 **Sunday 23rd Dec**
 
@@ -76,7 +76,7 @@ _Featured Events:_
 
 [Portside: Go Freek - The Port](https://www.facebook.com/events/199637324283026/)
 
-
+ 
 
 **Monday 24th Dec**
 
