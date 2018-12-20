@@ -3,16 +3,16 @@ templateKey: review-post
 path: /feature-events
 title: Sydney Events
 date: 2018-12-18T07:00:00.000Z
-description: Check out all the sick events upcoming in this fine city!
+description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/16 bit lolita's.jpg
 ---
 _Featured Events:_
 
-**RAVE REVIEWZ XMAS PARTY**
+**RAVE REVIEWZ XMAS PARTY @ The Rio & Blueprint Xmas Extravaganza**
 
 ![null](/img/48412254_777363849281300_4957484834839592960_o.jpg)
 
-Xmas ravers... we’ll be holding the Rave Reviewz Xmas party at Sebastien Leger & Davi - Manning Bar hosted bv our good pals from Return to Rio and Blueprint Entertainment! Santa Sébastien Léger & DAVÍ the red-nosed reindeer will be providing the Christmas carols, come and join us for this festive bonanza!
+Xmas ravers... we’ll be holding the Rave Reviewz Xmas party at Manning Bar this Saturday, at the festive bonanza hosted by our pals from Return to Rio and Blueprint Entertainment! Santa Sébastien Léger & DAVÍ the red-nosed reindeer will be providing the Christmas carols, so come and join us! Details [here](https://www.facebook.com/events/2225167621035751/).
 
 <br>
 
