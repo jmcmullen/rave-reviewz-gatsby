@@ -34,6 +34,92 @@ _Featured Events:_
 
 <br>
 
+**Thursday 27th Dec**
+
+[RENEGADE - Burdekin Hotel](https://www.facebook.com/events/394021361139704/)
+
+<br>
+
+**Friday 28th Dec**
+
+[Motif: Ran Salman - Slyfox](https://www.facebook.com/events/1685904091531963/)
+
+[WeLove #180 - Burdekin Hotel](https://www.facebook.com/events/2010779775655447/)
+
+[Peculiar x Cure: Monika Ross - Goodbar](https://www.facebook.com/events/412174155989023/)
+
+<br> 
+
+**Saturday 29th Dec**
+
+[Afters - Goodbar](https://www.facebook.com/events/317015948906165/)
+
+[Fact1on Military Issue: ANNA, DJ Tennis, Richy Ahmed - Chinese Laundry](https://www.facebook.com/events/322799575163427/)
+
+[William: DoubtingThomas - Club 77](https://www.facebook.com/events/1165719153596285/)
+
+[Nights Like This: Kormak - Goodbar](https://www.facebook.com/events/376252929593263/)
+
+[Xmas Party - Slyfox](https://www.facebook.com/events/607580806311787/)
+
+<br>
+
 **Tuesday 1st Jan**
 
 [New Years Day EXTRAVAGANZA 2 - Cruise Bar](< https://www.facebook.com/events/735483273480633/>)
+
+[Carl Cox at Night - Home](https://www.facebook.com/events/749957005370827/)
+
+<br>
+
+**Friday 4th Jan**
+
+[WeLove Javi Bora - Boat Party](https://www.facebook.com/events/2326620444237809/)
+
+[Rhapsody: Sedgwick - Slyfox](https://www.facebook.com/events/921798364693211/)
+
+<br>
+
+**Saturday 5th Jan**
+
+[Afters - Goodbar](https://www.facebook.com/events/2242510209307017/)
+
+[Nights Like This: Bella Sarris & Bas Ibellini - Goodbar](https://www.facebook.com/events/364863007409980/)
+
+[Fix My Sink: Session Victim - Slyfox](https://www.facebook.com/events/371259326957187/)
+
+<br>
+
+**Wednesday 9th Jan**
+
+[Obsession x Planet Disco: Nate S.U - Goodbar](https://www.facebook.com/events/1982615245191799/)
+
+<br>
+
+**Friday 11th Jan**
+
+[We Love #182 - Burdekin Hotel](https://www.facebook.com/events/2107314242688256/)
+
+[Hello x Lokomotiv: Julian Perez - Slyfox](https://www.facebook.com/events/581241565651553/)
+
+<br>
+
+**Saturday 12th Jan**
+
+[William x Something Else x Nightime Drama: Eric Cloutier - Club 77](https://www.facebook.com/events/295005471126187/)
+
+[Nights Like This x Charades: Marcel Fengler](https://www.facebook.com/events/754650794916220/)
+
+<br>
+
+**Friday 18th Jan**
+
+[We Love #183 - Burdekin Hotel](https://www.facebook.com/events/2082228215422071/)
+
+[Forbidden Tone: Roger Martinez - Slyfox](https://www.facebook.com/events/2198466726833036/)
+
+<br>
+
+Saturday 25th Jan
+
+[Extra Spicy: Murder He Wrote - Goodbar](https://www.facebook.com/events/744341619278481/)
