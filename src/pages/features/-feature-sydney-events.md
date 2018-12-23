@@ -68,6 +68,12 @@ _Featured Events:_
 
 <br>
 
+**Sunday 30th Dec**
+
+[S.A.S.H NYE - Greenwood/Home](https://www.facebook.com/events/1268844426589751/)
+
+<br>
+
 **Tuesday 1st Jan**
 
 [New Years Day EXTRAVAGANZA 2 - Cruise Bar](< https://www.facebook.com/events/735483273480633/>)
@@ -119,6 +125,14 @@ _Featured Events:_
 [Nights Like This x Charades: Marcel Fengler](https://www.facebook.com/events/754650794916220/)
 
 [LNDRY: Ember & Taleena - Chinese Laundry](https://www.facebook.com/events/524043488101256)
+
+[Friends Of Friends: Motor City Drum Ensemble - Manning Bar](https://www.facebook.com/events/350118145575661/)
+
+<br>
+
+**Sunday 13th Jan**
+
+[S.A.S.H: Kink - Greenwood/Home](https://www.facebook.com/events/279274252779680/)
 
 <br>
 
