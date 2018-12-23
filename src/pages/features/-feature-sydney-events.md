@@ -74,11 +74,23 @@ _Featured Events:_
 
 <br>
 
+**Monday 31st Dec**
+
+[Mad Racket NYE: Session Victim & Phil Smart - Marrickville Bowling Club](https://www.facebook.com/events/205561600326367/)
+
+[Last Dance NYE - Warehouse Party](https://www.facebook.com/events/1471960536281176/)
+
+[NYE In The Park - Victoria Park](https://www.facebook.com/events/305206320255667/)
+
+<br>
+
 **Tuesday 1st Jan**
 
 [New Years Day EXTRAVAGANZA 2 - Cruise Bar](< https://www.facebook.com/events/735483273480633/>)
 
 [Carl Cox at Night - Home](https://www.facebook.com/events/749957005370827/)
+
+[Space NYD19: Carl Cox - Greenwood Hotel](https://www.facebook.com/events/536915710072383/)
 
 <br>
 
@@ -93,6 +105,8 @@ _Featured Events:_
 **Saturday 5th Jan**
 
 [Afters - Goodbar](https://www.facebook.com/events/2242510209307017/)
+
+[Afters Rooftop Launch: Simon Caldwell - The Bourbon](https://www.facebook.com/events/124054871851451/)
 
 [Nights Like This: Bella Sarris & Bas Ibellini - Goodbar](https://www.facebook.com/events/364863007409980/)
 
@@ -159,3 +173,9 @@ _Featured Events:_
 **Saturday 26th Jan**
 
 [LNDRY: Cause N Affect & JDG - Chinese Laundry](https://www.facebook.com/events/2415338141871765/)
+
+<br>
+
+**Saturday 2nd Mar**
+
+[Follow Me: Marshall Jefferson, X-Press 2 & Brandon Block - Cafe Del Mar](https://www.facebook.com/events/1998886000164449/)
