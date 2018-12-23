@@ -62,6 +62,10 @@ _Featured Events:_
 
 [Xmas Party - Slyfox](https://www.facebook.com/events/607580806311787/)
 
+[S&S: James Zabiela - Universal](https://www.facebook.com/events/189822248612382/)
+
+[LNDRY: Flava D & TS7 - Chinese Laundry](https://www.facebook.com/events/270616396982488/)
+
 <br>
 
 **Tuesday 1st Jan**
@@ -88,6 +92,10 @@ _Featured Events:_
 
 [Fix My Sink: Session Victim - Slyfox](https://www.facebook.com/events/371259326957187/)
 
+[LNDRY: Midland & Dena Amy - Chinese Laundry](https://www.facebook.com/events/486443591759464/)
+
+[Comfort Club #35: Roots - Tokyo Sing Song](https://www.facebook.com/events/369198487166478/)
+
 <br>
 
 **Wednesday 9th Jan**
@@ -110,6 +118,8 @@ _Featured Events:_
 
 [Nights Like This x Charades: Marcel Fengler](https://www.facebook.com/events/754650794916220/)
 
+[LNDRY: Ember & Taleena - Chinese Laundry](https://www.facebook.com/events/524043488101256)
+
 <br>
 
 **Friday 18th Jan**
@@ -120,6 +130,18 @@ _Featured Events:_
 
 <br>
 
-Saturday 25th Jan
+**Saturday 19th Jan**
+
+[LNDRY: Dom Dolla - Chinese Laundry](https://www.facebook.com/events/580687795711925/)
+
+<br>
+
+**Friday 25th Jan**
 
 [Extra Spicy: Murder He Wrote - Goodbar](https://www.facebook.com/events/744341619278481/)
+
+<br>
+
+**Saturday 26th Jan**
+
+[LNDRY: Cause N Affect & JDG - Chinese Laundry](https://www.facebook.com/events/2415338141871765/)
