@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-events
 title: Sydney Events
-date: 2018-12-18T07:00:00.000Z
+date: 2018-12-23T18:00:00+11:00
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/16 bit lolita's.jpg
 ---
