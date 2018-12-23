@@ -116,6 +116,10 @@ _Featured Events:_
 
 [Comfort Club #35: Roots - Tokyo Sing Song](https://www.facebook.com/events/369198487166478/)
 
+[Novel: Bicep - Manning Bar](https://www.facebook.com/events/2762555217103584/)
+
+[Hospitality: SydDNB - Home](https://www.facebook.com/events/228693841147444/)
+
 <br>
 
 **Wednesday 9th Jan**
