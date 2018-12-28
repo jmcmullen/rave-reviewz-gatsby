@@ -10,36 +10,6 @@ _Featured Events:_
 
 <br>
 
-**Sunday 23rd Dec**
-
-[S.A.S.H Xmas - Greenwood Hotel/Home](https://www.facebook.com/events/738000043221902/)
-
-[Finer Things Open Air - Finer Things Courtyard](https://www.facebook.com/events/261227067928461/)
-
-[Portside: Go Freek - The Port](https://www.facebook.com/events/199637324283026/)
-
-<br>
-
-**Monday 24th Dec**
-
-[S.A.S.H Xmas Breakfast - Home](https://www.facebook.com/events/360816258011230/)
-
-[Quarters Xmas Eve - Hillside Hotel](https://www.facebook.com/events/554415928356979/)
-
-<br>
-
-**Wednesday 26th Dec**
-
-[Blueprint & Summerlove - Boxing Day at Watsons Bay Hotel](https://www.facebook.com/events/482618692220891/)
-
-<br>
-
-**Thursday 27th Dec**
-
-[RENEGADE - Burdekin Hotel](https://www.facebook.com/events/394021361139704/)
-
-<br>
-
 **Friday 28th Dec**
 
 [Motif: Ran Salman - Slyfox](https://www.facebook.com/events/1685904091531963/)
@@ -62,6 +32,8 @@ _Featured Events:_
 
 [Xmas Party - Slyfox](https://www.facebook.com/events/607580806311787/)
 
+[Rabbit Hole End of Year Party - Oxford Art Factory](https://www.facebook.com/events/1983683761699028/)
+
 [S&S: James Zabiela - Universal](https://www.facebook.com/events/189822248612382/)
 
 [LNDRY: Flava D & TS7 - Chinese Laundry](https://www.facebook.com/events/270616396982488/)
@@ -69,6 +41,8 @@ _Featured Events:_
 <br>
 
 **Sunday 30th Dec**
+
+[Tribe. Rooftop Series #3](https://www.facebook.com/events/375618889874492/)
 
 [S.A.S.H NYE - Greenwood/Home](https://www.facebook.com/events/1268844426589751/)
 
@@ -78,7 +52,11 @@ _Featured Events:_
 
 [Mad Racket NYE: Session Victim & Phil Smart - Marrickville Bowling Club](https://www.facebook.com/events/205561600326367/)
 
+[Café del Mar NYE Party ft. Sandy Rivera](https://www.facebook.com/events/326025117981988/)
+
 [Last Dance NYE - Warehouse Party](https://www.facebook.com/events/1471960536281176/)
+
+[Mantra Collective Warehouse NYE](https://www.facebook.com/events/389755648260342/)
 
 [NYE In The Park - Victoria Park](https://www.facebook.com/events/305206320255667/)
 
@@ -88,9 +66,13 @@ _Featured Events:_
 
 [New Years Day EXTRAVAGANZA 2 - Cruise Bar](< https://www.facebook.com/events/735483273480633/>)
 
+[Space NYD19: Carl Cox - Greenwood Hotel](https://www.facebook.com/events/536915710072383/)
+
+[Season X - NYE Onboard](https://www.facebook.com/events/2162255804036293/)
+
 [Carl Cox at Night - Home](https://www.facebook.com/events/749957005370827/)
 
-[Space NYD19: Carl Cox - Greenwood Hotel](https://www.facebook.com/events/536915710072383/)
+[IDWT x ZOO Pres. NYD 15hr [FREE PARTY]](https://www.facebook.com/events/179962302958098/)
 
 <br>
 
