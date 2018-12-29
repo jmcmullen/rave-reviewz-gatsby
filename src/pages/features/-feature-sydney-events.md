@@ -6,7 +6,7 @@ date: 2018-12-23T07:00:00.000Z
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/sydney-events-cover.jpg
 ---
-_Featured Events:_
+_PROMOTERS - to add events or if you're looking for extra promotion, INBOX our _[_Facebook_](https://www.facebook.com/ravereviewz)_ page._
 
 <br>
 
@@ -72,7 +72,7 @@ _Featured Events:_
 
 [Carl Cox at Night - Home](https://www.facebook.com/events/749957005370827/)
 
-[IDWT x ZOO Pres. NYD 15hr [FREE PARTY]](https://www.facebook.com/events/179962302958098/)
+[IDWT x ZOO Pres. NYD 15hr \[FREE PARTY]](https://www.facebook.com/events/179962302958098/)
 
 <br>
 
