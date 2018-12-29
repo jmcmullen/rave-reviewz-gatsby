@@ -42,6 +42,7 @@ class Navbar extends Component {
     const linksDesktop = [];
     const menu = [
       { name: 'Home', path: '/', icon: home3 },
+      { name: 'Events', path: '/feature-events', icon: bubbles },
       { name: 'Interviews', path: '/interviews', icon: bubbles },
       { name: 'Features', path: '/features', icon: newspaper },
       { name: 'About Us', path: '/about-us', icon: info },
@@ -67,31 +68,6 @@ class Navbar extends Component {
         </Link>
       );
     });
-
-    const eventsMobile = (
-      <a
-        className="menu-item"
-        href="https://www.ravereviewz.net/events"
-        onClick={this.closeMenu}
-        key="events"
-      >
-        <Icon className="menu-icon" icon={ticket} size={25} />
-        Events
-      </a>
-    );
-
-    const eventsDesktop = (
-      <a
-        className="navbar-item"
-        href="https://www.ravereviewz.net/events"
-        key="events"
-      >
-        Events
-      </a>
-    );
-
-    linksMobile.splice(1, 0, eventsMobile);
-    linksDesktop.splice(1, 0, eventsDesktop);
 
     return (
       <div>
