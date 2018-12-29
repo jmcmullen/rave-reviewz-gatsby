@@ -6,7 +6,7 @@ date: 2018-12-23T07:00:00.000Z
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/sydney-events-cover.jpg
 ---
-_If you're a PROMOTER and want to add your event or extra promotion, INBOX our _[_Facebook_](https://www.facebook.com/ravereviewz)_ page._
+_If you're a PROMOTER and want to add your event or extra promotion, INBOX our [Facebook](https://www.facebook.com/ravereviewz) page._
 
 <br>
 
