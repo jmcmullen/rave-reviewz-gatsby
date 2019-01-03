@@ -10,69 +10,9 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Friday 28th Dec**
+**Thursday 3rd Jan**
 
-[Motif: Ran Salman - Slyfox](https://www.facebook.com/events/1685904091531963/)
-
-[WeLove #180 - Burdekin Hotel](https://www.facebook.com/events/2010779775655447/)
-
-[Peculiar x Cure: Monika Ross - Goodbar](https://www.facebook.com/events/412174155989023/)
-
-<br> 
-
-**Saturday 29th Dec**
-
-[Afters - Goodbar](https://www.facebook.com/events/317015948906165/)
-
-[Fact1on Military Issue: ANNA, DJ Tennis, Richy Ahmed - Chinese Laundry](https://www.facebook.com/events/322799575163427/)
-
-[William: DoubtingThomas - Club 77](https://www.facebook.com/events/1165719153596285/)
-
-[Nights Like This: Kormak - Goodbar](https://www.facebook.com/events/376252929593263/)
-
-[Xmas Party - Slyfox](https://www.facebook.com/events/607580806311787/)
-
-[Rabbit Hole End of Year Party - Oxford Art Factory](https://www.facebook.com/events/1983683761699028/)
-
-[S&S: James Zabiela - Universal](https://www.facebook.com/events/189822248612382/)
-
-[LNDRY: Flava D & TS7 - Chinese Laundry](https://www.facebook.com/events/270616396982488/)
-
-<br>
-
-**Sunday 30th Dec**
-
-[Tribe. Rooftop Series #3](https://www.facebook.com/events/375618889874492/)
-
-[S.A.S.H NYE - Greenwood/Home](https://www.facebook.com/events/1268844426589751/)
-
-<br>
-
-**Monday 31st Dec**
-
-[Mad Racket NYE: Session Victim & Phil Smart - Marrickville Bowling Club](https://www.facebook.com/events/205561600326367/)
-
-[Café del Mar NYE Party ft. Sandy Rivera](https://www.facebook.com/events/326025117981988/)
-
-[Last Dance NYE - Warehouse Party](https://www.facebook.com/events/1471960536281176/)
-
-[Mantra Collective Warehouse NYE](https://www.facebook.com/events/389755648260342/)
-
-[NYE In The Park - Victoria Park](https://www.facebook.com/events/305206320255667/)
-
-<br>
-
-**Tuesday 1st Jan**
-
-[New Years Day EXTRAVAGANZA 2 - Cruise Bar](< https://www.facebook.com/events/735483273480633/>)
-
-[Space NYD19: Carl Cox - Greenwood Hotel](https://www.facebook.com/events/536915710072383/)
-
-[Season X - NYE Onboard](https://www.facebook.com/events/2162255804036293/)
-
-[Carl Cox at Night - Home](https://www.facebook.com/events/749957005370827/)
-
-\[IDWT x ZOO Pres. NYD 15hr [FREE PARTY]](https://www.facebook.com/events/179962302958098/)
+[Renegade opening party - Pepperpot](https://www.facebook.com/events/213622979544593/)
 
 <br>
 
@@ -89,6 +29,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Afters - Goodbar](https://www.facebook.com/events/2242510209307017/)
 
 [Afters Rooftop Launch: Simon Caldwell - The Bourbon](https://www.facebook.com/events/124054871851451/)
+
+[Kaiser Souzai (Berlin) - Civic Underground](https://www.facebook.com/events/590493448039876/)
 
 [Nights Like This: Bella Sarris & Bas Ibellini - Goodbar](https://www.facebook.com/events/364863007409980/)
 
