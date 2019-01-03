@@ -48,6 +48,16 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Hospitality: SydDNB - Home](https://www.facebook.com/events/228693841147444/)
 
+[William. with Pablo Sanchez (liebe*detail, moodmusic)](https://www.facebook.com/events/337768683617471/)
+
+[Dresscode presents LVL 3 - Gelassenheit & B-MAN](https://www.facebook.com/events/754304928261601/)
+
+<br>
+
+**Sunday 6th Jan**
+
+[★ SASH By Day & Night ★ Giammarco Orsini ★ Bas Ibellini ★ NOX ★](https://www.facebook.com/events/310256616487252/)
+
 <br>
 
 **Wednesday 9th Jan**
