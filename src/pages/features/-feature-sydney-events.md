@@ -20,6 +20,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [WeLove Javi Bora - Boat Party](https://www.facebook.com/events/2326620444237809/)
 
+[WeLove #181 w/Javi Bora (BOAT AFTER PARTY)](https://www.facebook.com/events/2011006218948985/)
+
 [Rhapsody: Sedgwick - Slyfox](https://www.facebook.com/events/921798364693211/)
 
 <br>
@@ -29,6 +31,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Afters - Goodbar](https://www.facebook.com/events/2242510209307017/)
 
 [Afters Rooftop Launch: Simon Caldwell - The Bourbon](https://www.facebook.com/events/124054871851451/)
+
+[The Burdekin - 2019 Opening Party (Free Entry)](https://www.facebook.com/events/328261387900477/)
 
 [Kaiser Souzai (Berlin) - Civic Underground](https://www.facebook.com/events/590493448039876/)
 
