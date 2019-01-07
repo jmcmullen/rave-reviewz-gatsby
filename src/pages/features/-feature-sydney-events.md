@@ -94,6 +94,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Super Flu - Cafe del Mare](https://www.facebook.com/events/263434427699591/)
 
+[Blueprint Takeover - Nights Like This - Goodbar](https://www.facebook.com/events/324080108318623/)
+
 <br>
 
 **Friday 25th Jan**
