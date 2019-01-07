@@ -84,6 +84,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Forbidden Tone: Roger Martinez - Slyfox](https://www.facebook.com/events/2198466726833036/)
 
+[Translate pres, Tokyo Love Hotel ft Ken Ishii (70 Drums) JP - Civic Underground](https://www.facebook.com/events/268259673875949/)
+
 <br>
 
 **Saturday 19th Jan**
