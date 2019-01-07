@@ -12,19 +12,19 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Featured Events**
 
-![](/img/mood.jpg)
+![null](/img/mood.jpg)
 
 [Move For Mood's Rooftop Rumble: Conspiracy - Home](https://www.facebook.com/events/315234675975835/)
 
 <br>
 
-![](/img/oliver.jpg)
+![null](/img/oliver.jpg)
 
 [Oliver Koletzki - Hermann's Bar](https://www.facebook.com/events/2146058515712196/)
 
 <br>
 
-![](/img/eg.jpg)
+![null](/img/eg.jpg)
 
 [Electric Gardens - Centennial Parklands](https://www.facebook.com/events/284358658959133/)
 
@@ -66,8 +66,6 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Afters: Pepperpot - The Bourbon](https://www.facebook.com/events/224792305066294/')
 
-
-
 <br>
 
 **Sunday 13th Jan**
@@ -89,6 +87,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [LNDRY: Dom Dolla - Chinese Laundry](https://www.facebook.com/events/580687795711925/)
 
 [Roots & Afters: Gescu - The Bourbon](https://www.facebook.com/events/739078789799808/)
+
+[Super Flu - Cafe del Mare](https://www.facebook.com/events/263434427699591/)
 
 <br>
 
