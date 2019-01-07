@@ -96,6 +96,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Blueprint Takeover - Nights Like This - Goodbar](https://www.facebook.com/events/324080108318623/)
 
+[Canvas: Clive Henry \[Circoloco / DC10] - El Topo Basement](https://www.facebook.com/events/356915508420492/)
+
 <br>
 
 **Friday 25th Jan**
