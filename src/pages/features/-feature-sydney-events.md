@@ -56,7 +56,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [William x Something Else x Nightime Drama: Eric Cloutier - Club 77](https://www.facebook.com/events/295005471126187/)
 
-[Nights Like This x Charades: Marcel Fengler](https://www.facebook.com/events/754650794916220/)
+[Nights Like This x Charades: Marcel Fengler - Goodbar](https://www.facebook.com/events/754650794916220/)
 
 [LNDRY: Ember & Taleena - Chinese Laundry](https://www.facebook.com/events/524043488101256)
 
