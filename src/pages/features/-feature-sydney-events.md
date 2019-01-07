@@ -90,6 +90,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Roots & Afters: Gescu - The Bourbon](https://www.facebook.com/events/739078789799808/)
 
+[Blueprint Takeover - Nights Like This - Goodbar](https://www.facebook.com/events/324080108318623/)
+
 <br>
 
 **Friday 25th Jan**
