@@ -98,6 +98,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Canvas: Clive Henry \[Circoloco / DC10] - El Topo Basement](https://www.facebook.com/events/356915508420492/)
 
+[Spektrum Pres. RIVA STARR - Burdekin Hotel](https://www.facebook.com/events/370088237099383/)
+
 <br>
 
 **Friday 25th Jan**
