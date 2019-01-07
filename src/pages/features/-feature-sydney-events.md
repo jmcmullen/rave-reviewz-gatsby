@@ -66,6 +66,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Afters: Pepperpot - The Bourbon](https://www.facebook.com/events/224792305066294/')
 
+[Local Heroes at The Bridge Hotel Part 2 - The Bridge Hotel](https://www.facebook.com/events/1999746566758565/)
+
 <br>
 
 **Sunday 13th Jan**
