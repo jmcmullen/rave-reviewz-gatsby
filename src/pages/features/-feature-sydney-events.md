@@ -106,6 +106,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [LNDRY: Cause N Affect & JDG - Chinese Laundry](https://www.facebook.com/events/2415338141871765/)
 
+**Sunday 27th Jan**
+
+[Afternoon Tea W/ Analog & Friends - Chippo Hotel](https://www.facebook.com/events/2229132043774954/)
+
 <br>
 
 **Saturday 16th Feb**
