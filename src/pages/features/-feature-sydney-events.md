@@ -10,6 +10,26 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
+**Featured Events**
+
+![](/img/mood.jpg)
+
+[Move For Mood's Rooftop Rumble: Conspiracy - Home](https://www.facebook.com/events/315234675975835/)
+
+<br>
+
+![](/img/oliver.jpg)
+
+[Oliver Koletzki - Hermann's Bar](https://www.facebook.com/events/2146058515712196/)
+
+<br>
+
+![](/img/eg.jpg)
+
+[Electric Gardens - Centennial Parklands](https://www.facebook.com/events/284358658959133/)
+
+<br>
+
 **Wednesday 9th Jan**
 
 [Obsession x Planet Disco: Nate S.U - Goodbar](https://www.facebook.com/events/1982615245191799/)
@@ -45,6 +65,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Move For Mood's Rooftop Rumble: Conspiracy - Home](https://www.facebook.com/events/315234675975835/)
 
 [Afters: Pepperpot - The Bourbon](https://www.facebook.com/events/224792305066294/')
+
+
 
 <br>
 
