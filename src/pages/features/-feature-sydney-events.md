@@ -12,19 +12,19 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Featured Events**
 
-![](/img/mood.jpg)
+![null](/img/mood.jpg)
 
 [Move For Mood's Rooftop Rumble: Conspiracy - Home](https://www.facebook.com/events/315234675975835/)
 
 <br>
 
-![](/img/oliver.jpg)
+![null](/img/oliver.jpg)
 
 [Oliver Koletzki - Hermann's Bar](https://www.facebook.com/events/2146058515712196/)
 
 <br>
 
-![](/img/eg.jpg)
+![null](/img/eg.jpg)
 
 [Electric Gardens - Centennial Parklands](https://www.facebook.com/events/284358658959133/)
 
@@ -56,7 +56,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [William x Something Else x Nightime Drama: Eric Cloutier - Club 77](https://www.facebook.com/events/295005471126187/)
 
-[Nights Like This x Charades: Marcel Fengler](https://www.facebook.com/events/754650794916220/)
+[Nights Like This x Charades: Marcel Fengler - Goodbar](https://www.facebook.com/events/754650794916220/)
 
 [LNDRY: Ember & Taleena - Chinese Laundry](https://www.facebook.com/events/524043488101256)
 
@@ -66,7 +66,9 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Afters: Pepperpot - The Bourbon](https://www.facebook.com/events/224792305066294/')
 
+[Local Heroes at The Bridge Hotel Part 2 - The Bridge Hotel](https://www.facebook.com/events/1999746566758565/)
 
+[Zoo x Dabble Group Pres. Juliet Fox (Drumcode/Octopus Records) - The Chippo Hotel](https://www.facebook.com/events/506371759845244/)
 
 <br>
 
@@ -82,6 +84,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Forbidden Tone: Roger Martinez - Slyfox](https://www.facebook.com/events/2198466726833036/)
 
+[Translate pres, Tokyo Love Hotel ft Ken Ishii (70 Drums) JP - Civic Underground](https://www.facebook.com/events/268259673875949/)
+
 <br>
 
 **Saturday 19th Jan**
@@ -89,6 +93,14 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [LNDRY: Dom Dolla - Chinese Laundry](https://www.facebook.com/events/580687795711925/)
 
 [Roots & Afters: Gescu - The Bourbon](https://www.facebook.com/events/739078789799808/)
+
+[Super Flu - Cafe del Mare](https://www.facebook.com/events/263434427699591/)
+
+[Blueprint Takeover - Nights Like This - Goodbar](https://www.facebook.com/events/324080108318623/)
+
+[Canvas: Clive Henry \[Circoloco / DC10] - El Topo Basement](https://www.facebook.com/events/356915508420492/)
+
+[Spektrum Pres. RIVA STARR - Burdekin Hotel](https://www.facebook.com/events/370088237099383/)
 
 <br>
 
@@ -104,9 +116,23 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
+**Sunday 27th Jan**
+
+[Afternoon Tea W/ Analog & Friends - Chippo Hotel](https://www.facebook.com/events/2229132043774954/)
+
+<br>
+
+**Friday 1st Feb**
+
+[Spektrum Pres. wAFF (Hot Creations) - Goodbar](https://www.facebook.com/events/2435839836487905/)
+
+<br>
+
 **Saturday 16th Feb**
 
 [Anchor - Secret Guest, Kerry Wallace, Cassette + more](https://www.facebook.com/events/407885913344741/)
+
+[Nico Stojan - Sydney Harbour Day Cruise](https://www.facebook.com/events/565024023969951/)
 
 **Saturday 2nd Mar**
 
