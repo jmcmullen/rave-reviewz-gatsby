@@ -114,6 +114,12 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
+**Friday 1st Feb**
+
+[Spektrum Pres. wAFF (Hot Creations) - Goodbar](https://www.facebook.com/events/2435839836487905/)
+
+
+
 **Saturday 16th Feb**
 
 [Anchor - Secret Guest, Kerry Wallace, Cassette + more](https://www.facebook.com/events/407885913344741/)
