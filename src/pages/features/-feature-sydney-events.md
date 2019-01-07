@@ -66,6 +66,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Afters: Pepperpot - The Bourbon](https://www.facebook.com/events/224792305066294/')
 
+[Zoo x Dabble Group Pres. Juliet Fox - Drumcode/Octopus Records - The Chippo Hotel](https://www.facebook.com/events/506371759845244/)
+
 <br>
 
 **Sunday 13th Jan**
@@ -90,11 +92,9 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Roots & Afters: Gescu - The Bourbon](https://www.facebook.com/events/739078789799808/)
 
-[Canvas: Clive Henry - Circoloco / DC10- El Topo Basement](https://www.facebook.com/events/356915508420492/)
-
 [Blueprint Takeover - Nights Like This - Goodbar](https://www.facebook.com/events/324080108318623/)
 
-
+[Canvas: Clive Henry Circoloco / DC10 - El Topo Basement](https://www.facebook.com/events/356915508420492/)
 
 <br>
 
