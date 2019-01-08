@@ -70,6 +70,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Local Heroes at The Bridge Hotel Part 2 - The Bridge Hotel](https://www.facebook.com/events/1999746566758565/)
 
+[Allfriends Basement Party: Nick Reverse & Manu Neves - Tokyo Sing Song](https://www.facebook.com/events/1938582763118165/)
+
 <br>
 
 **Sunday 13th Jan**
