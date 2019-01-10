@@ -30,12 +30,6 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Wednesday 9th Jan**
-
-[Obsession x Planet Disco: Nate S.U - Goodbar](https://www.facebook.com/events/1982615245191799/)
-
-<br>
-
 **Thursday 10th Jan**
 
 [Renegade 45 - Burdekin Hotel](https://www.facebook.com/events/1414443122019583/)
