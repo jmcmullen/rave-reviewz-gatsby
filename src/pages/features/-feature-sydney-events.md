@@ -110,11 +110,15 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Extra Spicy: Murder He Wrote - Goodbar](https://www.facebook.com/events/744341619278481/)
 
+[Dopamine Events Australia Day Pre Party - El Topo Basement](https://www.facebook.com/events/329637797762556/)
+
 <br>
 
 **Saturday 26th Jan**
 
 [LNDRY: Cause N Affect & JDG - Chinese Laundry](https://www.facebook.com/events/2415338141871765/)
+
+[Quarters Takeover \[Aus Day Edition] - The Flinders](https://www.facebook.com/events/225950118295370/)
 
 <br>
 
