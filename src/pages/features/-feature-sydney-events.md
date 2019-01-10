@@ -50,6 +50,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Touch of Bunk3r - Club 77](https://www.facebook.com/events/2244911882453102/)
 
+[Clipp.art pres. ‘Hidden Spheres - Tokyo Sing Song](https://www.facebook.com/events/561872727608767/)
+
 <br>
 
 **Saturday 12th Jan**
@@ -71,6 +73,14 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Local Heroes at The Bridge Hotel Part 2 - The Bridge Hotel](https://www.facebook.com/events/1999746566758565/)
 
 [Allfriends Basement Party: Nick Reverse & Manu Neves - Tokyo Sing Song](https://www.facebook.com/events/1938582763118165/)
+
+[Move For Mood Afterparty // At The Flinders](https://www.facebook.com/events/962417110619111/)
+
+[Charades Pres. Marcel Fengler - Nights Like This](https://www.facebook.com/events/754650794916220/)
+
+[Fix My Sink: Stipé - Slyfox](https://www.facebook.com/events/361233281093441/)
+
+[Everything 90's (House & UK Garage)](https://www.facebook.com/events/761371067554133/)
 
 <br>
 
