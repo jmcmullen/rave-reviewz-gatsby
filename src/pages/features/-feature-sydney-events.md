@@ -52,7 +52,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Clipp.art pres. ‘Hidden Spheres - Tokyo Sing Song](https://www.facebook.com/events/561872727608767/)
 
-[Official Electric Gardens Warm-Up Party](https://www.facebook.com/events/2117200421706941/)
+[Official Electric Gardens Warm-Up Party - Randy Wixs](https://www.facebook.com/events/2117200421706941/)
 
 <br>
 
@@ -112,7 +112,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Canvas: Clive Henry Circoloco / DC10 - El Topo Basement](https://www.facebook.com/events/356915508420492/)
 
-[Paragon Nights w/Robbie Lowe](https://www.facebook.com/events/2154808681515822/)
+[Paragon Nights w/Robbie Low - Paragon](https://www.facebook.com/events/2154808681515822/)
 
 <br>
 
