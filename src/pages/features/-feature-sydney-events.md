@@ -124,7 +124,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [LNDRY: Cause N Affect & JDG - Chinese Laundry](https://www.facebook.com/events/2415338141871765/)
 
-[Quarters Takeover \[Aus Day Edition] - The Flinders](https://www.facebook.com/events/225950118295370)
+[Quarters Takeover (Aus Day Edition) - The Flinders](https://www.facebook.com/events/225950118295370)
 
 <br>
 
