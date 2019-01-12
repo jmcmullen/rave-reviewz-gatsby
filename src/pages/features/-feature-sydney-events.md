@@ -112,7 +112,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Canvas: Clive Henry Circoloco / DC10 - El Topo Basement](https://www.facebook.com/events/356915508420492/)
 
-[Paragon Nights w/Robbie Low - Paragon](https://www.facebook.com/events/2154808681515822/)
+[Paragon Nights w/Robbie Lowe - Paragon](https://www.facebook.com/events/2154808681515822/)
 
 <br>
 
@@ -129,6 +129,12 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [LNDRY: Cause N Affect & JDG - Chinese Laundry](https://www.facebook.com/events/2415338141871765/)
 
 [Quarters Takeover (Aus Day Edition) - The Flinders](https://www.facebook.com/events/225950118295370)
+
+<br>
+
+**Saturday 9th Feb**
+
+[Paragon Nights w/Natalie Sax - Paragon](https://www.facebook.com/events/2644826328868622/)
 
 <br>
 
