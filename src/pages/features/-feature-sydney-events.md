@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-events
 title: Sydney Events
-date: 2018-12-23T07:00:00.000Z
+date: 2019-01-12T18:00:00+11:00
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/sydney-events-cover.jpg
 ---
@@ -11,12 +11,6 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 <br>
 
 **Featured Events**
-
-![null](/img/mood.jpg)
-
-[Move For Mood's Rooftop Rumble: Conspiracy - Home](https://www.facebook.com/events/315234675975835/)
-
-<br>
 
 ![null](/img/ken-ishii.jpg)
 
@@ -36,59 +30,11 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Thursday 10th Jan**
+**Thursday 17th Jan**
 
-[Renegade 45 - Burdekin Hotel](https://www.facebook.com/events/1414443122019583/)
+[WAT Thursdays - Jungle Sydney](https://www.facebook.com/events/1952534701483025/\)
 
-<br>
-
-**Friday 11th Jan**
-
-[We Love #182 - Burdekin Hotel](https://www.facebook.com/events/2107314242688256/)
-
-[Hello x Lokomotiv: Julian Perez - Slyfox](https://www.facebook.com/events/581241565651553/)
-
-[Touch of Bunk3r - Club 77](https://www.facebook.com/events/2244911882453102/)
-
-[Clipp.art pres. ‘Hidden Spheres - Tokyo Sing Song](https://www.facebook.com/events/561872727608767/)
-
-[Official Electric Gardens Warm-Up Party - Randy Wixs](https://www.facebook.com/events/2117200421706941/)
-
-<br>
-
-**Saturday 12th Jan**
-
-[William x Something Else x Nightime Drama: Eric Cloutier - Club 77](https://www.facebook.com/events/295005471126187/)
-
-[Nights Like This x Charades: Marcel Fengler](https://www.facebook.com/events/754650794916220/)
-
-[LNDRY: Ember & Taleena - Chinese Laundry](https://www.facebook.com/events/524043488101256)
-
-[Friends Of Friends: Motor City Drum Ensemble - Manning Bar](https://www.facebook.com/events/350118145575661/)
-
-[Move For Mood's Rooftop Rumble: Conspiracy - Home](https://www.facebook.com/events/315234675975835/)
-
-[Afters: Pepperpot - The Bourbon](https://www.facebook.com/events/224792305066294/')
-
-[Zoo x Dabble Group Pres. Juliet Fox - Drumcode/Octopus Records - The Chippo Hotel](https://www.facebook.com/events/506371759845244/)
-
-[Local Heroes at The Bridge Hotel Part 2 - The Bridge Hotel](https://www.facebook.com/events/1999746566758565/)
-
-[Allfriends Basement Party: Nick Reverse & Manu Neves - Tokyo Sing Song](https://www.facebook.com/events/1938582763118165/)
-
-[Move For Mood Afterparty // At The Flinders](https://www.facebook.com/events/962417110619111/)
-
-[Charades Pres. Marcel Fengler - Nights Like This](https://www.facebook.com/events/754650794916220/)
-
-[Fix My Sink: Stipé - Slyfox](https://www.facebook.com/events/361233281093441/)
-
-[Everything 90's (House & UK Garage)](https://www.facebook.com/events/761371067554133/)
-
-<br>
-
-**Sunday 13th Jan**
-
-[S.A.S.H: Kink - Greenwood/Home](https://www.facebook.com/events/279274252779680/)
+[Renegade 46 - Burdekin Hotel](https://www.facebook.com/events/367692020629175/)
 
 <br>
 
@@ -99,6 +45,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Forbidden Tone: Roger Martinez - Slyfox](https://www.facebook.com/events/2198466726833036/)
 
 [Translate pres, Tokyo Love Hotel ft Ken Ishii (70 Drums) JP - Civic Underground](https://www.facebook.com/events/268259673875949/)
+
+[Obsession & Planet Disco: Nate S.U - Goodbar](https://www.facebook.com/events/1982615245191799/)
+
+[WeLove #183: Alex Ferrer + Secret Guest - Burdekin Hotel](https://www.facebook.com/events/2082228215422071/)
 
 <br>
 
@@ -113,6 +63,16 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Canvas: Clive Henry Circoloco / DC10 - El Topo Basement](https://www.facebook.com/events/356915508420492/)
 
 [Paragon Nights w/Robbie Lowe - Paragon](https://www.facebook.com/events/2154808681515822/)
+
+[Fix My Sink: Molly - Slyfox](https://www.facebook.com/events/2225252347737542/)
+
+[Super Flu - Cafe Del Mar](https://www.facebook.com/events/263434427699591/)
+
+<br>
+
+**Sunday 20th Jan**
+
+[S.A.S.H: Half Baked Showcase, Clive Henry, Harry McCanna - Greenwood / Home](https://www.facebook.com/events/385463162205275/)
 
 <br>
 
@@ -129,6 +89,16 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [LNDRY: Cause N Affect & JDG - Chinese Laundry](https://www.facebook.com/events/2415338141871765/)
 
 [Quarters Takeover (Aus Day Edition) - The Flinders](https://www.facebook.com/events/225950118295370)
+
+[Nights Like This: Cassette, Danni B & Tommy Vercetti (UK) - Goodbar](https://www.facebook.com/events/361199521095624/)
+
+[Dabble 6 - Civic Underground](https://www.facebook.com/events/280614289469038/)
+
+<br>
+
+**Saturday 2nd Feb**
+
+[Renegade: Secret Cinema & Egbert (Live) - Goodbar](https://www.facebook.com/events/355480655243981/)
 
 <br>
 
