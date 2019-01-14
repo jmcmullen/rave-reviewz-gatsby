@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-events
 title: Sydney Events
-date: 2019-01-12T18:00:00+11:00
+date: 2019-01-12T07:00:00.000Z
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/sydney-events-cover.jpg
 ---
@@ -32,7 +32,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Thursday 17th Jan**
 
-[WAT Thursdays - Jungle Sydney](https://www.facebook.com/events/1952534701483025/\)
+[WAT Thursdays - Jungle Sydney](https://www.facebook.com/events/1952534701483025/)
 
 [Renegade 46 - Burdekin Hotel](https://www.facebook.com/events/367692020629175/)
 
@@ -48,7 +48,13 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Obsession & Planet Disco: Nate S.U - Goodbar](https://www.facebook.com/events/1982615245191799/)
 
-[WeLove #183: Alex Ferrer + Secret Guest - Burdekin Hotel](https://www.facebook.com/events/2082228215422071/)
+[Eleven: Patrick Topping - Proud Mary's](https://www.facebook.com/events/999757603555925/)
+
+[Cadence Fridays #6 - El Topo Basement](https://www.facebook.com/events/546581049086352/)
+
+[Velvet Kollektiv: A.Lias - The Beauchamp Hotel](https://www.facebook.com/events/382077669234534/)
+
+[Signals: James Pepper - The Flinders](https://www.facebook.com/events/360957857787425/)
 
 <br>
 
@@ -68,6 +74,16 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Super Flu - Cafe Del Mar](https://www.facebook.com/events/263434427699591/)
 
+[Dresscode presents LVL3: Neeso - Kings Cross Hotel](https://www.facebook.com/events/319511935332275)
+
+[This Is Living Launch Party: Sideboob - Newtown Hotel](https://www.facebook.com/events/503118660095066/)
+
+[Church of Techno Relaunch: Nanoplex, Ben Coda, MeatKatie (UK) - The Bridge Hotel](https://www.facebook.com/events/1966443776796412/)
+
+[Spektrum: RIVA STARR - Burdekin Hotel](https://www.facebook.com/events/370088237099383/)
+
+[Robbie Lowe & Jermaine Jones - The Flinders](https://www.facebook.com/events/2056735857719958/)
+
 <br>
 
 **Sunday 20th Jan**
@@ -81,6 +97,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Extra Spicy: Murder He Wrote - Goodbar](https://www.facebook.com/events/744341619278481/)
 
 [Dopamine Events Australia Day Pre Party - El Topo Basement](https://www.facebook.com/events/329637797762556/)
+
+[WeLove #184: E.G. Pre Party - Burdekin Hotel](https://www.facebook.com/events/243191193289031/)
 
 <br>
 
