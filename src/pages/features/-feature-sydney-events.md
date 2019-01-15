@@ -116,6 +116,12 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
+**Sunday 27th Jan**
+
+[Dopamine Events Australia Day Long Weekend Boat Party](https://www.facebook.com/events/134183920866712/)
+
+<br>
+
 **Saturday 2nd Feb**
 
 [Renegade: Secret Cinema & Egbert (Live) - Goodbar](https://www.facebook.com/events/355480655243981/)
