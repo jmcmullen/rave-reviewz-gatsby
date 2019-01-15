@@ -112,7 +112,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Dabble 6 - Civic Underground](https://www.facebook.com/events/280614289469038/)
 
-[IDWT x ZOO presents BEC (Second State)](https://www.facebook.com/events/314495592506620/)
+[IDWT x ZOO presents BEC  - Home nightclub](https://www.facebook.com/events/314495592506620/)
 
 <br>
 
