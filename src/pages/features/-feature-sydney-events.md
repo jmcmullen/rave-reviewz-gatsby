@@ -84,6 +84,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Robbie Lowe & Jermaine Jones - The Flinders](https://www.facebook.com/events/2056735857719958/)
 
+[Blue Line Steppers - Manning Bar](https://www.facebook.com/events/282185992504015/)
+
+[Sunset at the Annandale #3](https://www.facebook.com/events/552742018528542/)
+
 <br>
 
 **Sunday 20th Jan**
@@ -99,6 +103,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Dopamine Events Australia Day Pre Party - El Topo Basement](https://www.facebook.com/events/329637797762556/)
 
 [WeLove #184: E.G. Pre Party - Burdekin Hotel](https://www.facebook.com/events/243191193289031/)
+
+[Electric Gardens Warm-Up Party (Part III) - Randy Wixs](https://www.facebook.com/events/365125917613618/)
 
 <br>
 
@@ -119,6 +125,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 **Sunday 27th Jan**
 
 [Dopamine Events Australia Day Long Weekend Boat Party](https://www.facebook.com/events/134183920866712/)
+
+[Fallen Disco - Crane Bar](https://www.facebook.com/events/733073567060918/)
 
 <br>
 
