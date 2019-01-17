@@ -136,6 +136,12 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
+**Sunday 3rd Feb**
+
+[Bermuda Club House Party #2 - Ching-a-lings](https://www.facebook.com/events/403407373730413/)
+
+<br>
+
 **Saturday 9th Feb**
 
 [Paragon Nights w/Natalie Sax - Paragon](https://www.facebook.com/events/2644826328868622/)
