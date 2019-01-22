@@ -12,87 +12,11 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Featured Events**
 
-![null](/img/ken-ishii.jpg)
-
-[Translate pres, Tokyo Love Hotel ft Ken Ishii (70 Drums) JP - Civic Underground](https://www.facebook.com/events/268259673875949/)
-
-<br>
-
-![null](/img/oliver.jpg)
-
-[Oliver Koletzki - Hermann's Bar](https://www.facebook.com/events/2146058515712196/)
-
 <br>
 
 ![null](/img/eg.jpg)
 
 [Electric Gardens - Centennial Parklands](https://www.facebook.com/events/284358658959133/)
-
-<br>
-
-**Thursday 17th Jan**
-
-[WAT Thursdays - Jungle Sydney](https://www.facebook.com/events/1952534701483025/)
-
-[Renegade 46 - Burdekin Hotel](https://www.facebook.com/events/367692020629175/)
-
-<br>
-
-**Friday 18th Jan**
-
-[We Love #183 - Burdekin Hotel](https://www.facebook.com/events/2082228215422071/)
-
-[Forbidden Tone: Roger Martinez - Slyfox](https://www.facebook.com/events/2198466726833036/)
-
-[Translate pres, Tokyo Love Hotel ft Ken Ishii (70 Drums) JP - Civic Underground](https://www.facebook.com/events/268259673875949/)
-
-[Obsession & Planet Disco: Nate S.U - Goodbar](https://www.facebook.com/events/1982615245191799/)
-
-[Eleven: Patrick Topping - Proud Mary's](https://www.facebook.com/events/999757603555925/)
-
-[Cadence Fridays #6 - El Topo Basement](https://www.facebook.com/events/546581049086352/)
-
-[Velvet Kollektiv: A.Lias - The Beauchamp Hotel](https://www.facebook.com/events/382077669234534/)
-
-[Signals: James Pepper - The Flinders](https://www.facebook.com/events/360957857787425/)
-
-<br>
-
-**Saturday 19th Jan**
-
-[LNDRY: Dom Dolla - Chinese Laundry](https://www.facebook.com/events/580687795711925/)
-
-[Roots & Afters: Gescu - The Bourbon](https://www.facebook.com/events/739078789799808/)
-
-[Blueprint Takeover - Nights Like This - Goodbar](https://www.facebook.com/events/324080108318623/)
-
-[Canvas: Clive Henry Circoloco / DC10 - El Topo Basement](https://www.facebook.com/events/356915508420492/)
-
-[Paragon Nights w/Robbie Lowe - Paragon](https://www.facebook.com/events/2154808681515822/)
-
-[Fix My Sink: Molly - Slyfox](https://www.facebook.com/events/2225252347737542/)
-
-[Super Flu - Cafe Del Mar](https://www.facebook.com/events/263434427699591/)
-
-[Dresscode presents LVL3: Neeso - Kings Cross Hotel](https://www.facebook.com/events/319511935332275)
-
-[This Is Living Launch Party: Sideboob - Newtown Hotel](https://www.facebook.com/events/503118660095066/)
-
-[Church of Techno Relaunch: Nanoplex, Ben Coda, MeatKatie (UK) - The Bridge Hotel](https://www.facebook.com/events/1966443776796412/)
-
-[Spektrum: RIVA STARR - Burdekin Hotel](https://www.facebook.com/events/370088237099383/)
-
-[Robbie Lowe & Jermaine Jones - The Flinders](https://www.facebook.com/events/2056735857719958/)
-
-[Blue Line Steppers - Manning Bar](https://www.facebook.com/events/282185992504015/)
-
-[Sunset at the Annandale #3](https://www.facebook.com/events/552742018528542/)
-
-<br>
-
-**Sunday 20th Jan**
-
-[S.A.S.H: Half Baked Showcase, Clive Henry, Harry McCanna - Greenwood / Home](https://www.facebook.com/events/385463162205275/)
 
 <br>
 
@@ -105,6 +29,22 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [WeLove #184: E.G. Pre Party - Burdekin Hotel](https://www.facebook.com/events/243191193289031/)
 
 [Electric Gardens Warm-Up Party (Part III) - Randy Wixs](https://www.facebook.com/events/365125917613618/)
+
+[Bizarro + Chaos In The CBD - Civic Underground](https://www.facebook.com/events/350210309110845/)
+
+[D-NOX - The Junction Bondi ](https://www.facebook.com/events/227886634779407/)
+
+[Gather In The Garden: Sonny Fodera, Danny Howard - UOW Unibar](https://www.facebook.com/events/307562846703538/)
+
+[Nerve: Lewba - The Flinders](https://www.facebook.com/events/334066974115184/)
+
+[Fix My Sink: Nima Gorji - Slyfox](https://www.facebook.com/events/2304705536415371/)
+
+[The Island LIVE: Electric Gardens Pre Party](https://www.facebook.com/events/320900875299573/)
+
+[Sunset Cruise: Seth Troxler - Seadeck Sydney](https://www.facebook.com/events/364273640819180/)
+
+[Signals: Ashton & William Collard - The Flinders](https://www.facebook.com/events/2465181803553926/)
 
 <br>
 
@@ -120,6 +60,18 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [IDWT x ZOO presents BEC  - Home nightclub](https://www.facebook.com/events/314495592506620/)
 
+[Australia Day Lvl3: Kolk & Ben Bux - Kings Cross Hotel](https://www.facebook.com/events/2491892927519328/)
+
+[Fix My Sink: DJ Steaw- Slfyox](https://www.facebook.com/events/394916681268504/)
+
+[Afters: Burnski - The Bourbon](https://www.facebook.com/events/701431000257949/)
+
+[Harry's House Party #8: Late Nite Tuff Guy - Harpoon Harry's](https://www.facebook.com/events/270915393604225/)
+
+[Deep Repeat: Australia Day & K N O T S Sundays - Middle Harbour/BRKLYN Manly](https://www.facebook.com/events/161301038086354/)
+
+[This Is Living #2 Ft. Jateen. - Newtown Hotel](https://www.facebook.com/events/383968849096882/)
+
 <br>
 
 **Sunday 27th Jan**
@@ -127,6 +79,14 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Dopamine Events Australia Day Long Weekend Boat Party](https://www.facebook.com/events/134183920866712/)
 
 [Fallen Disco - Crane Bar](https://www.facebook.com/events/733073567060918/)
+
+[Blueprint Sunday Sesh - Cafe Del Mar](https://www.facebook.com/events/305409010317247/)
+
+[S.A.S.H Australia Day Long Weekend - Greenwood/Home](https://www.facebook.com/events/296007581261204/)
+
+[Afternoon Tea: Analog & Friends - The Chippo Hotel](https://www.facebook.com/events/2229132043774954/)
+
+[Long Weekend: Sideboob x Porridge x Renegade x IDWT - Potts Point Hotel](https://www.facebook.com/events/297543024298460/)
 
 <br>
 
