@@ -36,9 +36,27 @@ The night got a bit loose as this point, as I lost all my mates and found myself
 
 For starters, Yotto gave us his signature deep/progressive offerings, including a weapon remix of ‘What’s a girl to do - Fatima Yamaha’ (one of my faves) and Zanzibar by Olander (below):
 
+<br>
+
+YOTTO LINK
+
+<br>
+
 For the main course, Bicep provided a mesmerising masterclass. When they dropped their classic Glue (below), I looked around and saw people in tears on the dance floor. I like Glue, it isn’t my favourite Bicep track, but you can’t argue with the emotion in the track.
 
+<br>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2114006548665833%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<br>
+
 For the heavy-hitting desert, Anna gave us a monster techno set, with her hit Hidden Beauties setting the crowd alight (below).
+
+<br>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2038496009597888%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<br>
 
 After her set, I stumbled back to the camp and passed out a happy man. 
 
@@ -53,6 +71,10 @@ The next day, we wandered around the festival site and filled up on the surprisi
 When the heat died down, we set up shop at the back of the Lost Disco stage again, where we had plenty of room to dance. There were some amazing outfits and doof sticks out too, which added to the euphoric vibe.
 
 On the decks that night, Bontan (below), Cut Snake and Dom Dolla transitioned perfectly from one set to the next, providing hours of high calibre music for the house music faithful.
+
+<br>
+
+BONTAN LINK
 
 <br>
 
