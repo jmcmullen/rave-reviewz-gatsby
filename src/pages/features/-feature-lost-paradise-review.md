@@ -8,6 +8,8 @@ description: >-
   festival vibes at Lost Paradise festival...
 featuredImage: /img/50581444_570423143472928_4890141968136404992_n.jpg
 ---
+_By Lachlan Wicks_
+
 Over the new year period, thousands of revellers made the pilgrimage to Glenworth Valley for the latest edition of Lost Paradise festival, myself included. It was my first time at the annual event, and I was looking forward to a promising lineup of music and festival frolics. 
 
 <br><br>
@@ -64,7 +66,7 @@ The next day, we wandered around the festival site and filled up on the surprisi
 
 When the heat died down, we set up shop at the back of the Lost Disco stage again, where we had plenty of room to dance. There were some amazing outfits and doof sticks out too, which added to the euphoric vibe.
 
-![](/img/lp-outfits.jpg)
+![null](/img/lp-outfits.jpg)
 
 On the decks that night, Bontan, Cut Snake and Dom Dolla transitioned perfectly from one set to the next, providing hours of high calibre music for the house music faithful.
 
