@@ -70,4 +70,4 @@ We did exactly that and brought 2019 in with thousands of like-minded ravers, sp
 
 <br>
 
-All in all, some incredible music and fun times in savagely hot conditions. A word to the wise if you’re planning to attend next year - bring lots of water, a spray bottle and plenty of sunscreen and expect plenty of great music. Being of the house & techno persuasion, I spent most of my time checking out the DJs spinning my genre but it’s worth mentioning that there are plenty of mainstream acts on offer too. And most of all... don’t be afraid to get lost at Lost Paradise.
+All in all, some incredible music and fun times in savagely hot conditions. A word to the wise if you’re planning to attend next year - bring lots of water, a spray bottle and plenty of sunscreen and expect loads of great music. Being of the house & techno persuasion, I spent most of my time checking out the DJs spinning my genre but it’s worth mentioning that there are plenty of mainstream acts on offer too. And most of all... don’t be afraid to get lost at Lost Paradise.
