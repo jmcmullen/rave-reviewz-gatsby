@@ -46,7 +46,7 @@ For starters, Yotto gave us his signature deep/progressive offerings, including 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2165298260400021%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-For the main course, Bicep provided a mesmerising masterclass. When they dropped their classic Glue (below), I looked around and saw people in tears on the dance floor. I like Glue, it isn’t my favourite Bicep track, but you can’t argue with the emotion in the track.
+For the main course, Bicep provided a mesmerising masterclass. When they dropped their classic Glue (below), I looked around and saw people in tears on the dance floor. I like Glue, it isn’t my favourite Bicep track, but you can’t argue with the emotion it evokes.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2976561152369975%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
