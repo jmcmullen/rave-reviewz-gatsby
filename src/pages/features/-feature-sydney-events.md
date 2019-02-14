@@ -68,7 +68,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [S.A.S.H 6: Traumer, Axel Boman, Secret Guest - Greenwood/Home](https://www.facebook.com/events/2249879428669393/)
 
-[ॐ AUM Sydney: SIS, Lunar Disco, N.o.x & Casette - The Island](https://www.facebook.com/events/584620908677655/)
+[ॐ AUM Sydney: SIS, Lunar Disco, N.o.x & Casette - The Island](https://www.facebook.com/events/584620908677655/) 
 
 <br>
 
