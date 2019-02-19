@@ -16,23 +16,17 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 ![null](/img/52378401_606968376427613_2939912570175225856_o.jpg)
 
-<br>
-
 [Dopamine & Groove On pres. Viva La Vida! - King Street Wharf](https://www.facebook.com/events/649902635425501/)
 
 <br>
 
 ![null](/img/51754557_608142296310221_875907418368770048_o.jpg)
 
-<br>
-
 [Dopamine pres. Kormak - El Topo Basement](https://www.facebook.com/events/1408951339240474/)
 
 <br>
 
 ![null](/img/44887187_752581595085419_9025674769529307136_o.jpg)
-
-<br>
 
 [Days Like This Festival 2019 - Victoria Park](https://www.facebook.com/events/1834793096636236/)
 
