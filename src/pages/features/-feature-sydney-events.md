@@ -76,6 +76,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [LNDRY: Illyus & Barrientos and Stace Cadet - Chinese Laundry](https://www.facebook.com/events/1342811942525160/)
 
+[This Is Living: Buried King - Newtown Hotel](https://www.facebook.com/events/394379391123489/)
+
 <br>
 
 **Sunday 24th Feb**
