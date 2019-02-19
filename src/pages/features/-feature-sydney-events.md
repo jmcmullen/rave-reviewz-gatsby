@@ -38,7 +38,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Wednesday 20th Feb **
+**Wednesday 20th Feb**
 
 [Rock Bottom Takeover // Goodbar](https://www.facebook.com/events/2060356330697111/)
 
@@ -49,6 +49,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [WeLove #188 - Burdekin Hotel](https://www.facebook.com/events/597622954044990/)
 
 [Obsession Takeover II - The Flinders](https://www.facebook.com/events/535196810307480/)
+
+[Dancing With: Jacky & Friends - El Topo Basement](https://www.facebook.com/events/2319711588315469/)
+
+[Nightime Drama: Simon Caldwell - Club 77](https://www.facebook.com/events/403267057082323/)
 
 <br>
 
@@ -66,11 +70,21 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Rug Diggers Revel Takeover - The Flinders](https://www.facebook.com/events/2242584926012722/)
 
+[Fix My Sink: Simon Caldwell - Slyfox](https://www.facebook.com/events/1217034281782771/)
+
+[PACE.: Irregular Synth - Oxford Underground](https://www.facebook.com/events/1004169929767295/)
+
+[LNDRY: Illyus & Barrientos and Stace Cadet - Chinese Laundry](https://www.facebook.com/events/1342811942525160/)
+
 <br>
 
-**Sunday 24th Feb **
+**Sunday 24th Feb**
 
 [DR: Persian Rug KNOTS Sundays - Middle Harbour 16ft ](https://www.facebook.com/events/631686493956109/)
+
+[S.A.S.H: YokoO & Niko Maxen - Greenwood/Home](https://www.facebook.com/events/2249006828705210/)
+
+[Ultra Australia 2019 - Parramatta Park](https://www.facebook.com/events/2080249522196029/)
 
 <br>
 
@@ -90,6 +104,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Mardi Gras Afterparty: Rotarydisco DJ's - The Flinders](https://www.facebook.com/events/144360066484437/)
 
+[Something Else Weekly ReLaunch - Club 77](https://www.facebook.com/events/292378731428015/)
+
+[Afters Rooftop: Conspiracy Showcase - The Bourbon](https://www.facebook.com/events/621820858277159/)
+
 <br>
 
 **Friday 8th Mar**
@@ -99,3 +117,5 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 <br>
 
 **Saturday 9th Mar**
+
+[Something Else with Jackson Winter - Club 77](https://www.facebook.com/events/235923720627996/)
