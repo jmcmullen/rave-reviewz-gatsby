@@ -76,6 +76,12 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [LNDRY: Taiki Nulight - Chinese Laundry](https://www.facebook.com/events/612786652502207/)
 
+[Dirty Disco: Mardi Gras 2019 - Burdekin Hotel](https://www.facebook.com/events/540738773105558/)
+
+[Pecudet Presents: AfterParty La Fiesta - The Bourbon Hotel](https://www.facebook.com/events/554283261746351/)
+
+[Days Like This Warm Up Party - Beach Road Bondi](https://www.facebook.com/events/420303545212607/)
+
 <br>
 
 **Sunday 3rd Mar**
@@ -83,6 +89,14 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [SASH: Black Loops & Secret Guest - Greenwood/Home](https://www.facebook.com/events/406804880074820/)
 
 [Sideboob: Sunday Service Mardi Gras Recovery - Sweethearts Rooftop](https://www.facebook.com/events/518935428635116/)
+
+[Morning Glory: MG Recovery - Home](https://www.facebook.com/events/1979671762110817/)
+
+[One Hit Agency Sunset Cruise - Seadeck](https://www.facebook.com/events/350715859102921/)
+
+[MUSK: Rooftop terrace party - The Bourbon Hotel](https://www.facebook.com/events/347549119185358/)
+
+[Sunday Social - Sweethearts Rooftop](https://www.facebook.com/events/242753956640426/)
 
 <br>
 
