@@ -48,6 +48,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Astral People: Baba Stiltz - Civic Underground](https://www.facebook.com/events/233808287496833/)
 
+[Simon Caldwell (Mad Racket / 3hr set) - Freda's](https://www.facebook.com/events/2241137812605716/)
+
 <br>
 
 **Saturday 9th Mar**
@@ -61,6 +63,14 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Fix My Sink: YokoO - Slyfox](https://www.facebook.com/events/1233783323457491/)
 
 [Paradise Club: Optimo + Job Jobse - Universal](https://www.facebook.com/events/552580558554493/)
+
+[Girls On Deck - Oxford Art Factory](https://www.facebook.com/events/2159382504100461/)
+
+[Fresh Produce - The Flinders](https://www.facebook.com/events/154981928722876/)
+
+[Paragon Nights: Lupe Republic b2b Invisiblem4n - Paragon](https://www.facebook.com/events/325944541376988/)
+
+[The Official Days Like This After-Party - Goodbar](https://www.facebook.com/events/308692343167308/)
 
 <br>
 
