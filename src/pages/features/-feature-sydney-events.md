@@ -72,6 +72,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [The Official Days Like This After-Party - Goodbar](https://www.facebook.com/events/308692343167308/)
 
+[This Is Living: Relocation Party Ft. DJ Home Takeover - Blue Fig Bar](https://www.facebook.com/events/398933504203393/)
+
 <br>
 
 **Sunday 10th Mar**
