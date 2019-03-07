@@ -26,6 +26,22 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
+![](/img/53068858_823645401319811_1930489586534842368_o.jpg)
+
+[Rave Reviewz Rumble - Oxford Art Factory](https://www.facebook.com/events/2173922956001742/)
+
+Sydney ravers, brace yourselves... Rave Reviewz are bringing a brand new concept to this fine city's underground electronic music scene: The Rave Reviewz Rumble.
+
+
+
+On Saturday 30th March, we'll be hosting some of Sydney's finest house & techno crews as they do battle at the Oxford Art Factory with YOU the ravers deciding who gets crowned Rumble royalty on the night.
+
+
+
+The main event will feature none other than heavyweights 43 Degrees Agency, In Deep We Trust Collective & Spektrum, each represented by 2 of their sick DJs playing a B2B set. After all three crews throw down, we'll be asking you - the ravers in attendance, who played your favourite set and crowning them the champs!
+
+<br>
+
 **Thursday 7th Mar**
 
 [Sven Väth - Goodbar](https://www.facebook.com/events/291353504880199/)
