@@ -98,6 +98,8 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [Comfy Grrrl: LUEN - Tokyo Sing Song](https://www.facebook.com/events/2087450871345152/)
 
+[Roots & Mantra Collective: Mihai Pol - The Gaelic Theatre](https://www.facebook.com/events/244370639836432/)
+
 <br>
 
 **Sunday 24th March**
@@ -123,3 +125,5 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 [Rotarydisco: Dicky Trisco & Alkalino - El Topo Basement](https://www.facebook.com/events/294772974548931/)
 
 [LNDRY: Detroit Swindle & Choomba - Chinese Laundry](https://www.facebook.com/events/592138644523081/)
+
+[Conspiracy's Freaks of Nature - Secret Location](https://www.facebook.com/events/613452775783934/)
