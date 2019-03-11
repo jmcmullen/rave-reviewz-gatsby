@@ -38,6 +38,8 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [Anthony Naples & Ben Fester All Night Long! - Civic Underground](https://www.facebook.com/events/796310090724109/)
 
+[Harvey Sutherland + Andy Webb - Freda's](https://www.facebook.com/events/407772739789955/)
+
 <br>
 
 **Saturday 16th March**
@@ -56,11 +58,17 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [Something Else - Club 77](https://www.facebook.com/events/537943733359932/)
 
+[16 Bit Lolitas (Anjunadeep) - Cafe Del Mar Sydney](https://www.facebook.com/events/326376744883564/)
+
+[Lost Desert: All Day I Dream - Universal Sydney](https://www.facebook.com/events/355243635083682/)
+
 <br>
 
 **Sunday 17th March**
 
 [S.A.S.H: Monolink (Live) & Ian Pooley - Greenwood/Home](https://www.facebook.com/events/309236773278538/)
+
+[Deep Repeat: Harrison BDP (UK) - KNOTS Sundays](https://www.facebook.com/events/1381670221975751/)
 
 <br>
 
@@ -86,6 +94,10 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [Something Else & Off-Kilter - Club 77](https://www.facebook.com/events/602410526853526/)
 
+[LNDRY: Billy Kenny & Go Freek - Chinese Laundry](https://www.facebook.com/events/425786041494562/)
+
+[Comfy Grrrl: LUEN - Tokyo Sing Song](https://www.facebook.com/events/2087450871345152/)
+
 <br>
 
 **Sunday 24th March**
@@ -109,3 +121,5 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 [Fix My Sink: David Delgado - Slyfox](https://www.facebook.com/events/436201526921776/)
 
 [Rotarydisco: Dicky Trisco & Alkalino - El Topo Basement](https://www.facebook.com/events/294772974548931/)
+
+[LNDRY: Detroit Swindle & Choomba - Chinese Laundry](https://www.facebook.com/events/592138644523081/)
