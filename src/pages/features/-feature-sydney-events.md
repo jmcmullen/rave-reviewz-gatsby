@@ -66,6 +66,8 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [Harry's: Adi Toohey - Harpoon Harry](https://www.facebook.com/events/381997752355930/)
 
+[This Is Living #10 - Blue Fig Bar](https://www.facebook.com/events/382259995699744/)
+
 <br>
 
 **Sunday 24th March**
