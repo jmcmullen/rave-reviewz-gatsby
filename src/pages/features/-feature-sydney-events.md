@@ -26,52 +26,6 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 <br>
 
-**Friday 15th March**
-
-[WeLove #191 Subsonic Takeover - Burdekin Hotel](https://www.facebook.com/events/251008779108100/)
-
-[Signals: The Gould Brothers - The Flinders](https://www.facebook.com/events/618952261900049/)
-
-[Spaghetti Western 009 - The Flinders](https://www.facebook.com/events/385743008892562/)
-
-[Don't Kill The Analog Vibe - Goodbar](https://www.facebook.com/events/348597662417266/)
-
-[Anthony Naples & Ben Fester All Night Long! - Civic Underground](https://www.facebook.com/events/796310090724109/)
-
-[Harvey Sutherland + Andy Webb - Freda's](https://www.facebook.com/events/407772739789955/)
-
-<br>
-
-**Saturday 16th March**
-
-[Everything 90's - Burdekin Hotel](https://www.facebook.com/events/2215987255328048/)
-
-[Ben Nott - The Flinders](https://www.facebook.com/events/2259961970884581/)
-
-[Nights Like This: Motorik Vibe Council - Goodbar](https://www.facebook.com/events/993687034159751/)
-
-[Fix My Sink: Ian Pooley - Slyfox](https://www.facebook.com/events/556865294821940/)
-
-[Deeper Than House: Sessions 4.2 - Civic Underground](https://www.facebook.com/events/345853046143068/)
-
-[𝙎𝙋𝙀𝘾𝙏𝙍𝘼𝙇: Francis Xavier, Horowitz, Gabby - El Topo Basement](https://www.facebook.com/events/297526557633613/)
-
-[Something Else - Club 77](https://www.facebook.com/events/537943733359932/)
-
-[16 Bit Lolitas (Anjunadeep) - Cafe Del Mar Sydney](https://www.facebook.com/events/326376744883564/)
-
-[Lost Desert: All Day I Dream - Universal Sydney](https://www.facebook.com/events/355243635083682/)
-
-<br>
-
-**Sunday 17th March**
-
-[S.A.S.H: Monolink (Live) & Ian Pooley - Greenwood/Home](https://www.facebook.com/events/309236773278538/)
-
-[Deep Repeat: Harrison BDP (UK) - KNOTS Sundays](https://www.facebook.com/events/1381670221975751/)
-
-<br>
-
 **Friday 22nd March**
 
 [Toni Yotzi - The Flinders](https://www.facebook.com/events/574828809665693/)
@@ -80,6 +34,14 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [DROP Rock Bottom: Sur Select - Civic Underground](https://www.facebook.com/events/693771557691496/)
 
+[WeLove #192 DJ Skizzo - Burdekin Hotel](https://www.facebook.com/events/386862538781721/)
+
+[Nightime Drama: Moopie + Chiara Kickdrum (LIVE) - Club 77](https://www.facebook.com/events/296360897709708/)
+
+[Dopamine & Pecudet: Transcendence - Goodbar](https://www.facebook.com/events/1278077425694990/)
+
+[Harry's: Donald's House - Harpoon Harry](https://www.facebook.com/events/2289659511318628/)
+
 <br>
 
 **Saturday 23rd March**
@@ -87,6 +49,8 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 [Spektrum Saturday's (Techno Is Not Just For Boys) - Burdekin Hotel](https://www.facebook.com/events/2421431071419277/)
 
 [Nights Like This: Pantheon & The Journey - Goodbar](https://www.facebook.com/events/268122100799776/)
+
+[The Soup Kitchen: Mr. Bligs & Amy de Rouw - Goodbar](https://www.facebook.com/events/160741348184372/)
 
 [Fix My Sink: Brawther - Slyfox](https://www.facebook.com/events/388437328379835/)
 
@@ -100,11 +64,17 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [Roots & Mantra Collective: Mihai Pol - The Gaelic Theatre](https://www.facebook.com/events/244370639836432/)
 
+[Harry's: Adi Toohey - Harpoon Harry](https://www.facebook.com/events/381997752355930/)
+
 <br>
 
 **Sunday 24th March**
 
 [S.A.S.H: Brawther & Mihai Pol - Greenwood/Home](https://www.facebook.com/events/2228416864076747/)
+
+[Sideboob: Sunday Service - Sweethearts Rooftop](https://www.facebook.com/events/588474624991781)
+
+[Summer Dance: Brame & Hamo - National Art School](https://www.facebook.com/events/2265861230338232/)
 
 <br>
 
