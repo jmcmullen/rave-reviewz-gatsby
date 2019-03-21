@@ -92,6 +92,8 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 [DressCode/Allfriends/Univents: Yeah Buoy Boat Party - King Street Wharf](https://www.facebook.com/events/398650417576793/)
 
+[DressCode/Allfriends/Univents: Yeah Buoy After Party - Cali Club](https://www.facebook.com/events/377342643108326/)
+
 [Fix My Sink: David Delgado - Slyfox](https://www.facebook.com/events/436201526921776/)
 
 [Rotarydisco: Dicky Trisco & Alkalino - El Topo Basement](https://www.facebook.com/events/294772974548931/)
