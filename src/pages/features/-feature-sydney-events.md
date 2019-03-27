@@ -26,67 +26,27 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 
 <br>
 
-**Friday 22nd March**
-
-[Toni Yotzi - The Flinders](https://www.facebook.com/events/574828809665693/)
-
-[Forbidden Tønë: Andy Ef & Zankee Gulati - Slyfox](https://www.facebook.com/events/365932694240032/)
-
-[DROP Rock Bottom: Sur Select - Civic Underground](https://www.facebook.com/events/693771557691496/)
-
-[WeLove #192 DJ Skizzo - Burdekin Hotel](https://www.facebook.com/events/386862538781721/)
-
-[Nightime Drama: Moopie + Chiara Kickdrum (LIVE) - Club 77](https://www.facebook.com/events/296360897709708/)
-
-[Dopamine & Pecudet: Transcendence - Goodbar](https://www.facebook.com/events/1278077425694990/)
-
-[Harry's: Donald's House - Harpoon Harry](https://www.facebook.com/events/2289659511318628/)
-
-<br>
-
-**Saturday 23rd March**
-
-[Spektrum Saturday's (Techno Is Not Just For Boys) - Burdekin Hotel](https://www.facebook.com/events/2421431071419277/)
-
-[Nights Like This: Pantheon & The Journey - Goodbar](https://www.facebook.com/events/268122100799776/)
-
-[The Soup Kitchen: Mr. Bligs & Amy de Rouw - Goodbar](https://www.facebook.com/events/160741348184372/)
-
-[Fix My Sink: Brawther - Slyfox](https://www.facebook.com/events/388437328379835/)
-
-[Wax Format - Civic Underground](https://www.facebook.com/events/367994687318327/)
-
-[Something Else & Off-Kilter - Club 77](https://www.facebook.com/events/602410526853526/)
-
-[LNDRY: Billy Kenny & Go Freek - Chinese Laundry](https://www.facebook.com/events/425786041494562/)
-
-[Comfy Grrrl: LUEN - Tokyo Sing Song](https://www.facebook.com/events/2087450871345152/)
-
-[Roots & Mantra Collective: Mihai Pol - The Gaelic Theatre](https://www.facebook.com/events/244370639836432/)
-
-[Harry's: Adi Toohey - Harpoon Harry](https://www.facebook.com/events/381997752355930/)
-
-[This Is Living #10 - Blue Fig Bar](https://www.facebook.com/events/382259995699744/)
-
-<br>
-
-**Sunday 24th March**
-
-[S.A.S.H: Brawther & Mihai Pol - Greenwood/Home](https://www.facebook.com/events/2228416864076747/)
-
-[Sideboob: Sunday Service - Sweethearts Rooftop](https://www.facebook.com/events/588474624991781)
-
-[Summer Dance: Brame & Hamo - National Art School](https://www.facebook.com/events/2265861230338232/)
-
-<br>
-
 **Friday 29th March**
 
 [Iridescent: Hammer - Civic Underground](https://www.facebook.com/events/295482494473451/)
 
+[WeLove #193: Nick Reverse - Burdekin Hotel](https://www.facebook.com/events/2006170719688585/)
+
+[Club 77 Friday Presents: Bday Madness - Club 77](https://www.facebook.com/events/268246740736187/)
+
+[Harry's: Boogie Monster b2b Karim - Harpoon Harry](https://www.facebook.com/events/412081416215597/)
+
+[S.A.S.H: Matthew Dekay - Slyfox](https://www.facebook.com/events/425099708246007/)
+
+[The Island LIVE: Late Nite Tuff Guy & Total Giovanni - The Island](https://www.facebook.com/events/151471172444710/)
+
+[Signals: Wazowski & Nastyboys - The Flinders](https://www.facebook.com/events/298396054172545/)
+
 <br>
 
 **Saturday 30th March**
+
+[The Rave Reviewz Rumble - Oxford Art Factory](https://www.facebook.com/events/2173922956001742/)
 
 [Spektrum: Pig&Dan - Burdekin Hotel](https://www.facebook.com/events/2208092589410916/)
 
@@ -101,3 +61,23 @@ The main event will feature none other than heavyweights 43 Degrees Agency, In D
 [LNDRY: Detroit Swindle & Choomba - Chinese Laundry](https://www.facebook.com/events/592138644523081/)
 
 [Conspiracy's Freaks of Nature - Secret Location](https://www.facebook.com/events/613452775783934/)
+
+[Something Else x The Bunk3r - Club 77](https://www.facebook.com/events/1236500029831946/)
+
+[Harry's: Vibe Positano DJs - Harpoon Harry](https://www.facebook.com/events/2360692873975559/)
+
+[Afters Rooftop/Morning - The Bourbon Sydney](https://www.facebook.com/events/629959277448954/)
+
+[Blueprint: Nights Like This - Goodbar](https://www.facebook.com/events/257579754998077/)
+
+[Rabbit Hole RED LIGHT - Oxford Art Factory](https://www.facebook.com/events/308177893231046/)
+
+[Fresh Produce: Charlie Cripps & Simeon - The Flinders](https://www.facebook.com/events/420635708671970/)
+
+<br>
+
+**Sunday 31st March**
+
+[Great Outdoors: Magic Touch & Adi Toohey - The Lady Hampshire](https://www.facebook.com/events/2310087812569532/)
+
+[S.A.S.H By Day & Night: Lawrence Daffurn & Aaìste - Greenwood/Home](https://www.facebook.com/events/404944426721405/)
