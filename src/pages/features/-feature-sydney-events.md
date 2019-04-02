@@ -20,6 +20,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [DJ Masters Series #1: Mike Callander - Club 77](https://www.facebook.com/events/306515403337670/)
 
+[Harry's: Cop Envy All Night Long - Harpoon Harry](https://www.facebook.com/events/403142530477000/)
+
 <br>
 
 **Saturday 6th April**
@@ -36,13 +38,19 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Spektrum Saturday's - Burdekin Hotel](https://www.facebook.com/events/984975425034754/)
 
+[Harry's: Madteo - Harpoon Harry](https://www.facebook.com/events/2166004683488721/)
+
 <br>
 
 **Friday 12th April**
 
+[Primal | House in the Hills - Hillside Hotel](https://www.facebook.com/events/262470858017948/)
+
 [Oblique: Hamish & Toby - Slyfox](https://www.facebook.com/events/2269455243373415/)
 
 [The Flinders House Party - The Flinders](https://www.facebook.com/events/369666333876420/)
+
+[Harry's: Simon Caldwell b2b Andy Webb - Harpoon Harry](https://www.facebook.com/events/2371627362871753/)
 
 <br>
 
@@ -55,3 +63,5 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Sondrio & Jerk Boy - The Flinders](https://www.facebook.com/events/360135351289905/)
 
 [LNDRY: Prok | Fitch & Colour Castle - Chinese Laundry](https://www.facebook.com/events/2215028125203326/)
+
+Harry's: Grand Jeté b2b Paul Jextra - Harpoon Harry
