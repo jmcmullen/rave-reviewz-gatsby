@@ -28,6 +28,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Allfriends: Sex Education Basement Party - Tokyo Sing Song](https://www.facebook.com/events/265378047747874/)
 
+[UNDISCLOSED 9.0 - Cali Club](https://www.facebook.com/events/582640892146969/)
+
 <br>
 
 **Saturday 6th April**
