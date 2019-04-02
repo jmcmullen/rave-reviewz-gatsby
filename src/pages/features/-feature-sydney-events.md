@@ -30,6 +30,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [UNDISCLOSED 9.0 - Cali Club](https://www.facebook.com/events/582640892146969/)
 
+[Blind Tiger - Flamingo Lounge](https://www.facebook.com/events/2042880419094957/)
+
+[PIXEL Takeover - Goodbar](https://www.facebook.com/events/396336664498340/)
+
 <br>
 
 **Saturday 6th April**
@@ -62,6 +66,16 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [RAMPA vs &ME - Manning Bar](https://www.facebook.com/events/285760968964890/)
 
+[LDR Launch Party - Staves Brewery](https://www.facebook.com/events/655395518222916/)
+
+[Comfort Club #38 - Tokyo Sing Song](https://www.facebook.com/events/323614338171241/)
+
+[Taylor's Saturdays: Peekay - Taylors](https://www.facebook.com/events/371790503407401/)
+
+[Refuge Presents: The Nebronis at Ours - Beach Road Bondi](https://www.facebook.com/events/281842032717551/)
+
+[Saturday Night Garden Party - Paragon](https://www.facebook.com/events/416975308873594/)
+
 <br>
 
 **Sunday 7th April**
@@ -69,6 +83,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Afters & Bare Essentials: Secret Guests - The Bourbon Sydney](https://www.facebook.com/events/1757716310994797/)
 
 [S.A.S.H By Day & Night: Binh/Annie Errez - Greenwood/Home](https://www.facebook.com/events/266017590942712/)
+
+[One Hit Agency Sunset Cruise - Sydney Harbour](https://www.facebook.com/events/1192609757565206/)
+
+[Studio Sunday's - Manly Greenhouse](https://www.facebook.com/events/301598790535785/)
 
 <br>
 
