@@ -22,6 +22,12 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Harry's: Cop Envy All Night Long - Harpoon Harry](https://www.facebook.com/events/403142530477000/)
 
+[Boat Party Series #4 WeLove & Vagabonds: George Privatti - Sydney Harbour](https://www.facebook.com/events/2314267758831120/)
+
+[WeLove #194 George Privatti - Burdekin Hotel](https://www.facebook.com/events/314202495953609/)
+
+[Allfriends: Sex Education Basement Party - Tokyo Sing Song](https://www.facebook.com/events/265378047747874/)
+
 <br>
 
 **Saturday 6th April**
@@ -39,6 +45,28 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Spektrum Saturday's - Burdekin Hotel](https://www.facebook.com/events/984975425034754/)
 
 [Harry's: Madteo - Harpoon Harry](https://www.facebook.com/events/2166004683488721/)
+
+[This is Living #12: Live Edition 2.0 - Blue Fig Bar](https://www.facebook.com/events/365766994151267/)
+
+[Subsonic Music SubClub: Battle of the Planets - The Bridge Hotel](https://www.facebook.com/events/2145303208910138/)
+
+[Afters & Bare Essentials: Vatos Locos Showcase - The Bourbon Sydney](https://www.facebook.com/events/302323170639448/)
+
+[Beehive & Syndicate pres. Marika Rossa - Universal](https://www.facebook.com/events/1277308255753174/)
+
+[Claptone 'The Masquerade' 2019 - Australian Technology Park](https://www.facebook.com/events/410094159734764/)
+
+[Paradise Club w/ Andy Garvey - Civic Underground](https://www.facebook.com/events/1231811840305290/)
+
+[RAMPA vs &ME - Manning Bar](https://www.facebook.com/events/285760968964890/)
+
+<br>
+
+**Sunday 7th April**
+
+[Afters & Bare Essentials: Secret Guests - The Bourbon Sydney](https://www.facebook.com/events/1757716310994797/)
+
+[S.A.S.H By Day & Night: Binh/Annie Errez - Greenwood/Home](https://www.facebook.com/events/266017590942712/)
 
 <br>
 
@@ -64,4 +92,4 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [LNDRY: Prok | Fitch & Colour Castle - Chinese Laundry](https://www.facebook.com/events/2215028125203326/)
 
-Harry's: Grand Jeté b2b Paul Jextra - Harpoon Harry
+[Harry's: Grand Jeté b2b Paul Jextra - Harpoon Harry](https://www.facebook.com/events/2302517846694553/)
