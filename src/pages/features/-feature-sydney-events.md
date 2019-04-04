@@ -76,6 +76,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Saturday Night Garden Party - Paragon](https://www.facebook.com/events/416975308873594/)
 
+[Xstatic Sunsets Launch Festival - Shark Island](https://www.facebook.com/events/328819994564836/)
+
 <br>
 
 **Sunday 7th April**
