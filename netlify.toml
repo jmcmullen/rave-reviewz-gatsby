@@ -6,7 +6,7 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
   from = "/events"
-  to = "/featured-events"
+  to = "/feature-events"
 # [[redirects]]
 #   from = "https://www.ravereviewz.net.au/*"
 #   to = "https://www.ravereviewz.net/:splat"
