@@ -32,6 +32,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Phil K: Sydney Community Fundraiser - Club 77](https://www.facebook.com/events/344460409506197/)
 
+[Liquid: Stuart Hunter - Goodbar](https://www.facebook.com/events/2440954032589697/)
+
 <br>
 
 **Saturday 13th April**
@@ -52,6 +54,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Fix My Sink: Pepperpot & Kerry Wallace - Slyfox](https://www.facebook.com/events/420000025478232/)
 
+[The Soup Kitchen - Goodbar](https://www.facebook.com/events/797902480586190/)
+
+[Spektrum Saturday's - Burdekin Hotel](https://www.facebook.com/events/285287895705079/)
+
 <br>
 
 **Sunday 14th April**
@@ -61,3 +67,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [S.A.S.H: Reiss/Hamish & Toby & David G-Tronic/David Delgado - Greenwood/Home](https://www.facebook.com/events/305067173505339/)
 
 [Afters: Danni B - The Bourbon](https://www.facebook.com/events/521737528230160/)
+
+[Of Leisure Sunset Cruise - Seadeck](https://www.facebook.com/events/1008169656238895/)
+
+[Studio Sunday's - Manly Greenhouse](https://www.facebook.com/events/2359084001005956/)
