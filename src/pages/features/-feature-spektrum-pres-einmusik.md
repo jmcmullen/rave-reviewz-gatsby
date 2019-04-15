@@ -3,7 +3,7 @@ templateKey: review-post
 path: /feature-einmusik-spektrum
 title: 'Spektrum presents: EINMUSIK'
 date: 2017-09-01T08:17:30.000Z
-description: 'A look int the Berlin producer''s career, before his exclusive Sydney show. '
+description: 'A look into the Berlin producer''s career, before his exclusive Sydney show. '
 featuredImage: /img/einmusik_spektrum.jpg
 ---
 [Sydney](https://ravereviewz.net/feature-events) is in for a rare musical treat this weekend as acclaimed German producer Einmusik aka Samuel Kindermann, opens his Australian tour at the Burdekin hotel on April 20th. 
