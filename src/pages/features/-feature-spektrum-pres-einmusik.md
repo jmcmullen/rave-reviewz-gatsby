@@ -9,7 +9,7 @@ featuredImage: /img/einmusik_spektrum.jpg
 Sydney is in for a rare musical treat this weekend as acclaimed German producer Einmusik aka Samuel Kindermann, opens his Australian tour at the Burdekin hotel [on April 20th](https://www.facebook.com/events/579528925843658/) hosted by Spektrum events.
 <br>
 
-Respected equally for his live performances - incorporating elements from drum machines and analog synthesizers, and his craftsmanship in the studio, you can be sure of a masterclass as the Berlin-based artist effortlessly translates his productions to the club setting.
+Respected equally for his live performances - incorporating elements from drum machines and analog synthesizers - and his craftsmanship in the studio, you can be sure of a masterclass as the Berlin-based artist effortlessly translates his productions to the club setting.
 <br>
 
 After releasing music on top flight labels like Noir Music, Katermukke and Diynamic, Einmusik established his own Einmusika Recodings imprint with the mantra, ‘every journey creates a new sound’. A platform to showcase exciting production talent from all over the world, the label has released over 100 EPs since 2006 and boosted the careers of artists like Budakid and Kindermann’s long-time collaborator Jonas Saalbach. Here’s a taste of the two of them performing at Berlin's iconic spy tower, Teufelsberg:
