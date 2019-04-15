@@ -26,4 +26,4 @@ Einmusik delivered more magic recently with his latest EP ‘Flare’ – a fusi
 
 With an arsenal of tracks at his disposal and an ability to deliver the goods, you can expect Einmusik to take you on a mesmerising journey at the Burdekin this Saturday with [Spektrum](https://ravereviewz.net/interview/eden-worthington-spektrum). 
 
-_Do yourself a favour and get a discounted ticket [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.residentadvisor.net%2Fevents%2F1250756%3Fp%3DMailchimp%26fbclid%3DIwAR3fDzgeGhW-obDoGxXZ0dV8B86Q-y3sJtnAuwnUJVg-SYxriGp-7fsNBIM&h=AT0xTLcHknmJxefRsJCPQmqatvC7NplLrPAT0yZSR0VYgk4LhUNHSN3pT9WWzFFsOpmYV8TVNrmu6kHXNYO5Lh7LCxlTUaWjAMHpP0aGaVxhyMnxXTBknLc5z1wWBdAI)._
+_Do yourself a favour and get a discounted ticket [here](https://www.residentadvisor.net/events/1250756?p=Mailchimp)._
