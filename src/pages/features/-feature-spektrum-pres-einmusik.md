@@ -1,11 +1,9 @@
 ---
 templateKey: review-post
 path: /feature-einmusik-spektrum
-title: Spektrum pres. EINMUSIK
+title: 'Spektrum presents: EINMUSIK'
 date: 2017-09-01T08:17:30.000Z
-description: >-
-  A look at the Berlin producer's extensive career before this weekend's Sydney
-  show. 
+description: 'A look at the Berlin producer''s career before this weekend''s Sydney show. '
 featuredImage: /img/einmusik_spektrum.jpg
 ---
 [Sydney](https://ravereviewz.net/feature-events) is in for a rare musical treat this weekend as acclaimed German producer Einmusik aka Samuel Kindermann, opens his Australian tour at the Burdekin hotel on April 20th. 
@@ -28,4 +26,5 @@ Einmusik delivered more magic recently with his latest EP ‘Flare’ – a fusi
 
 With an arsenal of tracks at his disposal and an ability to deliver the goods, you can expect Einmusik to take you on a mesmerising journey at the Burdekin this Saturday with [Spektrum](https://ravereviewz.net/interview/eden-worthington-spektrum). 
 
-_Do yourself a favour and get a discounted ticket [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.residentadvisor.net%2Fevents%2F1250756%3Fp%3DMailchimp%26fbclid%3DIwAR3fDzgeGhW-obDoGxXZ0dV8B86Q-y3sJtnAuwnUJVg-SYxriGp-7fsNBIM&h=AT0xTLcHknmJx_efRsJCPQmqatvC7NplLrPAT0yZSR0VYgk4LhUNHSN3p_T9WWzFFsO_pmYV8TVNrmu6kHXNYO5Lh7LCxlTUaWjAMHpP0aGaVxhyMnxXTBknLc5z1wWBdAI)._
+Do yourself a favour and get a discounted ticket [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.residentadvisor.net%2Fevents%2F1250756%3Fp%3DMailchimp%26fbclid%3DIwAR3fDzgeGhW-obDoGxXZ0dV8B86Q-y3sJtnAuwnUJVg-SYxriGp-7fsNBIM&h=AT0xTLcHknmJx_efRsJCPQmqatvC7NplLrPAT0yZSR0VYgk4LhUNHSN3p_T9WWzFFsO_pmYV8TVNrmu6kHXNYO5Lh7LCxlTUaWjAMHpP0aGaVxhyMnxXTBknLc5z1wWBdAI).
+
