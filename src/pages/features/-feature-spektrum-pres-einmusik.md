@@ -1,7 +1,7 @@
 ---
 templateKey: review-post
 path: /feature-einmusik-spektrum
-title: Einmusik returns to Sydney this Easter
+title: TEST
 date: 2017-09-01T08:17:30.000Z
 description: A look at the prolific producer and founder of Einmusika Recordings.
 featuredImage: /img/einmusik_spektrum.jpg
