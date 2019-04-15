@@ -6,7 +6,7 @@ date: 2017-09-01T08:17:30.000Z
 description: A look at the prolific producer and founder of Einmusika Recordings.
 featuredImage: /img/einmusik_spektrum.jpg
 ---
-[Sydney](https://ravereviewz.net/feature-events) is in for a rare musical treat this weekend as acclaimed German producer Einmusik aka Samuel Kindermann, opens his Australian tour at the Burdekin hotel on April 20th. 
+Sydney is in for a rare musical treat this weekend as acclaimed German producer Einmusik aka Samuel Kindermann, opens his Australian tour at the Burdekin hotel [on April 20th](https://www.facebook.com/events/579528925843658/) hosted by Spektrum events.
 <br>
 
 Respected equally for his live performances - incorporating elements from drum machines and analog synthesizers, and his craftsmanship in the studio, you can be sure of a masterclass as the Berlin-based artist effortlessly translates his productions to the club setting.
@@ -24,6 +24,6 @@ Einmusik delivered more magic recently with his latest EP ‘Flare’ – a fusi
 
 <iframe src="https://embed.beatport.com/?id=11648346&type=track" width="100%" height="162" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 
-With an arsenal of tracks at his disposal and an ability to deliver the goods, you can expect Einmusik to take you on a mesmerising journey at the Burdekin this Saturday with [Spektrum](https://ravereviewz.net/interview/eden-worthington-spektrum). 
+With an arsenal of tracks at his disposal and an ability to deliver the goods, you can expect Einmusik to take you on a mesmerising journey at the Burdekin this Saturday.
 
 _Do yourself a favour and get a discounted ticket [here](https://www.residentadvisor.net/events/1250756?p=Mailchimp)._
