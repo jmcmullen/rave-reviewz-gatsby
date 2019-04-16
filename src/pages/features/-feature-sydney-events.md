@@ -14,60 +14,52 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Friday 12th April**
+**Thursday 18th April**
 
-[Primal | House in the Hills - Hillside Hotel](https://www.facebook.com/events/262470858017948/)
+[Bizarro x Boiler Room x Discwoman - Universal](https://www.facebook.com/events/2536044363132238/)
 
-[Oblique: Hamish & Toby - Slyfox](https://www.facebook.com/events/2269455243373415/)
+[WeLove #196 // Club 77 Takeover - Club 77](https://www.facebook.com/events/636734536770055/)
 
-[The Flinders House Party - The Flinders](https://www.facebook.com/events/369666333876420/)
+[Fix My Sink: Lazare Hoche - Slyfox](https://www.facebook.com/events/362449011028407/)
 
-[Harry's: Simon Caldwell b2b Andy Webb - Harpoon Harry](https://www.facebook.com/events/2371627362871753/)
+[𝐘𝐄𝐀𝐇 𝐁𝐔𝐎𝐘 Easter Thursday - Sydney Harbour](https://www.facebook.com/events/310958869587908/)
 
-[Heavenly w/ Tornado Wallace - TBA](https://www.facebook.com/events/270324567236175/)
+[Yeah Buoy After Party - Cali Club](https://www.facebook.com/events/2230567486999481/)
 
-[Lorikeet: Lex Deluxe - Oxford Underground](https://www.facebook.com/events/559358591216519/)
-
-[WeLove #195 - Burdekin Hotel](https://www.facebook.com/events/555200644966737/)
-
-[Phil K: Sydney Community Fundraiser - Club 77](https://www.facebook.com/events/344460409506197/)
-
-[Liquid: Stuart Hunter - Goodbar](https://www.facebook.com/events/2440954032589697/)
+[SHED: B-MAN & Al Dente - Valve Bar](https://www.facebook.com/events/597351420734420/)
 
 <br>
 
-**Saturday 13th April**
+**Friday 19th April**
 
-[Fred P + Simon Caldwell + Jamie Palmer - Club 77](https://www.facebook.com/events/824401627900188/)
+[Mantra Collective Open Air - Secret Location ](https://www.facebook.com/events/1531905003607311/)
 
-[Finer Things & Nights Like This: Jasper James - Goodbar](https://www.facebook.com/events/2852474708103460/)
-
-[PURE Sydney '19 - Hordern Pavilion](https://www.facebook.com/events/320250725245513/)
-
-[Sondrio & Jerk Boy - The Flinders](https://www.facebook.com/events/360135351289905/)
-
-[LNDRY: Prok | Fitch & Colour Castle - Chinese Laundry](https://www.facebook.com/events/2215028125203326/)
-
-[Harry's: Grand Jeté b2b Paul Jextra - Harpoon Harry](https://www.facebook.com/events/2302517846694553/)
-
-[Canvas: Reiss - El Topo Basement](https://www.facebook.com/events/419605785458632/)
-
-[Fix My Sink: Pepperpot & Kerry Wallace - Slyfox](https://www.facebook.com/events/420000025478232/)
-
-[The Soup Kitchen - Goodbar](https://www.facebook.com/events/797902480586190/)
-
-[Spektrum Saturday's - Burdekin Hotel](https://www.facebook.com/events/285287895705079/)
+[Everything 90's Good Friday - Harbour Cruise](https://www.facebook.com/events/331082667538646/)
 
 <br>
 
-**Sunday 14th April**
+**Saturday 20th April**
 
-[An Afternoon With Mr.Scruff - Slip Inn](https://www.facebook.com/events/624336227989883/)
+[Nerve Pres. Asquith - The Gaelic Club](https://www.facebook.com/events/408466163287909/)
 
-[S.A.S.H: Reiss/Hamish & Toby & David G-Tronic/David Delgado - Greenwood/Home](https://www.facebook.com/events/305067173505339/)
+[Motif & EB: Quivver & Nick Muir - Civic Underground](https://www.facebook.com/events/2217337661661129/)
 
-[Afters: Danni B - The Bourbon](https://www.facebook.com/events/521737528230160/)
+[Nights Like This: Ben Rau - Goodbar](https://www.facebook.com/events/2772804376095572/)
 
-[Of Leisure Sunset Cruise - Seadeck](https://www.facebook.com/events/1008169656238895/)
+[Something Else - Club 77](https://www.facebook.com/events/307921529825338/)
 
-[Studio Sunday's - Manly Greenhouse](https://www.facebook.com/events/2359084001005956/)
+[Spektrum: Einmusik - Burdekin Hotel](https://www.facebook.com/events/579528925843658/)
+
+[Pecudet Boat Party - Sydney Harbour](https://www.facebook.com/events/309803006384883/)
+
+[Dopamine Events & Dabble Group: German Brigante - Oxford Underground](https://www.facebook.com/events/611128509363504/)
+
+[LNDRY: Pleasurekraft & LO'99 - Chinese Laundry](https://www.facebook.com/events/2453666897976795/)
+
+<br>
+
+**Sunday 21st April**
+
+[SASH 8th Birthday: Excessive Fancy Dress - Greenwood/Home](https://www.facebook.com/events/562788257552329/)
+
+[Blueprint: Francesca Lombardo - Cafe Del Mar](https://www.facebook.com/events/313046302888129/)
