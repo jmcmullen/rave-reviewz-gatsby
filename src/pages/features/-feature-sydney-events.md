@@ -12,6 +12,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Featured Events**
 
+![](/img/51109358_1928030437326739_2246970990544289792_o.jpg)
+
+[Spektrum: Einmusik - Burdekin Hotel](https://www.facebook.com/events/579528925843658/)
+
 <br>
 
 **Thursday 18th April**
