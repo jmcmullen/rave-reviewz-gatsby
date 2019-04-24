@@ -10,55 +10,53 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Featured Events**
+**Wednesday 24th April**
 
-![](/img/51109358_1928030437326739_2246970990544289792_o.jpg)
+[Anzac Day Eve ft Human Movement](https://www.facebook.com/events/396992754189876/)
 
-[Spektrum: Einmusik - Burdekin Hotel](https://www.facebook.com/events/579528925843658/)
+[Anzac Eve Party 2.0 - The Burdekin Hotel](https://www.facebook.com/events/600675917010922/)
 
-<br>
-
-**Thursday 18th April**
-
-[Bizarro x Boiler Room x Discwoman - Universal](https://www.facebook.com/events/2536044363132238/)
-
-[WeLove #196 // Club 77 Takeover - Club 77](https://www.facebook.com/events/636734536770055/)
-
-[Fix My Sink: Lazare Hoche - Slyfox](https://www.facebook.com/events/362449011028407/)
-
-[𝐘𝐄𝐀𝐇 𝐁𝐔𝐎𝐘 Easter Thursday - Sydney Harbour](https://www.facebook.com/events/310958869587908/)
-
-[Yeah Buoy After Party - Cali Club](https://www.facebook.com/events/2230567486999481/)
-
-[SHED: B-MAN & Al Dente - Valve Bar](https://www.facebook.com/events/597351420734420/)
+[Anzac Day Eve ft. Love Deluxe & Rachel May // The Flinders](https://www.facebook.com/events/428678971025869/)
 
 <br>
 
-**Friday 19th April**
+**Thursday 25th April**
 
-[Mantra Collective Open Air - Secret Location ](https://www.facebook.com/events/1531905003607311/)
-
-[Everything 90's Good Friday - Harbour Cruise](https://www.facebook.com/events/331082667538646/)
+[Two-Up & Techno 2019](https://www.facebook.com/events/2038978163061758/)
 
 <br>
 
-**Saturday 20th April**
+**Friday 26th April**
 
-[Nerve Pres. Asquith - The Gaelic Club](https://www.facebook.com/events/408466163287909/)
+[Heavenly w/ LNS & Bjørn Torske](https://www.facebook.com/events/386301602210872/)
 
-[Motif & EB: Quivver & Nick Muir - Civic Underground](https://www.facebook.com/events/2217337661661129/)
+[Spektrum Pres. Adana Twins ](https://www.facebook.com/events/403334387143222/)
 
-[Nights Like This: Ben Rau - Goodbar](https://www.facebook.com/events/2772804376095572/)
+[WeLove #197 // Vale of Tears](https://www.facebook.com/events/2033651230264232/)
 
-[Something Else - Club 77](https://www.facebook.com/events/307921529825338/)
+[Harry's: Mafalda (UK)](https://www.facebook.com/events/367945543798532/)
 
-[Spektrum: Einmusik - Burdekin Hotel](https://www.facebook.com/events/579528925843658/)
+<br>
 
-[Pecudet Boat Party - Sydney Harbour](https://www.facebook.com/events/309803006384883/)
+**Saturday 27th April**
 
-[Dopamine Events & Dabble Group: German Brigante - Oxford Underground](https://www.facebook.com/events/611128509363504/)
+[Something Else & Nightime Drama Christian Vance (Away / Berlin)](https://www.facebook.com/events/1640841569352097/)
 
-[LNDRY: Pleasurekraft & LO'99 - Chinese Laundry](https://www.facebook.com/events/2453666897976795/)
+[Renegade, IDWT & Porridge Club pres. Occult](https://www.facebook.com/events/2163228230438626/)
+
+[Elijah Something & Nate S.U - Nights Like this](https://www.facebook.com/events/268171917461007/)
+
+[Fix My Sink & Motif ╬ Matthias Meyer](https://www.facebook.com/events/658534847935975/)
+
+[This Is Living Ft. Andres. & Dom Andra](https://www.facebook.com/events/395514737708140/)
+
+[POP UP - WAX On](https://www.facebook.com/events/345889659366874/)
+
+[LNDRY ft Kormak, Flash 89 & Dresscode Takeover](https://www.facebook.com/events/577658432715688/)
+
+[Harry's: Luen All Night Long!](https://www.facebook.com/events/251359769101655/)
+
+[Larry Diamond // At The Flinders](https://www.facebook.com/events/2201674340083853/)
 
 <br>
 
