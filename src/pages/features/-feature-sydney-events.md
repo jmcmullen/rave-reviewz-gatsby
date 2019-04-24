@@ -19,6 +19,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Anzac Day Eve ft. Love Deluxe & Rachel May // The Flinders](https://www.facebook.com/events/428678971025869/)
 
+[Alien x Ghostly: Millú & Pjenné + Lorna Clarkson](https://www.facebook.com/events/820542058296637/)
+
 <br>
 
 **Thursday 25th April**
@@ -61,10 +63,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Sunday 28th April**
+**Sunday 21st April**
 
-[Salinas](https://www.facebook.com/events/2312647489007110/)
+[SASH 8th Birthday: Excessive Fancy Dress - Greenwood/Home](https://www.facebook.com/events/562788257552329/)
 
-[Studio Sunday's (Sponsored By Bombay Sapphire)](https://www.facebook.com/events/310389959657954/)
-
-[SASH By Day & Night ★ Matthias Meyer ★ Ben Rau ](https://www.facebook.com/events/2091153627848795/)
+[Blueprint: Francesca Lombardo - Cafe Del Mar](https://www.facebook.com/events/313046302888129/)
