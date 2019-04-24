@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-events
 title: Sydney Events
-date: 2019-04-06T07:00:00.000Z
+date: 2019-04-24T18:00:00+10:00
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/sydney-events-cover.jpg
 ---
