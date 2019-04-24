@@ -14,7 +14,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Anzac Day Eve ft Human Movement](https://www.facebook.com/events/396992754189876/)
 
-[Anzac Eve Party 2.0 - The Burdekin Hotel](https://www.facebook.com/events/600675917010922/)
+[Anzac Eve Party 2.0 - The Burdekin Hotel
+](https://www.facebook.com/events/600675917010922/)
 
 [Anzac Day Eve ft. Love Deluxe & Rachel May // The Flinders](https://www.facebook.com/events/428678971025869/)
 
@@ -60,8 +61,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 <br>
 
-**Sunday 21st April**
+**Sunday 28th April**
 
-[SASH 8th Birthday: Excessive Fancy Dress - Greenwood/Home](https://www.facebook.com/events/562788257552329/)
+[Salinas](https://www.facebook.com/events/2312647489007110/)
 
-[Blueprint: Francesca Lombardo - Cafe Del Mar](https://www.facebook.com/events/313046302888129/)
+[Studio Sunday's (Sponsored By Bombay Sapphire)](https://www.facebook.com/events/310389959657954/)
+
+[SASH By Day & Night ★ Matthias Meyer ★ Ben Rau ](https://www.facebook.com/events/2091153627848795/)
