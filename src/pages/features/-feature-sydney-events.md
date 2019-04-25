@@ -65,4 +65,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Sunday 28th April**
 
+[Studio Sunday's (Sponsored By Bombay Sapphire)](https://www.facebook.com/events/310389959657954/)
+
+[Salinas](https://www.facebook.com/events/2312647489007110/) 
+
 [SASH By Day & Night ★ Matthias Meyer ★ Ben Rau ★](https://www.facebook.com/events/2091153627848795/)
