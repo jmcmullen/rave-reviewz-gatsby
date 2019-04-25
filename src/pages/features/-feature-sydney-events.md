@@ -90,3 +90,23 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [SnilluM & Sideboob // Techno At The Flinders](https://www.facebook.com/events/368261007101593/)
 
 [Not Forgotten (Progressive House 1992-2002)](https://www.facebook.com/events/443926063045989/)
+
+<br>
+
+**Friday 10th May**
+
+[AFTER DARK ft. Jordan Brando](https://www.facebook.com/events/1965609826883859/)
+
+[Bootz 'N' Catz pres. Ben Böhmer (live)](https://www.facebook.com/events/299887644038111/)
+
+[Smalltown & SASH with Ben Klock, Jennifer Cardini + Mind Against](https://www.facebook.com/events/773886359661274/)
+
+[Chroma presents Neel (Italy)](https://www.facebook.com/events/540150223179352/)
+
+<br>
+
+**Saturday 11th May**
+
+[Afters & Canvas present: Guti \[Live]](https://www.facebook.com/events/2117391475045086/)
+
+[Big Ting & Dunj: Loefah (UK) ](https://www.facebook.com/events/2018701375102306/)
