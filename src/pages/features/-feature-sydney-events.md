@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-events
 title: Sydney Events
-date: 2019-04-24T18:00:00+10:00
+date: 2019-04-24T08:00:00.000Z
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/sydney-events-cover.jpg
 ---
@@ -65,6 +65,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Sunday 21st April**
 
-[SASH 8th Birthday: Excessive Fancy Dress - Greenwood/Home](https://www.facebook.com/events/562788257552329/)
+[Salinas](https://www.facebook.com/events/2312647489007110/) 
 
-[Blueprint: Francesca Lombardo - Cafe Del Mar](https://www.facebook.com/events/313046302888129/)
+[Studio Sunday's (Sponsored By Bombay Sapphire)](https://www.facebook.com/events/310389959657954/)
+
+[SASH By Day & Night ★ Matthias Meyer ★ Ben Rau ★](https://www.facebook.com/events/2091153627848795/)
