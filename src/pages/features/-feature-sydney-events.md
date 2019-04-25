@@ -65,6 +65,4 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Sunday 28th April**
 
-[SASH 8th Birthday: Excessive Fancy Dress - Greenwood/Home](https://www.facebook.com/events/562788257552329/)
-
-[Blueprint: Francesca Lombardo - Cafe Del Mar](https://www.facebook.com/events/313046302888129/)
+[SASH By Day & Night ★ Matthias Meyer ★ Ben Rau ★](https://www.facebook.com/events/2091153627848795/)
