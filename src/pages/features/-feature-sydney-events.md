@@ -16,6 +16,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Evolve - Launch Party](https://www.facebook.com/events/319685532228886/)
 
+[SMS pres Kerry Wallace & Gabby ✻ Goodbar](https://www.facebook.com/events/2117437921710155/)
+
 <br>
 
 **Saturday 4th May**
@@ -26,11 +28,23 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [This Is Living #16 - Don't Kill My Vibe Takeover](https://www.facebook.com/events/2201720590079567/)
 
+[╬ Fix My Sink ╬ Chris Stussy ╬](https://www.facebook.com/events/275787029966696/)
+
+[Ghostly x The Zenker Brothers x Vril / Live /](https://www.facebook.com/events/2267685496807311/)
+
+[CLUB MINCE ft. Cormac (IRE) & Matt Vaughan](https://www.residentadvisor.net/events/1251462)
+
+[May the 4th be with Something Else & Bunk3r](https://www.facebook.com/events/420222278557118/)
+
+[May The 4th Be With You ft Eduardo Muchacho & Litmus](https://www.facebook.com/events/516218888908415/)
+
+[May The 4th Be With You - Ludovic](https://www.facebook.com/events/352529672038234/)
+
 <br>
 
 **Sunday 5th May**
 
-[Ghostly x The Zenker Brothers x Vril / Live /](https://www.facebook.com/events/2267685496807311/)
+[SASH By Day & Night ★ Chris Stussy ★ Cassette ](https://www.facebook.com/events/354855085164945/)
 
 <br>
 
@@ -48,6 +62,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 **Saturday 11th May**
 
-[Afters & Canvas present: Guti \[Live]](https://www.facebook.com/events/2117391475045086/)
+[Afters & Canvas present: Guti (Live)](https://www.facebook.com/events/2117391475045086/)
 
 [Big Ting & Dunj: Loefah (UK) ](https://www.facebook.com/events/2018701375102306/)
+
+[Robbie Lowe & Shane S.O.S // At The Flinders](https://www.facebook.com/events/573971943111837/)
