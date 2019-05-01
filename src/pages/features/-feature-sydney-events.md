@@ -58,8 +58,6 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Chroma presents Neel (Italy)](https://www.facebook.com/events/540150223179352/)
 
-[House in The Hills #2](https://www.facebook.com/events/390954921456159/)
-
 <br>
 
 **Saturday 11th May**
@@ -70,12 +68,12 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Robbie Lowe & Shane S.O.S // At The Flinders](https://www.facebook.com/events/573971943111837/)
 
-[One Hit Agency Pres. PEZNT (Defected) - Nights Like This](https://www.facebook.com/events/569870856749919/)
+[Undisclosed 10.0 // Cali Club](https://www.facebook.com/events/2144745818974450/)
 
-[Something Else - DDDD & F](https://www.facebook.com/events/528395484356055/)
+[Harry's: Attic presents Ethyène (FR)](https://www.facebook.com/events/1621272371337352/)
 
-[LNDRY ft. Offaiah & Wongo](https://www.facebook.com/events/420683541811649/)
+<br>
 
-[Control w/ Xanthraxx (Melb), Tunnel Signs, Sveta, Estée Louder](https://www.facebook.com/events/347007919256964/)
+**Sunday 12th May**
 
-[B A G w/ Etienne - Sydney Secret Location](https://www.facebook.com/events/788404148211438/)
+[SASH By Day & Night ★ Hosted By: WeLove ★ Crisna ★](https://www.facebook.com/events/281945456082878/)
