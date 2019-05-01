@@ -58,6 +58,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Chroma presents Neel (Italy)](https://www.facebook.com/events/540150223179352/)
 
+[House in The Hills #2](https://www.facebook.com/events/390954921456159/)
+
 <br>
 
 **Saturday 11th May**
@@ -67,3 +69,13 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Big Ting & Dunj: Loefah (UK) ](https://www.facebook.com/events/2018701375102306/)
 
 [Robbie Lowe & Shane S.O.S // At The Flinders](https://www.facebook.com/events/573971943111837/)
+
+[One Hit Agency Pres. PEZNT (Defected) - Nights Like This](https://www.facebook.com/events/569870856749919/)
+
+[Something Else - DDDD & F](https://www.facebook.com/events/528395484356055/)
+
+[LNDRY ft. Offaiah & Wongo](https://www.facebook.com/events/420683541811649/)
+
+[Control w/ Xanthraxx (Melb), Tunnel Signs, Sveta, Estée Louder](https://www.facebook.com/events/347007919256964/)
+
+[B A G w/ Etienne - Sydney Secret Location](https://www.facebook.com/events/788404148211438/)
