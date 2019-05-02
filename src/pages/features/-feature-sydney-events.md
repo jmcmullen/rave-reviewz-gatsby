@@ -32,7 +32,7 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Ghostly x The Zenker Brothers x Vril / Live /](https://www.facebook.com/events/2267685496807311/)
 
-[CLUB MINCE ft. Cormac (IRE) & Matt Vaughan](https://www.residentadvisor.net/events/1251462)
+[CLUB MINCE ft. Cormac (IRE) & Matt Vaughan](https://www.facebook.com/events/1185448481613681/)
 
 [May the 4th be with Something Else & Bunk3r](https://www.facebook.com/events/420222278557118/)
 
