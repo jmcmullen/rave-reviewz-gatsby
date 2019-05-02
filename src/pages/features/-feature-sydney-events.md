@@ -40,6 +40,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [May The 4th Be With You - Ludovic](https://www.facebook.com/events/352529672038234/)
 
+[snilluM & Sideboob // Techno At The Flinders](https://www.facebook.com/events/368261007101593/)
+
 <br>
 
 **Sunday 5th May**
