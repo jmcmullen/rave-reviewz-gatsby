@@ -24,6 +24,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [WeLove #199 // Mask Party - Burdekin Hotel](https://www.facebook.com/events/2035989646523109/)
 
+[Allfriends Basement Party #12 Ft. Justin Muscat - Tokyo Sing Song](https://www.facebook.com/events/2290035897875148/)
+
+[SLYFOX Presents Cubs ](https://www.facebook.com/events/355969055034162/)
+
 <br>
 
 **Saturday 11th May**
@@ -48,6 +52,10 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Spektrum Pres. Deep Repeat Takeover - Burdekin Hotel](https://www.facebook.com/events/1054111981451435/)
 
+[Harry's: Attic presents Ethyène](https://www.facebook.com/events/1621272371337352/)
+
+[Dom Dolla - RoundHouse](https://www.facebook.com/events/2027496797370240/)
+
 <br>
 
 **Sunday 12th May**
@@ -66,6 +74,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [WeLove #200 // Paco Osuna - Burdekin Hotel](https://www.facebook.com/events/2306738132918794/)
 
+[Makes Sense: Tokyo Sing-Song w/ Mclean & Mai](https://www.facebook.com/events/737022060028631/)
+
 <br>
 
 **Saturday 18th May**
@@ -75,6 +85,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 [Electric Boogie ft Mo'funk - Disco At The Flinders](https://www.facebook.com/events/686705795079247/)
 
 [LNDRY ft. Benson & Sirus Hood - Chinese Laundry](https://www.facebook.com/events/1015171622026134/)
+
+[Comfy Grrrl #18 - Tokyo Sing Song](https://www.facebook.com/events/1263906123761197/)
 
 <br>
 
