@@ -56,6 +56,8 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Dom Dolla - RoundHouse](https://www.facebook.com/events/2027496797370240/)
 
+[Black & White; A Techno Eve/ Free Entry](https://www.facebook.com/events/709403246141998/)
+
 <br>
 
 **Sunday 12th May**
