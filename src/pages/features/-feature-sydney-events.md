@@ -52,8 +52,6 @@ _If you're a PROMOTER and want to add your event or extra promotion, INBOX our [
 
 [Spektrum Pres. Deep Repeat Takeover - Burdekin Hotel](https://www.facebook.com/events/1054111981451435/)
 
-[Harry's: Attic presents Ethyène](https://www.facebook.com/events/1621272371337352/)
-
 [Dom Dolla - RoundHouse](https://www.facebook.com/events/2027496797370240/)
 
 [Black & White; A Techno Eve/ Free Entry](https://www.facebook.com/events/709403246141998/)
