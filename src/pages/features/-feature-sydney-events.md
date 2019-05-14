@@ -2,19 +2,17 @@
 templateKey: review-post
 path: /feature-events
 title: Sydney Events
-date: 2019-04-24T08:00:00.000Z
+date: 2019-05-14T18:00:00+10:00
 description: Check out all the sick events coming up in this fine city!
 featuredImage: /img/sydney-events-cover.jpg
 ---
-_If you're a PROMOTER and want to add your event or extra promotion, INBOX our [Facebook](https://www.facebook.com/ravereviewz) page._
+_If you're a PROMOTER and want to add your event or for extra promotion, INBOX our [Facebook](https://www.facebook.com/ravereviewz) page._
 
 <br>
 
 FEATURED EVENTS
 
-![](/img/54730836_2078729875543763_4365536623740321792_o.jpg)
-
-[WeLove Boat Party Series #5 w/ Paco Osuna](https://www.facebook.com/events/2271630493104645/)
+![null](/img/54730836_2078729875543763_4365536623740321792_o.jpg)
 
 <br>
 
