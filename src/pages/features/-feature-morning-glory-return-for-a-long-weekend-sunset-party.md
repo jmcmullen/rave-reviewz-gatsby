@@ -1,10 +1,10 @@
 ---
 templateKey: review-post
 path: /feature/morning-glory-long-weekend
-title: Morning Glory return with a High Tea party
+title: 'Morning Glory return for High Tea '
 date: 2015-02-06T00:58:16.000Z
 description: >+
-  The Morning Glory serve up a sunset party to celebrate Queen Lizzie's
+  The Morning Glory team serve up a sunset party to celebrate Queen Lizzie's
   Birthday.
 
 featuredImage: /img/morning-glory-high-tea.jpg
