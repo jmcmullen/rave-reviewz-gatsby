@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-morning-glory-long-weekend
 title: Morning Glory return for a Long weekend sunset party
-date: 2019-06-04T01:58:16.690Z
+date: 2015-02-06T00:58:16.000Z
 description: TBC
 featuredImage: /img/morning-glory-high-tea.jpg
 ---
@@ -21,7 +21,7 @@ The line-up this time round boasts some of Sydney’s best disco & classic house
 Being the nosey sorts we are, we caught up with party-starter James to find out more... “Jacob and I are both day club veterans and leading into Mardi Gras it was the one thing we were missing, so we decided to go for it with the first Morning Glory event. The success of that first party and the lovely feedback from those who attended helped us decide to make it a regular on long weekends."
 <br>
 
-Wondering what the will the vibe be like? James has you covered. “We’re inspired by parties like Return To Rio, Glitterbox & Elrow. We want it to be a feel good place where people can come together with an emphasis on fun and good music. So just grab your dancing shoes, throw on something random and prepare to be smothered in all things delightful!'
+Wondering what the will the vibe be like? James has you covered. “We’re inspired by parties like [Return To Rio](https://ravereviewz.net/interview/ricky-cooper), Glitterbox & Elrow. We want it to be a feel good place where people can come together with an emphasis on fun and good music. So just grab your dancing shoes, throw on something random and prepare to be smothered in all things delightful!'
 <br>
 
 Sounds good to us! With more events in the pipeline including a huge October long weekend surprise, make sure you get involved this Sunday to find out what the story is with Morning Glory!
