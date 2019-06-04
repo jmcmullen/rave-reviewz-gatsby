@@ -1,7 +1,7 @@
 ---
 templateKey: review-post
 path: /feature-morning-glory-long-weekend
-title: Morning Glory return over the long weekend for High Tea
+title: Morning Glory return for High tea
 date: 2015-02-06T00:58:16.000Z
 description: >+
   The Morning Glory serve up a sunset party to celebrate Queen Lizzie's
@@ -30,4 +30,4 @@ Wondering what the will the vibe be like? James has you covered. “We’re insp
 Sounds good to us! With more events in the pipeline including a huge October long weekend surprise, make sure you get involved this Sunday to find out what the story is with Morning Glory!
 <br>
 
-Tickets [here](https://www.facebook.com/events/836630146679852/)
+Get tickets for the event [**here**](https://www.eventbrite.com.au/e/morning-glory-tickets-58760803144?aff=efbeventtix&fbclid=IwAR0S2cILfUDef_YaRDpHKXxhNbkLqL-aiyeEuksqnT2_9GUeZD0wkAQ08LM)**.**
