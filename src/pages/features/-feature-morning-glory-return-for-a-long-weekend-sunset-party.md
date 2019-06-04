@@ -4,8 +4,8 @@ path: /feature-morning-glory-long-weekend
 title: Morning Glory return over the long weekend for High Tea
 date: 2015-02-06T00:58:16.000Z
 description: >+
-  The Morning Glory team bring the tunes and vibes to Darling Harbour in
-  celebration of Queen Lizzie's Birthday.
+  The Morning Glory prepare to celebrate Queen Lizzie's Birthday with a tasty
+  sunset party
 
 featuredImage: /img/morning-glory-high-tea.jpg
 ---
