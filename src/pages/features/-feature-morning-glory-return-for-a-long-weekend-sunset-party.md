@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-morning-glory-long-weekend
 title: Morning Glory return for a Long weekend sunset party
-date: 2019-06-04T01:58:16.690Z
+date: 2015-02-06T11:58:16+11:00
 description: TBC
 featuredImage: /img/morning-glory-high-tea.jpg
 ---
