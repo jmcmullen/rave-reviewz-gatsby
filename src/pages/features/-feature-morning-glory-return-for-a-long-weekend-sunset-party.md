@@ -1,6 +1,6 @@
 ---
 templateKey: review-post
-path: /feature-morning-glory-long-weekend
+path: /feature/morning-glory-long-weekend
 title: Morning Glory return with a High Tea party
 date: 2015-02-06T00:58:16.000Z
 description: >+
