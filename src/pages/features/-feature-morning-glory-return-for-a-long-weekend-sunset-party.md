@@ -1,10 +1,10 @@
 ---
 templateKey: review-post
 path: /feature/morning-glory-long-weekend
-title: 'Morning Glory return for High Tea '
+title: 'Morning Glory returns for High Tea '
 date: 2015-02-06T00:58:16.000Z
 description: |+
-  The team serve up a sunset party to celebrate Queen Lizzie's Birthday.
+  The Sydney duo serve up a sunset party to celebrate Queen Lizzie's Birthday.
 
 featuredImage: /img/morning-glory-high-tea.jpg
 ---
@@ -12,7 +12,7 @@ We love a good morning party here at Rave Reviewz, which is why we were stoked t
 
 ![Acclaimed producer Beth Yen  DJing at the post mard-gras after party  ](/img/beth-yen-morning-glory.jpg)
 
-So it seems fitting that following the success of their first outing, the boys behind the brand, Jacob West and James Whalley, have decided to bring it back for another round. So this long weekend at 5am on Sunday, the Home Terrace will come alive with sexy sounds, bright colours and outfits like this!
+So it seems fitting that following the success of their first outing, the boys behind the brand, Jesse Lawson and James Whalley, have decided to bring it back for another round. So this long weekend at 5am on Sunday, the Home Terrace will come alive with sexy sounds, bright colours and outfits like this!
 
 ![Two fashionable dancers enjoying the disco party at Morning Glory](/img/disco-fashion-morning-glory.jpg)
 
@@ -20,7 +20,7 @@ The line-up this time round boasts some of Sydney’s best disco & classic house
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F1114313388776421%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-Being the nosey sorts we are, we caught up with party-starter James to find out more... “Jacob and I are both day club veterans and leading into Mardi Gras it was the one thing we were missing, so we decided to go for it with the first Morning Glory event. The success of that first party and the lovely feedback from those who attended helped us decide to make it a regular on long weekends."
+Being the nosey sorts we are, we caught up with party-starter James to find out more... “Jesse and I are both day club veterans and leading into Mardi Gras it was the one thing we were missing, so we decided to go for it with the first Morning Glory event. The success of that first party and the lovely feedback from those who attended helped us decide to make it a regular on long weekends."
 <br>
 
 Wondering what the vibe will be like? James has you covered. “We’re inspired by parties like [Return To Rio](https://ravereviewz.net/interview/ricky-cooper), Glitterbox & Elrow. We want it to be a feel good place where people can come together with an emphasis on fun and good music. So just grab your dancing shoes, throw on something random and prepare to be smothered in all things delightful!"
