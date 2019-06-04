@@ -31,7 +31,7 @@ Ricky: Yeah, well it has tentacles. I think it’s a lobster haha.
 Ricky: Well, we actually have a special secret act closing the festival this year, I’m looking forward to them the most. We had already sold out when I was offered them, but I couldn’t say no because I’m a huge fan of the 90s rave scene. I can’t give too much away, but it will blow people’s minds!
 <br><br> 
 
-**RR: Ah, the suspense! You do have an interesting music policy at Rio… it’s mainly house, but then [EZ](https://www.facebook.com/djezofficial/) was playing UK Garage last year, and this year you have drum ’n’ bass legends [**Fabio & Grooverider](https://www.facebook.com/fabioandgrooverider/) playing on the Sunday. Why the variation?\*\*
+**RR: Ah, the suspense! You do have an interesting music policy at Rio… it’s mainly house, but then [EZ](https://www.facebook.com/djezofficial/) was playing UK Garage last year, and this year you have drum ’n’ bass legends Fabio & Grooverider playing on the Sunday. Why the variation?**
 
 Ricky: All our artists play quality electronic music, but it gets boring if you have just the one style. I like the sound to progress through the day… it’s nice to hear someone like Soul Clap playing early on. And I don’t book any hard techno; I don’t think it suits the festival. I’d rather hear something melodic by the river - like Carl & Eric playing soul, funk, disco and classic house.
 <br><br> 
@@ -55,7 +55,7 @@ Ricky: It would have to be [Burning Man](https://l.facebook.com/l.php?u=https%3A
 
 Ricky: Well I played a 6hr set on the main stage at Rio last year. That was really special because I don’t usually get to play at my own festival, I’m too busy running around!
 
-![](/img/return-to-rio.jpg)
+![null](/img/return-to-rio.jpg)
 
 **RR: Last question… Rio has firmly established itself as a success at a time when a lot of other festivals are folding. What do you put that down to?**
 
