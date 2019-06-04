@@ -1,9 +1,12 @@
 ---
 templateKey: review-post
 path: /feature-morning-glory-long-weekend
-title: Morning Glory return for a Long weekend sunset party
+title: Morning Glory return over the long weekend for High Tea
 date: 2015-02-06T00:58:16.000Z
-description: TBC
+description: >+
+  The Morning Glory serve up a tasty sunset party to celebrate Queen Lizzie's
+  Birthday 
+
 featuredImage: /img/morning-glory-high-tea.jpg
 ---
 We love a good morning party here at Rave Reviewz, which is why we were stoked to hear that Morning Glory is back! Those who were at the inaugural event this past Mardi Gras will know it’s a mad dress-up carnival scored with delicious beats. The outfits ranged from the fun to the fantastical at the sensational post-Mardi Gras afterparty, and the vibe was electric with the likes of chart-topper Beth Yen on the decks:
