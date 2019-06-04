@@ -4,7 +4,7 @@ path: /feature/morning-glory-long-weekend
 title: 'Morning Glory returns for High Tea '
 date: 2015-02-06T00:58:16.000Z
 description: |+
-  The Sydney duo serve up a sunset party to celebrate Queen Lizzie's Birthday.
+  The local brand serve up a sunset party to celebrate Queen Lizzie's Birthday.
 
 featuredImage: /img/morning-glory-high-tea.jpg
 ---
@@ -29,4 +29,4 @@ Wondering what the vibe will be like? James has you covered. “We’re inspired
 Sounds good to us! With more events in the pipeline including a huge October long weekend surprise, make sure you get involved this Sunday to find out what the story is with Morning Glory!
 <br>
 
-Morning Glory springs into action on Sunday June 9th at Home Terrace. Get your tickets [**here**](https://www.eventbrite.com.au/e/morning-glory-tickets-58760803144?aff=efbeventtix&fbclid=IwAR0S2cILfUDef_YaRDpHKXxhNbkLqL-aiyeEuksqnT2_9GUeZD0wkAQ08LM)**.**
+Get your tickets to Morning Glory on Sunday 9th June at Home Terrace [**here**](https://www.eventbrite.com.au/e/morning-glory-tickets-58760803144?aff=efbeventtix&fbclid=IwAR0S2cILfUDef_YaRDpHKXxhNbkLqL-aiyeEuksqnT2_9GUeZD0wkAQ08LM)**.**
