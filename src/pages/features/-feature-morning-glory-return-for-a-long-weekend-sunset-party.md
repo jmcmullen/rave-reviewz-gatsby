@@ -4,7 +4,7 @@ path: /feature/morning-glory-long-weekend
 title: 'Morning Glory returns for High Tea '
 date: 2015-02-06T00:58:16.000Z
 description: |+
-  The sydney duo serve up a sunset party to celebrate Queen Lizzie's Birthday.
+  Morning Glory serve up a sunset party to celebrate Queen Lizzie's Birthday.
 
 featuredImage: /img/morning-glory-high-tea.jpg
 ---
