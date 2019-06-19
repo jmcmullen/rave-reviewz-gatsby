@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature/morning-glory-long-weekend
 title: 'Morning Glory returns for High Tea '
-date: 2015-02-06T00:58:16.000Z
+date: 2019-06-05T11:58:16+10:00
 description: |+
   Rise and shine for Queen Lizzie's Birthday.
 
