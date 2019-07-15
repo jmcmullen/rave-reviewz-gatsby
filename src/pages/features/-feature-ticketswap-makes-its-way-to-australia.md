@@ -6,7 +6,7 @@ date: 2016-11-01T08:00:10.000Z
 description: 'Finally, no more dollars & dreams lost to ticket scammers.'
 featuredImage: /img/blueprint-party.jpg
 ---
-Ticket scammers: Your days are numbered.
+**Ticket scammers: Your days are numbered.**
 
 Fuckin’ ticket resale scams. Sadly, too many of us have been victims.
 
@@ -35,8 +35,6 @@ Can’t make a gig anymore? Stick your ticket on the site for a maximum of 10% m
 ![return-to-rio-sydney-festival](/img/return-to-rio-sydney.jpg)
 
 📸 Charlie Mitchell 
-
-
 
 We asked Australian head of operations Twan for the full lowdown...
 
