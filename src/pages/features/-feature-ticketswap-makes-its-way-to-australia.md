@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-ticketswap-australia
 title: 'TicketSwap comes to Australia '
-date: 2019-07-16T00:00:00+10:00
+date: 2019-07-15T14:00:00.000Z
 description: 'Finally, no more dollars & dreams lost to ticket scammers.'
 featuredImage: /img/blueprint-party.jpg
 ---
@@ -24,7 +24,7 @@ Maggie was on the hunt for a ticket to a well known electronic music festival in
 
 After a short facebook exchange to try and suss them out, Maggie transferred roughly $300 to the seller’s account. That was the last she heard of them - no ticket, no reply, fake profile deleted. 
 
-‘I was devastated, I actually wanted to cry. I couldn’t believe it had happened, so gutted’ she said. ‘$300 is a lot of money, I contacted the bank and PayPal to try and cancel the transaction but they said they would have to investigate. I was determined to go to the festival, so I had to buy another ticket (which I couldn’t really afford) from someone else who I met in person”.
+“I was devastated, I actually wanted to cry. I couldn’t believe it had happened, so gutted“ she said. “$300 is a lot of money, I contacted the bank and PayPal to try and cancel the transaction but they said they would have to investigate. I was determined to go to the festival, so I had to buy another ticket (which I couldn’t really afford) from someone else who I met in person”.
 
 Fortunately, the bank was able to cancel the transaction and Maggie got her money back, but being scammed for $300, not knowing if she would ever get it back and having to fork out another $300 for a new ticket was an experience she would have much rather avoided. 
 
@@ -47,4 +47,4 @@ So how do we get the ball rolling and drive these ticket scammers out of town th
 
 Sounds good to us. TicketSwap will make life easier for punters and promoters, which will in turn help Sydney’s electronic music scene grow and flourish. Now that, is music to our ears.
 
-**Sign up on TicketSwap [here](https://www.ticketswap.com/).**
+**Sign up on TicketSwap **[**here**](https://www.ticketswap.com/)**.**
