@@ -1,8 +1,8 @@
 ---
 templateKey: review-post
 path: /feature-ticketswap-australia
-title: 'TicketSwap lands in Australia '
-date: 2016-11-01T08:00:10.000Z
+title: 'TicketSwap comes to Australia '
+date: 2019-07-16T00:00:00+10:00
 description: 'Finally, no more dollars & dreams lost to ticket scammers.'
 featuredImage: /img/blueprint-party.jpg
 ---
@@ -47,4 +47,4 @@ So how do we get the ball rolling and drive these ticket scammers out of town th
 
 Sounds good to us. TicketSwap will make life easier for punters and promoters, which will in turn help Sydney’s electronic music scene grow and flourish. Now that, is music to our ears.
 
-**Sign up on TicketSwap **[**here**](https://www.ticketswap.com/)**.**
+**Sign up on TicketSwap [here](https://www.ticketswap.com/).**
