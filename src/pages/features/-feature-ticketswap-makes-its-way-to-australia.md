@@ -8,7 +8,7 @@ description: >-
   ticketing resale market. 
 featuredImage: /img/blueprint-party.jpg
 ---
-**Ticket scammers: Your days are numbered.**
+Ticket scammers: Your days are numbered.
 
 Fuckin’ ticket resale scams. Sadly, too many of us have been victims.
 
@@ -36,7 +36,9 @@ Can’t make a gig anymore? Stick your ticket on the site for a maximum of 10% m
 
 ![return-to-rio-sydney-festival](/img/return-to-rio-sydney.jpg)
 
-📸 by Charlie Mitchell 
+📸 Charlie Mitchell 
+
+
 
 We asked Australian head of operations Twan for the full lowdown...
 
@@ -48,4 +50,4 @@ So how do we get the ball rolling and drive these ticket scammers out of town th
 
 Sounds good to us. TicketSwap will make life easier for punters and promoters, which will in turn help Sydney’s electronic music scene grow and flourish. Now that, is music to our ears.
 
-Sign up on TicketSwap [here](https://www.ticketswap.com/).
+**Sign up on TicketSwap **[**here**](https://www.ticketswap.com/)**.**
