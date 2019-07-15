@@ -3,9 +3,7 @@ templateKey: review-post
 path: /feature-ticketswap-australia
 title: 'TicketSwap lands in Australia '
 date: 2016-11-01T08:00:10.000Z
-description: >-
-  We team up with the global fair-priced marketplace to support Australia's
-  ticketing resale market. 
+description: 'Finally, no more dollars & dreams lost to ticket scammers.'
 featuredImage: /img/blueprint-party.jpg
 ---
 Ticket scammers: Your days are numbered.
