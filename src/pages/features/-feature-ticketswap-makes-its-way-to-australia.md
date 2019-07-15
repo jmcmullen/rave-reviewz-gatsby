@@ -1,8 +1,8 @@
 ---
 templateKey: review-post
 path: /feature-ticketswap-australia
-title: 'TicketSwap lands in Australia '
-date: 2016-11-01T08:00:10.000Z
+title: 'TicketSwap comes to Australia '
+date: 2019-07-16T00:00:00+10:00
 description: 'Finally, no more dollars & dreams lost to ticket scammers.'
 featuredImage: /img/blueprint-party.jpg
 ---
