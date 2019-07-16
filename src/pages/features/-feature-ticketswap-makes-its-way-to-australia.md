@@ -16,7 +16,7 @@ Trying to sell tickets when you can't make an event is just as tricky - you eith
 
 No promoter wants people being ripped off for tickets to one of their events, or to lose out on valuable ticket income to these fraudsters either. Local party pundits Deeper Than House recently posted in one of their events warning ravers multiple people were trying to sell fake tickets and reminded them to avoid purchasing tickets from non-official sources.
 
-![null](/img/electric-gardens-sydney.jpg)
+![sydney-festival-electric-gardens](/img/electric-gardens-sydney.jpg)
 
 We posted recently to see how big a problem ticket resale scams are here in Sydney and got a surprisingly large number of messages to our inbox. The story of one punter stood out for us, so we contacted them for more info...
 
@@ -46,4 +46,4 @@ Sounds good to us. TicketSwap will make life easier for punters and promoters, w
 
 **Sign up on TicketSwap [here](https://www.ticketswap.com/).**
 
-_Photos: Charlie Mitchell _
+Photos: Charlie Mitchell
