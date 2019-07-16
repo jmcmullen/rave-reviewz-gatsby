@@ -1,10 +1,10 @@
 ---
 templateKey: review-post
 path: /feature-ticketswap-australia
-title: 'Ticket scammers: Your days are numbered.'
+title: 'Ticket scammers: Your days are numbered'
 date: 2019-07-15T14:00:00.000Z
 description: 'Finally, no more dollars & dreams lost to ticket scammers.'
-featuredImage: /img/blueprint-party.jpg
+featuredImage: /img/blueprint-party-sydney.jpg
 ---
 Fuckin’ ticket resale scams. Sadly, too many of us have been victims.
 
