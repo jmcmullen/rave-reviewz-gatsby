@@ -34,9 +34,6 @@ Can’t make a gig anymore? Stick your ticket on the site for a maximum of 10% m
 
 ![return-to-rio-sydney-festival](/img/return-to-rio-sydney.jpg)
 
-📸 Charlie Mitchell 
-<br><br>
-
 We asked Australian head of operations Twan for the full lowdown...
 
 "TicketSwap began out of need. Ticket reselling and scalping on prices has long been an open door for criminals to scam fans. The birth of our platform was all about the fans - to create a safe place where you could go to buy or sell an electronic ticket, knowing that your money was safe, and that the tickets you’d receive would work. Six years later, we are active in over 20 countries around the world, with 4 million happy fans who use TicketSwap.”
@@ -48,3 +45,5 @@ So how do we get the ball rolling and drive these ticket scammers out of town th
 Sounds good to us. TicketSwap will make life easier for punters and promoters, which will in turn help Sydney’s electronic music scene grow and flourish. Now that, is music to our ears.
 
 **Sign up on TicketSwap [here](https://www.ticketswap.com/).**
+
+Photos: Charlie Mitchell
