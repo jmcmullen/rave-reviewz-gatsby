@@ -1,13 +1,11 @@
 ---
 templateKey: review-post
 path: /feature-ticketswap-australia
-title: 'TicketSwap comes to Australia '
+title: 'Ticket scammers: Your days are numbered.'
 date: 2019-07-15T14:00:00.000Z
 description: 'Finally, no more dollars & dreams lost to ticket scammers.'
 featuredImage: /img/blueprint-party.jpg
 ---
-**Ticket scammers: Your days are numbered.**
-
 Fuckin’ ticket resale scams. Sadly, too many of us have been victims.
 
 As anyone in Sydney who has hunted for a ticket to a sold out event knows, you can never be sure if the ticket seller is actually legit, or a scammer who will disappear with your money leaving you ticketless. 
@@ -17,6 +15,8 @@ You usually have to pay a lot more than face value and if you do receive a ticke
 Trying to sell tickets when you can't make an event is just as tricky - you either take the risk of payments online with credit cards that could be stolen, or go through the hassle of meeting the buyer in person. 
 
 No promoter wants people being ripped off for tickets to one of their events, or to lose out on valuable ticket income to these fraudsters either. Local party pundits Deeper Than House recently posted in one of their events warning ravers multiple people were trying to sell fake tickets and reminded them to avoid purchasing tickets from non-official sources.
+
+
 
 We posted recently to see how big a problem ticket resale scams are here in Sydney and got a surprisingly large number of messages to our inbox. The story of one punter stood out for us, so we contacted them for more info...
 
