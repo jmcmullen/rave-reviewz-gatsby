@@ -44,6 +44,6 @@ So how do we get the ball rolling and drive these ticket scammers out of town th
 
 Sounds good to us. TicketSwap will make life easier for punters and promoters, which will in turn help Sydney’s electronic music scene grow and flourish. Now that, is music to our ears.
 
-**Sign up on TicketSwap [here](https://www.ticketswap.com/).**
+**Sign up on TicketSwap [here](https://www.ticketswap.com.au/).**
 
 Photos: Charlie Mitchell
