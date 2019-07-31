@@ -18,7 +18,7 @@ Having partied and organised parties in the Burning Man scene and attended a lot
 I enjoyed getting into the sober dance scene but I would see a problem impacting its growth. The events were typically quite spiritual which I enjoyed, but could see they were not cool enough to attract the masses. So I saw the need for bigger spectacular parties without the spiritual undertones which could attract new people into the scene. Almost like a stepping stone into consciousness if you like. Having founded a big sunset party at Burning Seed 5 years ago I could not go past the vision of organising a sober party at sunset as its such a magical time of day to bring people together and connect. And so the vision for Xstatic Sunsets was born.
 <br><br>
 
-**RR: Sounds interesting. It feels as though sober raving has really taken off recently, but people often need something to help them relax and dance at a party. How do you create that feeling without alcohol? **
+**RR: Sounds interesting. It feels as though sober raving has really taken off recently, but people often need something to help them relax and dance at a party. How do you create that feeling without alcohol?**
 
 Jasper: It's a great question as we naturally have inhibitions which is one of the reasons we default to drinking alcohol to relax. The key ingredient at our parties is to create a theme which inspires dressing up! Its like putting on a mask to lose the mask, wearing something out of the ordinary helps people let go and of course, it's a great ice breaker to aid connection. Our theme also guides the whole experience in taking people on a musical journey to loosen then up with surprise elements and dance facilitators to get people moving, grooving and connecting.
 <br><br>
@@ -35,14 +35,14 @@ Jasper: Not at all. Our goal is simply to encourage and inspire moderation by pr
 Jasper: From my own experience partying sober has had a big impact on my life and my mental health. It helped me get through depression and find I have better nights out with more genuine connection and of course avoid the hangover or come down. This means I can do more of what I love the next day and be more productive in my weeks. I still drink but in greater moderation than ever before. Dancing on the natural high can remind people how much fun they can have sober, which like it did for me can inspire more healthy party habits as well as leaving you feeling great.
 <br><br>
 
-**RR: We saw videos of your last event on Shark island which looked pretty epic. Were you happy with how it went? How do you think people reacted? **
+**RR: We saw videos of your last event on Shark island which looked pretty epic. Were you happy with how it went? How do you think people reacted?**
 
 Jasper: It was like the universe provided. We were so relieved to have perfect weather which created the most magical day for everyone including a stunning sunset right in the middle of the Harbour Bridge.  People just loved it. But how could you not on such an idyllic nature island? Seeing how the dancefloor went off after sunset made me so happy and proved what's possible without drugs and alcohol. Seeing people of all ages including kids letting loose in the melee of the dancefloor with no holds barred was just awesome. Everyone was clearly on the natural high including me!
 <br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xIfCSXPV9fg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**RR: We noticed you did some TV interviews about Xstatic sunsets too which was very cool. Certain elements of the media can be pretty anti-rave culture in our experience. How was the experience? **
+**RR: We noticed you did some TV interviews about Xstatic sunsets too which was very cool. Certain elements of the media can be pretty anti-rave culture in our experience. How was the experience?**
 
 Jasper: One thing that frustrates me is that the electronic music scene is painted with a bad brush in association with the drug and alcohol problem. I love the fact we can showcase crazy parties of people dressed up letting loose to electronic music looking like they are high, but they're not on any drugs and alcohol.  I want to make the point that raves are not bad and can be healthy. We see our raves as part of the solution to change the 'getting wasted' party culture in Australia which is the fundamental issue.
 <br><br>  
@@ -59,9 +59,9 @@ Jasper: How much fun can you have with a circus theme?! Yes we have loved playin
 Jasper: We can't wait to see people's costumes. The circus and Moulin Rouge theme provides lots of inspiration. We will be hand-selecting the best outfits to join the costume parade on stage. The photos of each costume will then be posted after the event so people can vote with likes.  5 free tickets to our next party are up for grabs.
 <br><br>
 
-**RR: Finally, what’s your vision for the future of Xstatic sunsets?  **
+**RR: Finally, what’s your vision for the future of Xstatic sunsets?**
 
 Jasper: Our goal is to do bigger and bigger parties which can attract more people to give a sober dance a go, to open minds to greater moderation and healthier party habits. Eventually, our quarterly themed events in Sydney can be roadshowed around key cities in Australia. I have a vision for a bigger multi-day festival of 'natural highs' revolving around epic sunset dance parties. But also think about how we can find amazing sunset locations around the world to do epic dress-up parties. One step at a time!
 <br><br>
 
-_Tickets to Cirque Static at Max Watts are on sale _[_here_](https://events.undiscovered.com.au/events/cirque-xstatic?fbclid=IwAR3o0RdQEiIN3CqmFyc0VDA_pxXCco0ch3dH5FdrTY9vTlFVqQNnfe3e17M)_._
+_Tickets to Cirque Static at Max Watts are on sale [here](https://events.undiscovered.com.au/events/cirque-xstatic?fbclid=IwAR3o0RdQEiIN3CqmFyc0VDA_pxXCco0ch3dH5FdrTY9vTlFVqQNnfe3e17M)._
