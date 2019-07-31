@@ -61,10 +61,10 @@ Jasper: How much fun can you have with a circus theme?! Yes we have loved playin
 Jasper: We can't wait to see people's costumes. The circus and Moulin Rouge theme provides lots of inspiration. We will be hand-selecting the best outfits to join the costume parade on stage. The photos of each costume will then be posted after the event so people can vote with likes.  5 free tickets to our next party are up for grabs.
 <br><br>
 
-**RR: Finally, what’s your vision for the future of Xstatic sunsets?**
+**RR: Finally, what’s your vision for the future of Xstatic sunsets?  **
 
 Jasper: Our goal is to do bigger and bigger parties which can attract more people to give a sober dance a go, to open minds to greater moderation and healthier party habits. Eventually, our quarterly themed events in Sydney can be roadshowed around key cities in Australia. I have a vision for a bigger multi-day festival of 'natural highs' revolving around epic sunset dance parties. But also think about how we can find amazing sunset locations around the world to do epic dress-up parties. One step at a time!
 
 **RR: See you at the big top Jasper.**
 
-_Tickets to Cirque Xstatic at Max Watt's are on sale [here](https://events.undiscovered.com.au/events/cirque-xstatic?fbclid=IwAR3o0RdQEiIN3CqmFyc0VDA_pxXCco0ch3dH5FdrTY9vTlFVqQNnfe3e17M)._
+Get your outfits ready for Cirque Xstatic this Saturday. Tickets [here](https://events.undiscovered.com.au/events/cirque-xstatic?fbclid=IwAR3o0RdQEiIN3CqmFyc0VDA_pxXCco0ch3dH5FdrTY9vTlFVqQNnfe3e17)
