@@ -11,7 +11,7 @@ Intro
 
 **RR: So Jasper, tell us why you decided to start Xstatic sunsets and how the idea became a reality.**
 
-Jasper: Going through depression 18 months ago, I realised how alcohol and drugs were not serving me.  On a fateful trip to reconnect with myself at the Bali Spirit Festival,  I had an epiphany after dancing for hours every night sober - I realised how high I could get naturally from just letting go to the music!  I mean I got really high!  I felt more connected to the music, myself and others around me and the high was sustainable (without the nasty drop).  
+Jasper: Going through depression 18 months ago, I realised how alcohol and drugs were not serving me.  On a fateful trip to reconnect with myself at the Bali Spirit Festival, I had an epiphany after dancing for hours every night sober - I realised how high I could get naturally from just letting go to the music! I mean I got really high! I felt more connected to the music, myself and others around me and the high was sustainable (without the nasty drop).  
 
 Having partied and organised parties in the Burning Man scene and attended a lot of festivals I could see how the excessive consumption of alcohol and drugs was not serving people and contributing to the mental health problem.  However, I realised partying can actually be really great for your mental health if done sober and with the natural high, I saw an opportunity for a more healthy party culture.
 
@@ -20,7 +20,7 @@ I enjoyed getting into the sober dance scene but I would see a problem impacting
 
 **RR: Sounds interesting. It feels as though sober raving has really taken off recently, but people often need something to help them relax and dance at a party. How do you create that feeling without alcohol? **
 
-Jasper: It's a great question as we naturally have inhibitions which is one of the reasons we default to drinking alcohol to relax.  The key ingredient at our parties is to create a theme which inspires dressing up! Its like putting on a mask to lose the mask, wearing something out of the ordinary helps people let go and of course, it's a great ice breaker to aid connection.  Our theme also guides the whole experience in taking people on a musical journey to loosen then up with surprise elements and dance facilitators to get people moving, grooving and connecting.
+Jasper: It's a great question as we naturally have inhibitions which is one of the reasons we default to drinking alcohol to relax. The key ingredient at our parties is to create a theme which inspires dressing up! Its like putting on a mask to lose the mask, wearing something out of the ordinary helps people let go and of course, it's a great ice breaker to aid connection. Our theme also guides the whole experience in taking people on a musical journey to loosen then up with surprise elements and dance facilitators to get people moving, grooving and connecting.
 <br><br>
 
 **RR: What’s your actual stance on drug taking then. Is it fair to say you’re anti drugs?**
@@ -30,12 +30,12 @@ Jasper: Not at all.  Our goal is simply to encourage and inspire moderation by p
 
 **RR: We’re big on mental health at RR and we know that’s an important part of your mission too. How do you think sober raving benefits people in that regard?**
 
-Jasper:** **From my own experience partying sober has had a big impact on my life and my mental health.   It helped me get through depression and find I have better nights out with more genuine connection and of course avoid the hangover or come down.  This means I can do more of what I love the next day and be more productive in my weeks.  I still drink but in greater moderation than ever before.   Dancing on the natural high can remind people how much fun they can have sober, which like it did for me can inspire more healthy party habits as well as leaving you feeling great.
+Jasper:** **From my own experience partying sober has had a big impact on my life and my mental health. It helped me get through depression and find I have better nights out with more genuine connection and of course avoid the hangover or come down. This means I can do more of what I love the next day and be more productive in my weeks. I still drink but in greater moderation than ever before. Dancing on the natural high can remind people how much fun they can have sober, which like it did for me can inspire more healthy party habits as well as leaving you feeling great.
 <br><br>
 
 **RR: We saw videos of your last event on Shark island which looked pretty epic. Were you happy with how it went? How do you think people reacted? **
 
-Jasper:** **It was like the universe provided.  We were so relieved to have perfect weather which created the most magical day for everyone including a stunning sunset right in the middle of the Harbour Bridge.  People just loved it.  But how could you not on such an idyllic nature island.  Seeing how the dance floor went off after sunset made me so happy and proved whats possible without drugs and alcohol.  Seeing people of all ages including kids letting loose in the melay of the dance floor with no holds barred was just awesome.  Everyone was clearly on the natural high including me!
+Jasper:** **It was like the universe provided. We were so relieved to have perfect weather which created the most magical day for everyone including a stunning sunset right in the middle of the Harbour Bridge.  People just loved it.  But how could you not on such an idyllic nature island.  Seeing how the dance floor went off after sunset made me so happy and proved whats possible without drugs and alcohol.  Seeing people of all ages including kids letting loose in the melay of the dance floor with no holds barred was just awesome.  Everyone was clearly on the natural high including me!
 <br><br>
 
 **RR: We noticed you did some TV interviews about Xstatic sunsets too which was very cool. Certain elements of the media can be pretty anti-rave culture in our experience. How was the experience? **
