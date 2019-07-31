@@ -67,4 +67,4 @@ Jasper: Our goal is to do bigger and bigger parties which can attract more peopl
 
 **RR: Nice. See you at the big top Jasper.**
 
-_Get your tickets for Cirque Xstatic this Saturday [here](https://events.undiscovered.com.au/events/cirque-xstatic?fbclid=IwAR3o0RdQEiIN3CqmFyc0VDA_pxXCco0ch3dH5FdrTY9vTlFVqQNnfe3e17)_
+_Get your tickets for Cirque Xstatic this Saturday [here](https://events.undiscovered.com.au/events/cirque-xstatic)_
