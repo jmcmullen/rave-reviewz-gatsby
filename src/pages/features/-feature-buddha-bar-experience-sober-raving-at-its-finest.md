@@ -1,7 +1,7 @@
 ---
 templateKey: review-post
 path: /feature-buddha-bar-experience
-title: 'Buddha bar experience: Sober raving at its finest'
+title: 'BuddhaBar experience: Sober raving at its finest'
 date: 2019-08-01T05:39:36.790Z
 description: 'The healthy, holistic nightclub experience'
 featuredImage: /img/bbemain.jpg
@@ -14,7 +14,7 @@ Nothing demonstrates this more than the story of BuddhaBar experience, who have 
 
 <br><br>
 
-The man behind BuddhaBar experience Marc Tomkinson told us what inspired him to take this leftfield approach…“The concept actually evolved from hosting sober, conscious house parties. My vision was to create a healthy alternative to nightlife events based around connection to people, music, dance and wellness. I wanted people to experience beyond the average party and showcase how music can get us high naturally just from good vibes.”
+The man behind BuddhaBar experience Marc Tomkinson told us what inspired him to take this left-field approach…“The concept actually evolved from hosting sober, conscious house parties. My vision was to create a healthy alternative to nightlife events based around connection to people, music, dance and wellness. I wanted people to experience beyond the average party and showcase how music can get us high naturally just from good vibes.”
 
 <br><br>
 
@@ -36,8 +36,8 @@ In the absence of alcohol, there’s also an intriguing elixir bar with drinks m
 
 <br><br>
 
-So what’s next for the Buddha Bar experience you ask? Mark has (naturally) high hopes… “We want to bring more happiness, connection and consciousness to dance floors around Australia and the world. We're actually planning events in Melbourne & Queensland this summer… stay tuned!”
+So what’s next for the BuddhaBar experience you ask? Mark has (naturally) high hopes… “We want to bring more happiness, connection and consciousness to dance floors around Australia and the world. We're actually planning events in Melbourne & Queensland this summer… stay tuned!”
 
 <br><br>
 
-We certainly will. Check out the Buddha bar experience this Friday at The Junction to feel enlightened, tickets [here](https://www.eventbrite.com.au/e/buddhabar-experience-bass-alchemy-tickets-65767206485).
+We certainly will. Check out the BuddhaBar experience this Friday at The Junction to feel enlightened, tickets [here](https://www.eventbrite.com.au/e/buddhabar-experience-bass-alchemy-tickets-65767206485).
