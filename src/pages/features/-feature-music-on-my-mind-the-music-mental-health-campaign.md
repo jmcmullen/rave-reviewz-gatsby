@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-music-on-my-mind
 title: Music on my Mind
-date: 2019-08-11T00:00:00+10:00
+date: 2019-08-10T14:00:00.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community
@@ -12,7 +12,7 @@ featuredImage: /img/momm-webage.jpg
 
 After the success of our campaign to raise funds and awareness for mental health issues in the public and music community, MUSIC ON MY MIND is back! 
 
-Last year with the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities [**Support Act**](https://supportact.org.au/)**, **[**beyondblue**](https://www.beyondblue.org.au/) and [**Black Dog Institute**](https://www.blackdoginstitute.org.au/) through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 250,000 people, helping to raise awareness. 
+Last year with the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities [**Support Act**](https://supportact.org.au/), [**beyondblue**](https://www.beyondblue.org.au/) and [**Black Dog Institute**](https://www.blackdoginstitute.org.au/) through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 250,000 people, helping to raise awareness. 
 
 This year, In partnership with [Ticketswap](ticketswap.com.au), we're hoping to make Music on my Mind even bigger and better. All proceeds from the campaign will be going to these superstar charities...
 
@@ -76,7 +76,7 @@ Here's a little recap of last year's Music on my Mind: Rave for Mental Health
 
 
 
-**2018** **SUPPORTERS**
+**2018 SUPPORTERS**
 
 Afters / ALLFRIENDS / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / City of Sydney / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music /  Electronic Music Conference / Friday Records / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / MusicNSW / Norti Vikings / NSW Health / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Something Else / Spektrum / Standout Media / Summerlove / Summit DJs / Sutra / Sydney's Eyes / The Studio / T1000 events / This / Xposed Media / Zoo 
 <br><br>
