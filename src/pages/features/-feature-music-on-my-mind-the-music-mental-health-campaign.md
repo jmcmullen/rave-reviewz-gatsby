@@ -2,20 +2,52 @@
 templateKey: review-post
 path: /feature-music-on-my-mind
 title: Music on my Mind
-date: 2018-10-19T12:59:00.000Z
+date: 2019-08-11T00:00:00+10:00
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community
-featuredImage: /img/momm-fundraising-copy-4.png
+featuredImage: /img/momm-webage.jpg
 ---
-Our Music on my Mind campaign is now done! Absolutely STOKED to announce that we've raised a total of $18,750 for mental health charities Beyond Blue, Support Act and Black Dog Institute! HUGE thanks to all those who donated their time, skills, money or helped us spread the word :) Here's a little recap of the Music on my Mind: Rave for Mental Health. Stay tuned for more from Music on my Mind!
+**MUSIC ON MY MIND 2019**
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F359731594802468%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+After the success of our campaign to raise funds and awareness for mental health issues in the public and music community, MUSIC ON MY MIND is back! 
 
-\-------------------------------------------------------------------------------------------------------
+Last year with the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities [**Support Act**](https://supportact.org.au/)**, **[**beyondblue**](https://www.beyondblue.org.au/) and [**Black Dog Institute**](https://www.blackdoginstitute.org.au/) through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 250,000 people, helping to raise awareness. 
 
-During Mental Health Awareness month this October, electronic music website [Rave Reviewz](https://www.ravereviewz.net/) is launching MUSIC ON MY MIND - a music and mental health campaign with the aim of raising funds and awareness of mental health issues in the public AND music community. We hope you can support the cause!
+This year, In partnership with [Ticketswap](ticketswap.com.au), we're hoping to make Music on my Mind even bigger and better. All proceeds from the campaign will be going to these superstar charities...
+
+Support Act - helps artists and music workers who are facing hardship due to illness, a mental health problem, injury or some other crisis.
+
+[ReachOut](https://www.facebook.com/ReachOutAUS/) - Australia’s leading online mental health organisation for young people and their parents, helping young people get through anything from everyday issues to tough times with their practical support, tools and tips.
+
+
+
+**Music on my Mind: Rave for Mental Health**
+
+![](/img/momm2019.jpg)
+
+This year, we are teaming up with the legends at Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave on Sat 21st Sept at Oxford Art Factory. Just like last year, you can look forward to B2B sets from some of Sydney’s biggest DJs. Details and tickets [here](https://www.facebook.com/events/446674325919617/).
+
+Big thanks to our event partners:  Ticketswap, Moshtix, Keep Sydney Open, Electronic music conference, Paul Strange presents. 
+
+Best outfit on the night wins a FREE TICKET to Subsonic Music Festival! We had some mad outfits last year and can’t wait to see what you come up with this time, so get creative to win. 
+
+And you can look forward to next level visuals supplied by Eyebyte on the night.
+
+This will be another unforgettable night, so grab your friends and get your tickets NOW.
+
 <br><br>
+
+
+
+**THE AWARENESS CAMPAIGN**
+
+Throughout October, we’ll be raising awareness of issues related to mental health and music and tackling the stigma that surrounds mental health conditions. 
+
+Keep an eye on our [**Facebook page**](https://www.facebook.com/ravereviewz/)** **for our daily posts on music and mental health.
+<br><br>
+
+
 
 **BACKGROUND**
 
@@ -27,47 +59,24 @@ Mental health is an issue close to our hearts at Rave Reviewz, since our founder
 
 The mental health benefits of music are well known; people listen to music to regulate their mood, and music therapy is used as part of the treatment for depression, autism, schizophrenia, dementia, agitation, anxiety, sleeplessness and substance misuse.
 
-Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. So we’re launching a music and mental health campaign - ‘MUSIC ON MY MIND’.
+Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’. We hope you can support the cause!
 <br><br>
 
-**FUNDRAISING**
 
-With the help of a grant from City of Sydney, we’ll be raising funds for three mental health charities supporting the public and music community specifically: 
 
-[**Support Act**](https://supportact.org.au/) helps artists and music workers who are facing hardship due to illness, a mental health problem, injury or some other crisis. 
+**MUSIC ON MY MIND 2018**
 
-[**beyondblue**](https://www.beyondblue.org.au/) aims to equip everyone in Australia with the knowledge and skills to achieve their best possible mental health, whatever their age and wherever they live. 
+Here's a little recap of last year's Music on my Mind: Rave for Mental Health
 
-[**Black Dog Institute**](https://www.blackdoginstitute.org.au/) is dedicated to improving the lives of people affected by depression, bipolar disorder and suicide.
-<br><br>
-
-**MUSIC ON MY MIND: THE DRESS-UP RAVE**
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2194771464182201%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-We’re teaming up with some of Sydney’s biggest electronic music brands to raise money for our chosen charities with the MUSIC ON MY MIND dress-up rave on Friday 19th October at Oxford Art Factory! ALL profits from the event will be going to the superstar charities we’re supporting.
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F359731594802468%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ![null](/img/event-image.png)
 
-Bringing together the colourful magic of Return to Rio, the mystery and wonder of Subsonic Music and the raw underground vibes of Blueprint Entertainment and 43 Degrees records, we promise to bring you an experience to remember.
-
-Each crew will be playing a 1 hour set on the night, featuring some of the finest house & techno DJs in Sydney. The dress-up theme for this rave will be ‘SHARE THE JOURNEY’, which is also the theme for Mental Health Awareness month. Interpret this how you choose… a journey through space? A magical journey? A journey through time? Get creative! 
-
-CHECK OUT THE FACEBOOK EVENT [**HERE**](https://www.facebook.com/events/598545843875633/)
 <br><br>
 
-**THE AWARENESS CAMPAIGN**
 
-Throughout October, we’ll be raising awareness of issues related to mental health and music and tackling the stigma that surrounds mental health conditions. 
 
-Keep an eye on our [**Facebook page**](https://www.facebook.com/ravereviewz/) for our daily posts on music and mental health.
-<br><br>
-
-**SUPPORTERS**
-
-We are grateful for the support from all these fantastic organisations with this initiative:
+**2018** **SUPPORTERS**
 
 Afters / ALLFRIENDS / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / City of Sydney / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music /  Electronic Music Conference / Friday Records / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / MusicNSW / Norti Vikings / NSW Health / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Something Else / Spektrum / Standout Media / Summerlove / Summit DJs / Sutra / Sydney's Eyes / The Studio / T1000 events / This / Xposed Media / Zoo 
 <br><br>
-
-If you’d like to become a supporter or for any other matter related to Music on my Mind, please get in touch with us on **admin@ravereviewz.net**. Thank you.
