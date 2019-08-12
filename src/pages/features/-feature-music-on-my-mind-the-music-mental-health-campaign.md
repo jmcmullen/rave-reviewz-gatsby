@@ -8,7 +8,7 @@ description: >-
   public AND music community
 featuredImage: /img/momm-webage.jpg
 ---
-GET TICKETS TO MUSIC ON MY MIND: RAVE FOR MENTAL HEALTH [**HERE**](https://moshtix.com.au/v2/event/music-on-my-mind-rave-for-mental-health/115142)
+Get tickets to MUSIC ON MY MIND: RAVE FOR MENTAL HEALTH [**HERE**](https://moshtix.com.au/v2/event/music-on-my-mind-rave-for-mental-health/115142)
 
 After the success of our campaign to raise funds and awareness for mental health issues in the public and music community last year, MUSIC ON MY MIND is back! 
 
