@@ -14,9 +14,9 @@ Thanks to the sterling work over a couple of decades by a global community of be
 
 Everywhere except for Sydney that is, a city woefully underrepresented in this end of the dance music spectrum. Melbourne has a strong local scene, and three of nu-disco's biggest global names are based in other Australian cities - LNTG in Adelaide and Casual Connection and Dr. Packer in Perth. So why has Sydney not followed suit?
 
-Luckily it looks like things are on the up for local disco heads, with Goodbar (a venue usually more synonymous with techno, progressive and tech-house) stepping up to launch Family Matter - a regular monthly nu-disco night. We caught up with event co-founder, Sydney heavyweight Uncle Ru to quiz him on the story behind the new venture…
+Luckily it looks like things are on the up for local disco heads, with Goodbar (a venue usually more synonymous with techno, progressive and tech-house) stepping up to launch Family Matter - a regular nu-disco night. We caught up with event co-founder, Sydney heavyweight Uncle Ru to quiz him on the story behind the new venture…
 
-“I’ve been DJing for well over two decades, both here and in the UK, so I’ve been lucky enough to hear and play a huge amount of varied music over the years. My roots were actually in classic Detroit then UK techno, in fact I co-founded Rotters Golf Club with Andrew Weatherall in the ‘90s. But I was also massively into what became the French Touch sound which clearly wore disco influences on its sleeve." 
+“I’ve been DJing for well over two decades, both here and in the UK, so I’ve been lucky enough to hear and play a huge amount of varied music over the years. My roots were actually in classic Detroit then UK techno (having co-founded Rotters Golf Club with Andrew Weatherall in the ‘90s), but I was also massively into what became the French Touch sound which clearly wore disco influences on its sleeve." 
 
 ![null](/img/family-matter1.jpg)
 
@@ -26,4 +26,4 @@ But what made you decide to start Family Matter? And why now?... “Quite simply
 
 We think a focus on diversity of options for those seeking out the less obvious dancefloor sounds is much needed in our city. Seemingly founded for the right reasons with the promise of a passionate and positive crowd, Family Matter looks like one to watch. So get down to Goodbar for the good times this weekend.
 
-_Family Matter kicks off on Saturday August 17, taking up residency on the third Saturday of the month at Goodbar. Details [**here**](https://www.facebook.com/events/389794344979294/)._
+_Family Matter kicks off on Saturday August 17, taking up residency at Goodbar. Details [**here**](https://www.facebook.com/events/389794344979294/)._
