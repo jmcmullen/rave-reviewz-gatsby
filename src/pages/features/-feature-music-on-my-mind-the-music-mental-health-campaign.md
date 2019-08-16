@@ -6,7 +6,7 @@ date: 2019-08-10T14:00:00.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community
-featuredImage: /img/momm-webage.jpg
+featuredImage: /img/momm-webage2.jpg
 ---
 Get tickets to MUSIC ON MY MIND: RAVE FOR MENTAL HEALTH [**HERE**](https://moshtix.com.au/v2/event/music-on-my-mind-rave-for-mental-health/115142)
 
