@@ -14,7 +14,7 @@ After the success of our campaign to raise funds and awareness for mental health
 
 In 2018, with a grant from City of Sydney and the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities Support Act, beyondblue and Black Dog Institute through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 250,000 people, helping to raise awareness. 
 
-This year, in partnership with [Ticketswap](ticketswap.com.au), we're planning to make Music on my Mind even bigger and better. 
+This year, we're planning to make Music on my Mind even bigger and better. 
 <br><br>
 
 **BACKGROUND**
@@ -37,6 +37,8 @@ All proceeds from the campaign will be going to these superstar charities...
 [Support Act](https://supportact.org.au/) - helps artists and music workers who are facing hardship due to illness, a mental health problem, injury or some other crisis.
 
 [ReachOut](https://www.facebook.com/ReachOutAUS/) - Australia’s leading online mental health organisation for young people and their parents, helping young people get through anything from everyday issues to tough times with their practical support, tools and tips.
+
+Big thanks to our campaign sponsor [Ticketswap](ticketswap.com.au) for their generous support.
 <br><br>
 
 **Music on my Mind: Rave for Mental Health**
