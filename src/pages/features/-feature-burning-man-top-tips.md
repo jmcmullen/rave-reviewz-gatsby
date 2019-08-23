@@ -6,7 +6,7 @@ date: 2018-08-21T08:45:50.138Z
 description: A first-timers' guide to the Burn
 featuredImage: /img/burning-man.jpg
 ---
-_Not long to go til Burning Man!  Rave Reviewz' Kamran Ahmed offers a few tips to help first timers make the most of the best festival in the world..._
+_Not long to go til Burning Man!  Rave Reviewz' Kamran Ahmed offers a few tips to help first timers make the most of one of the best experiences in the world..._
 <br><br>
 
 **Embrace the spirit of giving**. Remember it's a gifting economy, not a barter system - so give without expecting anything in return. Take cool gifts with you and hand them out. Seeing the smiles they bring to people’s faces will make the whole experience way better. We took Push Pops, worked a treat.
