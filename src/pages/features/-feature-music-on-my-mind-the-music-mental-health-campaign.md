@@ -43,17 +43,24 @@ Big thanks to our campaign sponsor [Ticketswap](ticketswap.com.au) for their gen
 
 **Music on my Mind: Rave for Mental Health**
 
-![null](/img/momm2019.jpg)
+**<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F962827144074615%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>**
 
 We're teaming up with the legends at Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave on Sat 21st Sept at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs. Details and tickets [here](https://www.facebook.com/events/446674325919617/).
 
-Big thanks to our event partners:  Ticketswap, Moshtix, Keep Sydney Open, Electronic music conference, Paul Strange presents. 
+![null](/img/momm2019.jpg)
+
+Big thanks to our event partners:  Ticketswap (ticketswap.com.au), Moshtix, Keep Sydney Open, Electronic music conference, Paul Strange presents, Audio technica (audio-technica.com.au).
 
 Best outfit on the night wins a FREE TICKET to Subsonic Music Festival! We had some mad outfits last year and can’t wait to see what you come up with this time, so get creative to win. 
 
 And you can look forward to next level visuals supplied by Eyebyte on the night.
 
 This will be another unforgettable night, so grab your friends and get your tickets [**HERE**](https://moshtix.com.au/v2/event/music-on-my-mind-rave-for-mental-health/115142) now!
+<br><br>
+
+**2019 SUPPORTERS**
+
+ALLFRIENDS / Analog / Berlin Underground / Buddhabar experience / Conspiracy / Days Like This / Decoded Magazine / Deeper Than House / Deep Seahorse Podcast / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / 43 Degrees Agency / Friday Records / IDWT / Kiltr Sessions / Let the people dance / Momentum / Motif / Porridge / Primal / PR Shed / Return to Rio / Rodd Richards / RotaryDisco / Season X / Summerlove / Summit DJs / Spektrum / T1000 events / The Studio / Undisclosed / Xposed Media / Xstatic sunsets 
 <br><br>
 
 **THE AWARENESS CAMPAIGN**
@@ -70,8 +77,3 @@ Here's a little recap of last year's Music on my Mind: Rave for Mental Health
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F359731594802468%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ![null](/img/event-image.png)
-
-**2018 SUPPORTERS**
-
-Afters / ALLFRIENDS / Attic / Bare Essentials / Bassic Records / Bermuda Club / Bizarre Haberdashery / Borough / By Your Side / Canvas / Church of Techno / City of Sydney / Compass Events / Cruise Control / Days Like This / Decoded Magazine / Deep House Yoga Project / Deep Seahorse Podcast / Deeper Than House / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / Echo Music Australia / Eclipse Music /  Electronic Music Conference / Friday Records / IDWT / Ignite / Keep Sydney Open / Kiltr Sessions / Let The People Dance / Momentum / Monos / Move for Mood / Motif / MusicNSW / Norti Vikings / NSW Health / PACE / Party Merchants / Paul Strange Presents / Porridge / Roots / SASH / Social Bewegung / Something Else / Spektrum / Standout Media / Summerlove / Summit DJs / Sutra / Sydney's Eyes / The Studio / T1000 events / This / Xposed Media / Zoo 
-<br><br>
