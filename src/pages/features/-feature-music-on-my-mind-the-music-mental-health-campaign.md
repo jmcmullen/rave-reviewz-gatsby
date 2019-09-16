@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-music-on-my-mind
 title: Music on my Mind
-date: 2019-08-10T14:00:00.000Z
+date: 2019-10-16T00:00:00+11:00
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community
