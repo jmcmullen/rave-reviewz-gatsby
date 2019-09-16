@@ -10,6 +10,8 @@ featuredImage: /img/momm-webage2.jpg
 ---
 Get tickets to MUSIC ON MY MIND: RAVE FOR MENTAL HEALTH [**HERE**](https://moshtix.com.au/v2/event/music-on-my-mind-rave-for-mental-health/115142)
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F962827144074615%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 After the success of our campaign to raise funds and awareness for mental health issues in the public and music community last year, MUSIC ON MY MIND is back! 
 
 In 2018, with a grant from City of Sydney and the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities Support Act, beyondblue and Black Dog Institute through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 250,000 people, helping to raise awareness. 
@@ -43,8 +45,6 @@ Big thanks to our campaign sponsor [Ticketswap](ticketswap.com.au) for their gen
 
 **Music on my Mind: Rave for Mental Health**
 
-**<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F962827144074615%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>**
-
 We're teaming up with the legends at Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave on Sat 21st Sept at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs. Details and tickets [here](https://www.facebook.com/events/446674325919617/).
 
 ![null](/img/momm2019.jpg)
@@ -60,7 +60,7 @@ This will be another unforgettable night, so grab your friends and get your tick
 
 **2019 SUPPORTERS**
 
-ALLFRIENDS / Analog / Berlin Underground / Buddhabar experience / Conspiracy / Days Like This / Decoded Magazine / Deeper Than House / Deep Seahorse Podcast / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / 43 Degrees Agency / Friday Records / IDWT / Kiltr Sessions / Let the people dance / Momentum / Motif / Porridge / Primal / PR Shed / Return to Rio / Rodd Richards / RotaryDisco / Season X / Summerlove / Summit DJs / Spektrum / T1000 events / The Studio / Undisclosed / Xposed Media / Xstatic sunsets 
+ALLFRIENDS / Analog / Berlin Underground / Buddhabar experience / Conspiracy / Days Like This / Decoded Magazine / Deeper Than House / Deep Seahorse Podcast / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / 43 Degrees Agency / Friday Records / IDWT / Kiltr Sessions / Momentum / Motif / Porridge / Primal / PR Shed / Return to Rio / Rodd Richards / RotaryDisco / Season X / Summerlove / Summit DJs / Spektrum / T1000 events / The Studio / Undisclosed / Xposed Media / Xstatic sunsets 
 <br><br>
 
 **THE AWARENESS CAMPAIGN**
