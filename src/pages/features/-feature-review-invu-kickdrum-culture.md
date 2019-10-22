@@ -6,21 +6,15 @@ date: 2017-03-09T02:58:32.000Z
 description: 'A look at the Sydney-based producer''s debut LP. '
 featuredImage: /img/invu-double.jpg
 ---
-Jamie Gibson aka INVU brings his debut, Kickdrum Culture to life on local label, Vibe Material.  
+Released on local label Vibe Material, Jamie Gibson aka INVU brings his debut album _Kickdrum Culture_ to life. The Sydney-based producer from Leeds has been crafting his sound and amassing a following while running parties at city hotspots, Candy's Apartment and Sweetheart's Rooftop. 
 
+Moving seamlessly between deep house to tech,the 11-track LP gets going with lead single and laidback percussive roller _Sequence _before seguing into _Firefly's_ rolling catchy bassline and tasteful modulation.
 
-
-Moving seamlessly between house to tech, the album gets going nicely with lead single and laidback roller, 'Sequence'. Experimenting with punching beats, finely tuned drums and fragmented vocal samples in deeper tracks like _Motomo_ and _Insert Blank, _the Balearic sounds of _Eau du 90s, _to the subtle tones and rolling bassline of dancefloor romper _Look Me, _it's an album to accompany the sun
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MZOaM7wzUrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+INVU's sound is smooth and submerged, characterized by contoured beats and finely tuned drums. He experiments with fragmented vocal samples in deeper tracks like _Motomo_ and _Insert Blank and _subtle harmonic swells of dancefloor rompers _Look Me and Metropolis. _Closing with the one-two combo of Balearic throwback, _Eau du 90s and _analog sizzler, _Something Borrowed, _Kickdrum Culture is the perfect soundtrack to kickback for Sydney's sun-kissed weather. 
 
 ![null](/img/invu-dj-kingscross.jpg)
 
-From AV8US cymbal splashes and punchy beat
 
-Punchy beats, vocal samples.
-
-Crafting. 
 
 **RR: What was the inspiration behind the album and its name? **
 
@@ -40,16 +34,10 @@ INVU: Ever since I was a young child I was infatuated with music and just wanted
 
 My career highlights so far are having my music played on BBC Radio One in the UK, playing at Space in Ibiza for Carl Cox and Miguel Campbell using my vocals on his track “Rockin Beats” on Hot Creations.
 
+![null](/img/kickdrumculture.jpg)
+
 **RR: Who are your influencers? **
 
 INVU:** **The DJ I enjoy the most is Mattias Tanzmann, he always plays exactly what I like. In terms of production, I have always enjoyed music from Ekkohaus, Burnski, Audiojack and Franck Roger. Also, Ray Mono and Carlo Gambino are making some really good stuff at the moment so keep an eye out for them.
 
-![null](/img/kickdrumculture.jpg)
-
-Some People’s titular vocal sample
-
-Trouble’s rolling bassline
-
- Closing track, Something Borrowed deliver an energetic analog riff and more summer vibes that rounds out a memorable debut LP. 
-
-Grab your copy of _Kickdrum Culture_ on [Beatport ](https://www.beatport.com/release/kickdrum-culture/2714125)
+**Grab your copy of _Kickdrum Culture_ on **[**Beatport **](https://www.beatport.com/release/kickdrum-culture/2714125)
