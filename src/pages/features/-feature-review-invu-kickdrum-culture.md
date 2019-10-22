@@ -1,9 +1,9 @@
 ---
 templateKey: review-post
 path: /feature-INVU-kickdrumculture
-title: 'Review: INVU - Kickdrum Culture'
+title: INVU - Kickdrum Culture
 date: 2017-03-09T02:58:32.000Z
-description: 'A look at the Sydney-based producer''s debut LP. '
+description: 'The Sydney-based producer discusses his influences and debut LP. '
 featuredImage: /img/invu-double.jpg
 ---
 Released on local label Vibe Material, Jamie Gibson aka INVU brings his debut album _Kickdrum Culture_ to life. The Sydney-based producer from Leeds has been crafting his sound and amassing a following while running parties at city hotspots, Candy's Apartment and Sweetheart's Rooftop. 
