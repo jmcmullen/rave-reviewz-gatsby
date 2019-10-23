@@ -8,9 +8,11 @@ featuredImage: /img/invu-double.jpg
 ---
 Released on local label Vibe Material, Jamie Gibson aka INVU brings his debut album 'Kickdrum Culture' to life. The Sydney-based producer from Leeds has been crafting his sound in Europe and Australia, quietly amassing a dedicated following while running parties in city hotspots, Candy's Apartment and Sweetheart's Rooftop. 
 
-Moving seamlessly between deep house to tech,the 11-track LP gets going with lead single and laidback percussive roller _Sequence _before seguing into _Firefly's_ rolling catchy bassline and tasteful modulation.
+Moving seamlessly between deep house to tech,the 11-track LP gets going with lead single and laidback percussive roller _Sequence_ followed by _Firefly's_ catchy bassline and tasteful modulation.
 
-INVU's sound is smooth and submerged, characterized by contoured beats and finely tuned drums. He experiments with fragmented vocal samples in deeper tracks like _Motomo_ and _Insert Blank_ and subtle harmonic swells of dancefloor rompers _Look Me_ and _Metropolis_. Closing with the one-two combo of Balearic throwback, _Eau du 90s_ and _analog sizzler, _Something Borrowed_, 'Kickdrum Culture' is the perfect soundtrack to Sydney's sun-kissed weather. 
+INVU's sound is smooth and submerged, characterized by contoured beats and finely tuned drums. He experiments with fragmented vocal samples in deeper tracks like _Motomo_ and _Insert Blank_ and subtle harmonic swells of dancefloor rompers _Look Me_ and _Metropolis_. 
+
+Closing with the one-two combo of Balearic throwback _Eau du 90s_ and analog sizzler _Something Borrowed_, 'Kickdrum Culture' is the perfect soundtrack to Sydney's sun-kissed weather. 
 
 ![null](/img/invu-dj-kingscross.jpg)
 
