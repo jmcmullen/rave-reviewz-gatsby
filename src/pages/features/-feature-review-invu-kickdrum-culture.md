@@ -26,12 +26,12 @@ What was the creative process behind Metropolis and Something Borrowed? "I just 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FINVUVIBE%2Fvideos%2F2394709914091244%2F&show_text=0&width=560" width="560" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-But what made you get into music and tell us some of your career highlights?... "Ever since I was a young child I was infatuated with music and just wanted to get involved somehow," he said. I first started making raps at home when I was 14 and from there, I was drawn towards music production - simply because I wanted original beats to rap to. I pursued DJing at 19 and at that point, there was no turning back... 
+But what made you get into music and tell us some of your career highlights? "Ever since I was a young child I was infatuated with music and just wanted to get involved somehow," he said. I first started making raps at home when I was 14 and from there, I was drawn towards music production - simply because I wanted original beats to rap to. I pursued DJing at 19 and at that point, there was no turning back... 
 
 My career highlights so far are having my music played on BBC Radio One in the UK, playing at Space in Ibiza for Carl Cox and Miguel Campbell using my vocals on his track “Rockin Beats” on Hot Creations.
 
 ![null](/img/kickdrumculture.jpg)
 
-Finally, we asked him about his influences. Here's what he had to say: 'The DJ I enjoy the most is Mattias Tanzmann, he always plays exactly what I like. In terms of production, I have always enjoyed music from Ekkohaus, Burnski, Audiojack and Franck Roger. Also, Ray Mono and Carlo Gambino are making some really good stuff at the moment so keep an eye out for them.
+Finally, we asked about his influences. Here's what he had to say: 'The DJ I enjoy the most is Mattias Tanzmann, he always plays exactly what I like. In terms of production, I have always enjoyed music from Ekkohaus, Burnski, Audiojack and Franck Roger. Also, Ray Mono and Carlo Gambino are making some really good stuff at the moment so keep an eye out for them.
 
 _Grab your copy of Kickdrum Culture on [_Beatport_](https://www.beatport.com/release/kickdrum-culture/2714125)._
