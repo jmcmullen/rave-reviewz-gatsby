@@ -6,7 +6,7 @@ date: 2017-03-09T02:58:32.000Z
 description: 'The Sydney-based producer discusses his influences and debut LP. '
 featuredImage: /img/invu-double.jpg
 ---
-Released on local label Vibe Material, Jamie Gibson aka INVU brings his debut album 'Kickdrum Culture' to life. The Sydney-based producer from Leeds has been crafting his sound in Europe and Australia, quietly amassing a dedicated following while running parties in city hotspots, Candy's Apartment and Sweetheart's Rooftop. 
+Released on local label Vibe Material, Jamie Gibson aka INVU brings his debut album 'Kickdrum Culture' to life. The Leeds-born producer has spent years crafting his sound in Europe, with highlights including having his music played on BBC Radio One, performing at Space Ibiza for Carl Cox and having Miguel Campbell using his vocals on the Hot Creations track, 'Rockin Beats'. Since migrating to Australia he has quietly amassed a dedicated following, while running parties in city hotspots, Candy's Apartment and Sweetheart's Rooftop. 
 
 Moving seamlessly between deep house to tech, the 11-track LP gets going with lead single and laidback percussive roller _Sequence, _followed by _Firefly's_ catchy bassline and tasteful modulation.  
 
@@ -16,7 +16,7 @@ Closing with the one-two combo of Balearic throwback _Eau du 90s _(with an invit
 
 ![null](/img/invu-dj-kingscross.jpg)
 
-We caught up with the main man to ask about the inspiration behind the album and the title...
+We caught up with the main man to discuss the inspiration behind the album and its title...
 
 "I was inspired to produce the album after having a two-year hiatus from music. I was missing it and I decided to launch under a new guise. This new inspiration gave me the drive to set my sights on an album. I wanted to produce a collection of music that represents the many different styles of House/Techno I like. This ranges from deep, tech, acid and minimal. 
 
@@ -26,7 +26,7 @@ So what was the creative process behind Metropolis and Something Borrowed? "I ju
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FINVUVIBE%2Fvideos%2F2394709914091244%2F&show_text=0&width=560" width="560" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-But what made you get into music and tell us some of your career highlights? "Ever since I was a young child I was infatuated with music and just wanted to get involved somehow," he said. I first started making raps at home when I was 14 and from there, I was drawn towards music production - simply because I wanted original beats to rap to. I pursued DJing at 19 and at that point, there was no turning back... My career highlights so far are having my music played on BBC Radio One in the UK, playing at Space in Ibiza for Carl Cox and Miguel Campbell using my vocals on his track 'Rockin Beats' on Hot Creations."
+But what made you get into music? "Ever since I was a young child I was infatuated with music and just wanted to get involved somehow," he said. "I first started making raps at home when I was 14 and from there, I was drawn towards music production - simply because I wanted original beats to rap to. I pursued DJing at 19 and at that point, there was no turning back."
 
 ![null](/img/kickdrumculture.jpg)
 
