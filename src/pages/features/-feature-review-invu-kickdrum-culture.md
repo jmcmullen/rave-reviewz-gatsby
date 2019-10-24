@@ -16,7 +16,7 @@ As a producer, INVU's sound is smooth and submerged; characterized by contoured 
 
 Closing with the one-two combo of Balearic throwback _Eau du 90s _(with an inviting warmth that brings out all those nostalgic feels) and analog sizzler _Something Borrowed_, 'Kickdrum Culture' is the perfect soundtrack to Sydney's sun-kissed weather. 
 
-![null](/img/invu-dj-kingscross.jpg)
+![](/img/kickdrumculture.jpg)
 
 We caught up with the main man to discuss the inspiration behind the album and its title...
 
@@ -30,8 +30,8 @@ With the album on repeat in the RR office, we were interested to learn more abou
 
 So what made you get into music? "Ever since I was a young child I was infatuated with music and just wanted to get involved somehow," he said. "I first started making raps at home when I was 14 and from there, I was drawn towards music production - simply because I wanted original beats to rap to. I pursued DJing at 19 and at that point, there was no turning back."
 
-![null](/img/kickdrumculture.jpg)
+![](/img/invu-dj-kingscross.jpg)
 
 Finally, when asked about his influences, this is what he had to say: "The DJ I enjoy the most is Mattias Tanzmann, he always plays exactly what I like. In terms of production, I have always enjoyed music from Ekkohaus, Burnski, Audiojack and Franck Roger. Also, Ray Mono and Carlo Gambino are making some really good stuff at the moment so keep an eye out for them."
 
-_Grab your copy of Kickdrum Culture on [*Beatport*](https://www.beatport.com/release/kickdrum-culture/2714125)._
+_Grab your copy of Kickdrum Culture on [_Beatport_](https://www.beatport.com/release/kickdrum-culture/2714125)._
