@@ -22,7 +22,7 @@ We caught up with the main man to ask about the inspiration behind the album and
 
 The title of my album came from a track I made a long time ago. That track never saw the light of day in the end. However, the name stood the test of time and stuck with me. I feel it perfectly fits the vibe I was going for and encapsulates all the vast and varying genres that make up the House/Techno scene."
 
-What was the creative process behind Metropolis and Something Borrowed? "I just love getting in the studio and letting the creative juices flow. My first go-to is programming the drum and rhythm track. After I have that locked in and recorded it from the drum machine, the search begins for a nice bass patch on my Moog. Once the bottom end is tight and punchy, the main theme of the track is set and the rest comes as I start to arrange the track.  
+So what was the creative process behind Metropolis and Something Borrowed? "I just love getting in the studio and letting the creative juices flow. My first go-to is programming the drum and rhythm track. After I have that locked in and recorded it from the drum machine, the search begins for a nice bass patch on my Moog. Once the bottom end is tight and punchy, the main theme of the track is set and the rest comes as I start to arrange the track.  
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FINVUVIBE%2Fvideos%2F2394709914091244%2F&show_text=0&width=560" width="560" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
