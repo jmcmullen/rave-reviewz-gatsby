@@ -2,7 +2,7 @@
 templateKey: review-post
 path: /feature-INVU-kickdrumculture
 title: INVU - Kickdrum Culture
-date: 2017-03-09T02:58:32.000Z
+date: 2019-11-01T13:58:32+11:00
 description: We checked out Sydney-based producer INVU's debut album
 featuredImage: /img/invu-double.jpg
 ---
