@@ -22,10 +22,10 @@ Of course, we quizzed him on the creative process behind his tracks - "my first 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FINVUVIBE%2Fvideos%2F2394709914091244%2F&show_text=0&width=560" width="560" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-The album_ _gets going with the laidback percussive roller _Sequence, _followed by_ Firefly _with its infectious bassline.  Invu experiments with fragmented vocal samples and beefier beats on tracks like _Motomo_ and _Insert Blank,_ then balances these with the subtle harmonies of dancefloor rompers like _Look Me_ and our fave, _Metropolis_. 
+The album gets going with the laidback percussive roller _Sequence_, followed by Firefly with its infectious bassline. Invu experiments with fragmented vocal samples and beefier beats on tracks like _Motomo_ and _Insert Blank,_ then balances these with the subtle harmonies of dancefloor rompers like _Look Me_ and our fave, _Metropolis_. 
 
-You can definitely hear nods to his self-confessed influences like Mattias Tanzmann, Ekkohaus, and Franck Roger on the album, which draws to a close with the one-two combo of warm Balearic throwback _Eau du 90s _(bringing out those nostalgic feels) and analog sizzler _Something Borrowed._ 
+You can definitely hear nods to his self-confessed influences like Mattias Tanzmann, Ekkohaus, and Franck Roger on the album, which draws to a close with the one-two combo of warm Balearic throwback _Eau du 90s_ (bringing out those nostalgic feels) and analog sizzler _Something Borrowed._ 
 
 ![null](/img/invu-dj-kingscross.jpg)
 
-An impressive debut from Invu by all accounts, we'll be on the lookout for more from him. For now, grab your copy of _Kickdrum Culture _[here ](https://www.beatport.com/release/kickdrum-culture/2714125)for the perfect soundtrack to your summer road trips, BBQs, pre-drinks and kick-ons.
+An impressive debut from INVU by all accounts, we'll be on the lookout for more from him. For now, grab your copy of _Kickdrum Culture_ [here ](https://www.beatport.com/release/kickdrum-culture/2714125)for the perfect soundtrack to your summer road trips, BBQs, pre-drinks and kick-ons.
