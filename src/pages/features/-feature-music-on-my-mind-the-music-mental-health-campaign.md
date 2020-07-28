@@ -41,15 +41,11 @@ We will be teaming up with some of Sydney's best music crews for our charity rav
 
 **MUSIC ON MY MIND 2019**
 
+With the help of grants from City of Sydney and Way Ahead, we raised a total of $18,750AUD for mental health charities Support Act and ReachOut. Big thanks to our event partners Ticketswap (ticketswap.com.au), Moshtix, Keep Sydney Open, Electronic music conference, Audio technica and all of Sydney's electronic music community for their support.
+
+For our charity rave, we teamed up with Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs.
+
 ![null](/img/momm2019.jpg)
-
-We raised a total of $18,750AUD for mental health charities Support Act and ReachOut.
-
-We teamed up with Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs.
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F538396260257901%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
- 
-Big thanks to our event partners Ticketswap (ticketswap.com.au), Moshtix, Keep Sydney Open, Electronic music conference, Audio technica and all of Sydney's electronic music community for their support.
 
 Throughout October 2019, we also raised awareness of mental health issues through our music related content. Here's one of our interviews with techno legend Oliver Huntemann: 
 
