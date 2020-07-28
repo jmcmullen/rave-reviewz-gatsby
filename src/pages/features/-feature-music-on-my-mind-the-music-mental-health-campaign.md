@@ -2,13 +2,13 @@
 templateKey: review-post
 path: /feature-music-on-my-mind
 title: Music on my Mind
-date: 2020-07-28T00:00:00+10:00
+date: 2020-07-27T14:00:00.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community is back!
 featuredImage: /img/momm-webage2.jpg
 ---
-MUSIC ON MY MIND is back for 2020!
+**MUSIC ON MY MIND is back for 2020!**
 
 Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves & online appeals and reached hundreds of thousands of people with our social media posts to raise awareness. 
 
@@ -32,14 +32,14 @@ The mental health benefits of music are well known; people listen to music to li
 That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’ and we hope you can support the cause!
 <br><br>
 
-MUSIC ON MY MIND 2020
+**MUSIC ON MY MIND 2020**
 
 This year we will be donating 50% of all proceeds raised to [Support Act](https://supportact.org.au/) who help artists and music workers facing hardship due to illness, a mental health problem, injury or some other crisis.
 
 We will be teaming up with some of Sydney's best music crews for our charity rave if covid restrictions allow, otherwise we will be hosting a quality live streamed DJ event! You can expect lots more music related content raising awareness of mental health issues too. 
 <br><br>
 
-MUSIC ON MY MIND 2019
+**MUSIC ON MY MIND 2019**
 
 ![null](/img/momm2019.jpg)
 
