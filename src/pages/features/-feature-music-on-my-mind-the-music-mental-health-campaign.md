@@ -8,63 +8,56 @@ description: >-
   public AND music community is back!
 featuredImage: /img/momm-webage2.jpg
 ---
-After the success of our campaign to raise funds and awareness for mental health issues in the public and music community last year, MUSIC ON MY MIND is BACK!
+**MUSIC ON MY MIND is back for 2020!**
+
+Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves & online appeals and reached hundreds of thousands of people with our social media posts to raise awareness. 
+
+With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community this year and would love your support!
 <br><br>
 
-Thanks to all those who came to Music on my Mind: Rave for Mental Health on Sept 21st! Awesome music, mad outfits and a lot of money raised for charity. Here's a little reminder...
+**MENTAL HEALTH**
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F538396260257901%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+Mental health is a bigger issue now than it ever was. The Covid-19 pandemic has had a massive impact, causing anxiety, stress during lockdown and affecting people financially. 
 
-**BACKGROUND**
+Pre-covid mental health was already a massive national crisis with 45 percent of Australians experiencing a mental health condition in their lifetime, and approximately 1 million Australian adults with depression and over 2 million with anxiety in any given year.
 
-Around 45 percent of people in Australia will experience a mental health condition in their lifetime. In any one year, approximately 1 million Australian adults have depression, and over 2 million have anxiety. Rates are even higher in musicians, who are almost seven times as likely to have thought about suicide in the past 12 months in comparison to the general population, and are twice as likely to attempt to take their own lives.
+Rates were even higher in entertainment industry workers, who have 10 times the rate of anxiety, 5 times the rate of depression and double the rate of suicide attempts. The music industry has been hit particularly hard by the pandemic - venues shut down, events and tours cancelled and thousands of jobs lost, which have added to the problem.
 
-Some of the factors that contribute to these high rates include erratic sleep patterns, performance anxiety, hectic touring schedules, easy access to alcohol and drugs, uncertain income and lack of recognition - or for the very successful; the intense scrutiny that comes with fame.
+In addition to the stresses of the pandemic, the mental health of music industry professionals is at risk from erratic sleep patterns, performance anxiety, hectic touring schedules, easy access to alcohol and drugs, uncertain income and lack of recognition - or for the very successful, the intense scrutiny that comes with fame.
 
-Mental health is an issue close to our hearts at Rave Reviewz, since our founder Dr Kamran Ahmed is a psychiatrist who became aware of the high rates of mental health problems in musicians when he started working in the music industry. So we often ask about mental health when we interview DJs, but decided that we should do more.
+Mental health is an issue close to our hearts at Rave Reviewz, since our founder Dr Kamran Ahmed is a psychiatrist who became aware of the high rates of mental health problems when he started working in the music industry.
 
-The mental health benefits of music are well known; people listen to music to lift their mood, and music therapy is used as part of the treatment for a range of mental illnesses.
+The mental health benefits of music are well known; people listen to music to lift their mood, and music therapy is used as part of the treatment for a range of mental illnesses. Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. 
 
-Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’ and we hope you can support the cause.
+That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’ and we hope you can support the cause!
 <br><br>
 
-This year, all proceeds from the campaign will be going to these superstar charities. Stay tuned to find out the final amount!
+**MUSIC ON MY MIND 2020**
 
-[Support Act](https://supportact.org.au/) - helps artists and music workers who are facing hardship due to illness, a mental health problem, injury or some other crisis.
+This year we will be donating 50% of all proceeds raised to [Support Act](https://supportact.org.au/) who help artists and music workers facing hardship due to illness, a mental health problem, injury or some other crisis.
 
-[ReachOut](https://www.facebook.com/ReachOutAUS/) - Australia’s leading online mental health organisation for young people and their parents, helping young people get through anything from everyday issues to tough times with their practical support, tools and tips.
+We will be teaming up with some of Sydney's best music crews for our charity rave if covid restrictions allow, otherwise we will be hosting a quality live streamed DJ event! You can expect lots more music related content raising awareness of mental health issues too. 
 <br><br>
 
-**Rave for Mental Health**
+**MUSIC ON MY MIND 2019**
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F962827144074615%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+With the help of grants from City of Sydney and Way Ahead, we raised a total of $18,750AUD for mental health charities Support Act and ReachOut. Big thanks to our event partners Ticketswap (ticketswap.com.au), Moshtix, Keep Sydney Open, Electronic music conference, Audio technica and all of Sydney's electronic music community for their support.
 
-We teamed up with the legends at Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave on Sat 21st Sept at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs.
+For our charity rave, we teamed up with Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs.
 
 ![null](/img/momm2019.jpg)
 
-Big thanks to our event partners: Ticketswap (ticketswap.com.au), Moshtix, Keep Sydney Open, Electronic music conference, Paul Strange presents, Audio technica (audio-technica.com.au).
-
-Best outfit of the night won a FREE TICKET to Subsonic Music Festival too!
-<br><br>
-
-**THE AWARENESS CAMPAIGN**
-Throughout October, we were raising awareness of issues related to mental health through our music content and tackling the stigma that surrounds mental health conditions. Here's one of our interviews: 
+Throughout October 2019, we also raised awareness of mental health issues through our music related content. Here's one of our interviews with techno legend Oliver Huntemann: 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2486057034781603%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-<br><br>
-
-**2019 SUPPORTERS**
-
-ALLFRIENDS / Analog / Berlin Underground / Buddhabar experience / Conspiracy / Days Like This / Decoded Magazine / Deeper Than House / Deep Seahorse Podcast / Division Agency / Don't Kill My Vibe / Dopamine / Dresscode / Earthlings Collective / 43 Degrees Agency / Friday Records / IDWT / Kiltr Sessions / Momentum / Motif / Porridge / Primal / PR Shed / Return to Rio / Rodd Richards / RotaryDisco / Season X / Summerlove / Summit DJs / Spektrum / T1000 events / The Studio / Undisclosed / Xposed Media / Xstatic sunsets 
 <br><br>
 
 **MUSIC ON MY MIND 2018**
 
-In 2018, with a grant from City of Sydney and the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities Support Act, beyondblue and Black Dog Institute through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 200,000 people, helping to raise awareness. 
+In 2018, with a grant from City of Sydney and the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities Support Act, beyondblue and Black Dog Institute through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 200,000 people, helping to raise awareness.
+<br><br> 
 
-Here's a little recap of last year's Music on my Mind: Rave for Mental Health
+Music on my Mind: Rave for Mental Health 2018
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F359731594802468%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
