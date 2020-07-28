@@ -43,7 +43,7 @@ We will be teaming up with some of Sydney's best music crews for our charity rav
 
 ![null](/img/momm2019.jpg)
 
-We raised a total of $18,750AUD for mental health charities [Support Act](https://supportact.org.au/) and [ReachOut](https://www.facebook.com/ReachOutAUS/).
+We raised a total of $18,750AUD for mental health charities Support Act and ReachOut.
 
 We teamed up with Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs.
 
