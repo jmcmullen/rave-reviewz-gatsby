@@ -38,9 +38,6 @@ This year we will be donating 50% of all proceeds raised to [Support Act](https:
 
 We will be teaming up with some of Sydney's best music crews for our charity rave if covid restrictions allow, otherwise we will be hosting a quality live streamed DJ event! You can expect lots more music related content raising awareness of mental health issues too. 
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F538396260257901%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-<br><br>
-
 **MUSIC ON MY MIND 2019**
 
 With the help of grants from City of Sydney and Way Ahead, we raised a total of $18,750AUD for mental health charities Support Act and ReachOut. Big thanks to our event partners Ticketswap (ticketswap.com.au), Moshtix, Keep Sydney Open, Electronic music conference, Audio technica and all of Sydney's electronic music community for their support.
