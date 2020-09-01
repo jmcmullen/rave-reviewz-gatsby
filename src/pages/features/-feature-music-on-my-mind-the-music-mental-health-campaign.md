@@ -10,7 +10,9 @@ featuredImage: /img/momm-webage2.jpg
 ---
 **MUSIC ON MY MIND is back for 2020!**
 
-Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves & online appeals and reached hundreds of thousands of people with our social media posts to raise awareness. 
+Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves & online appeals and reached hundreds of thousands of people with our social media posts to raise awareness. Here's one of our interviews with techno legend Oliver Huntemann: 
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2486057034781603%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community this year and would love your support!
 <br><br>
@@ -46,9 +48,7 @@ For our charity rave, we teamed up with Subsonic Music, S.A.S.H, Blueprint and W
 
 ![null](/img/momm2019.jpg)
 
-Throughout October 2019, we also raised awareness of mental health issues through our music related content. Here's one of our interviews with techno legend Oliver Huntemann: 
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2486057034781603%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+Throughout October 2019, we also raised awareness of mental health issues through our music related content. 
 <br><br>
 
 **MUSIC ON MY MIND 2018**
