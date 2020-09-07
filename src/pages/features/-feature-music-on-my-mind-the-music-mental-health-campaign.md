@@ -6,7 +6,7 @@ date: 2020-07-27T14:00:00.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community is back!
-featuredImage: /img/mommwebpage.png
+featuredImage: /img/mommwebpage2020.png
 ---
 **MUSIC ON MY MIND is back for 2020!**
 
@@ -14,7 +14,7 @@ Over the past two years, we have raised a total of $37,500AUD for mental health 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2486057034781603%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community this year and would love your support!
+With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community and would love your support!
 <br><br>
 
 **MUSIC ON MY MIND 2020**
