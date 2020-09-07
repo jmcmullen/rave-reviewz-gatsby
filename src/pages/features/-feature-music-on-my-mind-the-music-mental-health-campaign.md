@@ -6,7 +6,7 @@ date: 2020-07-27T14:00:00.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
   public AND music community is back!
-featuredImage: /img/momm-webage2.jpg
+featuredImage: /img/mommwebpage.png
 ---
 **MUSIC ON MY MIND is back for 2020!**
 
@@ -15,6 +15,16 @@ Over the past two years, we have raised a total of $37,500AUD for mental health 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2486057034781603%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community this year and would love your support!
+<br><br>
+
+**MUSIC ON MY MIND 2020**
+
+This year we will be teaming up with some of Sydney's best music crews for a quality live streamed house & techno DJ event on World Mental Health Day, Oct 10th! 
+
+50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing hardship due to illness, a mental health problem, injury or some other crisis.
+
+You can expect lots more music related content raising awareness of mental health issues too. 
+
 <br><br>
 
 **MENTAL HEALTH**
@@ -33,12 +43,6 @@ The mental health benefits of music are well known; people listen to music to li
 
 That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’ and we hope you can support the cause!
 <br><br>
-
-**MUSIC ON MY MIND 2020**
-
-This year we will be donating 50% of all proceeds raised to [Support Act](https://supportact.org.au/) who help artists and music workers facing hardship due to illness, a mental health problem, injury or some other crisis.
-
-We will be teaming up with some of Sydney's best music crews for our charity rave if covid restrictions allow, otherwise we will be hosting a quality live streamed DJ event! You can expect lots more music related content raising awareness of mental health issues too. 
 
 **MUSIC ON MY MIND 2019**
 
