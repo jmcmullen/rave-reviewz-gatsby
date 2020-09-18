@@ -10,9 +10,9 @@ featuredImage: /img/mommwebpage2020.png
 ---
 _Rave Reviewz' campaign to raise funds and awareness for mental health in the music community is back!_
 
-**Donate **to support mental health in the music industry** **[**HERE**](https://www.gofundme.com/f/music-on-my-mind-2020)
+**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
-Check out our** Music on my Mind: Stream for Mental Health **event** **[**HERE**](https://www.facebook.com/events/985674185281142)** **
+Check out our **Music on my Mind: Stream for Mental Health** event **[HERE](https://www.facebook.com/events/985674185281142)**
 
 Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves and reached thousands of people with our social media posts to raise awareness.
 
@@ -25,17 +25,17 @@ With the ongoing support of City of Sydney, we will continue raising funds and a
 
 We are teaming up with some of Sydney's best house & techno crews for a quality livestream fundraiser from Club 77 on World Mental Health Day, Oct 10th 7pm-12am!
 
-![](/img/img_3339.png)
+![null](/img/img_3339.png)
 
 50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
 
-**Donate **to support mental health in the music industry** **[**HERE**](https://www.gofundme.com/f/music-on-my-mind-2020)
+**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
 Tune in on the ‘Music on my Mind’ or ‘Rave Reviewz’ Facebook pages, partner Facebook pages or Twitch to catch all the action. 
 
 Rave Reviewz will be bringing you another unforgettable night of music for mental health. So Get your mates together (max 20 people), donate, dress up and dance!
 
-Check out our** Music on my Mind: Stream for Mental Health **event** **[**HERE**](https://www.facebook.com/events/985674185281142)** **
+Check out our **Music on my Mind: Stream for Mental Health** event **[HERE](https://www.facebook.com/events/985674185281142)**
 
 You can expect lots more music related content to raise awareness of mental health issues throughout October too!
 
@@ -57,7 +57,7 @@ The mental health benefits of music are well known - it can improve your mood an
 
 That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’ and we hope you can support the cause!
 
-**Donate **to support mental health in the music industry** **[**HERE**](https://www.gofundme.com/f/music-on-my-mind-2020)
+**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 <br><br>
 
 **MUSIC ON MY MIND 2019**
