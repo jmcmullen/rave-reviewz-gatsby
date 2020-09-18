@@ -5,25 +5,39 @@ title: Music on my Mind
 date: 2020-07-27T14:00:00.000Z
 description: >-
   Our campaign to raise funds and awareness of mental health issues in the
-  public AND music community is back!
+  public AND music community is back for 2020
 featuredImage: /img/mommwebpage2020.png
 ---
-**MUSIC ON MY MIND is back for 2020!**
+_Rave Reviewz' campaign to raise funds and awareness for mental health in the music community is back!_
 
-Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves & online appeals and reached hundreds of thousands of people with our social media posts to raise awareness. Here's one of our interviews with techno legend Oliver Huntemann: 
+**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2486057034781603%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+Check out our **Music on my Mind: Stream for Mental Health** event **[HERE](https://www.facebook.com/events/985674185281142)**
 
-With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community and would love your support!
+Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves and reached thousands of people with our social media posts to raise awareness.
+
+With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community through Music on my Mind this year. We would love your support!
 <br><br>
 
 **MUSIC ON MY MIND 2020**
 
-This year we will be teaming up with some of Sydney's best music crews for a quality live streamed house & techno DJ event on World Mental Health Day, Oct 10th! 
+**Music on My Mind: Stream for Mental Health**
 
-50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing hardship due to illness, a mental health problem, injury or some other crisis.
+We are teaming up with some of Sydney's best house & techno crews for a quality livestream fundraiser from Club 77 on World Mental Health Day, Oct 10th 7pm-12am!
 
-You can expect lots more music related content raising awareness of mental health issues too. 
+![null](/img/img_3339.png)
+
+50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
+
+**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
+
+Tune in on the ‘Music on my Mind’ or ‘Rave Reviewz’ Facebook pages, partner Facebook pages or Twitch to catch all the action. 
+
+Rave Reviewz will be bringing you another unforgettable night of music for mental health. So Get your mates together (max 20 people), donate, dress up and dance!
+
+Check out our **Music on my Mind: Stream for Mental Health** event **[HERE](https://www.facebook.com/events/985674185281142)**
+
+You can expect lots more music related content to raise awareness of mental health issues throughout October too!
 
 <br><br>
 
@@ -33,26 +47,30 @@ Mental health is a bigger issue now than it ever was. The Covid-19 pandemic has 
 
 Pre-covid mental health was already a massive national crisis with 45 percent of Australians experiencing a mental health condition in their lifetime, and approximately 1 million Australian adults with depression and over 2 million with anxiety in any given year.
 
-Rates were even higher in entertainment industry workers, who have 10 times the rate of anxiety, 5 times the rate of depression and double the rate of suicide attempts. The music industry has been hit particularly hard by the pandemic - venues shut down, events and tours cancelled and thousands of jobs lost, which have added to the problem.
+Rates were even higher in entertainment industry workers, who have 10 times the rate of anxiety, 5 times the rate of depression and double the rate of suicide attempts. Erratic sleep patterns, performance anxiety, hectic touring schedules, easy access to alcohol and drugs, uncertain income and lack of recognition (or for the very successful, the intense scrutiny that comes with fame) - can all take a toll on the mental health of music industry professionals.
 
-In addition to the stresses of the pandemic, the mental health of music industry professionals is at risk from erratic sleep patterns, performance anxiety, hectic touring schedules, easy access to alcohol and drugs, uncertain income and lack of recognition - or for the very successful, the intense scrutiny that comes with fame.
+The music industry has been hit particularly hard by the pandemic - venues shut down, events and tours cancelled and thousands of jobs lost. ‘Support Act’, the mental health charity for music industry professionals, saw a 52% increase in demand for counselling through their Wellbeing Helpline from April to June (the period covering the Lockdown in NSW). This figure looks set to increase further as the pandemic continues to take effect. 
 
-Mental health is an issue close to our hearts at Rave Reviewz, since our founder Dr Kamran Ahmed is a psychiatrist who became aware of the high rates of mental health problems when he started working in the music industry.
+Mental health is an issue close to our hearts at Rave Reviewz, since our founder Dr Kamran Ahmed is a psychiatrist who became aware of the high rates of mental illness in the music industry when he launched Rave Reviewz.
 
-The mental health benefits of music are well known; people listen to music to lift their mood, and music therapy is used as part of the treatment for a range of mental illnesses. Music is also a great way to raise awareness of mental health issues, to tackle the stigma that surrounds them and to raise money so charities can continue their great work. 
+The mental health benefits of music are well known - it can improve your mood and reduce stress, and music therapy is used to treat a range of mental illnesses. Music is also a great way to raise awareness of mental health issues and raise money so mental health charities can continue their great work. 
 
 That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’ and we hope you can support the cause!
+
+**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 <br><br>
 
 **MUSIC ON MY MIND 2019**
 
-With the help of grants from City of Sydney and Way Ahead, we raised a total of $18,750AUD for mental health charities Support Act and ReachOut. Big thanks to our event partners Ticketswap (ticketswap.com.au), Moshtix, Keep Sydney Open, Electronic music conference, Audio technica and all of Sydney's electronic music community for their support.
+With the help of grants from City of Sydney and Way Ahead, we raised a total of $18,750AUD for mental health charities Support Act and ReachOut. Big thanks to our event partners Ticketswap, Moshtix, Keep Sydney Open, Electronic music conference, Audio technica and all of Sydney's electronic music community for their support.
 
 For our charity rave, we teamed up with Subsonic Music, S.A.S.H, Blueprint and WeLove for our monster dress-up fundraising rave at Oxford Art Factory, featuring B2B sets from some of Sydney’s biggest DJs.
 
 ![null](/img/momm2019.jpg)
 
-Throughout October 2019, we also raised awareness of mental health issues through our music related content. 
+Throughout October 2019, we also raised awareness of mental health issues through our music related content. Here's one of our interviews with techno legend Oliver Huntemann: 
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F2486057034781603%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 <br><br>
 
 **MUSIC ON MY MIND 2018**
