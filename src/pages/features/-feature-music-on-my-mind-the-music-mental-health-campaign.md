@@ -12,32 +12,30 @@ _Rave Reviewz' campaign to raise funds and awareness for mental health in the mu
 
 **Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
-Check out our **Music on my Mind: Stream for Mental Health** event **[HERE](https://www.facebook.com/events/985674185281142)**
+Mental health is a bigger issue now than ever since Covid-19. The music industry was already a high risk place for mental illness and has been hit particularly hard by the pandemic. 
 
-Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves and reached thousands of people with our social media posts to raise awareness.
+Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves and reached thousands of people with our social media posts to raise awareness of mental health in music.
 
-With the ongoing support of City of Sydney, we will continue raising funds and awareness for mental health in the public and music community through Music on my Mind this year. We would love your support!
+With the ongoing support of City of Sydney, we are raising funds and awareness for mental health in the public and music community through Music on my Mind again this year. We would love your support!
 <br><br>
 
 **MUSIC ON MY MIND 2020**
 
-**Music on My Mind: Stream for Mental Health**
+Our campaign to raise awareness of mental health in music is in full swing! Catch all the content on our social media channels: [Facebook](https://www.facebook.com/musiconmymind1) | [Instagram](https://www.instagram.com/musiconmy.mind/) | [Twitter](https://twitter.com/MusiconmyMind7)
 
-We are teaming up with some of Sydney's best house & techno crews for a quality livestream fundraiser from Club 77 on World Mental Health Day, Oct 10th 7pm-12am!
-
-![null](/img/img_3339.png)
-
-50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
+We are accepting donations to raise funds for mental health in music until the end of October. 50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
 
 **Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
-Tune in on the ‘Music on my Mind’ or ‘Rave Reviewz’ Facebook pages, partner Facebook pages or Twitch to catch all the action. 
+**Music on My Mind: Stream for Mental Health**
 
-Rave Reviewz will be bringing you another unforgettable night of music for mental health. So Get your mates together (max 20 people), donate, dress up and dance!
+We teamed up with some of Sydney's best house & techno crews for a quality livestream fundraiser from Club 77 on World Mental Health Day, Oct 10th. Watch one of the sets here:
 
-Check out our **Music on my Mind: Stream for Mental Health** event **[HERE](https://www.facebook.com/events/985674185281142)**
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F797373111076182%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-You can expect lots more music related content to raise awareness of mental health issues throughout October too!
+![null](/img/img_3339.png)
+
+**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
 <br><br>
 
