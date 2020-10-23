@@ -21,7 +21,15 @@ With the ongoing support of City of Sydney, we are raising funds and awareness f
 
 **MUSIC ON MY MIND 2020**
 
-Our campaign to raise awareness of mental health in music is in full swing! Catch all the content on our social media channels: [Facebook](https://www.facebook.com/musiconmymind1) | [Instagram](https://www.instagram.com/musiconmy.mind/) | [Twitter](https://twitter.com/MusiconmyMind7)
+Our campaign to raise awareness of mental health in music is in full swing! 
+
+**Carl Cox on Anxiety**
+
+Check out our animation of legendary DJ Carl Cox talking to psychiatrist Doc Kamran about his experiences of anxiety as a young DJ, how he deals with it now and tips for others on coping:
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmusiconmymind1%2Fvideos%2F467651664194996%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Catch all our music-related mental health content on our social media channels: [Facebook](https://www.facebook.com/musiconmymind1) | [Instagram](https://www.instagram.com/musiconmy.mind/) | [Twitter](https://twitter.com/MusiconmyMind7)
 
 We are accepting donations to raise funds for mental health in music until the end of October. 50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
 
