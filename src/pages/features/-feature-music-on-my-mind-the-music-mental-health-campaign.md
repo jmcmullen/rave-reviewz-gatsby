@@ -37,7 +37,7 @@ Watch our exclusive video interview with Carl Cox on all things mental health, i
 
 Catch the rest of our music-related mental health content on our social media channels: [Facebook](https://www.facebook.com/musiconmymind1) | [Instagram](https://www.instagram.com/musiconmy.mind/) | [Twitter](https://twitter.com/MusiconmyMind7)
 
-We are accepting donations to raise funds for mental health in music until the end of October. 50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
+We are accepting donations to raise funds for mental health in music until Nov 16th. 50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
 
 **Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
