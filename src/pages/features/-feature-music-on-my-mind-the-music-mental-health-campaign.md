@@ -4,24 +4,18 @@ path: /feature-music-on-my-mind
 title: Music on my Mind
 date: 2020-07-27T14:00:00.000Z
 description: >-
-  Our campaign to raise funds and awareness of mental health issues in the
-  public AND music community is back for 2020
+  Our campaign to raise funds and awareness for mental health in the music
+  community 
 featuredImage: /img/mommwebpage2020.png
 ---
-_Rave Reviewz' campaign to raise funds and awareness for mental health in the music community is back!_
+_That's a wrap for Music on my Mind 2020 - our campaign to raise funds and awareness for mental health in the music community._
 
-**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
-
-Mental health is a bigger issue now than ever since Covid-19. The music industry was already a high risk place for mental illness and has been hit particularly hard by the pandemic. 
-
-Over the past two years, we have raised a total of $37,500AUD for mental health charities through our Music on my Mind fundraising raves and reached thousands of people with our social media posts to raise awareness of mental health in music.
-
-With the ongoing support of City of Sydney, we are raising funds and awareness for mental health in the public and music community through Music on my Mind again this year. We would love your support!
+Over the past 3 years of Music on my Mind, we have raised a total of $40,000AUD for mental health charities through our music fundraisers and reached thousands with our online content to raise awareness of mental health in music.
 <br><br>
 
 **MUSIC ON MY MIND 2020**
 
-Our campaign to raise awareness of mental health in music is in full swing! 
+Mental health is a bigger issue now than ever since Covid-19. The music industry was already a high risk place for mental illness and has been hit particularly hard by the pandemic. So with the ongoing support of City of Sydney, we raised funds and awareness for mental health in the public and music community through Music on my Mind again this year. 
 
 **Carl Cox on Anxiety**
 
@@ -37,21 +31,15 @@ Watch our exclusive video interview with Carl Cox on all things mental health, i
 
 Catch the rest of our music-related mental health content on our social media channels: [Facebook](https://www.facebook.com/musiconmymind1) | [Instagram](https://www.instagram.com/musiconmy.mind/) | [Twitter](https://twitter.com/MusiconmyMind7)
 
-We are accepting donations to raise funds for mental health in music until Nov 16th. 50% of all proceeds raised will go to [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems and the rest will help with the costs of ‘Music on My Mind’ now and in the future. 
-
-**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
-
 **Music on My Mind: Stream for Mental Health**
 
-We teamed up with some of Sydney's best house & techno crews for a quality livestream fundraiser from Club 77 on World Mental Health Day, Oct 10th. Watch one of the sets here:
+We teamed up with some of Sydney's best house & techno crews for a quality livestream fundraiser from Club 77 on World Mental Health Day, Oct 10th. We raised $2500AUD for [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems. Watch one of the sets here:
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F797373111076182%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ![null](/img/img_3339.png)
 
-**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 
-<br><br>
 
 **MENTAL HEALTH**
 
@@ -68,8 +56,6 @@ Mental health is an issue close to our hearts at Rave Reviewz, since our founder
 The mental health benefits of music are well known - it can improve your mood and reduce stress, and music therapy is used to treat a range of mental illnesses. Music is also a great way to raise awareness of mental health issues and raise money so mental health charities can continue their great work. 
 
 That's why we launched our music and mental health campaign - ‘MUSIC ON MY MIND’ and we hope you can support the cause!
-
-**Donate** to support mental health in the music industry **[HERE](https://www.gofundme.com/f/music-on-my-mind-2020)**
 <br><br>
 
 **MUSIC ON MY MIND 2019**
