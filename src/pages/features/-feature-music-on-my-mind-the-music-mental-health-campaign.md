@@ -4,7 +4,7 @@ path: /feature-music-on-my-mind
 title: Music on my Mind
 date: 2021-09-30T14:00:00.000Z
 description: Our campaign to improve mental health through music.
-featuredImage: /img/mommwebpage.png
+featuredImage: /img/momm2021.png
 ---
 _Music on my Mind is back for 2021!_
 
