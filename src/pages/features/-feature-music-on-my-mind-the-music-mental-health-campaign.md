@@ -10,7 +10,7 @@ _Music on my Mind is back for 2021!_
 
 Over the past 3 years our music & mental health campaign has raised $40,000AUD for mental health charities through our fundraising raves and reached thousands with our online content to raise awareness of mental health issues.
 
-This year, Music on my Mind is back to improve mental health through music in exciting new ways. Catch all the action on our social media channels: [Facebook (https://www.facebook.com/musiconmymind1) | [Instagram](https://www.instagram.com/musiconmy.mind/) | [Twitter](https://twitter.com/MusiconmyMind7)
+This year, Music on my Mind is back to improve mental health through music in exciting new ways. Catch all the action on our social media channels: [Facebook](https://www.facebook.com/musiconmymind1) | [Instagram](https://www.instagram.com/musiconmy.mind/) | [Twitter](https://twitter.com/MusiconmyMind7)
 <br><br>
 
 **MENTAL HEALTH** 
