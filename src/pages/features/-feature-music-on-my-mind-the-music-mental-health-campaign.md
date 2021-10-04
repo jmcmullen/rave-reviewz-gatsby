@@ -38,13 +38,13 @@ Check out our animation of legendary DJ Carl Cox talking to psychiatrist Doc Kam
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmusiconmymind1%2Fvideos%2F467651664194996%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-**Music on my Mind: Carl Cox interview**
+**Carl Cox interview**
 
 Watch our exclusive video interview with Carl Cox on all things mental health, including coping with 2020, losing loved ones, dealing with online hate and more:
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmusiconmymind1%2Fvideos%2F2537555306542913%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-**Music on My Mind: Stream for Mental Health**
+**Stream for Mental Health**
 
 We teamed up with some of Sydney's best house & techno crews for a quality livestream fundraiser from Club 77 on World Mental Health Day, Oct 10th. We raised $2500AUD for [Support Act](https://supportact.org.au/) who help artists and music workers facing mental health problems. Watch one of the sets here:
 
@@ -69,8 +69,6 @@ Throughout October 2019, we also raised awareness of mental health issues throug
 
 In 2018, with a grant from City of Sydney and the support of Sydney's electronic music industry, we raised a total of $18,750 for mental health charities Support Act, beyondblue and Black Dog Institute through our fundraising rave and online appeal. Our social media campaign on mental health also reached over 200,000 people, helping to raise awareness.
 <br><br> 
-
-Music on my Mind: Rave for Mental Health 2018
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fravereviewz%2Fvideos%2F359731594802468%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
