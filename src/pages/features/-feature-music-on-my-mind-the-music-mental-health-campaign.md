@@ -28,7 +28,7 @@ So we hope you can support the cause!
 
 **MUSIC ON MY MIND 2020**
 
-![](/img/mommwebpage.png)
+![null](/img/mommwebpage.png)
 
 Wth the support of City of Sydney, we raised funds for mental health charity Support Act and and awareness of mental health in electronic music fans and industry professionals through our online content.
 
