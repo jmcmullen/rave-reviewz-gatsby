@@ -2,8 +2,8 @@
 templateKey: review-post
 path: /feature-music-on-my-mind
 title: Music on my Mind
-date: 2021-09-30T14:00:00.000Z
-description: Our campaign to improve mental health through music.
+date: 2021-10-01T01:00:00+10:00
+description: Rave Reviewz' campaign to improve mental health through music.
 featuredImage: /img/momm2021.png
 ---
 _Music on my Mind is back for 2021!_
