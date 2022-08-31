@@ -1,7 +1,7 @@
 ---
 templateKey: interview-post
 path: /interview/DJ-W!ld
-title: DJ W!ld on the art of music
+title: DJ W!LD on the art of music
 date: 2018-05-24T03:52:22.109Z
 description: 'Our chat with the funky Frenchman, DJ W!ld '
 featuredImage: /img/dj-w!ld-final.jpg
