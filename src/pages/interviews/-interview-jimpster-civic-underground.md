@@ -32,8 +32,6 @@ Jamie: The original idea was that Jimpster would be the moniker for my more ecle
 
 Jamie: Many many challenges! Probably the biggest being distribution companies going bust on us on more than one occasion. This would have put most labels out of business but we managed to weather the storm - by managing things carefully and not putting all our (Freerange) eggs in one basket we stayed afloat. It’s sometimes hard to keep things fresh and relevant after 23 years but we keep our ear to the ground and work hard to dig for new, upcoming artists as well as introducing more established names via remixes... so we like to think we still know which direction things are heading in and keep trying to push forward without bandwagon-jumping.
 
-![null](/img/dj-city.jpg)
-
 **RR: Now, rumour has it that you've done somewhere in the region of 100 remixes! Talk us through your creative and technical process when remixing a track.**
 
 Jamie: First off, when I’m offered a remix, I listen carefully to the original and make sure I have some specific ideas of how I can bring my own sound and make my interpretation with the sounds and ideas at my disposal. I usually prefer to remix a vocal track, even if my version ends up being a more instrumental or dubby take on it. I have a good idea of the direction I’m going to take even before I load any sounds up so I’ll set out to create what I’m hearing in my head, chopping up original parts, replacing the drums and jamming out a new arrangement. Sometimes a remix comes together very quickly, like three or four days, but usually I spend at least a couple of weeks on something.
